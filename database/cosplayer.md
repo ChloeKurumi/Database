@@ -50,9 +50,30 @@ example:
 | aqua area | 水淼Aqua |  | [Twitter](https://twitter.com/aqua28551264) |
 | erzuo nisa | 二佐nisa |  | [Twitter](https://twitter.com/erzuoxxxx) [微博](https://weibo.com/u/6475305895) [bilibili](https://space.bilibili.com/1484200020/) |
 | sola | Sola | Sola酱也要成为双马尾 | [微博](https://weibo.com/u/5574472907) [Twitter](https://mobile.twitter.com/solaco66) |
-| tsuki desu | Tsuki Desu \| Dosya Gasai |  | [Twitter](https://twitter.com/tsuki_des) |
+| tsuki desu | Tsuki Desu |  | [Twitter](https://twitter.com/tsuki_des) |
 | kokura chiyo | 小倉ちよ | 常称为小仓千代w，[Twitter](https://twitter.com/yummhiyo_w) 是高仿号。 | [Twitter](https://twitter.com/yummychiyo) |
 | g44 wa kizutsukanai | G44不会受伤 |  | [微博](https://weibo.com/u/2727362643) |
+| okita rinka | 冲田凛花 |  | [Twitter](https://twitter.com/okitarinka01) |
+| nekokoyoshi | 爆机少女喵小吉 |  | [Twitter](https://mobile.twitter.com/nekokoyoshi_) |
+| akemi101xoxo | Akemi101xoxo |  |  |
+| hoshilily | 星之迟迟 |  |  |
+| yurikodxd | YurikoDxD |  |  |
+| yuuforia | Yuuforia |  |  |
+| lovelyspacekitten | LovelySpaceKitten |  |  |
+| uyuy | UyUy |  |  |
+| alicekyo | Alicekyo |  |  |
+| baoer mysterial | 宝儿Mysterial |  | [Twitter](https://twitter.com/mysterial9) [微博](https://weibo.com/u/2325595962) |
+| menmentan | 焖焖碳 |  | [Twitter](https://twitter.com/mmmenmentan) [微博](https://weibo.com/u/2813217452) [bilibili](https://space.bilibili.com/663321) |
+| rio-chan | 愛瀬りおな | Old name seem to have been Aise Riona (愛瀬りおな) but they have gone by many names りおりおちゃん, りおちゃん, 璃緒ちゃん, りお, りおりお, riona, りおな, 愛瀬くりぃむ店, 愛瀬りおな | [Twitter](https://twitter.com/riorio0701) [Getchhu](https://dl.getchu.com/search/dojin_circle_detail.php?id=4338) |
+| siao ding | 小丁 |  |  |
+| franxcos | FranXcos |  |  |
+| junkenstein | Junkenstein |  | [patreon](ttps://www.patreon.com/junkenstein) [Instagram](https://www.instagram.com/junkenstein/) |
+| helly von valentine | Helly von Valentine |  |  |
+| penkarui | Penkarui |  |  |
+| mizhimaoqiu | 蜜汁猫裘 |  | [Twitter](https://mobile.twitter.com/meeu228744495) |
+| refeen | Refeen |  |  |
+| ely cosplay | ElyEE子 |  | [微博](https://weibo.com/eeelyeee) [Twitter](https://twitter.com/ely_eee) [Instagram](https://www.instagram.com/eeelyeee/) [个人主页](https://www.eeelyeee.com/) |
+| azami | Azami |  | [BOOTH](https://azamisan.booth.pm/) [Twitter](https://twitter.com/Azami_1110) |
 
 <!--
 Template: 
