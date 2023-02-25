@@ -68,12 +68,21 @@ example:
 | siao ding | 小丁 |  |  |
 | franxcos | FranXcos |  |  |
 | junkenstein | Junkenstein |  | [patreon](ttps://www.patreon.com/junkenstein) [Instagram](https://www.instagram.com/junkenstein/) |
-| helly von valentine | Helly von Valentine |  |  |
+| helly von valentine | Helly von Valentine |  | [Twitter](https://twitter.com/hellyvalentine_) |
 | penkarui | Penkarui |  |  |
 | mizhimaoqiu | 蜜汁猫裘 |  | [Twitter](https://mobile.twitter.com/meeu228744495) |
 | refeen | Refeen |  |  |
 | ely cosplay | ElyEE子 |  | [微博](https://weibo.com/eeelyeee) [Twitter](https://twitter.com/ely_eee) [Instagram](https://www.instagram.com/eeelyeee/) [个人主页](https://www.eeelyeee.com/) |
 | azami | Azami |  | [BOOTH](https://azamisan.booth.pm/) [Twitter](https://twitter.com/Azami_1110) |
+| mercurylamp | 水銀燈 | 18禁🔞伪娘 | [Twitter](https://twitter.com/mercurylamp7) |
+| niyeye | 你烨烨 |  |  |
+| yaoyaoqwq | 软妹摇摇乐 |  | [Twitter](https://twitter.com/chan_p90) |
+| maria desu | Maria Desu |  |  |
+| hidori rose | Hidori Rose |  |  |
+| ai lei jiang | 少女映画 |  |  |
+| shimotsuki | 霜月shimo |  | [Twitter](https://twitter.com/shimotsukitw) |
+| hua qi hana | 花柒Hana |  | [微博](https://weibo.com/u/6248353446) [哔哩哔哩](https://space.bilibili.com/865359/) |
+| lostwind10 | 猫と爪呸罗呸罗 |  | [Twitter](https://twitter.com/Lostwind10) |
 
 <!--
 Template: 

@@ -189,6 +189,7 @@ example:
 | freckles | 雀斑 | 在皮肤表面上彼此靠近的许多小的色素斑点。通常在脸上，但也可以在身体的其他地方。 |  |
 | gyaru-oh | 黄毛 | `gyaru`的男性版本。男性多是不良少年和不良青年等角色，因常以黄色染发和小麦肤色形象出场，故被网友戏称黄毛，常与`dark skin`、`netorare`、`cheating`、`rape`等标签关联，剧情也多是寝取女性、勾引女性出轨、强奸女性、调教、玩弄女性等恶劣行为。在`males only`标签下，常与`tomgirl`标签同时出现，表示为辣妹伪娘角色，既伪娘版本的男性辣妹。 |  |
 | large tattoo | 全身纹身 | 皮肤上的永久标记/图案，通常用墨水完成。必须足够突出以覆盖至少一半肢体或脸部。也可由许多小型纹身累积以满足条件。不应与`crotch tattoo`混淆。 |  |
+| lipstick mark | 口红印 | 除面部或颈部外，参与者身上任何地方留下的口红印记（例如来自亲吻、吸吮等）。不适用于性玩具或其他物体上留下的口红痕迹。当口红直接涂在身上时（例如`body writing`）不应使用此标签。 |  |
 | scar | 瘢痕 | 皮肤上的痕迹或灼伤。 必须非常突出。 |  |
 | skinsuit | 人皮衣 | 穿着另一者的皮，其实际上成为穿戴者的皮。一般为用黑魔法将少女杀死变成皮，或高科技生产的能让男性变成女性的皮。不应与`bodysuit`或`animegao`相混淆。<br>![图](https://ehgt.org/97/03/9703837dbabcace22bc8b383a7a017c1397d42af-164824-715-1027-jpg_l.jpg)![图](https://ehgt.org/52/8b/528b1e3af289fefbea220f2c9dcbbf11047145ab-5808937-2124-3031-jpg_l.jpg)![图](https://ehgt.org/ef/da/efdacde3c7ebd28aeaf5f31de61e4c4491cad4af-776928-962-1365-jpg_l.jpg) |  |
 | tanlines | 晒痕 | 浅浅的可见的线，通常来自衣服，由日光浴导致。不得与`dark skin`混淆。<br>![图](# "https://ehgt.org/e8/e8/e8e84e887aae3d27b78b7e1d9531c7bda453b5dd-1178193-1200-1694-jpg_l.jpg") |  |
@@ -318,6 +319,7 @@ example:
 |  | multiple nipples多乳头 | 每只乳房有多于一个乳头。 |  |
 | nipple birth | 乳头出产 | 通过乳头分娩。不应用于`eggs`。 |  |
 | nipple fuck | 乳穴性交 | 将阴茎/玩具通过乳头插入乳房。不应与`paizuri`混淆。 |  |
+| nipple piercing | 乳头穿孔 | 位于乳头或乳晕上的穿孔。需要`piercing`，不应与`clamp`混淆。 |  |
 | nipple stimulation | 乳头刺激 | 刺激乳头（如用手指、性玩具或工具挤压或摩擦乳头）。<br>不应标记为`breast feeding`。 |  |
 |  | == 躯干 == |  |  |
 | cumflation | 精液膨胀 | 胃部由于充满精液而像气球一样向外扩展。需要`inflation`标签。不应与`pregnant`、`stomach deformation`或`weight gain`相混淆。 |  |
@@ -328,6 +330,7 @@ example:
 |  | === 下半身 > 阴部 === |  |  |
 | chastity belt | 贞操带 | 带锁的衣物，旨在防止性交或`masturbation`。经常与`bdsm`配对。 |  |
 | crotch tattoo | 淫纹 | 下腹部到耻骨区域之间的任何明显的标记。 |  |
+| genital piercing | 性器穿孔 | 位于生殖器、会阴或肛门的穿孔。需要`piercing`，不应与`cock ring`混淆。 |  |
 | hairy | 多毛 | 引人注目的大量阴毛。不应与`hairy armpits`混淆。 |  |
 | mesuiki | 干高潮 | メスイキ，性行为使对象达到性高潮而对阴茎或阴道没有任何物理刺激。只要直到高潮的性行为不包含对阴茎或阴道的刺激，就可以使用此标签。 |  |
 | multiple orgasms | 连续高潮 | 参与者在一场中连续达到三次以上的性高潮。 |  |
@@ -356,12 +359,12 @@ example:
 | smegma | 阴垢 | 在阴茎和包皮之间或阴蒂和阴唇附近潮湿地区存在的各种物质。 |  |
 |  | ==== 下半身 > 阴部 > 阴道 ==== |  |  |
 |  | adventitious vagina畸位阴道 | 在身体的意想不到的地方至少有一个阴道（例如手、嘴或上半身）。 |  |
-| birth | 出产 | 生物诞生的过程，在此之前一般会`pregnant`。 |  |
 | cervix prolapse | 宫颈脱垂 | 阴道壁膨胀出阴道。有时是`gaping`的后续。需要`prolapse`标签。 |  |
 | clit insertion | 阴蒂插入 | 将阴蒂插入阴道或肛门。 通常涉及`big clit`。依照被插入的一方标记命名空间。 |  |
 | clit stimulation | 阴蒂刺激 | 刺激阴蒂。 |  |
 | cunnilingus | 舔阴 | 用嘴刺激阴道引起性唤起。 |  |
-| unbirth | 入阴 | 被阴道，肛门或尿道吞噬的人或生物。 本质上与`birth`相反，因此不需要`birth`或`pregnant`标签。 |  |
+| unbirth | 入阴 | 被阴道，肛门或尿道吞噬的人或生物。 本质上与`vaginal birth`相反，因此不需要`vaginal birth`或`pregnant`标签。 |  |
+| vaginal birth | 阴道出产 | 通过阴道分娩的过程，在此之前一般会`pregnant`。单张图片即可应用此标签，除非它在一组随机的图片中。不应用于`eggs`。 |  |
 |  | === 下半身 > 臀部 === |  |  |
 | anal | 爆肛 | 插入肛门。任何方法都可以（`sex toys`，`tentacles`等）。<br>![图](# "https://ehgt.org/63/79/6379d763a2659e951a913b007c1cb990b9806300-1098355-1200-1694-jpg_l.jpg")![图](# "https://ehgt.org/49/8c/498c96fe84aee2b7e50f0d6355e5bf601646bf54-438583-1024-576-png_l.jpg")![例](# "https://ehgt.org/b0/9d/b09d7156846a0d068509f3e687bc938c0f0fd461-526572-1488-2100-jpg_l.jpg")![图](# "https://ehgt.org/ef/01/ef0180e7225a69e826d50847e766e900e5c72b4a-1467423-1057-1500-png_l.jpg") |  |
 | anal birth | 肛门出产 | 通过肛门产下生物的过程。在此之前一般会`pregnant`。不用于`eggs`。 |  |
@@ -379,7 +382,7 @@ example:
 | tail | 尾巴 | 一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。<br>![图](# "https://ehgt.org/83/1e/831ed92ca96e4d16c446593537571ba9cd720c7d-1860666-2122-3014-jpg_l.jpg") |  |
 | tailphagia | 尾巴吞食 | 被尾巴整个吞食。不要与`vore`混淆。 |  |
 |  | === 下半身 > 任何洞 === |  |  |
-| eggs | 产卵 | 有蛋或产蛋的行为。常常导致`inflation`。不应与`birth`或`pregnant`混淆。 |  |
+| eggs | 产卵 | 有蛋或产蛋的行为。常常导致`inflation`。不应与`vaginal birth`或`pregnant`混淆。 |  |
 | gaping | 敞口 | 阴道或肛门，明显地在做爱之后扩张。往往由`large insertions`、`fisting`、`big penis`或`huge penis`造成。<br>是`speculum`的前置标签。不应与`prolapse`相混淆，但可能会导致它。<br>![图](# "https://ehgt.org/03/7d/037df50b7d2bfbc4f4b6b0b481a9a0b801cc3b91-327698-1024-768-jpg_250.jpg")![图](# "https://ehgt.org/d8/b3/d8b365794799803f8b2ad213ca0497fbb2e66417-1725531-1500-1656-jpg_250.jpg") |  |
 | large insertions | 大玩具 | 被似乎不太可能感到舒适的大尺寸`sex toys`或其它物品插入。不用于`big penis`或`huge penis`。<br>![恶](## "https://ehgt.org/8a/f7/8af71abaa5c7aa19922823685c8be277ca49c892-242457-823-1200-jpg_250.jpg") |  |
 | nakadashi | 中出 | 射在里面，体外也可能有一个明显的精液池。<br>![图](# "https://ehgt.org/64/c3/64c36cbf01d9c6698a7d968acac898e607a9e902-1110945-1200-1694-jpg_l.jpg") |  |
@@ -392,7 +395,7 @@ example:
 |  | == 足 == |  |  |
 | denki anma | 电气按摩 | 一个参与者使用脚强烈地压迫另一个参与者的胯部区域，通常是在抱着他们的腿时。如果这会刺激被按压的人，则涉及`footjob`。可能涉及`bdsm`，`catfight`，`femdom`或`wrestling`。 |  |
 | foot insertion | 足插入 | 一个或多个脚插入阴道等孔。<br>![图](# "https://ehgt.org/34/b3/34b3a6e20775938e628764feb4647c1264643ebe-312671-560-420-jpg_l.jpg") |  |
-| footjob | ![icon](https://tva1.sinaimg.cn/large/6c84b2d6gw1f41q266fgwg200r00d04f.gif)足交 | 用脚对另一个人进行性刺激。不要与`legjob`混淆。<br>![图](# "https://ehgt.org/07/5b/075bcac1b9e5a79d40e641f0785ba749ed61a395-664072-847-1200-jpg_250.jpg")![图](# "https://ehgt.org/74/db/74dbb57dd71a865487a6112b5746e1c6157e8fd0-739046-1059-1500-jpg_l.jpg")![图](# "https://ehgt.org/13/79/13798ec8c89044315d6d3a567360a4c59704b3f5-634283-1024-576-png_l.jpg")![图](# "https://ehgt.org/d8/d4/d8d419b1ccae18d90ade22d7a0b796215265c98c-203334-661-988-jpg_l.jpg")![图](# "https://ehgt.org/ae/25/ae25ac1f50141e08d46569ecd5002b510ff51234-1081348-1659-2400-jpg_l.jpg")![图](# "https://ehgt.org/ec/a3/eca370464efaf755e0084f18c3f75d8b4eb251ec-702598-1043-1512-png_l.jpg")![图](# "https://ehgt.org/bf/5c/bf5c96faa3684356add4370aa0b909ad03b29e0c-104137-640-923-jpg_l.jpg")![图](# "https://ehgt.org/92/b3/92b3ee3b36740a0063fd1413b957eda2819d5aac-102310-640-942-jpg_l.jpg") |  |
+| footjob | ![足交图标](https://raw.githubusercontent.com/wiki/EhTagTranslation/Database/database-icon/footjob.webp)足交足交 | 用脚对另一个人进行性刺激。不要与`legjob`混淆。<br>![图](# "https://ehgt.org/07/5b/075bcac1b9e5a79d40e641f0785ba749ed61a395-664072-847-1200-jpg_250.jpg")![图](# "https://ehgt.org/74/db/74dbb57dd71a865487a6112b5746e1c6157e8fd0-739046-1059-1500-jpg_l.jpg")![图](# "https://ehgt.org/13/79/13798ec8c89044315d6d3a567360a4c59704b3f5-634283-1024-576-png_l.jpg")![图](# "https://ehgt.org/d8/d4/d8d419b1ccae18d90ade22d7a0b796215265c98c-203334-661-988-jpg_l.jpg")![图](# "https://ehgt.org/ae/25/ae25ac1f50141e08d46569ecd5002b510ff51234-1081348-1659-2400-jpg_l.jpg")![图](# "https://ehgt.org/ec/a3/eca370464efaf755e0084f18c3f75d8b4eb251ec-702598-1043-1512-png_l.jpg")![图](# "https://ehgt.org/bf/5c/bf5c96faa3684356add4370aa0b909ad03b29e0c-104137-640-923-jpg_l.jpg")![图](# "https://ehgt.org/92/b3/92b3ee3b36740a0063fd1413b957eda2819d5aac-102310-640-942-jpg_l.jpg") |  |
 | multiple footjob | 多重足交 | 一个以上的人同时用脚对同一个参与者进行性刺激。需要`footjob`标签。 |  |
 | sockjob | 袜交🧦 | 用袜子摩擦生殖器。 |  |
 |  | == 服装 == |  |  |
@@ -449,7 +452,8 @@ example:
 | ninja | 忍者装 | 男性忍者服装。通常是暗色服装和部分轻甲。不应与`kunoichi`混淆。 |  |
 | nun | 修女服 | 按照罗马天主教的秩序，穿着典型的黑色布袍。也可以穿着头巾、念珠和面纱。需要`crossdressing`标签。 |  |
 | nurse | 护士装 | 穿着普通的白色/粉红色的衣服，通常有一个帽子。 |  |
-| pantyhose | ![pantyhose](https://tva1.sinaimg.cn/large/6c84b2d6gw1f41q26csdzg200r00d04b.gif)连裤袜 | 一种通常透明的来保持一个女人的腿和足温暖的内衣。与`stockings`不同，它是一块单一的服装并且能覆盖生殖器区域。需要在性交过程中相当可见。不应与`stockings`混淆。需要`crossdressing`标签。<br>![图](# "https://ehgt.org/8a/2b/8a2b29826d1748cc53f280c5b3be281561bcd41e-686569-1059-1500-jpg_l.jpg")![图](# "https://ehgt.org/07/3f/073ff401adc704da01fe49ba7eb2043d862f9083-770927-1059-1500-jpg_l.jpg")![男孩子](# "https://ehgt.org/81/9c/819ca60be00afabe872a9d6b0d917e478d7daf1b-2178593-1508-2130-jpg_l.jpg") |  |
+| painted nails | 美甲 | 手指甲或脚趾甲上的彩色油漆。也可用于彩色假指甲。应该只标记在人类参与者身上。 |  |
+| pantyhose | ![裤袜图标](https://raw.githubusercontent.com/wiki/EhTagTranslation/Database/database-icon/pantyhose.webp)连裤袜 | 一种通常透明的来保持一个女人的腿和足温暖的内衣。与`stockings`不同，它是一块单一的服装并且能覆盖生殖器区域。需要在性交过程中相当可见。不应与`stockings`混淆。需要`crossdressing`标签。<br>![图](# "https://ehgt.org/8a/2b/8a2b29826d1748cc53f280c5b3be281561bcd41e-686569-1059-1500-jpg_l.jpg")![图](# "https://ehgt.org/07/3f/073ff401adc704da01fe49ba7eb2043d862f9083-770927-1059-1500-jpg_l.jpg")![男孩子](# "https://ehgt.org/81/9c/819ca60be00afabe872a9d6b0d917e478d7daf1b-2178593-1508-2130-jpg_l.jpg") |  |
 | pasties | 乳贴 | 覆盖乳头和乳晕的胶布。 |  |
 | piercing | 穿孔 | 任何形式的穿孔，除了那些在耳朵上的。通常在阴蒂或乳头穿环。<br>![恶](## "https://ehgt.org/d4/49/d4491af7f9f96363fc2617e03f50215dc7c64c02-110141-872-1200-jpg_l.jpg")![恶](## "https://ehgt.org/3b/7c/3b7cc33816f57bad560f1d795ca9b1d418ba4b12-157829-652-800-jpg_250.jpg") |  |
 | pirate | 海盗服 | 海盗服装。通常有背心和带角帽子或头巾。通常有一条皮带、马裤、有膨化的袖子的紧身背心。 |  |
@@ -458,16 +462,16 @@ example:
 | randoseru | 书包 | 由皮革或皮革般的合成材料制成的背包，常用于小学生。 |  |
 |  | sarashi缠胸布 | 缠胸布（日语：晒/さらし），围绕胃/胸部区域的长绷带状布料。对于男性来说，它通常覆盖胃部。需要`bandages`标签。 |  |
 | schoolboy uniform | 男生制服 | `schoolgirl uniform`的男性版本。 |  |
-| schoolgirl uniform | 女生制服 | 水手服或其他校服。格子或打褶的裙子本身不算。需要`crossdressing`标签。<br>![图](# "https://ehgt.org/5b/be/5bbe1b113199e66bb47eea5a40101ad4d28e473f-853433-1028-1500-jpg_l.jpg")![图](# "https://ehgt.org/53/8c/538c9ab73e6e2d56a5c3eeb526041ffeea5de8e6-8869994-4235-6035-jpg_l.jpg")![图](# "https://ehgt.org/61/f8/61f802cda2009b4521a86f70a959bc9edad48c38-590748-1059-1500-jpg_l.jpg")![图](# "https://ehgt.org/d0/9b/d09bee1819cf15efaca2ad950c59d95f60ef723d-518151-1059-1500-jpg_l.jpg")![图](# "https://ehgt.org/74/db/74dbb57dd71a865487a6112b5746e1c6157e8fd0-739046-1059-1500-jpg_l.jpg") |  |
+| schoolgirl uniform | ![水手服图标](https://raw.githubusercontent.com/wiki/EhTagTranslation/Database/database-icon/schoolgirl%20uniform.webp)女生制服 | 水手服或其他校服。格子或打褶的裙子本身不算。需要`crossdressing`标签。<br>![图](# "https://ehgt.org/5b/be/5bbe1b113199e66bb47eea5a40101ad4d28e473f-853433-1028-1500-jpg_l.jpg")![图](# "https://ehgt.org/53/8c/538c9ab73e6e2d56a5c3eeb526041ffeea5de8e6-8869994-4235-6035-jpg_l.jpg")![图](# "https://ehgt.org/61/f8/61f802cda2009b4521a86f70a959bc9edad48c38-590748-1059-1500-jpg_l.jpg")![图](# "https://ehgt.org/d0/9b/d09bee1819cf15efaca2ad950c59d95f60ef723d-518151-1059-1500-jpg_l.jpg")![图](# "https://ehgt.org/74/db/74dbb57dd71a865487a6112b5746e1c6157e8fd0-739046-1059-1500-jpg_l.jpg") |  |
 | school gym uniform | 学校体操服 | 短袖白色 T 恤，领口和袖口接缝对比鲜明，用作学校体育活动的制服。有时在前面带有年级或姓名标签，搭配纯色短裤或`bloomers`。 |  |
-| school swimsuit | 死库水 | 一体型的泳装，没有任何腿或手臂覆盖，通常是在日本学校使用。常是蓝色或白色，有时胸部有名牌。不需要`swimsuit`标签。不应与`leotard`混淆。<br>![图](# "https://ehgt.org/24/56/245663e10ffaf8b57cb37c0d54de040fa598cba8-656435-1059-1500-jpg_l.jpg")![图](# "https://ehgt.org/d5/59/d55999dc30eb1be3c0a818e0ab3cb8550ca8e49f-329461-1049-1500-jpg_l.jpg") |  |
+| school swimsuit | ![死库水图标](https://raw.githubusercontent.com/wiki/EhTagTranslation/Database/database-icon/school%20swimsuit.webp)死库水 | 一体型的泳装，没有任何腿或手臂覆盖，通常是在日本学校使用。常是蓝色或白色，有时胸部有名牌。不需要`swimsuit`标签。不应与`leotard`混淆。<br>![图](# "https://ehgt.org/24/56/245663e10ffaf8b57cb37c0d54de040fa598cba8-656435-1059-1500-jpg_l.jpg")![图](# "https://ehgt.org/d5/59/d55999dc30eb1be3c0a818e0ab3cb8550ca8e49f-329461-1049-1500-jpg_l.jpg") |  |
 | scrotal lingerie | 阴囊袋 | 穿在阴茎或阴囊上的色情衣物。<br>![图](# "https://ehgt.org/83/6d/836dd66d7830507b8722bed37dffe0d152cd7230-644087-822-1200-jpg_l.jpg")![图](# "https://ehgt.org/15/d4/15d43db0af6c734c4897bc6b3b75a7ace7997f0a-328772-1030-1500-jpg_l.jpg")![图](# "https://ehgt.org/d2/da/d2da0904b6416453227e121824629311e262eab3-823911-1027-1500-jpg_l.jpg")![图](# "https://ehgt.org/e5/8c/e58c66ab448a6e377f43c58a97b7c7ef46cb0188-726693-1059-1500-jpg_l.jpg") |  |
 | small penis | 小小鸟 | 一个异常小的阴茎，必须小于其拥有者的食指。对于`shotacon`则是小指。 |  |
-| shimapan | ![shimapan](https://tva1.sinaimg.cn/large/6c84b2d6gw1f41sn568avg200m00d02p.gif)条纹胖次 | 縞パンツ(shima pantsu)的简称，意思是条纹的内裤。只应在人物穿着它们进行性行为或裸体姿势时使用此标签。<br>![图](# "https://ehgt.org/67/85/67853b25ace17fc48a95a1a1bd01d22341be1bfd-4441120-3510-5104-jpg_l.jpg") |  |
+| shimapan | ![蓝白图标](https://raw.githubusercontent.com/wiki/EhTagTranslation/Database/database-icon/shimapan.webp)条纹胖次 | 縞パンツ(shima pantsu)的简称，意思是条纹的内裤。只应在人物穿着它们进行性行为或裸体姿势时使用此标签。<br>![图](# "https://ehgt.org/67/85/67853b25ace17fc48a95a1a1bd01d22341be1bfd-4441120-3510-5104-jpg_l.jpg") |  |
 | stewardess | 空姐服 | 在公共汽车，电梯或飞机上工作的人的制服。需要`crossdressing`标签。 |  |
 | steward | 男空乘服 | 在公共汽车，电梯或飞机上工作的人的制服。 |  |
 | stirrup legwear | 马镫裤 | 踩脚裤，覆盖脚踝但不完全覆盖脚底的腿部衣服。需要`stockings`或`pantyhose`标签。 |  |
-| stockings | ![stockings](https://tva1.sinaimg.cn/large/6c84b2d6gw1f41q26q5bzg200r00d04a.gif)长筒袜 | 一种通常透明的弹性衣服，覆盖足和腿的下部，但没到生殖器区域。需要至少达到膝盖以上。不应与`pantyhose`和`thigh high boots`标签混淆。<br>![图](# "https://ehgt.org/e3/a6/e3a623baf43a450d519246dc8aa68dc2badcb309-766167-1059-1500-jpg_l.jpg")![图](# "https://ehgt.org/8e/e6/8ee67f9bf6981ff4e5102243ae738f0f9105eced-666108-1059-1500-jpg_l.jpg")![图](# "https://ehgt.org/8a/7e/8a7e0b42d4bf07933b7046199a7420e5f02fb795-599401-1059-1500-jpg_l.jpg")![图](# "https://ehgt.org/15/d4/15d43db0af6c734c4897bc6b3b75a7ace7997f0a-328772-1030-1500-jpg_l.jpg")![图](# "https://ehgt.org/d2/da/d2da0904b6416453227e121824629311e262eab3-823911-1027-1500-jpg_l.jpg")![图](# "https://ehgt.org/63/e0/63e0ef5c8c346c90e446431a7a93b303be6ccae3-797472-1044-1500-jpg_l.jpg")![图](# "https://ehgt.org/9d/2f/9d2f570b229d4a181b2221844f330eaf8db269db-785978-1354-1921-jpg_l.jpg")![图](# "https://ehgt.org/5b/be/5bbe1b113199e66bb47eea5a40101ad4d28e473f-853433-1028-1500-jpg_l.jpg")![图](# "https://ehgt.org/3e/fa/3efa59069c3e5729fe29309b521e671a8c3d8910-1800136-1500-2118-jpg_l.jpg")![图](# "https://ehgt.org/3c/ce/3cce12c7201462f25dd12996e383535445132852-1163049-1200-1694-jpg_l.jpg") |  |
+| stockings | ![长筒袜图标](https://raw.githubusercontent.com/wiki/EhTagTranslation/Database/database-icon/stockings.webp)长筒袜 | 一种通常透明的弹性衣服，覆盖足和腿的下部，但没到生殖器区域。需要至少达到膝盖以上。不应与`pantyhose`和`thigh high boots`标签混淆。<br>![图](# "https://ehgt.org/e3/a6/e3a623baf43a450d519246dc8aa68dc2badcb309-766167-1059-1500-jpg_l.jpg")![图](# "https://ehgt.org/8e/e6/8ee67f9bf6981ff4e5102243ae738f0f9105eced-666108-1059-1500-jpg_l.jpg")![图](# "https://ehgt.org/8a/7e/8a7e0b42d4bf07933b7046199a7420e5f02fb795-599401-1059-1500-jpg_l.jpg")![图](# "https://ehgt.org/15/d4/15d43db0af6c734c4897bc6b3b75a7ace7997f0a-328772-1030-1500-jpg_l.jpg")![图](# "https://ehgt.org/d2/da/d2da0904b6416453227e121824629311e262eab3-823911-1027-1500-jpg_l.jpg")![图](# "https://ehgt.org/63/e0/63e0ef5c8c346c90e446431a7a93b303be6ccae3-797472-1044-1500-jpg_l.jpg")![图](# "https://ehgt.org/9d/2f/9d2f570b229d4a181b2221844f330eaf8db269db-785978-1354-1921-jpg_l.jpg")![图](# "https://ehgt.org/5b/be/5bbe1b113199e66bb47eea5a40101ad4d28e473f-853433-1028-1500-jpg_l.jpg")![图](# "https://ehgt.org/3e/fa/3efa59069c3e5729fe29309b521e671a8c3d8910-1800136-1500-2118-jpg_l.jpg")![图](# "https://ehgt.org/3c/ce/3cce12c7201462f25dd12996e383535445132852-1163049-1200-1694-jpg_l.jpg") |  |
 | straitjacket | 拘束衣 | 一种长袖的躯干服装，可以超越穿用者的手臂，并且可以绑在一起以限制其运动。需要`bondage`标签。 |  |
 | swimsuit | 泳装 | 参加游泳时穿的特殊衣服。是`bikini`的前置标签。不应与`leotard`或`school swimsuit`混淆。<br>![图](# "https://ehgt.org/c2/03/c20352c3eef33ff74d0db8b8e8ac595b2f789c94-134060-640-945-jpg_l.jpg")![图](# "https://ehgt.org/d8/45/d8459cceb759ec855720320c3f1d7bac2a98529c-864028-1280-720-png_l.jpg")![图](https://ehgt.org/47/3e/473e9e5d169a5db1846a95c123cf21ea386daa6c-580471-800-600-png_l.jpg) |  |
 | sundress | 夏装 | 一个轻量级织物的便服，通常宽松。 |  |
@@ -548,6 +552,7 @@ example:
 | tickling | 挠痒 | 接触身体以引发不自主抽搐或笑声的方式。通常用羽毛。 |  |
 |  | === 强迫 > 束缚 === |  |  |
 | bondage | 束缚 | 捆绑或束缚的行为和艺术。是`pillory`、`shibari`、`stuck in wall`和`wooden horse`的前置标签。不需要为`gag`或`leg lock`添加此标签。<br>![图](# "https://ehgt.org/5c/9f/5c9f162f5be7c0b34e7933a877d63d3c974f4497-694501-1024-576-png_l.jpg") |  |
+| fanny packing | 人肉腰包 | 一个人被捆绑、束缚或以其他方式绑在更大的伴侣身上以供性使用。需要`bondage`标签。 |  |
 | harness | 挽具 | 由佩戴者身体周围的金属环固定在一起的皮带组成的穿着。不应与`shibari`或`corset`混淆。 |  |
 | shibari | 捆绑 | 使用绳索围绕躯干来创建指定的图案的手法。需要`bondage`标签。 |  |
 | stuck in wall | 卡在墙上 | 有人卡在墙上，无法动弹，生殖器与乳房常常暴露在外。需要`bondage`标签。不应与`glory hole`或`wormhole`混淆。 |  |
