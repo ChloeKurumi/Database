@@ -26,7 +26,7 @@ copyright: >
   本文的其他内容，遵循知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议提供。
 rules:
   - >-
-    为方便查找理解同类性癖的标签，请尽量按恋物标签分类(https://ehwiki.org/wiki/Fetish_Listing)归类存放，将类别写成注释。
+    为方便查找理解同类性癖的标签，请尽量按[恋物标签分类](https://ehwiki.org/wiki/Fetish_Listing)归类存放，将类别写成注释。
   - 若有属于多个分类的，放入最相关的那一个分类。
 example:
   raw: tanlines
@@ -41,11 +41,12 @@ example:
 
 | 原始标签 | 名称 | 描述 | 外部链接 |
 | -------- | ---- | ---- | -------- |
-|  | == 年龄 == |  |  |
+|  | == Age == | == 年龄 == |  |
 | age progression | 年龄增长 | 年龄迅速增长。 |  |
 | age regression | 返老还童 | 幼化，返老还童，通常是调教中的一环。不要与`shrinking`混淆。 |  |
 | dilf | 熟男 | 看上去像30-50岁的男性，不一定是`father`。不得与`old man`混淆。 |  |
 | infantilism | 幼稚型 | 将成年人当作小孩对待。 |  |
+| kodomo doushi | 两小无猜 | 儿童间的性行为，所有参与者都为儿童。需要`shotacon`标签。 |  |
 | old man | 老人 | 看起来在50岁以上的男性，不得与`dilf`混淆。 |  |
 | shotacon | 正太 | 小男孩。<br>![举例](# "https://ehgt.org/8d/e4/8de4084018d6fd26f7fb8843dfdba5949835ac02-219707-1128-1600-jpg_l.jpg")![图](# "https://ehgt.org/b4/f2/b4f27457519a0eb55cbc231c34152084d8351cd3-543154-1000-1458-jpg_l.jpg")![图](# "https://ehgt.org/3a/46/3a466e7dc00e27d80e8d6be4674b08c6b8efb25f-304032-1067-1514-jpg_l.jpg") |  |
 | toddlercon | 幼儿 | 学步的儿童。 |  |
@@ -65,7 +66,7 @@ example:
 | stretching | 拉伸 | 拉伸（如四肢）超出正常人能做到的范围。不要用到任何应该标记为`tentacles`的地方 。 |  |
 | tailjob | 尾交 | 用尾巴模拟性器官。 |  |
 |  | wingjob翼交 | 用翅膀模拟性器官。 |  |
-| wings | 翅膀 | 人类身上明显的翅膀。不应用于`angel`、`demon`、`demon girl`、`fairy`、`harpy`、`monster`或`monster girl`（除非另有意外）。 |  |
+| wings | 翅膀 | 人类身上明显的翅膀。不应用于`fairy`或`harpy`（除非另有意外）。 |  |
 |  | === 身体 > 其他改变 === |  |  |
 | absorption | 吸收 | 吸收某人或某物。可能由`vore`或`unbirth`引发。 |  |
 | petrification | 石化 | 成为雕像/岩石般的形象。 |  |
@@ -76,14 +77,17 @@ example:
 | bat boy | 蝙蝠男 | `bat girl`的男性版本。 |  |
 | bear boy | 狗熊男 | 有圆形耳朵和其他熊的特征的男性。 |  |
 | bee boy | 蜂男 | `bee girl`的男性版本。 |  |
+| bird boy | 鸟男 | `bird girl`的男性版本。 |  |
 | bunny boy | 兔子男孩 | `bunny girl`的男性版本。 |  |
 | catboy | 猫男 | `catgirl`的男性版本。 |  |
 | centaur | 半人马 | 一半是人，一半是马。 |  |
+| corpse | 尸体 | 一具死尸。尸体本身不需要具有恋物特征（例如裸体）。不应用于`zombie`。`necrophilia`需要此标签。不需要`snuff`标签，`snuff`标签要求参与者明显被杀害。 |  |
 | cowman | 牛男 | `cowgirl`的男性版本，不要与`bull`混淆。 |  |
 | deer boy | 鹿男孩 | `deer girl`的男性版本。 |  |
 | demon | 恶魔 | 男性恶魔或者具有较强恶魔般外观的人形生物（翅膀，角，尖尾，皮肤异色等）。不能与`demon girl`或`oni`标签混淆。恶魔不应该被标记为`monster`。只有恶魔翅膀，但没有其他的恶魔特征的角色仅限定为`wings`标签。<br>![图](# "https://ehgt.org/9c/a0/9ca0ad80a352aa0a4fa9959a9183c765f8703f1f-89592-640-920-jpg_l.jpg")![图](# "https://ehgt.org/14/29/142956c0c2d54fb5796a2a0b74b1f83fac55d568-268136-1024-1280-jpg_250.jpg") |  |
 | dog boy | 狗男孩 | `dog girl`的男性版本。 |  |
 | draenei | 德莱尼 | `world of warcraft`的恶魔人形生物。有蓝色的皮肤与蹄和发光的眼睛。 |  |
+| elephant boy | 象男孩 | `elephant girl`的男性版本。 |  |
 | fairy | 仙子🧚‍♂️ | 有翅膀的人或其他生物，往往体型很小。 |  |
 | fox boy | 狐男 | `fox girl`的男性版本。 |  |
 | frog boy | 青蛙男孩 | `frog girl`的男性版本。 |  |
@@ -103,7 +107,7 @@ example:
 | monkey boy | 猴男孩 | `monkey girl`的男性版本。 |  |
 | monster | 怪物 | 任何不是人类、`robot`、`demon`、动物或`furry`的角色。 |  |
 | mouse boy | 鼠男孩 | `mouse girl`的男性版本。 |  |
-| necrophilia | 奸尸 | 涉及尸体的性行为。 |  |
+| necrophilia | 奸尸 | 涉及尸体的性行为。不包括`zombie`等活死人。需要`corpse`标签。 |  |
 | oni | 鬼 | 人形生物，他们的头上有1-2个角，并可能长有尖尖的耳朵。没有翅膀或尾巴。不应与`demon`混淆。<br>![图](# "https://ehgt.org/14/ca/14cac40cd3e34a9c2c9f3c6b2322f91bdaebeb1d-239211-700-996-jpg_l.jpg") |  |
 | orc | 半兽人 | 幻想的生物，与人一样高或比人高一点。 通常有倾斜的额头，突出的下巴，突出的牙齿和粗糙的头发。不应与`pig man`或`pig girl`混淆。 |  |
 | otter boy | 水獭男孩 | `otter girl`的男性版本。 |  |
@@ -124,7 +128,7 @@ example:
 | tentacles | 触手 | 用于性目的的长而柔软的卷须。当没有明显的所有者时不应加上`monster`标签。 |  |
 | vampire | 吸血鬼🧛‍♂️ | 有尖尖的牙齿，饮血为生。 |  |
 | wolf boy | 狼男孩 | `wolf girl`的男性版本。 |  |
-| zombie | 僵尸🧟‍♂️ | 与僵尸性交。 |  |
+| zombie | 丧尸🧟‍♂️ | 传说中能活动的尸体。需要`monster`标签。不应援引`necrophilia`标签。 |  |
 |  | ==== 身体 > 生物 > 动物 ==== |  |  |
 | animal on animal | 兽兽 | 动物间性交。 |  |
 | animal on furry | 兽毛 | 动物与`furry`角色间的性行为。 |  |
@@ -204,10 +208,12 @@ example:
 | brain fuck | 脑交🧠 | 涉及大脑的性行为。 |  |
 | cockslapping | 屌掴 | 用阴茎打人（通常是脸）。 |  |
 | crown | 王冠👑 | 圆形仪式头饰，放在头顶上。 通常由君主戴。不应与`tiara`混淆。 |  |
+| ear fuck | 耳交👂 | 插入耳朵的性交。 |  |
 | elf | 精灵🧝‍♂️ | 通常有尖耳朵和苗条的身体。 |  |
 | facesitting | 坐脸 | 坐在另一个人的脸上。可能部分窒息或口腔接触肛门/生殖器区域。有时与`femdom`或`bdsm`配对。 |  |
 | facial hair | 胡子 | 下巴，脸颊或上唇上有明显的毛发。 |  |
 | gasmask | 防毒面具 | 覆盖脸部的塑料面罩，包括呼吸管或过滤器。 |  |
+| halo | 光环 | 漂浮在人头顶上方的圆圈或圆盘，通常由光组成。有棱角的平面或圆环也符合条件。附着在人身上的光环也符合条件，但必须与头部保持一定的距离。不适用于并非受古典宗教光环启发的漂浮装饰。 |  |
 |  | headless无头 | 没有头的生物，不包括参与者被斩首的情况。 |  |
 | hood | 帽兜 | 帽兜是一种帽子，覆盖大部分头部与颈部，有时甚至覆盖脸部。帽兜主要覆盖头部的顶部与侧部。 |  |
 | horns | 角 | 人形头部的一个或多个突出的角。不应与`tiara`或`crown`等头饰混淆。 |  |
@@ -254,7 +260,7 @@ example:
 | eyemask | 眼部面具 | 覆盖眼睛周围区域但露出其余脸部的面具。 |  |
 | eyepatch | 眼罩 | 覆盖一只眼睛的布或其他材料。 |  |
 | glasses | 眼镜👓 | 用于改善双眼的视力的透明框架眼镜。需要佩戴在眼前才能添加此标签。不应与`sunglasses`混淆。 |  |
-| heterochromia | 异色瞳 | 一个人的虹膜是不同颜色。仅单张图片不符合，角色需要清晰地在整个画廊保持这种特点。<br>![图](# "https://ehgt.org/5c/5c/5c5c37c1c0c5bb0f09caece9f55ee6e93367100b-74835-640-929-jpg_l.jpg") |  |
+| heterochromia | 异色瞳 | 一个人的虹膜是不同颜色。仅单张图片不符合，角色需要清晰地在整个图库保持这种特点。<br>![图](# "https://ehgt.org/5c/5c/5c5c37c1c0c5bb0f09caece9f55ee6e93367100b-74835-640-929-jpg_l.jpg") |  |
 | monoeye | 独眼 | 一个单眼的人形角色。 一个双眼的人物因为任何原因失去了眼睛（除了`transformation`）不符合条件。需要`monster`或`alien`标签。 |  |
 | sunglasses | 太阳镜🕶 | 用于改善在阳光下视力的有色框架眼镜。需要佩戴在眼前才能添加此标签。不应与`glasses`混淆。 |  |
 | unusual pupils | 异瞳 | 瞳孔是或包含奇怪的形状，如心形、星形。除非是意想不到的形状，否则不应该用于动物/`monster`的眼睛。 |  |
@@ -316,15 +322,16 @@ example:
 | dark nipples | 暗色乳头 | 暗色的乳头，有时与`pregnant`有关。不应用于`dark skin`的人。 |  |
 | dicknipples | 阴茎乳头 | 阴茎形状的乳头。 |  |
 | inverted nipples | 乳头内陷 | 缩回乳房内的乳头。 通常通过刺激或拉动带出。<br>![对于男孩子好像看不出什么嘛](# "https://ehgt.org/fd/6c/fd6caeba67f9db0fdfdf6bd98aee3091ac186220-2138147-2125-3000-jpg_l.jpg") |  |
-|  | multiple nipples多乳头 | 每只乳房有多于一个乳头。 |  |
+| multiple nipples | 多乳头 | 每只乳房有多于一个乳头。 |  |
 | nipple birth | 乳头出产 | 通过乳头分娩。不应用于`eggs`。 |  |
 | nipple fuck | 乳穴性交 | 将阴茎/玩具通过乳头插入乳房。不应与`paizuri`混淆。 |  |
 | nipple piercing | 乳头穿孔 | 位于乳头或乳晕上的穿孔。需要`piercing`，不应与`clamp`混淆。 |  |
 | nipple stimulation | 乳头刺激 | 刺激乳头（如用手指、性玩具或工具挤压或摩擦乳头）。<br>不应标记为`breast feeding`。 |  |
-|  | == 躯干 == |  |  |
+|  | == Torso == | == 躯干 == |  |
 | cumflation | 精液膨胀 | 胃部由于充满精液而像气球一样向外扩展。需要`inflation`标签。不应与`pregnant`、`stomach deformation`或`weight gain`相混淆。 |  |
+| navel birth | 肚脐出产 | 生物通过肚脐分娩。通常发生在`pregnant`之后。图库只需要包含一张这种性质的图片就需要打上此标签。不应用于`eggs`。 |  |
 | navel fuck | 肚脐奸 | 插入肚脐。 |  |
-| pregnant | 怀孕 | 与已经怀孕的角色性交。不用于仅出现怀孕角色的情况，也不用于`impregnation`。<br>![怀孕的男孩子](https://ehgt.org/6c/4f/6c4f880efb12f8390ada92ee9cf8cafa4318912d-1576847-1977-1400-jpg_l.jpg)![图](# "https://ehgt.org/09/d3/09d30092661171fa6ac94312f92b7138d1841fe9-2217337-1724-2453-jpg_l.jpg")![图](# "https://ehgt.org/e5/2c/e52c2c22e5b83a9256cae5ae9a8c8d81aa29fb2d-1491910-1680-1680-png_l.jpg") |  |
+| pregnant | 怀孕 | 涉及明显怀孕的参与者的性活动或裸体。也允许在非色情图库中用于视觉上怀孕的人。记住存在规则(presence rule)。如果仅在故事的最后几页显示某人怀孕，则不应对其进行标记，也不应使用它来代替`impregnation`。<br>![怀孕的男孩子](https://ehgt.org/6c/4f/6c4f880efb12f8390ada92ee9cf8cafa4318912d-1576847-1977-1400-jpg_l.jpg)![图](# "https://ehgt.org/09/d3/09d30092661171fa6ac94312f92b7138d1841fe9-2217337-1724-2453-jpg_l.jpg")![图](# "https://ehgt.org/e5/2c/e52c2c22e5b83a9256cae5ae9a8c8d81aa29fb2d-1491910-1680-1680-png_l.jpg") |  |
 | stomach deformation | 腹部变形 | 固体从腹内向外推压，并出现一个可见突起。通常由`large insertions`或者`big penis`引起。<br>![胃部变型](# "https://ehgt.org/6d/31/6d315c58e72ac24279c4a89ae783f177b0f222a6-226565-850-1199-jpg_250.jpg")![图](# "https://ehgt.org/d6/43/d643ca00b7aea8c841f14c372909dbeffeffd409-1595458-2098-3000-jpg_l.jpg") |  |
 |  | == 下半身 == |  |  |
 |  | === 下半身 > 阴部 === |  |  |
@@ -334,11 +341,13 @@ example:
 | hairy | 多毛 | 引人注目的大量阴毛。不应与`hairy armpits`混淆。 |  |
 | mesuiki | 干高潮 | メスイキ，性行为使对象达到性高潮而对阴茎或阴道没有任何物理刺激。只要直到高潮的性行为不包含对阴茎或阴道的刺激，就可以使用此标签。 |  |
 | multiple orgasms | 连续高潮 | 参与者在一场中连续达到三次以上的性高潮。 |  |
+| no balls | 无蛋 | 有阴茎但没有睾丸的男性。不用于只是隐藏睾丸的男性。必须是显而易见的缺少睾丸。不适用于远离生殖器区域的阴茎。`tentacles`或阴茎形状的`sex toys`也不符合。 |  |
 | pantyjob | 内裤交 | 涉及生殖器与内裤摩擦的性交。<br>![图](# "https://ehgt.org/0f/20/0f204581d181df13e84837cc88211db1a89b8b3a-1164951-1280-720-png_l.jpg")![](# "https://ehgt.org/2b/43/2b4325dd67a9e828e75643385d0d0a7906db5886-997427-1280-720-png_l.jpg")![](# "https://ehgt.org/94/70/9470ab57c865d4de45bbb76e39661ae15ae6201f-208801-1024-600-jpg_l.jpg")![图](# "https://ehgt.org/b3/99/b399bc88c5a76ccfa76dcaf80d9d8c89ae82eb81-274018-1024-600-jpg_l.jpg")![图](# "https://ehgt.org/78/81/78819288342cc0ce8e07b707a31f86e77414771c-575379-1024-600-png_l.jpg")![图](# "https://ehgt.org/20/85/208520cd50bea31026c7d4618b00b3c7906838b1-264144-1024-600-jpg_l.jpg")![图](# "https://ehgt.org/3f/0b/3f0bb622155837f52a5a033b0dc5c8c7af956b96-187418-699-1000-jpg_l.jpg") |  |
 | pubic stubble | 阴毛茬 | 剃光阴部的毛发，但有可见的毛发残留。 |  |
 | urethra insertion | 尿道插入 | 插入尿道的性行为。 |  |
 |  | ==== 下半身 > 阴部 > 阴茎 ==== |  |  |
 | adventitious penis | 畸位阴茎 | 在身体的意想不到的地方至少有一个阴茎（例如手、嘴或尾巴）。`tentacles`和`dicknipples`不算。 |  |
+| ball caressing | 揉蛋 | 轻轻触摸或按摩睾丸。不要与`cbt`混淆。 |  |
 | balls expansion | 睾丸生长 | 睾丸的尺寸增大，可能成为`big balls`。 |  |
 | ball sucking | 吸球 | 用嘴在睾丸上吸吮为乐。<br>![图](# "https://ehgt.org/4c/07/4c072eb0bb5ad98418cc70fa0bd99908c31a3ddb-1561179-1600-2294-png_l.jpg") |  |
 | balljob | 球交 | 通过类似`paizuri`的方式使用睾丸。 |  |
@@ -347,15 +356,15 @@ example:
 | cloaca insertion | 泄殖腔插入 | 将任何东西插入泄殖腔。可能援引`retractable penis`标签。不用于插入阴道。 |  |
 | cockphagia | 阴茎吞食 | 被阴茎整个吞食，可能会导致`big penis`。需要`urethra insertion`标签，不要与`vore`或`unbirth`混淆。 |  |
 | cock ring | 锁精环 | 戴在阴茎和/或阴囊轴周围的环。不应与`chastity belt`混淆，但二者可以共存。用作`wormhole`的环不符合条件。 |  |
-| dick growth | 阴茎生长 | 阴茎异常生长的过程，可能产生`big penis`。不应该与正常的勃起混淆，也不适用`gender change`标签。 |  |
 | frottage | 阴茎摩擦🤺 | 两根及以上的阴茎相互摩擦。<br>![图](# "https://ehgt.org/a5/71/a571dee39168c1e3297eaf6a55d2d4fe2c9de446-1172542-1200-1694-jpg_l.jpg") |  |
 | horse cock | 马根 | 马形状的阴茎，很可能是`big penis`。不用于`centaur`、`horse`、`horse boy`或`sex toys`。 |  |
 | huge penis | 巨根 | 巨大的阴茎，长度至少等于其所有者的躯干。需要`big penis`标签。 |  |
 | multiple penises | 鸡鸡复鸡鸡 | 多于一根阴茎。不用于`tentacles`形的阴茎。<br>![图](# "https://ehgt.org/e1/f8/e1f808c6ddfd8d9b1a3c790149165073d3d98052-95479-695-900-jpg_l.jpg") |  |
 | penis birth | 阴茎出产 | 通过阴茎产下生物。不用于`eggs`。 |  |
+| penis enlargement | 阴茎生长 | 阴茎异常生长的过程，可能产生`big penis`。不应该与正常的勃起混淆，也不适用`gender change`标签。 |  |
 | phimosis | 包茎 | 包皮极大地覆盖了阴茎。即使阴茎已经勃起，也应该几乎完全覆盖。 |  |
 | prostate massage | 前列腺按摩 | 通常涉及摩擦睾丸附近的肛门壁。 |  |
-| retractable penis | 可伸缩阴茎 | 生殖器区域的一个孔口，整个阴茎缩回并从中露出。角色的阴茎必须在某个点完全或部分缩回，标签才符合条件。<br>不要与`dick growth`、`clit growth`或`big clit`混淆。 |  |
+| retractable penis | 可伸缩阴茎 | 生殖器区域的一个孔口，整个阴茎缩回并从中露出。角色的阴茎必须在某个点完全或部分缩回，标签才符合条件。<br>不要与`penis enlargement`、`clit growth`或`big clit`混淆。 |  |
 | smegma | 阴垢 | 在阴茎和包皮之间或阴蒂和阴唇附近潮湿地区存在的各种物质。 |  |
 |  | ==== 下半身 > 阴部 > 阴道 ==== |  |  |
 |  | adventitious vagina畸位阴道 | 在身体的意想不到的地方至少有一个阴道（例如手、嘴或上半身）。 |  |
@@ -395,14 +404,14 @@ example:
 |  | == 足 == |  |  |
 | denki anma | 电气按摩 | 一个参与者使用脚强烈地压迫另一个参与者的胯部区域，通常是在抱着他们的腿时。如果这会刺激被按压的人，则涉及`footjob`。可能涉及`bdsm`，`catfight`，`femdom`或`wrestling`。 |  |
 | foot insertion | 足插入 | 一个或多个脚插入阴道等孔。<br>![图](# "https://ehgt.org/34/b3/34b3a6e20775938e628764feb4647c1264643ebe-312671-560-420-jpg_l.jpg") |  |
-| footjob | ![足交图标](https://raw.githubusercontent.com/wiki/EhTagTranslation/Database/database-icon/footjob.webp)足交足交 | 用脚对另一个人进行性刺激。不要与`legjob`混淆。<br>![图](# "https://ehgt.org/07/5b/075bcac1b9e5a79d40e641f0785ba749ed61a395-664072-847-1200-jpg_250.jpg")![图](# "https://ehgt.org/74/db/74dbb57dd71a865487a6112b5746e1c6157e8fd0-739046-1059-1500-jpg_l.jpg")![图](# "https://ehgt.org/13/79/13798ec8c89044315d6d3a567360a4c59704b3f5-634283-1024-576-png_l.jpg")![图](# "https://ehgt.org/d8/d4/d8d419b1ccae18d90ade22d7a0b796215265c98c-203334-661-988-jpg_l.jpg")![图](# "https://ehgt.org/ae/25/ae25ac1f50141e08d46569ecd5002b510ff51234-1081348-1659-2400-jpg_l.jpg")![图](# "https://ehgt.org/ec/a3/eca370464efaf755e0084f18c3f75d8b4eb251ec-702598-1043-1512-png_l.jpg")![图](# "https://ehgt.org/bf/5c/bf5c96faa3684356add4370aa0b909ad03b29e0c-104137-640-923-jpg_l.jpg")![图](# "https://ehgt.org/92/b3/92b3ee3b36740a0063fd1413b957eda2819d5aac-102310-640-942-jpg_l.jpg") |  |
+| footjob | ![足交图标](https://raw.githubusercontent.com/wiki/EhTagTranslation/Database/database-icon/footjob.webp)足交 | 用脚对另一个人进行性刺激。不要与`legjob`混淆。<br>![图](# "https://ehgt.org/07/5b/075bcac1b9e5a79d40e641f0785ba749ed61a395-664072-847-1200-jpg_250.jpg")![图](# "https://ehgt.org/74/db/74dbb57dd71a865487a6112b5746e1c6157e8fd0-739046-1059-1500-jpg_l.jpg")![图](# "https://ehgt.org/13/79/13798ec8c89044315d6d3a567360a4c59704b3f5-634283-1024-576-png_l.jpg")![图](# "https://ehgt.org/d8/d4/d8d419b1ccae18d90ade22d7a0b796215265c98c-203334-661-988-jpg_l.jpg")![图](# "https://ehgt.org/ae/25/ae25ac1f50141e08d46569ecd5002b510ff51234-1081348-1659-2400-jpg_l.jpg")![图](# "https://ehgt.org/ec/a3/eca370464efaf755e0084f18c3f75d8b4eb251ec-702598-1043-1512-png_l.jpg")![图](# "https://ehgt.org/bf/5c/bf5c96faa3684356add4370aa0b909ad03b29e0c-104137-640-923-jpg_l.jpg")![图](# "https://ehgt.org/92/b3/92b3ee3b36740a0063fd1413b957eda2819d5aac-102310-640-942-jpg_l.jpg") |  |
 | multiple footjob | 多重足交 | 一个以上的人同时用脚对同一个参与者进行性刺激。需要`footjob`标签。 |  |
 | sockjob | 袜交🧦 | 用袜子摩擦生殖器。 |  |
 |  | == 服装 == |  |  |
 | animegao | 头壳 | 包括描绘角色面具的全身服装。不应与`bodysuit`和`skinsuit`标签混淆。当头壳的性别与其穿戴者的性别不同时，需要`crossdressing`标签。<br>![图](https://ehgt.org/a8/13/a813802cbf8f80e8aa793719413c617a58770c37-123560-594-800-jpg_l.jpg)![图](https://ehgt.org/98/3d/983ddeb44b327f9eed7e0d7ffe0631c8762e7a5d-102186-640-800-jpg_l.jpg)![图](https://ehgt.org/e9/e2/e9e2592e4c2719da61d2fea6dd4f7dee68297b00-145357-715-1027-jpg_l.jpg) |  |
 | apron | 围裙 | 做饭时为了保护常穿的服装。通常为色情目的穿带。<br>![图](# "https://ehgt.org/f2/5b/f25bb5eb2eaa2ff2e04a195a9cdce314b74646e7-613200-1024-576-png_l.jpg") |  |
 | bandages | 绷带 | 一条布或类似材料被包裹在身上，至少覆盖身体的10％。 |  |
-|  | bandaid创可贴 | 创可贴位于阴部或乳头上。 |  |
+| bandaid | 创可贴 | 创可贴位于阴部或乳头上。 |  |
 | bike shorts | 自行车短裤 | 短的、有弹性的、紧身贴合腿部（但穿着更像是内衣），旨在提高骑自行车时候的舒适度。不应与`hotpants`混淆。<br>![](# "https://ehgt.org/82/4e/824ec565d33ed51ec89ab98a5689087e29e695e8-682260-1024-600-png_l.jpg")![图](# "https://ehgt.org/63/c3/63c39f00c8dc1b442c5618c20143c5c4ff59028a-369056-1120-1600-jpg_l.jpg")![图](# "https://ehgt.org/a8/44/a8448e102eb338cc80fc0a403d8bce0188a8723f-880865-1063-1500-jpg_l.jpg")![图](# "https://ehgt.org/4c/28/4c2824b5314fb0c0eeb9137c78c23dde02aca682-931040-2044-3020-jpg_l.jpg") |  |
 | bikini | 比基尼👙 | 两件式泳装，涵盖生殖器和乳房。两片可以串联起来（也称为弹弓比基尼(slingshot bikini)），但更通常完全分开。需要`swimsuit`标签。需要`crossdressing`标签。<br>![图](# "https://ehgt.org/3c/86/3c86e8a7a57a161b4f6b921b0fe20e44107dc27a-2841047-4720-7002-jpg_l.jpg")![图](# "https://ehgt.org/1c/d1/1cd1b7436cfeb211ffd7ab261b1e8794f17e91c4-702687-1024-600-png_l.jpg")<br>弹弓比基尼▼<br>![图](# "https://ehgt.org/b4/bf/b4bf73ba923825741cbdc3d2154d81f8ed978705-1535220-1200-1657-jpg_l.jpg") |  |
 | bloomers | 布鲁马 | 主要为日本女学生的运动短裤。通常蓝色或红色。不应与`bike shorts`混淆。需要`crossdressing`标签。<br>![图](# "https://ehgt.org/8d/26/8d26deeac824e0aa61362914fc7a511a1cd979a9-410334-1067-1500-jpg_l.jpg")![图](# "https://ehgt.org/8e/e6/8ee67f9bf6981ff4e5102243ae738f0f9105eced-666108-1059-1500-jpg_l.jpg")![图](# "https://ehgt.org/24/56/245663e10ffaf8b57cb37c0d54de040fa598cba8-656435-1059-1500-jpg_l.jpg")![图](# "https://ehgt.org/fc/37/fc37dcee39e91c0751bd89fc9ca83472fe7e43a8-720803-1920-2720-jpg_l.jpg") |  |
@@ -413,13 +422,13 @@ example:
 | butler | 管家 | 一个家庭雇工，经常为大户的富裕家庭服务。穿有领带或领结的燕尾服。 |  |
 | cashier | 收银员 | 一个站在柜台后面或在商店里工作的人，穿着围裙穿着制服。 |  |
 | cheerleader | 啦啦队员 | 啦啦队员制服，通常配短裙和配套配件。需要`crossdressing`标签。 |  |
-| chinese dress | 唐装 | 包裹身体的单件连衣裙，通常采用简单花卉图案。需要`crossdressing`标签。 |  |
+| chinese dress | 旗袍 | 包裹身体的单件连衣裙，通常采用简单花卉图案。需要`crossdressing`标签。 |  |
 | christmas | 圣诞装🎅 | 圣诞老人相关的服装，突出使用红色织物和白色修边边缘。 |  |
 | clothed female nude male | 裸男 | 男性的生殖器完全暴露于非裸体的女性。 |  |
 | clown | 小丑🤡 | 白面与皱褶领和衣服。通常强调面部特征，例如大的红色鼻子和嘴唇以及醒目的彩色头发。 |  |
 | condom | 避孕套 | 塑料套，旨在保护使用者和其伙伴免受不必要的性病以及怀孕。 |  |
 | corset | 紧身胸衣 | 用于保持和塑造躯干的衣服，通常形成沙漏形状，尤指旧时妇女束腰的紧身内衣。需要`crossdressing`标签。 |  |
-| cosplaying | Cosplay | 角色打扮成另一个角色。不包括一般的角色扮演，如`schoolboy uniform`、`nurse`、`maid`。不用于 `cosplay` 画廊。 |  |
+| cosplaying | Cosplay | 角色打扮成另一个角色。不包括一般的角色扮演，如`schoolboy uniform`、`nurse`、`maid`。不用于 `cosplay` 图库。 |  |
 | crossdressing | 异性装 | 男性女装。不应与`gender change`混淆。<br>![图](# "https://ehgt.org/cd/fb/cdfb92f1d5c75f3754f3cb656cc468b7799344a6-1466633-1200-1694-jpg_l.jpg")![图](# "https://ehgt.org/84/13/8413cbc4d4d8905e9048c5b5a8a5e0676c011ca8-1905865-1200-1200-png_l.jpg")![图](# "https://ehgt.org/4d/2d/4d2d5424eb0e2052e0dfc6d14c982eb5f01952ae-142895-800-600-jpg_l.jpg")![图](# "https://ehgt.org/24/38/2438d21f31d1cb96f55fc883d0a00d64ac83b057-126074-800-600-jpg_l.jpg") |  |
 | detached sleeves | 分离袖子 | 一种上衣没有肩部分，袖子与衣服主体分离同时不以手套样式穿着的服饰。不应与`gloves`混淆。<br>![图](https://ehgt.org/7f/0e/7f0ee9e9b54ca575c57b63befd627d7aaa93dd43-1791186-1213-1865-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/分离袖子%22) |
 | diaper | 尿布 | 一种用来承接大小便的内衣，往往被婴儿穿戴。经常与`age regression`、`scat`、`infantilism`或`urination`配对。 |  |
@@ -430,8 +439,9 @@ example:
 | garter belt | 吊袜带 | 有夹子的带状内衣，用来拉起易下滑的`stockings`。<br>![图](# "https://ehgt.org/e5/8c/e58c66ab448a6e377f43c58a97b7c7ef46cb0188-726693-1059-1500-jpg_l.jpg") |  |
 | gothic lolita | 哥特萝莉装 | 一种黑暗但有很多褶的服装风格。<br>![图](# "https://ehgt.org/17/ec/17ec0f8fed464572fa43810ed17fa12b2d014a1b-998571-1408-2000-jpg_l.jpg")![图](# "https://ehgt.org/ad/48/ad48584415dacbceb791a805e8eddf05ed9948a9-1049757-1066-1500-jpg_l.jpg") |  |
 | gymshorts | 运动短裤 | 短的运动裤子，颜色和长度可以改变。不应与`bloomers`或`bike shorts`混淆。<br>![图](# "https://ehgt.org/5d/13/5d13fffb1cb16c99d3eb77c53ff3e57985723fa5-3645640-2149-3035-jpg_l.jpg")![图](https://ehgt.org/a1/2f/a12fdf19d1ebdac40a1ca5a00c88374ef6774e30-543473-1024-768-png_l.jpg)![图](https://ehgt.org/39/1e/391e16bc04b9bb369ab9d438172d3366eb6893fb-103453-648-865-jpg_250.jpg) |  |
-|  | haigure高叉装 | 穿着在胳膊和腿部弯曲的紧身衣服的女孩，强调阴部的位置。 |  |
+| haigure | 高叉装 | 穿着在胳膊和腿部弯曲的紧身衣服的人，强调阴部的位置。 |  |
 | headphones | 头戴式耳机 | 头上戴耳机或者脖子上挂耳机的人。耳壳必须足够大，可以盖住耳朵。 |  |
+| high heels | 高跟鞋 | 通常是细高跟鞋，将穿着者的脚后跟抬高到脚掌顶部以上。仅适用于高跟鞋，不适用于标准鞋跟，例如普通学校鞋。需要`crossdressing`标签。 |  |
 | hijab | 头巾 | 一个覆盖头部和胸部的面纱，主要用于遮盖头发。需要`crossdressing`标签。 |  |
 | hotpants | 热裤 | 短的，突出臀部和腿部。不应与`bike shorts`、`bloomers`或`gymshorts`混淆。<br>![图](# "https://ehgt.org/36/82/3682e6eaf2bd56cbd040ceab913ce0f0a6fe09d8-1066447-1583-2211-jpg_l.jpg")![图](# "https://ehgt.org/d5/b0/d5b0e6b1ea48edcb602d0e941c9c85fde7a46666-6458880-2140-3000-png_l.jpg")![图](# "https://ehgt.org/42/1e/421ed5fc2646003024de98d281a16ab36e6a7e63-4741499-1600-2282-jpg_l.jpg") |  |
 | kimono | 和服👘 | 日本传统服装，有大丝带和不同的图案。 |  |
@@ -473,19 +483,21 @@ example:
 | stirrup legwear | 马镫裤 | 踩脚裤，覆盖脚踝但不完全覆盖脚底的腿部衣服。需要`stockings`或`pantyhose`标签。 |  |
 | stockings | ![长筒袜图标](https://raw.githubusercontent.com/wiki/EhTagTranslation/Database/database-icon/stockings.webp)长筒袜 | 一种通常透明的弹性衣服，覆盖足和腿的下部，但没到生殖器区域。需要至少达到膝盖以上。不应与`pantyhose`和`thigh high boots`标签混淆。<br>![图](# "https://ehgt.org/e3/a6/e3a623baf43a450d519246dc8aa68dc2badcb309-766167-1059-1500-jpg_l.jpg")![图](# "https://ehgt.org/8e/e6/8ee67f9bf6981ff4e5102243ae738f0f9105eced-666108-1059-1500-jpg_l.jpg")![图](# "https://ehgt.org/8a/7e/8a7e0b42d4bf07933b7046199a7420e5f02fb795-599401-1059-1500-jpg_l.jpg")![图](# "https://ehgt.org/15/d4/15d43db0af6c734c4897bc6b3b75a7ace7997f0a-328772-1030-1500-jpg_l.jpg")![图](# "https://ehgt.org/d2/da/d2da0904b6416453227e121824629311e262eab3-823911-1027-1500-jpg_l.jpg")![图](# "https://ehgt.org/63/e0/63e0ef5c8c346c90e446431a7a93b303be6ccae3-797472-1044-1500-jpg_l.jpg")![图](# "https://ehgt.org/9d/2f/9d2f570b229d4a181b2221844f330eaf8db269db-785978-1354-1921-jpg_l.jpg")![图](# "https://ehgt.org/5b/be/5bbe1b113199e66bb47eea5a40101ad4d28e473f-853433-1028-1500-jpg_l.jpg")![图](# "https://ehgt.org/3e/fa/3efa59069c3e5729fe29309b521e671a8c3d8910-1800136-1500-2118-jpg_l.jpg")![图](# "https://ehgt.org/3c/ce/3cce12c7201462f25dd12996e383535445132852-1163049-1200-1694-jpg_l.jpg") |  |
 | straitjacket | 拘束衣 | 一种长袖的躯干服装，可以超越穿用者的手臂，并且可以绑在一起以限制其运动。需要`bondage`标签。 |  |
-| swimsuit | 泳装 | 参加游泳时穿的特殊衣服。是`bikini`的前置标签。不应与`leotard`或`school swimsuit`混淆。<br>![图](# "https://ehgt.org/c2/03/c20352c3eef33ff74d0db8b8e8ac595b2f789c94-134060-640-945-jpg_l.jpg")![图](# "https://ehgt.org/d8/45/d8459cceb759ec855720320c3f1d7bac2a98529c-864028-1280-720-png_l.jpg")![图](https://ehgt.org/47/3e/473e9e5d169a5db1846a95c123cf21ea386daa6c-580471-800-600-png_l.jpg) |  |
 | sundress | 夏装 | 一个轻量级织物的便服，通常宽松。 |  |
+| swimsuit | 泳装 | 参加游泳时穿的特殊衣服。是`bikini`的前置标签。不应与`leotard`或`school swimsuit`混淆。<br>![图](# "https://ehgt.org/c2/03/c20352c3eef33ff74d0db8b8e8ac595b2f789c94-134060-640-945-jpg_l.jpg")![图](# "https://ehgt.org/d8/45/d8459cceb759ec855720320c3f1d7bac2a98529c-864028-1280-720-png_l.jpg")![图](https://ehgt.org/47/3e/473e9e5d169a5db1846a95c123cf21ea386daa6c-580471-800-600-png_l.jpg) |  |
+| tabi socks | 足袋 | 足袋是在大脚趾分开以方便穿人字带木屐的日式短布袜，通常使用没有弹性的棉布制成，长度高到脚踝位置，颜色通常为白色或黑色。 | [萌娘百科](https://zh.moegirl.org.cn/日式短布袜) |
 | thigh high boots | 高筒靴 | 高过膝盖的靴子。不应与`stockings`混淆。<br>![图](# "https://ehgt.org/6c/db/6cdb1c5be83a39c10f567bdd9ff307294d3fa18d-1150727-1024-1501-jpg_l.jpg")![图](# "https://ehgt.org/0d/a2/0da2f8320dc2fb0b8869f0a59a9057678dfba318-3501954-2119-3000-jpg_l.jpg") |  |
 | tiara | 宝冠 | 半圆形礼服头带，款式可能不同，但靠近额头。经常由君主和魔女穿。不应与`crown`混淆。<br>![](https://ehgt.org/78/20/7820910ee88a0d5db820aceb371542babd9801e5-1100921-1920-1080-jpg_l.jpg) |  |
 | tights | 厚连裤袜 | 西方将各种材质的裤袜都称为`tights`，40D 以下的薄裤袜才称为`pantyhose`。<br>![图](https://ehgt.org/12/f2/12f2ce7b89fd25e7ee6dd72ff833ca4efe3623b9-131266-811-1147-jpg_l.jpg) |  |
 | tracksuit | 运动服 | 合成材料制成的匹配的衬衫和裤子，意在诱发出汗，用于锻炼或运动。只需有一部分衣服在性期间留下。 |  |
-|  | transparent clothing透明服装 | 穿着时覆盖裆部或胸部区域的任何类型的透明服装。只适用于在这两个区域设计透明的服装。<br>不用于`pantyhose`或`wet clothes`。不要与`exposed clothing`混淆。 |  |
+| transparent clothing | 透明服装 | 穿着时覆盖裆部或胸部区域的任何类型的透明服装。只适用于在这两个区域设计透明的服装。<br>不用于`pantyhose`或`wet clothes`。不要与`exposed clothing`混淆。 |  |
 | waiter | 男侍者装 | 女侍者装的男性版本。不应与`waitress`或`butler`混淆。 |  |
 | waitress | 女侍者装 | 在餐厅工作的女孩穿的制服; 通常浅色的衣服，有时包括围裙或裙子。不应与`waiter`或`maid`混淆。需要`crossdressing`标签。 |  |
 | wet clothes | 湿身 | 由于水或其他液体导致潮湿透明的衣服。 |  |
 | witch | 女巫装 | 一顶有宽帽檐的高帽，通常穿着布长袍。需要`crossdressing`标签。 |  |
 |  | == 多人活动 == |  |  |
 | double anal | 双插肛门 | 两根阴茎插入一个肛门。不需要再添加`anal`标签。<br>![例：女神異聞錄4同人](# "https://ehgt.org/5d/04/5d04e064763ff1e377450e71773bf8d9c4b68901-122715-640-954-jpg_250.jpg") |  |
+| gang rape | 轮奸 | 1 人同时被至少 3 人强奸。需要`group`和`rape`标签。对于双方同意的性行为，使用`harem`标签。 |  |
 | group | 乱交 | 两个以上的人同时进行性行为。是它们的前置标签：`harem`、`layer cake`、`mtf threesome`、`mmt threesome`、`mmf threesome`、`ttm threesome`、`ttf threesome`、`ffm threesome`和`fft threesome`等 3P 标签。其中 t 为变性人(transsexual)，包含`futanari`和`shemale`，这里为了书写方便用“扶”代指。两个或两个以上的伴侣有单独性行为或一群女孩站在周围不算。<br>![图](# "https://ehgt.org/e8/ec/e8ecda3984fd79572060ee2deba7750065a60383-1329197-1200-1694-jpg_l.jpg")![图](# "https://ehgt.org/d3/3b/d33b41953f1feaf94d65e52c79280c7d58b165d8-469256-2151-3037-jpg_250.jpg") |  |
 | harem | 后宫 | 被至少三人追捧，自愿发生性关系且所有人参与。需要`group`标签。不用于`rape`的情况。<br>![图](# "https://ehgt.org/e8/ec/e8ecda3984fd79572060ee2deba7750065a60383-1329197-1200-1694-jpg_l.jpg") |  |
 | layer cake | 夹心蛋糕 | 阴茎在两个阴道之间摩擦。可能涉及每个阴道之间交替插入。需要`group`标签。<br>![图](# "https://ehgt.org/c0/7b/c07bbe0ba64284f2d69f0b93a26ad9dab99ff1e4-889024-2069-2982-jpg_l.jpg") |  |
@@ -521,7 +533,7 @@ example:
 | oil | 油 | 一个人至少部分地用润滑剂（如身体按摩油）覆盖，以使他的皮肤具有光滑的质感和釉面的外观。不用于其他物质（如`slime`）。 |  |
 | underwater | 水下 | 在性期间大部分或完全浸没在液体中。 |  |
 |  | === 液体 > 体液 === |  |  |
-| blood | 流血 | 大量流血（如从身体伤口）。不用为`guro`添加此标签。不用于`defloration`导致的流血。 |  |
+| blood | 血液 | 对大量血液（如从身体伤口流出的）的描绘。不用为`guro`添加此标签。同一图库中不是`guro`的单独实例可以适用。不用于`defloration`导致的流血。图库只需包含一张此类性质的图片即可获得此标签。 |  |
 |  | ==== 液体 > 体液 > 精液 ==== |  |  |
 | apparel bukkake | 穿衣颜射 | 精液覆盖或装满穿着的衣服或其他配件。穿着的性用具（如`condom`、绳子等）不算。 |  |
 | bukkake | 颜射 | 性主角被精液覆盖，一般不止一个人射精。不局限于性伴侣的脸上，而是在身体的任何部位。<br>ぶっかけ<br>![图](# "https://ehgt.org/b2/79/b279394bc20f4c161248599e3072235bfcfe0133-532335-550-700-png_250.jpg")![图](# "https://ehgt.org/dc/7c/dc7c5ecdecf95fae377d9d9ca3c24af20a215bc4-466128-1510-1200-jpg_250.jpg")![图](# "https://ehgt.org/db/a0/dba0bc32cfd2baa198d3f2a5e3631153c8ccccee-174808-800-600-jpg_250.jpg")![图](# "https://ehgt.org/d8/93/d893c15c583d29d1ba93efe33285591355d76933-131491-700-870-jpg_l.jpg") |  |
@@ -531,12 +543,14 @@ example:
 | internal urination | 内部排尿 | 另一位参与者的尿液在除嘴外的任何孔口内徘徊。通常包括之后释放尿液的过程。 |  |
 | omorashi | 漏尿 | 一个尿急的角色失禁或接近失禁。 |  |
 | public use | 肉便器 | 一个人保持静止，成为公共性交对象，往往被多个性对象同时性交。经常涉及到被用作厕所/小便池，所以被称为肉便器。可能包括或导致`body writing`。 |  |
-| scat | 排便💩 | 是`coprophagia`的前置标签。 |  |
+| scat | 粪便💩 | 任何对粪便的描绘。是`coprophagia`的前置标签。图库只需包含一张此类性质的图片即可获得此标签。 |  |
 |  | scat insertion粪便插入 | 描写粪便正在或已经插入口腔或肛门以外的孔道。<br>需要`scat`标签。 |  |
 | sweating | 出汗 | 可见的出汗。不应与`bukkake`或`oil`混淆。 |  |
 | urination | 排尿 | 尿尿。是`piss drinking`的前置标签。 |  |
-|  | == 强迫 == |  |  |
+|  | == Force == | == 强迫 == |  |
+| blackmail | 要挟 | 通过威胁或披露信息迫使他人提供性爱的行为。 |  |
 | chikan | 痴汉 | 以性方式抚摸别人的行为。经常在火车或公共汽车上发生。 |  |
+| confinement | 监禁 | 一个人被强行关押在室内环境中，并被强行用于各种性目的。此场景必须由至少一名俘虏故意创造，并且必须持续至少两个晚上。不用于自愿被监禁的情况。被监禁者必须在某个时候意识到这种情况。如果上下文提示没有明确表明囚禁时间，则不应使用标签。 |  |
 | rape | 强奸 | 强迫或非自愿性行为。 |  |
 |  | === 强迫 > 虐待 === |  |  |
 | bdsm | 调教 | 一种至少有一个人占主导地位的生活方式，至少有一个人是顺从的。 不需要`bondage`或`torture`标签，但可能是其原因。 |  |
@@ -562,7 +576,7 @@ example:
 | cbt | 虐屌 | CBT, Cock and Ball Torture. 以任何方式折磨阴茎区域。不需要`torture`标签 |  |
 |  | cuntbusting阴道破坏 | 物理攻击阴道的行为。 |  |
 | dismantling | 拆解 | 拆除部件，损毁或破坏机械生物。需要`robot`标签。 |  |
-| guro | 猎奇 | 英语グロテスク（Grotesque）的日式缩写グロ（guro）。原指恶心怪异，奇怪，不自然的猎奇事物。现常用于色情领域，全称エログロ（eroguro），常表现为血腥暴力，残害，肉体切割，扭曲变态，有点恶心又怪异的异常性行为或色情事物，常与`amputee`、`ryona`、`blood`、`snuff`、`rape`等标签并用，不用于温和的`blood`或`ryona`。不应与`snuff`混淆。对于大多数涉及`robot`的情况，请改用`dismantling`。<br>画廊只需要包含一张这种性质的图片即可获得此标签。<br><br>![恶](## "https://ehgt.org/a1/03/a1037f38d3841d9126257c95cf7ebf44645d6e1f-815087-1634-1743-jpg_250.jpg")![恶](## "https://ehgt.org/9c/30/9c30becd74eebfc9cc621cda75f096166e930b44-78256-733-500-jpg_250.jpg")![恶](## "https://ehgt.org/e9/53/e953213efaea1fc681824b601317c0a45872a309-124477-640-853-jpg_l.jpg") |  |
+| guro | 猎奇 | 英语グロテスク（Grotesque）的日式缩写グロ（guro）。原指恶心怪异，奇怪，不自然的猎奇事物。现常用于色情领域，全称エログロ（eroguro），常表现为血腥暴力，残害，肉体切割，扭曲变态，有点恶心又怪异的异常性行为或色情事物，常与`amputee`、`ryona`、`blood`、`snuff`、`rape`等标签并用，不用于温和的`blood`或`ryona`。不应与`snuff`混淆。对于大多数涉及`robot`的情况，请改用`dismantling`。<br>图库只需要包含一张这种性质的图片即可获得此标签。<br><br>![恶](## "https://ehgt.org/a1/03/a1037f38d3841d9126257c95cf7ebf44645d6e1f-815087-1634-1743-jpg_250.jpg")![恶](## "https://ehgt.org/9c/30/9c30becd74eebfc9cc621cda75f096166e930b44-78256-733-500-jpg_250.jpg")![恶](## "https://ehgt.org/e9/53/e953213efaea1fc681824b601317c0a45872a309-124477-640-853-jpg_l.jpg") |  |
 | electric shocks | 电击 | 用电力引起疼痛或快感。 |  |
 | ryona | 凌虐 | 对角色实施痛击、电击、束缚。通常低于`torture`的程度。不应与`wrestling`混淆。 |  |
 | snuff | 杀害 | 杀害人类或`furry`。不应与`guro`混淆。<br>![恶](## "https://ehgt.org/d5/1b/d51b8f11d4892a73660d8e9b3c2727fabc701e29-707033-806-631-png_250.jpg")![恶](## "https://ehgt.org/70/01/7001de6f5c26f60c51d64583f503e8c49d5dca7c-137717-460-620-jpg_250.jpg")![恶](## "https://ehgt.org/9d/48/9d48f33ccfeecebfaaa0712f536dcead0b208910-342661-1215-1721-jpg_l.jpg") |  |
@@ -577,26 +591,28 @@ example:
 | selfcest | 自交 | 同一个人的两个版本间的性行为。通常发生在一个角色和其`gender change`之间。 |  |
 | solo action | 自摸 | 一个角色自己从事性活动。使用物品（例如杂志、`sex toys`、`exhibitionism`）作为刺激是可以接受的。<br>![](# "https://ehgt.org/de/17/de170cd498d3d7d7fa5b6fd92123a7b27218a10f-423358-600-847-jpg_l.jpg") |  |
 | table masturbation | 桌角自慰 | 通过摩擦桌角来自慰。不需要`masturbation`标签。<br>![图](# "https://ehgt.org/a3/6f/a36f1888c987f8f4e462465a81ea105e2b592fa6-680567-1200-1800-jpg_l.jpg") |  |
-|  | == 残疾 == |  |  |
+|  | == Disability == | == 残疾 == |  |
 | blind | 失明 | 眼睛根本不能发挥作用的人。不应与`blindfold`混淆。 |  |
 | handicapped | 残疾 | 一个不能依靠自己的力量移动自己的一个或多个肢体的人。不应与`amputee`或`bondage`混淆。 |  |
-| mute | 哑巴 | 一个不能说话的人。不应用于不愿说话的人或戴`gag`的人。不用于`speechless`画廊。 |  |
-|  | == 性别 == |  |  |
+| mute | 哑巴 | 一个不能说话的人。不应用于不愿说话的人或戴`gag`的人。不用于`speechless`图库。 |  |
+|  | == Consumption == | == 消费 == |  |
+| full tour | 消化道游览 | 一个角色被另一个角色整个吞下，穿过其消化系统，然后从肛门活着出来。只计算出现角色穿过消化系统的页面。可能援引`vore`标签。不应与`all the way through`混淆。 |  |
+|  | == Gender == | == 性别 == |  |
 | cuntboy | 人妖♀ | 有阴道而不是阴茎的男性。男性与`cuntboy`间的性行为不应添加`yaoi`或`males only`标签。如果男性拥有阴道和阴茎，请使用`otokofutanari`。 |  |
 | feminization | 女性化 | 一个男人将他的生活习惯变为一个异装癖（例如通过训练或`mind control`）或将他的身体改变为`shemale`/`futanari`。在任何一种情况下，该人必须采取表现出或被视为更女性化。 |  |
 | gender change | 性转换 | 一个角色通过任何方式改变了他们通常的性别。（例如：`gender morph`，`possession`和`body swap`）。<br>不应与`crossdressing`混淆。女性变为`futanari`不符合条件。<br>![我要成为XXX](# "https://ehgt.org/f7/e1/f7e1fa9f70a46036b162aeaf52646323327e5752-1116921-1014-1455-jpg_l.jpg") |  |
 | gender morph | 女体化 | 角色的身体通过身体变形改变了原来的性别。如果显示为序列而不是突然变化，则可能会调用`transformation`。<br>需要`gender change`标签。不应与`possession`和`body swap`相混淆。女性变为`futanari`不符合条件。 |  |
 | otokofutanari | 扶他 | 同时拥有阴道和阴茎的男性。男性和`otokofutanari`之间的性行为不应添加`yaoi`或`males only`标签。如果男性只有阴道，请使用`cuntboy`。 |  |
 |  | === 性别 > 性别间关系 === |  |  |
-| bisexual | 双性恋 | 画廊中有与同性和异性都发生性行为的参与者。不应用于`dickgirl on dickgirl`。 |  |
+| bisexual | 双性恋 | 图库中有与同性和异性都发生性行为的参与者。不应用于`dickgirl on dickgirl`。 |  |
 | dickgirl on male | 扶上男 | 女性使用阴茎插入男性，无论是`anal`还是`blowjob`。需要`futanari`或`shemale`标签。<br>![图](# "https://ehgt.org/d4/f1/d4f1ddc47d26269a3a1a6567237944e64fa0ac7f-3288334-1709-2400-jpg_l.jpg") |  |
 |  | == 技术 == |  |  |
 | first person perspective | 第一人称视角 | 透过角色的眼睛观察。 |  |
 | x-ray | 透视 | 内部器官通过皮肤或从内部可见。<br>![图](# "https://ehgt.org/a0/81/a0819f63c83f90fab00cbac9e94497cdd7a6fe49-1292852-1200-1694-jpg_l.jpg")![图](# "https://ehgt.org/e8/ec/e8ecda3984fd79572060ee2deba7750065a60383-1329197-1200-1694-jpg_l.jpg")![图](# "https://ehgt.org/c9/b1/c9b1daa9ad849b7a3c1e77e44fc65809a21e734c-668677-1920-2720-jpg_l.jpg") |  |
-|  | == 上下文 == |  |  |
-| blackmail | 要挟 | 通过威胁或披露信息迫使他人提供性爱的行为。 |  |
+|  | == Contextual == | == 上下文 == |  |
 | coach | 教练 | 身体训练的指导者。 |  |
 | impregnation | 受孕 | `pregnant`的过程。 |  |
+| mesugaki | 雄小鬼 | オスガキ，`f:mesugaki`的男性版本。需要`shotacon`标签。 |  |
 | prostitution | 卖淫 | 以性换钱的行为。通常包括以某种挑逗的方式穿衣。 |  |
 | teacher | 教师 | 角色作为教师参与。 |  |
 | tomgirl | 伪娘 | 通常误认为是女性的男性。常与`crossdressing`同时出现，不应与`shemale`混淆。<br>![图](# "https://ehgt.org/cd/fb/cdfb92f1d5c75f3754f3cb656cc468b7799344a6-1466633-1200-1694-jpg_l.jpg") |  |
@@ -606,15 +622,16 @@ example:
 | widower | 鳏夫 | `widow`的男性版本。 |  |
 | yandere | 病娇 | 动机来自于强迫的爱的精神病的行为。包括骚扰或劫持感兴趣的人；恐吓或伤害感知到的对手。如果有任何性活动，此人必须直接参与其中。 |  |
 | yaoi | 男同 | やおい，至少两个男性之间的性行为。<br>![例：夏目友人帳同人](# "https://ehgt.org/0d/90/0d908ce865720a1c4b04a114ea4807cdc31080f5-188031-776-1100-jpg_250.jpg") |  |
-|  | === 上下文 > 全画廊 === |  |  |
-| males only | 纯男性⚣ | 在画廊中的所有性行为、迷恋或亲密的性交互之间都严格限定为男性。要求至少两个男性进行交互。`cuntboy`不算在内。<br>![例：黒執事同人](# "https://ehgt.org/0d/43/0d4360e87c36a348a2ac55e6c6d4345ff43239a6-566081-1132-1600-jpg_250.jpg") |  |
-| pussyboys only | 纯扶他 | 在画廊中的所有性行为、迷恋或亲密的性交互之间都严格限定为`cuntboy`或`otokofutanari`。要求至少两个扶他进行交互。 |  |
-| sole male | 单男主 | 只有一个男性参与了整个画廊的所有性爱或恋物癖活动。`cuntboy`不算在内。 |  |
-| sole pussyboy | 单扶他 | 只有一个`cuntboy`或`otokofutanari`参与整个画廊的任何性或恋物活动（但不一定在所有活动中）。<br>不应与`solo action`混淆。 |  |
+|  | === Contextual > Gallery-Wide === | === 上下文 > 全图库 === |  |
+| males only | 纯男性⚣ | 在图库中的所有性行为、迷恋或亲密的性交互之间都严格限定为男性。要求至少两个男性进行交互。`cuntboy`不算在内。<br>![例：黒執事同人](# "https://ehgt.org/0d/43/0d4360e87c36a348a2ac55e6c6d4345ff43239a6-566081-1132-1600-jpg_250.jpg") |  |
+| pussyboys only | 纯扶他 | 在图库中的所有性行为、迷恋或亲密的性交互之间都严格限定为`cuntboy`或`otokofutanari`。要求至少两个扶他进行交互。 |  |
+| sole male | 单男主 | 只有一个男性参与了整个图库的所有性爱或恋物癖活动。`cuntboy`不算在内。 |  |
+| sole pussyboy | 单扶他 | 只有一个`cuntboy`或`otokofutanari`参与整个图库的任何性或恋物活动（但不一定在所有活动中）。<br>不应与`solo action`混淆。 |  |
 |  | === 上下文 > 不忠 === |  |  |
-| cheating | 出轨 | 另一半与别人的伴侣发生性关系。如果性行为是违背自己的意愿（例如`rape`），不应标记。不用于`swinging`。不应与`netorare`混淆。（性主角这方是主动的） |  |
-| netorare | NTR | 另一个人的配偶/伴侣不忠并且被戴绿帽子的意识到的情况。或这个故事显然是为了引发被戴绿帽子的人的嫉妒或同感时也可以接受。不应与`cheating`混淆。（性主角这方是被动的） |  |
-| swinging | 换妻 | 一对伴侣允许一方或双方与第三方发生性关系。如果新的伙伴关系只是男性之间，使用男性的命名空间，否则使用女性。 |  |
+| cheating | 出轨 | A和B之间存在相互的恋爱关系，B与第三者C发生性关系。A对此不同意或不知情。如果B是被胁迫或强奸的则不适用，但如果B在未受胁迫的情况下同意（例如通过`mind break`），则存在(presence)开始。如果A和B之间的关系是在原作中建立的而不是作为故事的一部分，那么A必须在作品中出现或以相关方式（直接或间接）提及，标签才能适用。另见：`netorare`。 |  |
+| netorare | NTR | A和B之间存在友好/熟悉或相互关系，B与第三者C发生性关系。A对此不同意或不知情。相互的关系并不需要相恋。例如儿时的朋友、私人朋友、同学或同事。需要展示A和B之间关系的故事元素，他们要么处于恋爱关系，要么A对B有兴趣。B被从A身边夺走必须是故事中显著的一部分。如果A和B之间的关系是在原作中建立的而不是作为故事的一部分，那么A必须在作品中出现或以相关方式（直接或间接）提及，标签才能适用。如果各方（A、B和C）都表现出对由此产生的多元恋爱关系感到高兴和满意，则不适用，除非作品大部分的重点是B被从A身边夺走。如果A和B处于恋爱关系，并且B没有受到胁迫或强奸，则`cheating`也适用。 |  |
+| netorase | 绿帽癖 | A和B之间存在友好/熟悉或相互关系，B与第三者C发生性关系。A对此知情并同意，甚至可能积极怂恿。相互的关系并不需要相恋。例如儿时的朋友、私人朋友、同学或同事。需要展示A和B之间关系的故事元素，他们要么处于恋爱关系，要么有性关系，或者A对B有兴趣。B被A送出必须是故事中显著的一部分。如果A和B处于恋爱关系，并且B没有受到胁迫或强奸，则`swinging`也适用。 |  |
+| swinging | 换夫 | A和B之间存在相互的恋爱关系，B与第三者C发生性关系。A对此知情并同意，甚至可能积极怂恿。如果B是被胁迫或强奸的则不适用，但如果B在未受胁迫的情况下同意（例如通过`mind break`），则存在(presence)开始。另见：`netorase`。 |  |
 |  | === 上下文 > 亲属 === |  |  |
 | brother | 兄弟 | 兄弟间的性行为。需要`incest`和`yaoi`标签。 |  |
 | cousin | 表兄弟 | 表兄弟间的性行为。需要`incest`和`yaoi`标签。 |  |
@@ -630,13 +647,14 @@ example:
 | hidden sex | 隐蔽性交 | 性行为发生在第三方的面前，但不被看见。 |  |
 | humiliation | 屈辱 | 在未参与的观众面前，以性方式非正当地侮辱人。 |  |
 | voyeurism | 偷窥 | 对从事性行为（也包括脱衣和如厕）的人进行偷窥。 |  |
-|  | == 低存在 == |  |  |
+|  | == Low Presence == | == 低存在 == |  |
 | low bestiality | 低存在兽交 | 表示`bestiality`的情况没有通过存在规则(presence rule)。需要`bestiality`标签。 |  |
 | low guro | 低存在猎奇 | 表示`guro`的情况没有通过存在规则(presence rule)。需要`guro`标签。 |  |
+| low incest | 低存在乱伦 | 表示`incest`的情况没有通过存在规则(presence rule)。需要`incest`标签。 |  |
 | low scat | 低存在排便 | 表示`scat`的情况没有通过存在规则(presence rule)。需要`scat`标签。 |  |
 | low shotacon | 低存在正太 | 表示`shotacon`的情况没有通过存在规则(presence rule)。需要`shotacon`标签。 |  |
 | low smegma | 低存在阴垢 | 表示`smegma`的情况没有通过存在规则(presence rule)。需要`smegma`标签。 |  |
-|  | == 高存在 == |  |  |
-| focus anal | 高存在肛交 | 画廊超过 50% 的内容为`anal`。需要`anal`标签。 |  |
-| focus blowjob | 高存在口交 | 画廊超过 50% 的内容为`blowjob`。需要`blowjob`标签。 |  |
-| focus paizuri | 高存在乳交 | 画廊超过 50% 的内容为`paizuri`。需要`paizuri`标签。 |  |
+|  | == High Presence == | == 高存在 == |  |
+| focus anal | 高存在肛交 | 图库超过 50% 的内容为`anal`。需要`anal`标签。 |  |
+| focus blowjob | 高存在口交 | 图库超过 50% 的内容为`blowjob`。需要`blowjob`标签。 |  |
+| focus paizuri | 高存在乳交 | 图库超过 50% 的内容为`paizuri`。需要`paizuri`标签。 |  |

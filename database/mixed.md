@@ -26,7 +26,7 @@ copyright: >
   本文的其他内容，遵循知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议提供。
 rules:
   - >-
-    为方便查找理解同类性癖的标签，请尽量按恋物标签分类(https://ehwiki.org/wiki/Fetish_Listing)归类存放，将类别写成注释。
+    为方便查找理解同类性癖的标签，请尽量按[恋物标签分类](https://ehwiki.org/wiki/Fetish_Listing)归类存放，将类别写成注释。
   - 若有属于多个分类的，放入最相关的那一个分类。
 example:
   raw: group
@@ -40,6 +40,8 @@ example:
 
 | 原始标签 | 名称 | 描述 | 外部链接 |
 | -------- | ---- | ---- | -------- |
+|  | == Age == | == 年龄 == |  |
+| kodomo doushi | 两小无猜 | 儿童间的性行为，所有参与者都为儿童。需要`lolicon`和`shotacon`标签。 |  |
 |  | == 身体 == |  |  |
 |  | === 身体 > 生物 === |  |  |
 |  | ==== 身体 > 生物 > 动物 ==== |  |  |
@@ -64,6 +66,7 @@ example:
 | nudism | 裸体主义 | 两个或多个角色的生殖器完全暴露在彼此面前，同时没有进行性活动。不要与`exhibitionism`相混淆。 |  |
 |  | == 多人活动 == |  |  |
 | ffm threesome | 女男女3P | ♀♂♀，2 女 1 男 3P。需要`group`标签。 |  |
+| gang rape | 轮奸 | 1 人同时被至少 3 人强奸。需要`group`和`rape`标签。对于双方同意的性行为，使用`harem`标签。 |  |
 | group | 乱交 | 两个以上的人同时进行性行为。是它们的前置标签：`harem`、`layer cake`、`mtf threesome`、`mmt threesome`、`mmf threesome`、`ttm threesome`、`ttf threesome`、`ffm threesome`和`fft threesome`等 3P 标签。其中 t 为变性人(transsexual)，包含`futanari`和`shemale`，这里为了书写方便用“扶”代指。两个或两个以上的伴侣有单独性行为或一群女孩站在周围不算。<br>![图](# "https://ehgt.org/eb/8a/eb8a92af97e65f81c552ca217fea67262afa0e24-2159382-1381-2000-jpg_l.jpg") |  |
 | mmf threesome | 男女男3P | ♂♀♂，2 男 1 女 3P。需要`group`标签。不算`yaoi`。 |  |
 | mmt threesome | 男扶男3P | ♂⚥♂，2 男 1 扶 3P。需要`group`标签。不算`yaoi`。 |  |
@@ -72,10 +75,12 @@ example:
 | shimaidon | 手足丼 | 具有血缘关系的兄弟姐妹两人（或以上）同时与同一个性伴侣产生性行为，需要`group`标签。 |  |
 | ttm threesome | 扶扶男3P | ⚥♂⚥，2 扶 1 男 3P。需要`group`标签。不算`yaoi`。 |  |
 | twins | 双胞胎 | 双胞胎与第三者或双胞胎间性交。可能是`group`。 |  |
-|  | == 上下文 == |  |  |
+|  | == Contextual == | == 上下文 == |  |
 |  | === 上下文 > 亲属 === |  |  |
 | incest | 乱伦 | 亲属之间的性行为，包括无血缘关系的人。 |  |
 | inseki | 姻亲 | 无血缘关系的亲属之间的性行为。需要`incest`标签。 |  |
+|  | == Low Presence == | == 低存在 == |  |
+| low incest | 低存在乱伦 | 表示`incest`的情况没有通过存在规则(presence rule)。需要`incest`标签。 |  |
 
 <!--
 Template: 

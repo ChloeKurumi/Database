@@ -8,31 +8,20 @@ on:
         type: string
         required: false
   schedule:
-    - cron: 30 7 * * 5
+    - cron: 30 7 5/15 * *
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 50
       - name: Download tool
-        uses: i3h/download-release-asset@v1.3.3
-        with:
-          owner: EhTagTranslation
-          repo: Editor
-          tag: latest
-          file: release.zip
-          token: ${{ secrets.GITHUB_TOKEN }}
-      - name: Extract tool
-        run: |
-          echo ::group::unzip
-          unzip ./release.zip -d ./tool
-          echo ::endgroup::
+        run: ./scripts/init.sh
 
       - name: Build
         env:
           EH_COOKIE: ${{ secrets.EH_COOKIE }}
-        run: node tool create-release . ./publish --strict --source-check ${{ inputs.namespaces }}
+        run: node --enable-source-maps tool create-release . ./publish --strict --source-check ${{ inputs.namespaces }} --coverage
