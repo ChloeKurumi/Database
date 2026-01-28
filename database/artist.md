@@ -231,7 +231,7 @@ example:
 | kylin | Kylin |  |  |
 | morishima kon | 森岛康 | 森岛コン | [pixiv](https://www.pixiv.net/users/2634234) [X](https://x.com/kon_004) |
 | mdo-h | 无道睿智 | 無道叡智<br>![PixivIcon](https://i.pixiv.cat/user-profile/img/2021/04/05/10/26/29/20480805_9f04fce0df0b9effba821335b892e257_170.png) | [X](https://x.com/mdoh02) [pixiv](https://www.pixiv.net/users/4144) [FANBOX](https://mdo-h.fanbox.cc/) |
-| ginyou haru | 銀曜ハル |  |  |
+| ginyou haru | 银曜ハル |  |  |
 | shiina | シイナ |  |  |
 | mikuta | みくた |  |  |
 | shibasaki syouzi | 柴崎ショージ | 其他笔名：柴崎しょうじ | [X](https://x.com/Siba_Syoji) |
@@ -254,7 +254,7 @@ example:
 | rage | らげ |  |  |
 | chouzetsu bishoujo mine | 超绝美少女mine |  |  |
 | fried | ふりいど |  |  |
-| kouji | 孝治 |  |  |
+| kouji | 孝至 \| 孝治 |  |  |
 | sanada | さなだ |  |  |
 | shikei | しけー |  |  |
 | ruri | ルリ \| るり \| 瑠璃 | MAGNOLIA<br>StayBlue<br>VOLLMOND |  |
@@ -278,7 +278,7 @@ example:
 | hiraoka ryuichi | 平冈龙一 |  |  |
 | maguro teikoku | まぐろ帝国 |  |  |
 | pote | ぽて |  |  |
-| karakuchi choucream | 辛口しゅーくりーむ |  |  |
+| karakuchi choucream | 樱井マキ |  |  |
 | mafen | マフェン |  |  |
 | kuroda kuro | 黑田クロ |  |  |
 | ooooalikui | おおおおありくい |  |  |
@@ -379,7 +379,7 @@ example:
 | takatuki nato | 鷹月ナト |  |  |
 | shiratama | 白玉 | 白玉老师画超级可爱的萝莉 | [pixiv](https://www.pixiv.net/users/705370) [X](https://x.com/shiratamacaron) [个人主页](http://shiratamaco.com/) |
 | nohara hiromi | 野原ひろみ |  |  |
-| higashino mikan | 東野みかん |  |  |
+| higashino mikan | 东野蜜柑 |  |  |
 | dr.bug | Dr.阿虫 | 中国台湾地区右翼漫画家 |  |
 | ameto yuki | 糖果由崎 | 女性原画师, 来自东京, 画风是其标志性的**Tareme**(down-tuned)的大眼睛, 同人社团是`g:ame nochi yuki` | [P站](https://www.pixiv.net/users/92891) [Xitter](https://x.com/ameto_y) [HP](http://amenochiyuki.blog43.fc2.com/) [维基百科(日文)](https://ja.wikipedia.org/wiki/あめとゆき) [Wikidata](https://www.wikidata.org/wiki/Q16263782) |
 | kenkou cross | 健康クロス |  |  |
@@ -496,7 +496,7 @@ example:
 | shouji ayumu | 小路步 | 小路あゆむ 是日本成人向漫画家。作品角色主要以`lolicon`为主。<br>![图](https://pbs.twimg.com/profile_images/1330877086009942019/CkxxUI3R_400x400.jpg)<br>**作者推特头像**<br>![图](# "https://ehgt.org/2b/4f/2b4f5f23a1fca19618a4e1d828b2afe4d2260191-790194-1053-1500-jpg_l.jpg")<br>单行本《ちいさいこいいよね… 》 | [X](https://x.com/kuma_sasa) [pixiv](https://www.pixiv.net/users/170645) |
 | maka fushigi | 魔訶不思議 |  |  |
 | draw2 | 土狼弐 |  |  |
-| muronaga chaashuu | 室永叉烧 |  |  |
+| muronaga chaashuu | 室永叉烧 |  | [pixiv](https://www.pixiv.net/users/828559) |
 | sawao | さわお |  |  |
 | kudou hiroshi | 工藤洋 |  |  |
 | tsurui | 鹤井 |  |  |
@@ -624,12 +624,12 @@ example:
 | rurukichi | るるキチ |  |  |
 | unasaka | うなさか |  | [pixiv](https://www.pixiv.net/users/52141) [X](https://x.com/unasaka0309) |
 | anmi | Anmi |  | [pixiv](https://www.pixiv.net/users/212801) [X](https://x.com/Anmi_) [个人主页](https://anmi.tumblr.com/) [微博](https://weibo.com/u/5732727922) |
-| kishizuka kenji | 木静谦二 |  |  |
+| kishizuka kenji | 木静谦二 | 木静謙二 |  |
 | kanenomori sentarou | 金ノ森銭太郎 |  |  |
 | hazuki kaoru | 八月薫 |  |  |
 | kenzaki mikuri | 犬崎みくり |  |  |
 | kofunami | こふなみ |  |  |
-| touma itsuki | 东磨树 |  |  |
+| touma itsuki | 东磨树 | 東磨樹 |  |
 | asaba yuu | 浅葉ゆう |  |  |
 | akizuki ryou | 秋月亮 |  |  |
 | nanigawa rui | 名仁川るい |  |  |
@@ -706,7 +706,7 @@ example:
 | akiha at | あきは@ |  |  |
 | amagiri mio | 雨雾MIO |  |  |
 | bifidus | ビフィダス |  | [pixiv](https://www.pixiv.net/users/1446203) |
-| ice | ICE |  |  |
+| ice | ICE |  | [pixiv](https://www.pixiv.net/users/27612) |
 | kumoemon | くもえもん |  |  |
 | kuro fn | クロFn |  |  |
 | lorica | Lorica |  |  |
@@ -715,11 +715,11 @@ example:
 | oobayashi mori | 大林森 |  |  |
 | piero | PIえろ |  |  |
 | saida kazuaki | さいだ一明 | 喜欢过膝袜的成人向漫画家。<br>参考标签：`stockings`<br>※注意老师名字中的一横是汉字的“一”，而非长音符号“ー”<br><br>单行本《股ひらいて・腰ふって》<br>![图](# "https://ehgt.org/2f/80/2f8015a046f360ede7f90fb95d4a353139183dcb-379599-1128-1600-jpg_l.jpg") | [X](https://x.com/saida_kazuaki) |
-| sayryu | 性龙 |  |  |
+| sayryu | 性龙 | 性竜 |  |
 | tsukasawa | 塚泽 |  | [pixiv](https://www.pixiv.net/users/897293) |
 | yukiguni omaru | 雪國おまる |  |  |
-| asakura mitsuru | 朝仓满 |  |  |
-| hase tsubura | 长谷圆 |  |  |
+| asakura mitsuru | 朝仓满 | 朝倉満 |  |
+| hase tsubura | 长谷圆 | 長谷円 |  |
 | herohero tom | へろへろTom |  |  |
 | hoshino ryuichi | 星野龙一 |  |  |
 | inoue nanaki | 井上七树 |  |  |
@@ -747,7 +747,7 @@ example:
 | rihito akane | りひと茜 |  |  |
 | abe inori | 阿部いのり |  |  |
 | akuochisukii sensei | アクオチスキー先生 |  |  |
-| ameyama denshin | 雨山电信 |  |  |
+| ameyama denshin | 雨山电信 | 雨山電信 |  |
 | aoyama mayama | 青山まやま |  |  |
 | bitch goigostar | ビッチ☆ゴイゴスター |  |  |
 | danbo | ダンボ | 崎森ダン |  |
@@ -758,7 +758,7 @@ example:
 | sagattoru | サカッとる |  |  |
 | tamaki | TAMAKI |  |  |
 | ahemaru | アヘ丸 |  | [pixiv](https://www.pixiv.net/users/287671) |
-| akikusa peperon | 秋草ぺぺろん |  |  |
+| akikusa peperon | 秋草ぺぺろん |  | [pixiv](https://www.pixiv.net/users/207241) |
 | drachef | ドラチェフ | ![](https://pbs.twimg.com/profile_images/1549890213388103680/YWR_jKvn_400x400.jpg) | [X](https://x.com/dra_tanuking) [pixiv](https://www.pixiv.net/users/2487760) [Fantia](https://fantia.jp/fanclubs/30204) |
 | hikage hinata | 日陰ひなた |  |  |
 | kijima daisyarin | 鬼岛大车轮 |  |  |
@@ -893,7 +893,7 @@ example:
 | gekkoji | 激昂寺 |  |  |
 | monety | もねてぃ |  |  |
 | hyji | 灰司 |  |  |
-| rokuichi | 六壹 |  |  |
+| rokuichi | 六壹 |  | [FANBOX](https://rokuichi-61.fanbox.cc/posts) |
 | yakumi benishouga | 药味红生姜 |  |  |
 | takeyuu | タケユウ |  |  |
 | pokka | ぽっか |  |  |
@@ -917,7 +917,7 @@ example:
 | kanzaki maguro | 潤咲まぐろ |  |  |
 | sakagaki | サカガキ |  |  |
 | leslie brown | Leslie Brown |  |  |
-| satsuki imonet | 皋月芋网 |  |  |
+| satsuki imonet | 皋月芋网 | 皐月芋網 |  |
 | chiyoko | ちよこ |  |  |
 | marui maru | 丸居まる |  |  |
 | asuhiro | アスヒロ |  |  |
@@ -1079,8 +1079,8 @@ example:
 | alp | あるぷ | 成人向け漫画家。サークル「リンゴヤ」 | [X](https://x.com/alp315)<br>[pixiv](https://www.pixiv.net/users/1746953) |
 | chiba toshirou | チバトシロウ |  | [pixiv](https://www.pixiv.net/users/1226571) |
 | choco pahe | チョコぱへ |  |  |
-| hal | HAL |  |  |
-| haruhisky | 春日喜欢 | I'm a Doujinshi and Manga creator living in Japan.<br>（一个很想喜欢画`c:haruhi suzumiya`的画师） | [pixiv](https://www.pixiv.net/users/4956073) [X](https://x.com/haruhisky1) |
+| hal | hal \| なにがしナニカ |  | [X](https://x.com/hal1056714) |
+| haruhisky | はるきち | I'm a Doujinshi and Manga creator living in Japan.<br>（一个很喜欢画`c:haruhi suzumiya`的画师） | [pixiv](https://www.pixiv.net/users/4956073) [X](https://x.com/haruhisky1) |
 | ichinomiya yuu | 一宮夕羽 |  |  |
 | inago | INAGO | 漫画家。作品主要以`lolicon`为主。<br>![TwitterIcon](# "https://pbs.twimg.com/profile_images/1156589033620946945/BsvxFIQm_400x400.jpg") | [X](https://x.com/Inago1919) [pixiv](https://www.pixiv.net/users/5629962) |
 | maki daikichi | 牧だいきち |  |  |
@@ -1100,7 +1100,7 @@ example:
 | shiramayumi | 白真弓 |  |  |
 | chiro | CHIRO \| チろ | ようかい玉の輿<br>チよこれいと |  |
 | junny | JUNNY |  |  |
-| wakino keibun | 胁乃敬文 |  |  |
+| wakino keibun | 胁乃敬文 | 茶入敬文 |  |
 | suzuneco | Suzu猫。 |  |  |
 | utakata | 泡沫 |  |  |
 | yakou | 夜光 |  |  |
@@ -1127,7 +1127,7 @@ example:
 | umeko | うめ子 |  |  |
 | yamada yuuya | ヤマダユウヤ | ![X](https://pbs.twimg.com/profile_images/688924522590814208/gBTyouE0_400x400.png)<br><br>**作者推特头像** | [X](https://x.com/yamakawayamada) [pixiv](https://www.pixiv.net/users/33611) |
 | yumoteliuce | ユモテリウス |  |  |
-| ichihaya | いちはや |  |  |
+| ichihaya | いちはや | 萝莉控 | [Tumblr](https://ichihayasch.tumblr.com)<br>[X](https://x.com/188_sch)<br>[Fantia](https://fantia.jp/fanclubs/3743)<br>[pixiv](https://www.pixiv.net/users/10704)<br>[BOOTH](https://188.booth.pm/) |
 | oboro | 胧 |  |  |
 | takayanagi katsuya | 高柳カツヤ |  | [X](https://x.com/hatsujohki) |
 | hori hiroaki | 堀博昭 |  |  |
@@ -1256,7 +1256,7 @@ example:
 | kai hiroyuki | 甲斐ひろゆき |  |  |
 | kihiru | きひる |  |  |
 | kogaku kazuya | 虎顎かずや |  |  |
-| kokonoki nao | ここのき奈绪 |  |  |
+| kokonoki nao | ここのき奈绪 | ここのき奈緒 |  |
 | naz | NAZ | 漫画家。二次创作中，主要是以`kantai collection`为原作的`exhibitionism`作品。<br>原创作品中，也包含有`exhibitionism`<br>![PixivIcon](https://i.pixiv.cat/user-profile/img/2020/10/14/18/55/36/19510955_99a1644d94d0c9a1988d2394a2aa20fb_170.png) | [X](https://x.com/N_A_Z_) [pixiv](https://www.pixiv.net/users/1295112) |
 | neriwasabi | ねりわさび |  |  |
 | yonyon | よんよん |  |  |
@@ -1374,7 +1374,7 @@ example:
 | eo masaka | EOまさか |  |  |
 | hanabi | HANABi |  | [pixiv](https://www.pixiv.net/users/270669) |
 | kakizaki kousei | 垣崎コウセイ |  |  |
-| miyamoto issa | 宮元一佐 |  |  |
+| miyamoto issa | 宫元一佐 |  |  |
 | murasaki nyaa | 紫☆にゃ～ |  |  |
 | okyuuri | おきゅうり |  |  |
 | parabola | ぱらボら |  |  |
@@ -1622,7 +1622,7 @@ example:
 | raymon | RAYMON |  |  |
 | shiroie mika | 白家ミカ |  |  |
 | tes-mel | tes\_mel |  |  |
-| toba yuga | 跳马游鹿 |  |  |
+| toba yuga | 跳马游鹿 | 跳馬遊鹿 | [pixiv](https://www.pixiv.net/users/1254236) |
 | yoshida tobio | 吉田鸢牡 |  |  |
 | zero no mono | ゼロの者 |  |  |
 | hige masamune | ひげ政宗 |  |  |
@@ -1720,7 +1720,7 @@ example:
 | kokekokko coma | こけこっこ☆こま |  |  |
 | nagareboshi hikaru | 流星ひかる |  |  |
 | mihara jun | みはらじゅん |  |  |
-| dpc | DPC |  |  |
+| dpc | DPC | デイノジ dpc \| deinoji |  |
 | urase shioji | 浦瀬しおじ |  |  |
 | yakusho | やくしょ |  |  |
 | kedama keito | 毛玉ケヰト |  |  |
@@ -1731,7 +1731,7 @@ example:
 | nyuu | にゅう |  | [X](https://x.com/nyu7nyu) [pixiv](https://www.pixiv.net/users/1010501) |
 | kani club | 蟹俱乐部 |  |  |
 | tabuchi | たぶち |  |  |
-| nora higuma | 野良ヒグマ |  | [X](https://x.com/norahigumax) [pixiv](https://www.pixiv.net/users/22445) |
+| nora higuma | 野良罴 |  | [X](https://x.com/norahigumax) [pixiv](https://www.pixiv.net/users/22445) |
 | tohyama eight | 东山エイト | ![X](https://pbs.twimg.com/profile_images/1230143408812855296/VOh2ESl8_400x400.png)<br><br>**作者推特头像** | [X](https://x.com/eight_tohyama) [pixiv](https://www.pixiv.net/users/9611647) |
 | shakuhachi nameko | 尺八ナメコ |  |  |
 | bai asuka | 呗飞鸟 |  |  |
@@ -1768,7 +1768,7 @@ example:
 | tanaka juice | 田中十酢 |  |  |
 | tom tamio | 都夢たみお |  |  |
 | tsukamoto miei | 塚本ミエイ |  |  |
-| unno hotaru | 海野萤 | 海野 螢（うんの ほたる）为日本的漫画家、同人作家。<br><br>出生于东京。男性。血液型A型。主要在成年向的商业漫画杂志发表作品。日文原名中的“萤” 以“螢”来表记而不是日文中常用的“蛍”。<br>从属于日本科幻作家俱乐部。<br>作品很多添加了科幻色彩，以清淡的笔触描绘的叙情的画面为特征。较多使用常见的科幻小说的梗。对漫画中的分镜很下功夫。在作品中登场的少女通常是`small breasts`，以及短发。<br>![图](https://pbs.twimg.com/profile_images/1056025042348326912/4IokMfxW_400x400.jpg)<br>**作者推特头像**<br><br>《はごろも姫 下巻》<br>![图](https://ehgt.org/ae/c1/aec144eb34d34ae67e4ac4ad0b73ea46a236fd1a-523560-1125-1600-jpg_l.jpg) | [维基百科🇯🇵](https://ja.wikipedia.org/wiki/海野螢) (\*)<br>[X](https://x.com/unnohotaru) [pixiv](https://www.pixiv.net/users/668678) |
+| unno hotaru | 海野萤 | 海野 螢（うんの ほたる）为日本的漫画家、同人作家。<br><br>出生于东京。男性。血液型A型。主要在成年向的商业漫画杂志发表作品。日文原名中的“萤” 以“螢”来表记而不是日文中常用的“蛍”。<br>从属于日本科幻作家俱乐部。<br>作品很多添加了科幻色彩，以清淡的笔触描绘的叙情的画面为特征。较多使用常见的科幻小说的梗。对漫画中的分镜很下功夫。在作品中登场的少女通常是`small breasts`，以及短发。<br>![图](https://pbs.twimg.com/profile_images/1056025042348326912/4IokMfxW_400x400.jpg)<br>**作者推特头像**<br><br>《はごろも姫 下巻》<br>![图](https://ehgt.org/ae/c1/aec144eb34d34ae67e4ac4ad0b73ea46a236fd1a-523560-1125-1600-jpg_l.jpg)<br><br>海野螢 | [维基百科🇯🇵](https://ja.wikipedia.org/wiki/海野螢) (\*)<br>[X](https://x.com/unnohotaru) [pixiv](https://www.pixiv.net/users/668678) |
 | watanabe wataru | わたなべわたる |  |  |
 | ikegami akane | 池上茜 |  |  |
 | gujira | ぐじら | ぐじら是日本成人向漫画家，同人志创作者。<br>作品多为`shotacon`或`gyaru`<br>![图](# "https://ehgt.org/42/50/4250fd7d3978c7d6a76b00565f25b44e21c56c99-879573-1085-1500-jpg_l.jpg")<br>《ギャルとかビッチとか色々》 | [X](https://x.com/gujira4) [pixiv](https://www.pixiv.net/users/215082) |
@@ -1826,7 +1826,7 @@ example:
 | mukaibi aoi | 向井弥・葵 |  |  |
 | takane nohana | たかねのはな |  |  |
 | yokoyama chicha | よこやまちちゃ |  |  |
-| yuuma | 祐马 \| ゆーま |  | [祐马的 pixiv](https://www.pixiv.net/users/1922577) [ゆーま的 pixiv](https://www.pixiv.net/users/222275) |
+| yuuma | 祐马 \| ゆーま | 祐馬 | [祐马的 pixiv](https://www.pixiv.net/users/1922577) [ゆーま的 pixiv](https://www.pixiv.net/users/222275) |
 | koide nao | 小出奈央 |  |  |
 | ueyama you | Ueyama You |  |  |
 | umino luka | 海野留珈 |  |  |
@@ -1940,7 +1940,7 @@ example:
 | miwa futaba | 三輪フタバ |  |  |
 | arano oki | 荒野冲 |  |  |
 | nekotewi | ねこてゐ | ねこてゐ是同人志创作者，插画师。作品以成人向`lolicon`系为主。<br>![图](https://pbs.twimg.com/profile_images/1201212116377595905/CJqpgzkd_400x400.jpg)<br>**作者推特头像**<br>![图](# "https://ehgt.org/ca/b2/cab2fff6263180876c4e9c8956c6701b98e63b41-5206557-2504-3539-png_l.jpg")<br>同人本《紅閻魔流房中術!! \せっくすがんばるでち/ (Fate/Grand Order)》 | [X](https://x.com/nekoniwagarden) [pixiv](https://www.pixiv.net/users/279599) |
-| ohisashiburi | お久しぶり |  |  |
+| ohisashiburi | お久しぶり | 女性画师，和`mameojitan`是姐妹。 |  |
 | tsushima zan | 津嶋ザン |  |  |
 | tsuda nanafushi | 津田七节 |  |  |
 | tokuni mirashichi | 戸国みらしち |  |  |
@@ -1975,7 +1975,7 @@ example:
 | abe yoshitoshi | 安倍吉俊 |  |  |
 | son hee-joon | 손희준 | 233 |  |
 | herurun | へるるん |  |  |
-| hoshino | 星乃 |  |  |
+| hoshino | ホシノ |  |  |
 | zyugoya | 十五夜 |  |  |
 | yamaoka koutetsurou | 山冈钢铁郎 |  |  |
 | henreader | へんりいだ | 单行本《もっと! はつこいりぼん。》<br>![图](# "https://ehgt.org/15/b5/15b53ac3d21261728f4d40be233bbb61dabf8fcf-3732048-3351-4948-jpg_l.jpg") | [X](https://x.com/henreaderh_) [pixiv](https://www.pixiv.net/users/2278911) |
@@ -1990,7 +1990,7 @@ example:
 | akisora | 秋穹 |  |  |
 | tanishi mitsuru | タニシミツル |  |  |
 | mizuno koori | 水乃コオリ |  |  |
-| akaiguppy | 全红白子 |  |  |
+| akaiguppy | 全红白子 |  | [pixiv](https://www.pixiv.net/users/2538590) [FANBOX](https://jacky8140.fanbox.cc/) |
 | etuzan jakusui | 越山弱衰 |  | [X](https://x.com/hayo_cinema) [pixiv](https://www.pixiv.net/users/120880) |
 | eiji | Eiジ |  |  |
 | oryou | おりょう |  | [pixiv](https://www.pixiv.net/users/24392) [X](https://x.com/oryoillust) [Twitter(成人向)](https://x.com/oryo) |
@@ -2018,7 +2018,7 @@ example:
 | inue shinsuke | 犬江しんすけ | ![X](https://pbs.twimg.com/profile_images/788343168022392832/456B_PW6_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/inushins) [pixiv](https://www.pixiv.net/users/172088) |
 | onigirikun | おにぎり君 |  |  |
 | nekosu | ねこす |  |  |
-| akahito | 赤人 |  |  |
+| akahito | 赤人 | 紅壱 | [pixiv](https://www.pixiv.net/users/55026) |
 | hanada yanochi | 花田やのち |  |  |
 | kinokomushi | きのこむし |  | [X](https://x.com/kinokomusin) [pixiv](https://www.pixiv.net/users/1218811) |
 | ichimura | イチムラ |  |  |
@@ -2038,7 +2038,7 @@ example:
 | azarashi | アザラシ |  |  |
 | syamonabe | シャモナベ |  | [pixiv](https://www.pixiv.net/users/5928132) |
 | tyagama | 茶釜 |  |  |
-| tkp | TKP |  |  |
+| tkp | TKP |  | [pixiv](https://www.pixiv.net/users/134671) |
 | yakumo ginjirou | 八云银次郎 |  |  |
 | namamo nanase | なまもななせ |  |  |
 | pyon-kti | ぴょん吉 |  | [X](https://x.com/pyon_Kti) [pixiv](https://www.pixiv.net/users/197076) |
@@ -2047,7 +2047,7 @@ example:
 | shiraishinsuke | 白石Nスケ |  |  |
 | soramame-san | そら豆さん |  |  |
 | wabara hiro | 羽原ヒロ |  |  |
-| synchroaki | しんくろあき |  |  |
+| synchroaki | synchroaki \| synchron |  |  |
 | kin no tamamushi | 金ノ玉虫 |  |  |
 | yamamoto hyugo | 山本ひゅーご |  |  |
 | lithium | Lithium |  |  |
@@ -2062,7 +2062,7 @@ example:
 | momoyama jirou | 桃山ジロウ |  |  |
 | r5 | R5 |  |  |
 | c2 | C2 |  |  |
-| shitappa | したっぱ |  |  |
+| shitappa | したっぱ | 下っ端 |  |
 | kanbayashi takaki | 神林タカキ |  |  |
 | nyx | にゅくす |  |  |
 | akashia | アカシア |  | [pixiv](https://www.pixiv.net/users/7036773) |
@@ -2073,9 +2073,9 @@ example:
 | berosu | べろす |  |  |
 | silly | しりー |  | [pixiv](https://www.pixiv.net/users/2774175) |
 | sekiri | せきり |  |  |
-| midorino tanuki | 翠野タヌキ |  | [pixiv](https://www.pixiv.net/users/16859821) |
+| midorino tanuki | 翠野狸 |  | [pixiv](https://www.pixiv.net/users/16859821) |
 | kanna hisashi | かんな久 |  |  |
-| kitahara eiji | 北原エイジ |  |  |
+| kitahara eiji | 北原エイジ |  | [pixiv](https://www.pixiv.net/users/10693021) |
 | aoi miharu | 蒼井ミハル |  |  |
 | arinotowatari | ありのとわたり |  |  |
 | dagashi | 駄菓子 |  |  |
@@ -2146,7 +2146,7 @@ example:
 | okuni yoshinobu | 小国由喜 |  |  |
 | oreiro | オレイロ |  |  |
 | ndc | NDC |  |  |
-| rocket monkey | ロケットモンキー |  |  |
+| rocket monkey | 火箭猴 |  |  |
 | a-teru haito | A辉废都 |  |  |
 | kusumoto toka | 楠元とうか |  |  |
 | utatane hiroyuki | うたたねひろゆき |  |  |
@@ -2213,7 +2213,7 @@ example:
 | teppeki kyojin | 铁壁巨人 |  |  |
 | mimiyoshi | みみよし |  |  |
 | jinsuke | 甚助 |  |  |
-| mushoku santaro | 无色三太郎 |  |  |
+| mushoku santaro | 无色三太郎 | 無色三太郎 |  |
 | tawara hiryuu | 俵绯龙 |  |  |
 | marugoshi | まるごし |  |  |
 | missbehaviour | MissBehaviour |  |  |
@@ -2275,7 +2275,7 @@ example:
 | ryokuchaism | 緑茶イズム | ![X](https://pbs.twimg.com/profile_images/1461906673212215296/BLLceckP_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/SQbridge) [pixiv](https://www.pixiv.net/users/9402246) |
 | shiden akira | しでん晶 |  |  |
 | soborogo | ソボロゴ |  |  |
-| syoukaki | 消火器 |  |  |
+| syoukaki | 消火器 |  | [pixiv](https://www.pixiv.net/users/24898) |
 | 1 equals 2 | 1=2 |  |  |
 | zouo-san | 憎恶产 |  |  |
 | machida hiraku | 町田ひらく |  |  |
@@ -2345,7 +2345,7 @@ example:
 | sensouji kinoto | 浅草寺きのと |  |  |
 | shinozuka yuuji | 篠塚裕志 |  |  |
 | shikishiro konomi | 色白好 |  |  |
-| sakurayu hal | 樱汤ハル | ![X](https://pbs.twimg.com/profile_images/892869754762838016/5ks9kPl0_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/yuusakura4242) [pixiv](https://www.pixiv.net/users/3519737) |
+| sakurayu hal | 樱汤春 | ![X](https://pbs.twimg.com/profile_images/892869754762838016/5ks9kPl0_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/yuusakura4242) [pixiv](https://www.pixiv.net/users/3519737) |
 | nanao yukiji | 七尾ゆきじ |  |  |
 | herio | ヘリを |  |  |
 | aikawa arisa | 相川亚利砂 |  |  |
@@ -2362,7 +2362,7 @@ example:
 | yoshida inuhito | 吉田犬人 |  |  |
 | yuyama chika | 湯山チカ |  |  |
 | kumakiti | 隈吉 |  |  |
-| umakuchi syouyu | うまくち酱油 | ![X](https://pbs.twimg.com/profile_images/1416959332244025347/8r5hCo2b_400x400.jpg)<br><br>**作者推特头像**<br><br>同人社团`amakuchi syoujo`主笔画师。 | [X](https://x.com/umakuchu) [pixiv](https://www.pixiv.net/users/809099) |
+| umakuchi syouyu | 甘口酱油 | ![X](https://pbs.twimg.com/profile_images/1416959332244025347/8r5hCo2b_400x400.jpg)<br><br>**作者推特头像**<br><br>同人社团`amakuchi syoujo`主笔画师。 | [X](https://x.com/umakuchu) [pixiv](https://www.pixiv.net/users/809099) |
 | tokie hirohito | 刻江寻人 |  |  |
 | yuzuki n dash | 柚木N’ |  | [X](https://x.com/yuzukin_) [pixiv](https://www.pixiv.net/users/691882) |
 | itou nanami | 井藤ななみ |  |  |
@@ -2427,7 +2427,7 @@ example:
 | yanagi yuu | ヤナギユウ |  |  |
 | ponite korosuke | ポニテコロ介 |  |  |
 | azuse | あずせ | ![あずせ](https://i.pixiv.cat/user-profile/img/2019/01/25/00/17/46/15303164_c7c876e27b08c9b603fbfdfc36445a6c_170.png)<br>月刊「アナンガ・ランガ」作者<br><br>![カワイイ女の子を釣る方法](# "https://i.pixiv.cat/img-original/img/2019/06/26/02/49/19/75410651_p0.jpg") | [画师推特](https://x.com/_azuse) [pixiv](https://www.pixiv.net/users/71881) |
-| mameojitan | まめおじたん | ![あずせ](https://i.pixiv.cat/user-profile/img/2016/08/18/15/55/24/11368877_a999a4dd243aa415d3d09cd96648e2b4_170.jpg)<br>茜新社「comic高」作者<br>![Knospenmädchen](https://i.pixiv.cat/img-original/img/2019/08/31/14/59/41/76548766_p0.jpg) | [画师推特](https://x.com/_o_j_i_3_) [pixiv](https://www.pixiv.net/users/1297967) |
+| mameojitan | まめおじたん | ![あずせ](https://i.pixiv.cat/user-profile/img/2016/08/18/15/55/24/11368877_a999a4dd243aa415d3d09cd96648e2b4_170.jpg)<br>茜新社「comic高」作者，女性画师，和`ohisashiburi`是姐妹。<br>![Knospenmädchen](https://i.pixiv.cat/img-original/img/2019/08/31/14/59/41/76548766_p0.jpg)<br>单行本作品 | [X](https://x.com/_o_j_i_3_) [pixiv](https://www.pixiv.net/users/1297967) |
 | giuniu | ぎうにう | ![ぎうにう](https://i.pixiv.cat/user-profile/img/2014/08/20/01/34/30/8288195_4f79cd90fce0c2abde7413133e7bf88b_170.jpg)<br><br>![２コマなアホちゃん](https://i.pixiv.cat/img-original/img/2018/08/11/03/36/09/70135294_p0.png) | [画师推特](https://x.com/g1un1u) [pixiv](https://www.pixiv.net/users/265292) |
 | sabusuka | サブスカ | MUJINCOMICS作者 | [画师推特](https://x.com/sabusuka) [pixiv](https://www.pixiv.net/users/13316) |
 | senji | 煎路 |  |  |
@@ -2452,7 +2452,7 @@ example:
 | yashiro seika | 八城惺架 |  | [X](https://x.com/yashiro_seika) [pixiv](https://www.pixiv.net/users/柑橘少女) |
 | tokiwa midori | 常磐绿 |  | [X](https://x.com/amanatsu_mikan7) [pixiv](https://www.pixiv.net/users/5156833) |
 | tsubaki jushirou | 椿十四郎 | 椿 十四郎（つばき じゅうしろう、1978年4月14日 - )是日本成人向漫画家。<br>作品以`lolicon`系和兄妹`incest`为主。<br>![图](https://pbs.twimg.com/profile_images/939057661869305856/V-F6mz69_400x400.jpg)<br>**作者推特头像**<br><br>![图](# "https://ehgt.org/f8/4f/f84f121a24d187eb39a3322e834b5b5e7f0f1273-238728-1125-1600-jpg_l.jpg")<br>《アネ♥LOVER》 | [X](https://x.com/jushirou) [pixiv](https://www.pixiv.net/users/17111) [维基百科🇯🇵](https://ja.wikipedia.org/wiki/椿十四郎) |
-| tukinowagamo | 月ノ輪ガモ |  |  |
+| tukinowagamo | 月ノ轮ガモ |  |  |
 | uron rei | ウーロン・レイ |  |  |
 | mushanokouji shizuka | 武者小路静香 |  |  |
 | emori uki | 江森うき |  |  |
@@ -2479,7 +2479,7 @@ example:
 | tsukishima yuuko | 月岛优子 | 月嶋ゆうこ, 女性原画师, 生日是3月29日 | [pixiv](https://www.pixiv.net/users/78088) [VNDB](https://vndb.org/s5461) |
 | tomoshibi hidekazu | 赤提灯 |  | [pixiv](https://www.pixiv.net/users/4057) |
 | kamisyakujii yubeshi | 紙石神井ゆべし |  | [pixiv](https://www.pixiv.net/users/283710) [X](https://x.com/kamisyakujii) |
-| kurosu gatari | 黒巣ガタリ | ![X](https://pbs.twimg.com/profile_images/1264757144823328768/4sZi3nP1.jpg)<br><br>**作者推特头像** | [X](https://x.com/kurosugatari?s=09) [pixiv](https://www.pixiv.net/users/13472044) |
+| kurosu gatari | 黑巢ガタリ | ![X](https://pbs.twimg.com/profile_images/1264757144823328768/4sZi3nP1.jpg)<br><br>**作者推特头像** | [X](https://x.com/kurosugatari?s=09) [pixiv](https://www.pixiv.net/users/13472044) |
 | doku denpa | 毒でんぱ |  |  |
 | dokiyuri | どきゆり |  | [pixiv](https://www.pixiv.net/users/160122) |
 | tamagoro | たまごろー |  |  |
@@ -2509,7 +2509,7 @@ example:
 | mousou | 妄想 |  | [pixiv](https://www.pixiv.net/users/5852420) |
 | yokohama inka | よこはまインカ |  |  |
 | hoshi | ほし | ![ほし头像](https://i.loli.net/2020/05/15/CNdQfLDRpVIKEP3.jpg) | [pixiv](https://www.pixiv.net/users/1198913) [X](https://x.com/hoshi_u3) [个人主页](https://usagigo.com/) |
-| nanamatsu kenji | 七松建司 |  |  |
+| nanamatsu kenji | 七松建司 |  | [pixiv](https://www.pixiv.net/users/536099) |
 | fuumi | ふーみ |  | [pixiv](https://www.pixiv.net/users/10292)<br>[X](https://x.com/fuumiisc) |
 | shacho | 社ちょ |  | [pixiv](https://www.pixiv.net/users/341675)<br>[X](https://x.com/yashiro_tyoK) |
 | toito | トイト |  | [pixiv](https://www.pixiv.net/users/1965383)<br>[X](https://x.com/toitotenntyou) |
@@ -2677,7 +2677,7 @@ example:
 | natsuki marina | 夏月まりな |  | [pixiv](https://www.pixiv.net/users/482462) [X](https://x.com/marinauryu) |
 | watanon | わたのん |  | [pixiv](https://www.pixiv.net/users/1202103) [X](https://x.com/watanohara2) |
 | amami mikihiro | 甘味みきひろ |  | [pixiv](https://www.pixiv.net/users/12348) [X](https://x.com/amami_mikihiro) |
-| mikage | 未影 |  | [pixiv](https://www.pixiv.net/users/140701) [X](https://x.com/mikage81) |
+| mikage | 美影 |  | [pixiv](https://www.pixiv.net/users/140701) [X](https://x.com/mikage81) |
 | mk | MK |  | [pixiv](https://www.pixiv.net/users/64048) [X](https://x.com/MK_mod0) |
 | aria. | ありあ。 |  | [pixiv](https://www.pixiv.net/users/781292) [X](https://x.com/koiiroharemoyou) |
 | kago | 加护 |  | [pixiv](https://www.pixiv.net/users/2553637) |
@@ -2788,7 +2788,7 @@ example:
 | umekiti | うめきち |  | [pixiv](https://www.pixiv.net/users/464758) [X](https://x.com/umeckiti2) |
 | onaka emi | 小中えみ |  |  |
 | bobobo | ボボボ |  |  |
-| okinaga umanosuke | 翁贺马乃助 |  | [X](https://x.com/Okinaga_UMA) [pixiv](https://www.pixiv.net/users/13499021) |
+| okinaga umanosuke | 翁贺马乃助 | 翁賀馬乃助 | [X](https://x.com/Okinaga_UMA) [pixiv](https://www.pixiv.net/users/13499021) |
 | yoikono tt | ヨイコノtt |  |  |
 | gosaiji | ごさいじ |  |  |
 | rokkotsu | 肋骨 |  |  |
@@ -2937,14 +2937,14 @@ example:
 | hidari kagetora | 左カゲトラ |  | [X](https://x.com/hidarikagetora) [pixiv](https://www.pixiv.net/users/6199) |
 | suruga kreuz | 駿河クロイツ |  | [X](https://x.com/surugakreuz) [pixiv](https://www.pixiv.net/users/2361021) |
 | mauve | Mauve |  | [X](https://x.com/MauveSR) [pixiv](https://www.pixiv.net/users/564736) |
-| saeki sola | 佐伯ソラ |  | [X](https://x.com/sae_sky77) [pixiv](https://www.pixiv.net/users/4238462) |
+| saeki sora | 佐伯ソラ |  | [X](https://x.com/sae_sky77) [pixiv](https://www.pixiv.net/users/4238462) |
 | tange suzuki | 丹下スズキ |  |  |
 | neji | 寝路 |  | [X](https://x.com/nejirinbooo) [pixiv](https://www.pixiv.net/users/1244089) |
 | negom | ネゴム |  | [X](https://x.com/ne_go_m) [pixiv](https://www.pixiv.net/users/13430429) |
 | opanchu | おぱんちゅ |  | [X](https://x.com/whiteopanchu) [pixiv](https://www.pixiv.net/users/259683) |
 | xion | Xion |  | [X](https://x.com/spacelaika13) [pixiv](https://www.pixiv.net/users/3850071) |
 | tomoki tomonori | ともきとものり |  |  |
-| pistonring nishizawa | 西泽みずき | ![X](https://pbs.twimg.com/profile_images/775822906018324482/lP7tp-vp_400x400.jpg)<br><br>**作者推特头像**<br><br>comic快乐天作者，主攻年长系御姐角色作品。 | [X](https://x.com/p_nishizawa) [pixiv](https://www.pixiv.net/users/1072832) |
+| pistonring nishizawa | 西泽水木 | ![X](https://pbs.twimg.com/profile_images/775822906018324482/lP7tp-vp_400x400.jpg)<br><br>**作者推特头像**<br><br>comic快乐天作者，主攻年长系御姐角色作品。 | [X](https://x.com/p_nishizawa) [pixiv](https://www.pixiv.net/users/1072832) |
 | kokuryuugan | 黑龙眼 | 2004年冬季C67展出道，以女性主导类风格和写实的女性身材知名。对黑丝有过分的执着。 |  |
 | kazakami sudare | かざかみすだれ |  |  |
 | paryi | 帕里 | ![头像](https://i2.hdslb.com/bfs/face/09088e15e8149c4c6411f0df1483476fb8a9b3e2.jpg)<br>我是paryipro的画师paryi~中国朋友们好~请大家关注我~<br>paryi审核群：439902287 | [X](https://x.com/par1y) [pixiv](https://www.pixiv.net/users/30816400) [BiliBili](https://space.bilibili.com/1576121/) |
@@ -2961,7 +2961,7 @@ example:
 | nathaniel pennel | Pennel |  | [X](https://x.com/pennel_kirei) [pixiv](https://www.pixiv.net/users/512666) |
 | hadron9 | HADRON9 |  | [X](https://x.com/hadron9) [Twitter（成年向）](https://x.com/v4pAiZAtqGZtmWw) [pixiv](https://www.pixiv.net/users/906208) |
 | supu | すぷ |  | [X](https://x.com/w_spread) [pixiv](https://www.pixiv.net/users/3980709) |
-| kitaku | きたく | 仲町まち | [X (きたく)](https://x.com/ktk_er18) [X (仲町まち)](https://x.com/knomon19) [pixiv](https://www.pixiv.net/users/9563241) |
+| kitaku | きたく \| 仲町まち | 仲町まち | [X (きたく)](https://x.com/ktk_er18) [X (仲町まち)](https://x.com/knomon19) [pixiv](https://www.pixiv.net/users/9563241) |
 | shirota dai | 白田太 |  | [X](https://x.com/wwshirota) [pixiv](https://www.pixiv.net/users/8642) |
 | moyazou | もや造 |  | [X](https://x.com/moyashiseizoujo) [pixiv](https://www.pixiv.net/users/12363124) |
 | kuguri oimo | 九栗おいも |  | [X](https://x.com/oimoimo12) [pixiv](https://www.pixiv.net/users/1998) |
@@ -2982,7 +2982,7 @@ example:
 | miwano rag | 美和野らぐ |  | [X](https://x.com/rag_ragko) [pixiv](https://www.pixiv.net/users/7324626) |
 | shigure ui | しぐれうい |  | [X](https://x.com/ui_shig) [pixiv](https://www.pixiv.net/users/431873) |
 | nanahara fuyuki | 七原冬雪 |  |  |
-| fukuinu | 福犬 |  |  |
+| fukuinu | 福犬 |  | [pixiv](https://www.pixiv.net/users/37574662) |
 | shotan | しょたん |  | [X](https://x.com/DENTAN_san) [pixiv](https://www.pixiv.net/users/8720985) |
 | ezoshika | エゾシカ |  | [X](https://x.com/ezoshika_gg) [pixiv](https://www.pixiv.net/users/14340273) |
 | taketori zaiku | 竹取细工 |  |  |
@@ -3068,7 +3068,7 @@ example:
 | toshi | toshi |  | [pixiv](https://www.pixiv.net/users/637016) |
 | taishinkokuoh anton | 大秦国王安敦 | ![图](https://pbs.twimg.com/profile_images/1035779125644914688/pwOOIT1v_400x400.jpg)<br>**作者推特头像**<br>大秦国王安敦是日本成年向漫画家，同人志创作者。作品多为`lolicon`系漫画。<br><br>单行本《小さくってもイけるのよ》<br>![图](# "https://ehgt.org/ef/6c/ef6cb4e707a25204df2e83f5bf2ae674160ea568-1347475-1400-1986-jpg_l.jpg") | [X](https://x.com/taisinkoku) |
 | wanyanaguda | 完颜阿骨打 | 完顔阿骨打 | [X](https://x.com/wanaguda) [pixiv](https://www.pixiv.net/users/8197147/) |
-| kaede | ゆか | 白键系列画师 | [pixiv](https://www.pixiv.net/users/15291956) |
+| kaede | 枫（ゆか） | 白键社（tegurayuki，テグラユウキ）封面画师 | [pixiv](https://www.pixiv.net/users/15291956) |
 | fummy | ふみー |  | [X](https://x.com/fummyn) [pixiv](https://www.pixiv.net/users/197012) |
 | shobu | 菖蒲 |  | [pixiv](https://www.pixiv.net/users/2588103) |
 | sakayama shinta | 茶菓山しん太 |  |  |
@@ -3100,7 +3100,7 @@ example:
 | holiday yasumi | 堀出井靖水 |  |  |
 | ronrinri ronri | 論倫理ろんり |  |  |
 | tsukueno elf | 机野エルフ |  |  |
-| hiiragi popura | 柊ぽぷら |  |  |
+| hiiragi popura | 柊ぽぷら |  | [pixiv](https://www.pixiv.net/users/412239) |
 | nogiwa kaede | 野际かえで |  |  |
 | hitoi | 灯問 | 漫画家。作品以`netorare`、`cheating`为主<br>![TwitterIcon](https://pbs.twimg.com/profile_images/1133146835663540224/cSVGgc6T_400x400.png) | [X](https://x.com/hitoi_k) [pixiv](https://www.pixiv.net/users/16163201) |
 | bouen | ぼうえん |  |  |
@@ -3162,7 +3162,7 @@ example:
 | nozomi tsubame | 希望つばめ |  | [X](https://x.com/t_nozomi) [pixiv](https://www.pixiv.net/users/232066) |
 | saba satoru | 佐波サトル |  |  |
 | nagashiro rouge | 長代ルージュ | ![X](https://pbs.twimg.com/profile_images/1376156712789417990/BK4f6pi3_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/na_ga_shi_ro) [pixiv](https://www.pixiv.net/users/30583883) |
-| kuroiwa menou | 黑岩玛瑙 |  |  |
+| kuroiwa menou | 黑岩玛瑙 | 黒岩瑪瑙 |  |
 | isorashi | 五十岚唱乃 | ![X](https://pbs.twimg.com/profile_images/1256777432230576129/IqCTfsLD_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/isorashi) |
 | minato fumi | 三巷文 |  |  |
 | hashida mamoru | 桥田镇 |  |  |
@@ -3208,7 +3208,7 @@ example:
 | azuma yuki | 东由希 | 东由希（日语：あずま ゆき，7月29日－），日本女性漫画家及插画家，大阪府堺市出身，现居东京都。她主要绘制青年漫画、一般向漫画、成人漫画、游戏软件原画，特色为常画双马尾美少女。绘制同人志时曾用笔名“悠理舞”、“三菱命”、“あずまゆき”，一般向漫画则为“あづまゆき”。从《妄想眼镜》（妄想メガネ）以后的笔名统一为“あずまゆき”。<br><br>东由希的签名<br>2011年11月17日，应绘师100人展台湾巡回展邀请来台湾，在台湾巡回展首站高雄市驳二艺术特区举办签名会。2012年2月，将同人志即卖会的触角延伸至台湾，并大方允许在其Twitter官方页面用中文留言。<br>![图](https://pbs.twimg.com/profile_images/1398624439848235009/LzNvfMqF_400x400.jpg)<br>**作者推特头像**<br><br>《らぶしぇるたぁ》<br>![图](# "https://ehgt.org/9b/0e/9b0e3199bd83aed7111c54c34f7bd1788b97dbdf-295300-1200-1674-jpg_l.jpg") | [维基百科](https://zh.wikipedia.org/wiki/東由希) (\*) [X](https://x.com/yuki_azuma) [pixiv](https://www.pixiv.net/users/3473767) |
 | enokido | エノキドォ | ![X](https://pbs.twimg.com/profile_images/1359069980772294656/PW9f6A99_400x400.jpg)<br><br>**作者推特头像**<br><br>comic anthurium杂志的超新星作者，出道作便一鸣惊人。<br><br>![works](https://i.pixiv.cat/img-original/img/2020/04/20/23/00/40/80940515_p0.jpg)![works](# "https://i.pixiv.cat/img-original/img/2021/02/23/00/09/39/87978297_p0.jpg")![works](# "https://pbs.twimg.com/media/E56_zc9VoAMcAxC?format=jpg&name=4096x4096") | [X](https://x.com/enoki_do) [pixiv](https://www.pixiv.net/users/4535430) |
 | gokubuto mayuge | 极太眉毛 | ![X](https://pbs.twimg.com/profile_images/1624745976203444224/GvT32YIs_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/g_mayuge) [pixiv](https://www.pixiv.net/users/8019) |
-| hakaba | 墓場 |  |  |
+| hakaba | 墓场 |  |  |
 | hitotsuba | ひとつば |  |  |
 | furyouhin | ニャ獣（不良品） | ![图](# "https://ehgt.org/aa/0f/aa0f41e9ab03456925519c38365fbaa59eda0002-733128-2114-3047-jpg_l.jpg") | [X](https://x.com/yuuryouhin) [pixiv](https://www.pixiv.net/users/3808736) |
 | gesundheit | ゲズンタイト | 德国人，脑洞作家，在R-18作品中加入各种搞笑梗。<br>![TwitterIcon](https://pbs.twimg.com/profile_images/1155802085717184513/IbznebrH_400x400.jpg)<br>![图](# "https://ehgt.org/fa/6b/fa6bc7d4e19aa72bfb85a954797b13a8ddd79b8c-1638592-1515-2150-jpg_l.jpg") | [X](https://x.com/gesundheit444) [pixiv](https://www.pixiv.net/users/4396790) |
@@ -3376,7 +3376,7 @@ example:
 | karaage3 | からあげ3 |  | [X](https://x.com/karaage3) [pixiv](https://www.pixiv.net/users/24567) |
 | gibachan | ぎばちゃん | ![X](https://pbs.twimg.com/profile_images/1397539447130902534/x9qMk_qL_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/gibagibagiba) [pixiv](https://www.pixiv.net/users/195407) |
 | takitarou | 滝太郎 |  | [X](https://x.com/tackey_tsubasa) [pixiv](https://www.pixiv.net/users/195563) |
-| yangcong chaodasuan | 洋葱炒大蒜 |  |  |
+| yangcong chaodasuan | 大蒜拌小蔥 |  | [pixiv](https://www.pixiv.net/users/6657011) |
 | tokunou shoutarou | 得能正太郎 | 得能正太郎，日本男性漫画家，插画家。代表作《NEW GAME！》。 | [X](https://x.com/tokutaro) [pixiv](https://www.pixiv.net/users/1203800) |
 | tsugumi suzuma | 亚美寿真 | ![X](https://pbs.twimg.com/profile_images/1625693379530199042/QnFg7MOb_200x200.jpg)<br><br>*作者推特头像（也是本人vtuber形象）*<br><br>擅长画与自己年龄相仿的御姐系角色的美女画师，喜欢玩apex并开设了YouTube频道，每周都有直播游戏，喜欢老师的同学可以关注下。 | [X](https://x.com/tsugumisuzuma) [YouTube](https://youtube.com/channel/UCtKylZV002s4pxVup9yuJ2Q) [pixiv](https://www.pixiv.net/users/6130188) |
 | kakao | kakao |  | [X](https://x.com/kakao_3percent) [pixiv](https://www.pixiv.net/users/581994) |
@@ -3408,7 +3408,7 @@ example:
 | migihaji | 右端 |  |  |
 | miyoshino | みよしの |  | [X](https://x.com/miyosino) [pixiv](https://www.pixiv.net/users/427271) |
 | omochi monaka | おもち もなか |  | [X](https://x.com/monaka_0326_) [pixiv](https://www.pixiv.net/users/19542913) |
-| ootsuka reika | 大塚麗夏 |  |  |
+| ootsuka reika | 大塚丽夏 |  |  |
 | zanka | ざんか |  |  |
 | ashizuki | アシズキ |  |  |
 | abe nattou | あべなっつ |  |  |
@@ -3418,7 +3418,7 @@ example:
 | shirokimochi | 白生もち |  | [X](https://x.com/_shirokimochi_) [pixiv](https://www.pixiv.net/users/31659436) |
 | nagatukiin | 长月院 |  | [X](https://x.com/005nniikidumihu) [pixiv](https://www.pixiv.net/users/20859160) |
 | tanuma | たぬま |  | [X](https://x.com/tnm_tyny) [pixiv](https://www.pixiv.net/users/9675329) |
-| chihiro | Chihiro |  | [X](https://x.com/chihiro_15_) [pixiv](https://www.pixiv.net/users/8018529) |
+| chihiro | 千尋 |  | [X](https://x.com/chihiro_15_) [pixiv](https://www.pixiv.net/users/8018529) |
 | soba | soba |  | [X](https://x.com/SAZ_LaughMaker) [pixiv](https://www.pixiv.net/users/220618) |
 | kaneko | 華猫 |  |  |
 | sekai saisoku no panda | 世界最速のパンダ |  |  |
@@ -3456,7 +3456,7 @@ example:
 | yoshida | 吉田 |  |  |
 | dokukinokozin | 毒茸人 |  |  |
 | danrenji | だんれんじ |  |  |
-| kiri-kiri mai | ギリギリ舞 | ![X](https://pbs.twimg.com/profile_images/1377469218736590851/EACxbJKF_400x400.jpg)<br><br>**作者推特头像**<br><br>![works](# "https://pbs.twimg.com/media/E84i0iiVoAgpjjp?format=jpg&name=large")<br><br>连载作品 | [X](https://x.com/kirikirimai1224) [连载](https://comic.iowl.jp/titles/124158/volumes) |
+| kiri-kiri mai | 斩斩舞 | ![X](https://pbs.twimg.com/profile_images/1377469218736590851/EACxbJKF_400x400.jpg)<br><br>**作者推特头像**<br><br>![works](# "https://pbs.twimg.com/media/E84i0iiVoAgpjjp?format=jpg&name=large")<br><br>连载作品 | [X](https://x.com/kirikirimai1224) [连载](https://comic.iowl.jp/titles/124158/volumes) |
 | oshino | 推乃 |  |  |
 | shiramizu mizuchi | 白瑞みずち |  | [X](https://x.com/maguroyoukai) [pixiv](https://www.pixiv.net/users/1601595) |
 | majima tetsurou | 真島てつろー |  | [X](https://x.com/Tetsu__TTR) [pixiv](https://www.pixiv.net/users/16798951) |
@@ -3471,7 +3471,7 @@ example:
 | lack | lack |  | [X](https://x.com/lalalalack) [pixiv](https://www.pixiv.net/users/83739) |
 | morikoke | もり苔 |  |  |
 | tansuiken | 淡水犬 |  |  |
-| yamakonbu | やまこんぶ |  |  |
+| yamakonbu | 山昆布 | 日文：やまこんぶ | [pixiv](https://www.pixiv.net/users/65793334) |
 | crew | クルー |  |  |
 | 88 | 88 | ![画师蓝鸟头像](https://pbs.twimg.com/profile_images/1385235478169882625/GzoN6LIo_200x200.jpg)<br>画师，笔下人物的脸很有特点<br>2021年初出道，处女作是刊登于《コミックホットミルク》（COMIC HOTMILK）2021年3月号的《クノ―テン》<br>2023年7月28日发行第一部电子单行本《とろけるささやき》 | [X](https://www.pixiv.net/users/34214417) [Pixiv](https://x.com/88moopie) |
 | toujou tsukushi | 東條土筆 |  |  |
@@ -3485,7 +3485,7 @@ example:
 | tachibana nagon | 立花なごん |  |  |
 | takoyaki rock | タコヤキロック |  |  |
 | yuruchin kyouso | ゆるちん教祖 |  |  |
-| mitsuki | ミツ季 |  |  |
+| mitsuki | ミツき |  |  |
 | momono yuuca | もものユーカ |  |  |
 | oyama kina | 大山树奈 | ![X](https://pbs.twimg.com/profile_images/1585070289099968512/wo5ybWGg_400x400.png)<br><br>**作者推特头像** | [X](https://x.com/kinakoweb) [pixiv](https://www.pixiv.net/users/458111) |
 | ronna | ろんな |  |  |
@@ -3514,7 +3514,7 @@ example:
 | fuzichoco | 藤原 | 藤原（日语：藤ちょこ（ふじちょこ），1990年9月30日－），日本女性插画家、漫画家。日本美术专门学校的特别讲义讲师。 | [Homepage](https://www.fuzichoco.com/)<br>[pixiv](https://www.pixiv.net/member.php?id=27517)<br>[X](https://x.com/fuzichoco) |
 | yuiga naoha | 由雅なおは |  |  |
 | tousen | 冬扇 |  |  |
-| edogawa roman | 江戸川浪漫 |  |  |
+| edogawa roman | 江户川浪漫 |  |  |
 | kurimoti tiduru | 栗餅ちづる |  | [个人主页](https://c2tiduru.wixsite.com/meisi) |
 | the-sinner | The-Sinner | 社团`hell and heaven` |  |
 | nochanzero | Nochanzero | 社团`hell and heaven` |  |
@@ -3632,7 +3632,7 @@ example:
 | sr | SR |  | [pixiv](https://www.pixiv.net/users/20714093) |
 | azure | あずーる |  | [X](https://x.com/azure_0608_sub) [pixiv](https://www.pixiv.net/users/5838770) |
 | ishimura | 石村 |  |  |
-| random | 兰田梦 |  | [pixiv](https://www.pixiv.net/users/6810171) |
+| random | 兰田梦 | 蘭田夢 | [pixiv](https://www.pixiv.net/users/6810171) |
 | hamadamiku | 浜田みく |  |  |
 | nanasaki | 七崎 | ハチナナ (七崎) | [FANBOX](https://nanasaki87.fanbox.cc/) [Fantia](https://fantia.jp/fanclubs/297788) [pixiv](https://www.pixiv.net/users/21007221) [X](https://x.com/nanasaki87) |
 | satsuki misuzu | 皐月深鈴 | ![Pixiv](https://ehgt.org/b2/58/b258b6eb5f07e5e734fee9be9dd109726c32c5de-50050-170-170-png_l.jpg)<br>皐月深鈴(皐月みすず) | [pixiv](https://www.pixiv.net/member_illust.php?id=1914946) [X](https://x.com/misuzu_satsuki) |
@@ -3664,7 +3664,7 @@ example:
 | suzuki hinomi | 鈴木ひのみ |  | [pixiv](https://www.pixiv.net/users/20340462) [X](https://x.com/SuzukiHinomi) |
 | minamo | みなも | Minamo 和 minamo\_rm 使用同一个标签 | [pixiv](https://www.pixiv.net/users/53305649) [pixiv](https://www.pixiv.net/users/27420842) |
 | ka-9 | ないん |  | [pixiv](https://www.pixiv.net/users/93170) [X](https://x.com/KA_009) |
-| shinjima saki | 心岛咲 |  |  |
+| shinjima saki | 心岛咲 | 心島咲 |  |
 | riko | 利行 |  |  |
 | shinozaki rei | しのざき嶺 | 他活跃于许多成人漫画杂志。自1980年代以来一直在写作的资深作家，他主要绘制具有强烈恋物癖和SM色彩的作品。代表作品有『もう誰も愛せない』『NIGHT MARE』。他还与成年漫画家海野やよい有着密切的友谊，并且都经营着同人圈。也有很多关于异装癖男孩、怪诞、娈童和双性恋的作品。 | [维基百科](https://ja.wikipedia.org/wiki/しのざき嶺) [X](https://x.com/sinozaki09) [pixiv](https://www.pixiv.net/users/422715) |
 | mei ichi | 名一 |  | [pixiv](https://www.pixiv.net/users/3765397) [X](https://x.com/71naichi71) |
@@ -3930,7 +3930,7 @@ example:
 | akazaki yasuma | 赤崎やすま |  |  |
 | akazawa fuyuki | 赤沢冬希 |  |  |
 | akazukin | 赤ZUKIN |  |  |
-| akchu | akchu |  |  |
+| akchu | akchu |  | [FANBOX](https://akchu.fanbox.cc/posts/8431092) [Patreon](https://www.patreon.com/akchu) |
 | akechi shizuku | 明地雫 |  |  |
 | akemi | 明美 |  |  |
 | aken | あけん |  |  |
@@ -4355,7 +4355,7 @@ example:
 | auauun | あうあうーん |  |  |
 | aula | あうら |  |  |
 | autumm | 秋 |  |  |
-| awa | AwA |  |  |
+| awa | AwA \| 阿波 \| アワ | AwA 画重口的<br>阿波 画纯爱的<br>アワ 画女性向的 | 阿波 [X](https://x.com/awa_artist) |
 | awamori ichitarou | 泡盛一太郎 |  |  |
 | awata mokane | 粟田もかね |  |  |
 | aweida | アウェイ田 |  |  |
@@ -5397,7 +5397,7 @@ example:
 | great daikon | グレイト大根 |  |  |
 | great magami | グレート魔神 |  |  |
 | grey fisher | グレイ・フィッシャー |  |  |
-| grifon | GRIFON | 三顕人 |  |
+| grifon | 三木大路 | 三顕人 \| 三木大路 \| GRIFON | [DLsite](https://www.dlsite.com/books/author/=/author_id/AJ022974/ana_flg/all) |
 | grimmelkin | グリムメルキン |  |  |
 | ground | GROUND |  |  |
 | grune | Grune |  |  |
@@ -5460,7 +5460,7 @@ example:
 | haiiroguma | はいいろぐま |  |  |
 | haineken | はいねけん |  |  |
 | hairaito | 灰雷兎 |  |  |
-| haison | haison |  |  |
+| haison | ハイソン |  |  |
 | haito mitori | 灰都みとり |  |  |
 | haitukun | Haitukun |  |  |
 | haizaki mejiro | 灰崎めじろ |  |  |
@@ -5468,7 +5468,7 @@ example:
 | hajime | 創 |  |  |
 | hajime-san. | はじめさん。 |  |  |
 | hajin | Hajin |  |  |
-| hakaba yodomu | 墓場淀夢 |  |  |
+| hakaba yodomu | 墓场淀梦 |  |  |
 | hakai taitei | 破坏大帝 |  |  |
 | hakano shinshi | ハカノシンシ |  |  |
 | hakiata | はきあた |  |  |
@@ -5546,7 +5546,7 @@ example:
 | hanma akira | 範馬アキラ |  |  |
 | hans | hans |  |  |
 | hansharu | 半しゃる |  |  |
-| hanya | Hanya |  |  |
+| hanya | はにゃ |  | [pixiv](https://www.pixiv.net/users/629117) |
 | hanyw | ハニュー |  |  |
 | hanzaki jirou | はんざきじろう |  |  |
 | hanzawa 821 | 半澤821 |  |  |
@@ -5628,7 +5628,7 @@ example:
 | hasumi tsuina | 蓮見ついな |  |  |
 | hasuno | ハスノ |  |  |
 | hasunoue baitsu | はすの上梅津 |  |  |
-| hata | ハタ |  |  |
+| hata | 波多 |  |  |
 | hata jinshichi | 湊甚七 |  |  |
 | hatachi | はたち |  |  |
 | ekataraf | エカタラフ | 畑 |  |
@@ -5806,7 +5806,7 @@ example:
 | hirno | Hirno |  |  |
 | hiro kari | ひろ(仮) |  |  |
 | hiro kazuki | 比呂カズキ |  |  |
-| hirob816 | HiRoB816 |  |  |
+| hirob816 | ひろびー |  |  |
 | hiroe rei | 広江礼威 | れっどべあ |  |
 | hirogoori akio | 広郡明生 |  |  |
 | hiroichi | ヒロイチ |  |  |
@@ -6065,7 +6065,7 @@ example:
 | ikeda usao | イケダウサオ |  |  |
 | ikeda yasuhiro | 池田靖宏 |  |  |
 | ikeden | いけでん |  |  |
-| ikelag | ikelag |  | [pixiv](https://www.pixiv.net/users/10246839) |
+| ikelag | ikelag |  | [pixiv](https://www.pixiv.net/users/10246839) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01015645.html) |
 | iken | イケン |  |  |
 | ikoma ippei | 伊駒一平 |  |  |
 | iktk | イキテク |  |  |
@@ -6345,7 +6345,7 @@ example:
 | juri reiqa | 樹莉麗華 |  |  |
 | jusc0 | jusc0 |  |  |
 | justy | Justy |  |  |
-| juubaori mashumaro | 十羽織ましゅまろ |  |  |
+| juubaori mashumaro | 十羽織ましゅまろ |  | [pixiv](https://www.pixiv.net/users/131795) |
 | juugatsu | 十月 |  |  |
 | juuji | 拾次 |  |  |
 | juunigatsu shoujo | 十二月少女 |  |  |
@@ -6401,7 +6401,7 @@ example:
 | kagehara hanzou | 影原半蔵 |  |  |
 | kageira | カゲイラ |  |  |
 | daigaijin | Daigaijin | Kagemusha |  |
-| kagemusya | KAGEMUSYA |  |  |
+| kagemusya | 影武者 |  |  |
 | kagerou1991 | 陽炎1991 |  |  |
 | kagesaki yuna | 影崎由那 |  |  |
 | kageshio | カゲシオ |  |  |
@@ -6496,7 +6496,7 @@ example:
 | kamiryou kaduki | 上嶺榎月 |  |  |
 | kamisae ryouya | 上冴良夜 |  |  |
 | kamisato takeharu | 上里竹春 |  |  |
-| kamishima akira | 剃嶋章 |  |  |
+| kamishima akira | かみしまあきら \| 剃嶋章 |  | [pixiv](https://www.pixiv.net/users/3755307) |
 | kamishima tatsuya | 神嶋龍矢 |  |  |
 | kamishima yu | 神島悠 |  |  |
 | kamishiro midorimaru | カミシロ緑マル |  |  |
@@ -6555,7 +6555,7 @@ example:
 | kanikama | カニカマ |  |  |
 | kanikoro | KANIKORO |  |  |
 | kanimaru | かにまる |  |  |
-| kanimura ebio | かに村えびお |  |  |
+| kanimura ebio | 蟹村虾夫 |  |  |
 | kanitaro | かに太郎 |  |  |
 | kanitoon | 蟹丹 |  |  |
 | kanju | kanju |  | [X](https://x.com/kq89nju2)<br>[pixiv](https://www.pixiv.net/users/10552397) |
@@ -6664,7 +6664,7 @@ example:
 | katou koban | 加藤小判 |  |  |
 | katou takaaki | 加藤天秋 |  |  |
 | katou teppei | 加藤徹平 |  |  |
-| katou tetsuya | 加糖哲哉 |  |  |
+| katou tetsuya | 加糖哲哉 |  | [pixiv](https://www.pixiv.net/users/3611234) |
 | katsudansou | 活断層 |  |  |
 | katsuma rei | かつまれい |  |  |
 | katsuo | かつお |  |  |
@@ -6695,7 +6695,7 @@ example:
 | kawamoto yutsuki | 河本ゆつき |  |  |
 | kawamura tsukasa | 川邑司 |  |  |
 | kawana | かわな |  |  |
-| kawanakajima | 川中島 |  |  |
+| kawanakajima | 河中島 |  |  |
 | kawanishi yuuji | かわにしゆうじ |  |  |
 | kawano masatoshi | 川乃雅慧 |  |  |
 | kawanuma uotsuri | 川沼魚釣 |  |  |
@@ -6923,7 +6923,7 @@ example:
 | kisara ai | きさら藍 |  |  |
 | kisara shi- | キサラしぃ |  |  |
 | kisaradu | 木更津 |  |  |
-| kisaragi | 如月 |  |  |
+| kisaragi | 如月 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=f0073be78635e5dd902ca5d746c7a7f5/5dc2d236afc37931b5905d9ce8c4b74542a911b9.jpg)<br>所属作品：`senran kagura` |  |
 | kisaragi kanata | 如月かなた |  |  |
 | kisaragi mizu | 如月水 |  |  |
 | kisaragi mizuka | 如月瑞香 |  |  |
@@ -7114,7 +7114,7 @@ example:
 | kosugi koutarou | 小杉光太郎 |  |  |
 | kosuke | 小助 |  |  |
 | kosuzu | 小鈴 |  |  |
-| kota | 耕太 \| コタ \| こた(炬太郎) \| kota´ |  | 耕太：[pixiv](https://www.pixiv.net/users/10277858)<br>コタ(DEAR)：[pixiv](https://www.pixiv.net/users/38845) [X](https://x.com/cotarou)<br>コタ(アルミカン)：[pixiv](https://www.pixiv.net/users/2438419) [X](https://x.com/kota75_zzz)<br>こた(炬太郎)：[pixiv](https://www.pixiv.net/users/1337291) [X](https://x.com/kota_ur0) |
+| kota | 耕太 \| コタ \| こた \| kota |  | 耕太：[pixiv](https://www.pixiv.net/users/10277858)<br>コタ(DEAR)：[pixiv](https://www.pixiv.net/users/38845) [X](https://x.com/cotarou)<br>コタ(アルミカン)：[pixiv](https://www.pixiv.net/users/2438419) [X](https://x.com/kota75_zzz)<br>こた(炬太郎)：[pixiv](https://www.pixiv.net/users/1337291) [X](https://x.com/kota_ur0)<br>kota：[Patreon](https://www.patreon.com/u41910126) |
 | kotaru | 瑚樽 |  |  |
 | kotatsu | 小龍 | こたつ | [Danbooru](https://danbooru.donmai.us/posts?tags=koyuki_%28kotatsu358%29)<br>[pixiv](https://www.pixiv.net/users/8780063)<br>[X](https://x.com/koyuki8612)<br>[Fantia](https://fantia.jp/fanclubs/92524)<br>[FANBOX](https://kotatsu358.fanbox.cc/)<br>[X](https://x.com/kota2comic) |
 | kotatsu tomodachi | コタツトモダチ |  | [pixiv](https://www.pixiv.net/users/1081085) |
@@ -7175,7 +7175,7 @@ example:
 | kozi | kozi |  | [pixiv](https://www.pixiv.net/users/6447934) |
 | kozirow | Kozirow |  |  |
 | kozou | 小僧 |  |  |
-| kozue akari | こずえあかり |  |  |
+| kozue akari | こずえあかり |  | [pixiv](https://www.pixiv.net/users/6009237) |
 | kozy | kozy |  |  |
 | krohudeanna | 黒筆ANnA |  |  |
 | ksg | ksg |  |  |
@@ -7371,7 +7371,7 @@ example:
 | kuwabara | くわばら |  |  |
 | kuwabatake kajuen | 桑畑果樹園 |  |  |
 | kuzirazio | くじらジオ |  |  |
-| kuzu | 屑 |  |  |
+| kuzu | 屑 |  | [pixiv](https://www.pixiv.net/users/4604561) |
 | kuzukow | 屑コウ |  |  |
 | kuzuya | くずや |  |  |
 | kuzuyama mememe | 屑山めめめ |  |  |
@@ -7445,7 +7445,7 @@ example:
 | lewis | ルイス |  |  |
 | lewis mclaren | るいす・まくられん |  |  |
 | leymei | LEYMEI |  |  |
-| liang xing | 狼星 |  |  |
+| liang xing | 梁星 |  |  |
 | libonzu | 吉啓 |  |  |
 | lielos | ゆいれそ |  |  |
 | lien | Lien |  |  |
@@ -7547,7 +7547,6 @@ example:
 | maitake | まいたけ |  |  |
 | maji | マジ |  |  |
 | majiyoko | まじよこ |  |  |
-| maka kiseki | マカキセキ |  |  |
 | makano mucchi | 摩訶乃ムッチ |  |  |
 | makarou | まかろー |  |  |
 | suta furachina | スター不埒な＠まかそに |  |  |
@@ -7602,7 +7601,7 @@ example:
 | mamoribito | 守り人 |  |  |
 | mamuru | mamuru |  |  |
 | man | mAn |  |  |
-| manabe jouji | 真鍋譲治 |  |  |
+| manabe jouji | 真锅让治 |  |  |
 | manaka mizuki | マナカミズキ |  |  |
 | manao | まなお |  |  |
 | manarou | まなろう |  |  |
@@ -7668,7 +7667,7 @@ example:
 | maruyama kei | 丸山圭 |  |  |
 | masa | 将 |  |  |
 | masa-nii | マサ兄 |  |  |
-| masaki | MASAKI |  |  |
+| masaki | 後藤マサキの野望 |  |  |
 | masaki shisari | 真咲シサリ |  |  |
 | masakichi | まさきち |  |  |
 | masama | まさma |  |  |
@@ -7941,7 +7940,7 @@ example:
 | minazuki ayu | 水無月愛勇 |  |  |
 | mineyuki | 峰之 |  |  |
 | mingaru | ミンガル |  |  |
-| miniru | miniru |  |  |
+| miniru | みんぐ |  |  |
 | minna no haipe | みんなのハイペ |  |  |
 | mino kureha | 美濃紅葉 |  |  |
 | minobu gentle | 身延ジェントル |  | [pixiv](https://www.pixiv.net/users/366834) |
@@ -8003,7 +8002,7 @@ example:
 | mitamori tatsuya | みた森たつや |  |  |
 | mitarai | 御手洗 |  |  |
 | mitarai yuuki | 御手洗佑樹 |  |  |
-| mitarashi kousei | みたらし侯成 |  |  |
+| mitarashi kousei | 御手洗侯成 |  |  |
 | mitei | 未定 |  |  |
 | mito | ミト |  |  |
 | miton | みとん |  |  |
@@ -8052,7 +8051,7 @@ example:
 | miyazaki yuki | 宮崎ユウキ |  |  |
 | miyazawa riewo | 宮沢りえを |  |  |
 | miyoichi | みよいち |  |  |
-| miyu | MIYU |  |  |
+| miyu | MIYU | P站画师 UID：11430096 | [pixiv](https://www.pixiv.net/users/11430096) |
 | miyuki | 深雪 |  |  |
 | miyuki yaya | 御幸やや |  |  |
 | miyuma subaru | 未由間すばる |  |  |
@@ -8332,7 +8331,7 @@ example:
 | musouduki | 梦双月 |  |  |
 | muteki soda | 无敌苏打 |  |  |
 | muten | 武天 |  |  |
-| mutou | 無糖 |  |  |
+| mutou | 無糖まめ（無糖） |  |  |
 | mutou hiroki | 武藤裕樹 |  |  |
 | mutou keiji | むとうけいじ |  |  |
 | mutou kurihito | 武藤此史 |  |  |
@@ -8444,7 +8443,7 @@ example:
 | nakamura subaru | なかむらすばる | すばる。 |  |
 | nakamura syumitto | 中村趣味人 |  |  |
 | nakamura uzuki | 中村卯月 |  |  |
-| nakamura zeus | 中村天神 |  |  |
+| nakamura zeus | 中村天神 |  | [pixiv](https://www.pixiv.net/users/25378991) |
 | nakano | 中野 |  |  |
 | nakano yuu | 中野ゆう |  |  |
 | nakanoku kurochan | 中野区くろちゃん |  |  |
@@ -8655,7 +8654,7 @@ example:
 | nekono tamami | 猫野たまみ |  |  |
 | nekonomori maririn | 猫守麻里鈴 |  |  |
 | nekonose hajime | 猫ノ瀬はじめ |  |  |
-| nekonso | ねこんそ |  |  |
+| nekonso | ねこんそ |  | [pixiv](https://www.pixiv.net/users/161077) |
 | nekonta | ねこんた |  |  |
 | nekonyan | 猫にゃん |  |  |
 | nekookaji tayo | 猫岡寺多代 |  |  |
@@ -8732,7 +8731,7 @@ example:
 | nijyou makoto | 二条マコト |  |  |
 | nikaido kai | 二階堂改 |  |  |
 | nikami | にかみ |  |  |
-| niku | にく |  |  |
+| niku | 肉 |  |  |
 | niku jill | 肉Jill |  |  |
 | nikudanmaru | 肉弾丸 |  |  |
 | nikuname | 肉ネーム |  |  |
@@ -9036,7 +9035,7 @@ example:
 | oniku. | お肉。 |  |  |
 | onineko | おにねこ |  |  |
 | onita | 歐尼鬼 |  |  |
-| oniyama | 鬼山 |  |  |
+| oniyama | 鬼山 |  | [pixiv](https://www.pixiv.net/users/2624258) |
 | oniyuri | オニユリ |  |  |
 | onizuka takuto | 鬼塚たくと |  |  |
 | onna | onna |  |  |
@@ -9098,7 +9097,7 @@ example:
 | orenuma tooko | オレヌマトオコ |  |  |
 | oretto | おれっと |  |  |
 | organico | おるがにこ |  |  |
-| orico | オリコ |  |  |
+| orico | オリコ |  | [pixiv](https://www.pixiv.net/users/903016) |
 | orihara kotone | 折原琴音 |  |  |
 | orihi chihiro | 織日ちひろ |  | [pixiv](https://www.pixiv.net/users/5722894) |
 | orikawa | 折川 |  |  |
@@ -9198,7 +9197,7 @@ example:
 | pandain | パンダィン |  |  |
 | pandatyama | ぱんだちゃま |  |  |
 | pang9943 | pang9943 |  |  |
-| panimi | ぱに魅 |  |  |
+| panimi | ぱに魅 |  | [pixiv](https://www.pixiv.net/users/1334513) |
 | panpa | ぱんぱー |  |  |
 | panta | ぱん太 |  |  |
 | pao | パオ |  |  |
@@ -9476,7 +9475,7 @@ example:
 | rin | rin |  |  |
 | rindoh | 竜瞳 |  |  |
 | rindou akira | りんどうあきら |  |  |
-| ringo | りんご |  |  |
+| ringo | 林檎 |  |  |
 | ringo amee | 林檎あめぇ |  |  |
 | ringo anu | りんごあぬ |  |  |
 | ringo no kisetsu. | りんごの季節。 |  |  |
@@ -9717,7 +9716,7 @@ example:
 | sakura masachi | 佐倉まさち |  |  |
 | sakura mkii | SAKURA・mkII |  |  |
 | sakura moyon | 桜もよん |  |  |
-| sakura pino | 咲楽ぴの |  |  |
+| sakura pino | 咲楽ぴの \| 咲楽亭 |  |  |
 | sakura pochi | 桜ポチ |  |  |
 | sakura rio | 佐倉りお |  |  |
 | sakura ryuuken | 桜りゅうけん |  |  |
@@ -9860,7 +9859,7 @@ example:
 | sawaki saki | 澤木沙樹 |  |  |
 | sawako | サワコ |  |  |
 | sawamura | 澤村 |  |  |
-| sawamura ao | 沢村青 | ![X](https://pbs.twimg.com/profile_images/1802033976187682816/56E-SC6P_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/sawamura_ao) [pixiv](https://www.pixiv.net/users/8615118) |
+| sawamura ao | 泽村青 | ![X](https://pbs.twimg.com/profile_images/1802033976187682816/56E-SC6P_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/sawamura_ao) [pixiv](https://www.pixiv.net/users/8615118) |
 | sawamura kina | さわむらきな |  |  |
 | sawarano goan | さわらの五庵 |  |  |
 | sawasaki | 沢崎 |  |  |
@@ -9882,7 +9881,7 @@ example:
 | scope cat | すこぉぷCAT |  |  |
 | scotch | スコチ |  |  |
 | sdwing | SDwing |  |  |
-| seanji sariel | セアンジ・サリエル |  |  |
+| seanji sariel | セアンジ・サリエル |  | [pixiv](https://www.pixiv.net/users/4286647) |
 | secco | Secco |  |  |
 | sedra cicir | sedra・cicir |  |  |
 | segami daisuke | 瀬上大輔 |  |  |
@@ -9989,7 +9988,7 @@ example:
 | shibire hitsuji | シビレヒツジ |  |  |
 | shibuki oroshi | 飛沫おろし |  |  |
 | shibusawa hayato | 渋沢隼人 |  |  |
-| shichoson | 市町村 |  |  |
+| shichoson | 市町村 |  | [pixiv](https://www.pixiv.net/users/200337) |
 | shidaka akikuni | しだかあきくに |  |  |
 | shidatsu takayuki | 紫妲たかゆき |  |  |
 | shieko | しえこ |  |  |
@@ -10014,7 +10013,7 @@ example:
 | shijima yukio | 四島由紀夫 |  |  |
 | shijimi | しじみ |  |  |
 | shijokko | しじょっこ |  |  |
-| shijou mako | 士嬢マコ(・c\_・ ) |  |  |
+| shijou mako | 士嬢マコ |  |  |
 | shijou sadafumi | 四条定史 |  |  |
 | shikage nagi | しかげなぎ |  |  |
 | shikanari | シカナリ |  |  |
@@ -10286,7 +10285,7 @@ example:
 | sonobe kazuaki | 園部一晶 |  |  |
 | sonohen no zako | その辺のザコ |  |  |
 | sonokawa sono | 園河ソノ |  |  |
-| sonote | sonote |  |  |
+| sonote | ソノテ |  |  |
 | sora | ソラ |  | [X](https://x.com/soraoraora) [pixiv](https://www.pixiv.net/users/95070682) [FANBOX](https://soraoraora.fanbox.cc/) |
 | sora mame | そら豆 |  |  |
 | zegga | 絶牙 | ソラノ紫雲 |  |
@@ -10602,7 +10601,7 @@ example:
 | takaya yoshiyuki | 鷹屋ヨシユキ |  |  |
 | takayama chihiro | 高山千尋 |  |  |
 | takayamanon | タカヤマノン |  |  |
-| takayuki hiyori | Evo.R.B |  |  |
+| takayuki hiyori | 宇行日和 | 宇行日和 |  |
 | take takeshi | 武猛 |  |  |
 | take toshiaki | 武俊彰 |  |  |
 | takea saki | たけあ崎 |  |  |
@@ -10654,7 +10653,7 @@ example:
 | takumi na muchi | たくみな無知 |  |  |
 | takumi rohan | たくみ露伴 |  |  |
 | takura mahiro | 田倉まひろ |  |  |
-| takuteks | TAKUTEKS |  |  |
+| takuteks | TAKUTEKS |  | [pixiv](https://www.pixiv.net/users/5634920) |
 | tama | tama |  |  |
 | tama ii | たまつー |  |  |
 | tama kifuyu | たまきふゆ |  |  |
@@ -10688,7 +10687,7 @@ example:
 | tamineko | タミネコ |  |  |
 | tamo | たも |  |  |
 | tamochi | 田持 |  |  |
-| tamon ketsuyuki | 多門結之 |  |  |
+| tamon ketsuyuki | 多门结之 |  |  |
 | tamori tadaji | たもりただぢ |  |  |
 | tamu | たむ |  |  |
 | tamuhi | タムヒ |  |  |
@@ -10789,7 +10788,7 @@ example:
 | tenamaru | テナマル |  |  |
 | tenchuumaru | 天誅丸 |  |  |
 | tenchuunan | 天誅男 |  |  |
-| tendou itsuki | 天堂樹 |  |  |
+| tendou itsuki | 天堂樹 |  | [pixiv](https://www.pixiv.net/users/9817470) |
 | tendou kuon | 天童久遠 |  |  |
 | tendou makura | 天童まくら |  |  |
 | tengudake | テングダケ |  |  |
@@ -10895,7 +10894,7 @@ example:
 | toki | トキ |  |  |
 | tokiai haya | 伽藍快 |  |  |
 | tokihama jiro | 時浜次郎 |  |  |
-| tokimachi eisei | トキマチ★エイセイ |  |  |
+| tokimachi eisei | トキマチ★エイセイ |  | [pixiv](https://www.pixiv.net/users/283275) |
 | tokimal yoshihisa | 時丸佳久 |  |  |
 | tokino | 時乃 |  |  |
 | tokinobutt | ときのぶっと |  |  |
@@ -11190,7 +11189,7 @@ example:
 | uemukai dai | 上向だい |  |  |
 | ueno ebisen | 上野えびせん |  |  |
 | ueno juubai | 上野十倍 |  |  |
-| ueno meguru | 植野メグル |  |  |
+| ueno meguru | 植野メグル | 貫うろん | [pixiv](https://www.pixiv.net/users/119001028)<br>[X](https://x.com/nuki_uron) |
 | ueno naoya | ウエノ直哉 |  |  |
 | ueshima haruki | 上嶋ハルキ |  |  |
 | uesugi shingo | 上杉信五 |  |  |
@@ -11385,7 +11384,7 @@ example:
 | wakaki tamiki | 若木民喜 |  |  |
 | wakamesan | ワカメさん |  |  |
 | wakamiya teresa | 我宮てれさ |  | [pixiv](https://www.pixiv.net/users/2842810) |
-| wakatsuki | 若月 |  |  |
+| wakatsuki | 若月(若) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/c7d6a5c14c30e1c3f10184a600663753262400697.png) |  |
 | wako | わこ |  |  |
 | wakura | わくら |  |  |
 | wakyo | Wakyo |  |  |
@@ -11539,7 +11538,7 @@ example:
 | yamai | 山井 |  |  |
 | yamai sakatarou | 山井逆太郎 | 山井逆太郎(山井坂太郎) |  |
 | yamaimo torotoro | 山いもとろとろ |  |  |
-| yamaishi joe | 山石ジョウ |  |  |
+| ukai toufu | 鵜飼とうふ | 山石ジョウ |  |
 | yamaiso | やまいそ |  |  |
 | yamakawa yuu | 山河勇 |  |  |
 | yamako | やまこ |  |  |
@@ -11579,7 +11578,7 @@ example:
 | yamome | ヤモメ |  |  |
 | yamoto | yamoto |  |  |
 | yan | ヤン |  |  |
-| yana | 也な |  |  |
+| yana | 也な |  | [pixiv](https://www.pixiv.net/users/18456) |
 | yanagi | 柳 |  |  |
 | yanagi hirohiko | 柳ひろひこ |  |  |
 | yanagida fumita | 柳田史太 |  |  |
@@ -11672,7 +11671,7 @@ example:
 | yoko juusuke | 横十輔 |  |  |
 | yoko mawatari | 馬渡ようこ |  |  |
 | yokohachi | よこはち |  |  |
-| yokosima | 横縞 |  |  |
+| yokosima | 縦縞キタ |  |  |
 | yokota mamoru | 横田守 |  |  |
 | yokoyama kouji | 横山コウジ |  |  |
 | yokoyama michiru | 横山ミチル |  |  |
@@ -11750,7 +11749,7 @@ example:
 | yoshizawa miyabi | 吉沢雅 |  |  |
 | yoshizawa tomoaki | 吉澤友章 |  |  |
 | yoshizawa vanilla | 芳澤ばにら |  |  |
-| yositama | 英戦 |  |  |
+| yositama | ヨシタマ |  |  |
 | yosomono | よそ者 |  |  |
 | yosuke | ヨースケ |  |  |
 | yosyo- | ヨショー |  |  |
@@ -11766,7 +11765,7 @@ example:
 | youichirou w | よーいちろーW |  |  |
 | youjomodoki | ヨウジョモドキ |  |  |
 | youka | よーか |  |  |
-| youkan | ようかん |  |  |
+| youkan | ようかん |  | [pixiv](https://www.pixiv.net/users/59439630) |
 | youma kachie | 夜馬勝絵 |  |  |
 | youtou sadamitsu | 妖刀定光 |  |  |
 | yowashi | よわし |  |  |
@@ -11797,7 +11796,7 @@ example:
 | yukako | ゆかこ |  |  |
 | yukaran nosuke | ゆからんのすけ |  |  |
 | yukatama | ゆかたま |  |  |
-| yukataro | ゆかたろ |  |  |
+| yukataro | ゆかたろ |  | [pixiv](https://www.pixiv.net/users/125057) |
 | yukawa mario | 湯川まりお |  |  |
 | yuki mau | 有希まう |  |  |
 | yuki seriya | yuki seriya |  |  |
@@ -11881,7 +11880,7 @@ example:
 | yusui | ゆすい |  |  |
 | yusura | 山桜桃 |  |  |
 | yutakame | ゆたかめ |  |  |
-| yuto | yuto |  |  |
+| yuto | yuto |  | [pixiv](https://www.pixiv.net/users/776699) |
 | yutori-nu | ゆとりーぬ |  |  |
 | yutsuki tsuzuri | 愉月綴 |  |  |
 | yuu | 由宇 |  |  |
@@ -11942,11 +11941,11 @@ example:
 | yuzuki yuno | 柚木ゆの |  |  |
 | yuzuko syou | ゆずこしょう |  |  |
 | yuzupon | ゆずぽん |  |  |
-| yuzuriha | 杠 |  |  |
+| yuzuriha | 让叶 |  |  |
 | yuzushiko | ゆずしこ |  |  |
 | yuzuyoukan | ゆずようかん |  |  |
 | z-s-e | z-s-e |  |  |
-| z26 | Z26 |  |  |
+| z26 | Z26 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/41ba5920eb7c8daafb9f5dda5b39f802262400697.png) |  |
 | zacro | 柘榴 |  |  |
 | zakiko | ザキコ |  |  |
 | zakkunpoppu | 雑君保プ |  |  |
@@ -12107,7 +12106,7 @@ example:
 | sisyamo 2 percent | sisyamo2% | 专注嘴上功夫的画师<br>![图](# "https://ehgt.org/96/77/96773afe704296115b565e6dba8450e64cd0cc8c-151544-640-480-jpg_l.jpg") | [pixiv](https://www.pixiv.net/users/2632419) |
 | metacora | めたこら |  |  |
 | kangoku meika | 監獄銘菓 |  |  |
-| souseki | 層積 |  |  |
+| souseki | 层积 |  |  |
 | manno | まんの |  |  |
 | tamada heijun | 玉田平準 |  | [pixiv](https://www.pixiv.net/users/10427188) |
 | nagai go | 永井豪 | 永井豪，原名永井洁，1945年9月6日出生于石川县轮岛市。代表作有“破廉耻学园”、“恶魔人”、“魔神Z”、“盖塔机器人”、“甜心战士”等。作品“凄之王”在1980年获得了第四届讲谈社漫画赏。 |  |
@@ -12131,7 +12130,7 @@ example:
 | konery | ｺﾈﾘｨ＠(ヽ'ω\`) |  | [pixiv](https://www.pixiv.net/users/8009793) [X](https://x.com/pice1234) |
 | cocomachi | ここまち |  | [pixiv](https://www.pixiv.net/users/55223444) |
 | mizuse kiseki | 星の紅茶 |  | [pixiv](https://www.pixiv.net/users/12120406) [X](https://x.com/hoshi0tea) |
-| momomo gasshuukoku | ももも合衆国 |  |  |
+| momomo gasshuukoku | ももも合衆国 |  | [Fantia](https://fantia.jp/fanclubs/12600) |
 | nameless peasant | 皮三豆 |  | [X](https://x.com/Pisanto666) |
 | minamoto kosada | 源康定 |  |  |
 | mukatsuku | ム菓ツク（むか） |  | [pixiv](https://www.pixiv.net/users/163404) |
@@ -12408,7 +12407,7 @@ example:
 | alexanderdinh | Alexanderdinh |  |  |
 | toubaru rairu | 桃原らいる |  |  |
 | murao mio | 村生未央 |  |  |
-| toriyaro | トリヤロウ |  |  |
+| toriyaro | トリヤロウ |  | [pixiv](https://www.pixiv.net/users/50731293) |
 | umeda nautilus | 梅田ノーチラス |  |  |
 | komura | コムラ |  |  |
 | dakkoku jiro | 脱壳次郎 |  | [pixiv](https://www.pixiv.net/users/58552278) |
@@ -12457,7 +12456,7 @@ example:
 | rkrk12 | rkrk12 |  | [pixiv](https://www.pixiv.net/users/27519319)<br>[FANBOX](https://rkrk12.fanbox.cc/) |
 | yurishima shiro | ゆりしましろ |  | [X](https://x.com/yurishima_shiro) [pixiv](https://www.pixiv.net/users/86618946) |
 | purumetal | ぷるめたる |  | [X](https://x.com/purumetal) [pixiv](https://www.pixiv.net/users/16924708) |
-| nicolai no yome | ニコライの嫁（nicolai） |  | [X](https://x.com/nic01ai) [pixiv](https://www.pixiv.net/users/32560534) |
+| nicolai no yome | ニコライの嫁 |  | [X](https://x.com/nic01ai)<br>[pixiv](https://www.pixiv.net/users/32560534) |
 | sukusan | SukuSan |  | [pixiv](https://www.pixiv.net/users/10166531) |
 | noya macoto | ノヤマコト | **ノヤマコト** 是日本漫画家、插画师，以社团「乃屋」名义发布东方 Project 题材同人志，以「ウラマコト（里 Macoto）」名义发布捆绑拘束题材插画、漫画。<br><br>![](https://upload.thwiki.cc/f/f0/乃屋banner3.jpg) | [东方维基](https://thwiki.cc/乃屋)<br>[个人主页](https://thwiki.cc/乃屋)<br>Twitter：[ノヤマコト](https://x.com/noya_macoto)、[ウラマコト](https://x.com/ura_macoto)<br>Pixiv：[ノヤマコト](https://www.pixiv.net/users/153451)、[ウラマコト](https://www.pixiv.net/users/51707037)<br>[Ameba](https://ameblo.jp/noyamacoto/) |
 | ryouta | りょうた |  | [pixiv](https://www.pixiv.net/users/3061486) [X](https://x.com/ryouta335) |
@@ -12513,7 +12512,7 @@ example:
 | nukeru | ヌケル |  | [pixiv](https://www.pixiv.net/users/58172120) [X](https://x.com/nomorenukeru) |
 | musui ethanol | 無水エタノール |  | [pixiv](https://www.pixiv.net/users/41280283) [X](https://x.com/GorillArtist) |
 | mori sinrisk | 森シンリスク |  | [pixiv](https://www.pixiv.net/users/3433) [X](https://x.com/sinrisk) |
-| moegi | 萌黄おじさん |  |  |
+| moegi | 萌葱 |  |  |
 | kikomuhito | 着込む人 |  |  |
 | elegant | えれがんと |  | [pixiv](https://www.pixiv.net/users/16333896) [X](https://x.com/Elegant1266) |
 | tonyman plus | トニーマン+ |  | [pixiv](https://www.pixiv.net/users/1262834) [X](https://x.com/Tonyman_Sister) [HP](http://deadassembly.blog133.fc2.com/) |
@@ -12602,14 +12601,14 @@ example:
 | sasai nakoto | 茶彩なこと |  | [X](https://x.com/Sasainakoto_18) [pixiv](https://www.pixiv.net/users/38123017) |
 | hina | 氷菜 |  | [X](https://x.com/hinakisara) [pixiv](https://www.pixiv.net/users/926687) |
 | yozakura souki | 夜桜ソウキ |  | [X](https://x.com/artina328) [pixiv](https://www.pixiv.net/users/14482291) |
-| susukumo nagi | 煤雲なぎ |  | [X](https://x.com/susu_nagi) [pixiv](https://www.pixiv.net/users/83943351) |
+| susukumo nagi | 煤云凪 |  | [X](https://x.com/susu_nagi) [pixiv](https://www.pixiv.net/users/83943351) |
 | cielo | CIELO |  | [pixiv](https://www.pixiv.net/users/30796241) |
 | hekoman | へこまん | ![](https://pbs.twimg.com/profile_images/1262027694109192194/SuSplvQK_400x400.jpg)<br>萝莉&口交颜大师(bushi) | [X](https://x.com/erogomatinpo) [pixiv](https://www.pixiv.net/users/46173470) |
 | ichinosono yui | 一之园唯 |  |  |
 | rindow masaki | あるでぃ |  |  |
 | orihika | おりひか |  |  |
 | scottie | スコッティ |  |  |
-| makin | まきん |  |  |
+| makin | まきん |  | [FANBOX](https://www.fanbox.cc/@makin)<br>[pixiv](https://www.pixiv.net/users/3119679) |
 | myamo | ミャモ |  | [pixiv](https://www.pixiv.net/users/10215) [X](https://x.com/omaym1234) |
 | pedopetton | ぺどぺっとん |  | [pixiv](https://www.pixiv.net/users/39327558) |
 | mikozin | ミコジン |  |  |
@@ -12627,7 +12626,7 @@ example:
 | point takashi | みるく工房 |  |  |
 | wakatake | わかたけ |  |  |
 | aak | aak | 萝莉画师，推特不定时爆炸 | [pixiv](https://www.pixiv.net/users/22601389) [X](https://x.com/aak008ex) |
-| rabu | ラブ |  |  |
+| rabu | ラブ |  | [pixiv](https://www.pixiv.net/users/34341874) |
 | uni toshiki | ウニトシキ |  |  |
 | teikuuhikou | 低空飞行 |  |  |
 | iwami yasoya | 石见やそや | ![X](https://pbs.twimg.com/profile_images/1607594719500197892/r3UmAHQ9_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/IwamiYasoya) [pixiv](https://www.pixiv.net/users/22078099) |
@@ -12655,7 +12654,7 @@ example:
 | ushio kiyoshi | 潮汐きよし |  |  |
 | yumemi teer | 夢見てぇる |  |  |
 | kisaragi sonami | 生肉 |  | [pixiv](https://www.pixiv.net/users/49283008) |
-| nishi yasuaki | 西ヤスアキ |  | [X](https://x.com/nishi_ak1) [pixiv](https://www.pixiv.net/users/15129224) |
+| nishi yasuaki | 西ヤスアキ | 西康晃 | [X](https://x.com/nishi_ak1) [pixiv](https://www.pixiv.net/users/15129224) |
 | higashi taishi | 東太子 | 转生成为 [コソコソ丸](https://www.pixiv.net/users/30446632) |  |
 | kokudou juunigou | 国道12号 |  | [X](https://x.com/juunigou) |
 | sushi yuusha toro | 寿司勇者トロ | ホラーとクリーチャーだいすきっ！<br>同人サークル「イニミニマニモ？」でゲーム作ってるよっ！<br>ニコニコで東方異形郷（R-18G）という動画も投稿してるよんっ！ | [X](https://x.com/toro_yori_ebi)<br>[pixiv](https://www.pixiv.net/users/2938678)<br>[Fantia](https://fantia.jp/fanclubs/22621) |
@@ -12687,7 +12686,7 @@ example:
 | miyazaki usagi | みやざきうさぎ |  |  |
 | touchuu kasou | 冬虫夏草 |  |  |
 | cbmus | Cbmus |  | [X](https://x.com/hhkd65044493) [pixiv](https://www.pixiv.net/users/9942406) |
-| torii yoshitsuna | 鳥居ヨシツナ | 鳥居ヨシツナ（山吉田之助） | [X](https://x.com/Yoshitsuna_T) [pixiv](https://www.pixiv.net/users/7309260) |
+| torii yoshitsuna | 鸟居义纲 | 鳥居ヨシツナ（山吉田之助） | [X](https://x.com/Yoshitsuna_T) [pixiv](https://www.pixiv.net/users/7309260) |
 | mannack | まんなく |  | [pixiv](https://www.pixiv.net/users/29759565) |
 | miwerjooggetser | 無名老圖 |  | [pixiv](https://www.pixiv.net/users/1176892) [X](https://x.com/ojiojiojisaaan) |
 | shimohara | しもはら |  | [pixiv](https://www.pixiv.net/users/17341989) [X](https://x.com/shimohr) |
@@ -12777,7 +12776,7 @@ example:
 | suzuro aruki | スズロアルキ |  |  |
 | moritama | もりたま |  |  |
 | inainaka | 不在中 |  |  |
-| nizigensan | ニジィー | ![X](https://pbs.twimg.com/profile_images/1691785458165116928/X23dfRTt_400x400.png)<br><br>**作者推特头像**<br><br>社团`g:ura no hikidashi`主笔画师 | [X](https://x.com/urano_hikidashi) [pixiv](https://www.pixiv.net/users/21288594) |
+| nizigensan | ニジィー | ![X](https://pbs.twimg.com/profile_images/1691785458165116928/X23dfRTt_400x400.png)<br><br>**作者推特头像**<br><br>社团`g:urano hikidashi`主笔画师 | [X](https://x.com/urano_hikidashi) [pixiv](https://www.pixiv.net/users/21288594) |
 | yaruku | ヤルク |  |  |
 | jeattle | ジアトー |  |  |
 | yoshio ereki | よしおエレキ | ![X](https://pbs.twimg.com/profile_images/1715140983980204032/cjCuGrnv_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/yoshioereki) [pixiv](https://www.pixiv.net/users/48437512) |
@@ -12793,7 +12792,7 @@ example:
 | kumamoto aichi | 熊本愛知 |  |  |
 | arata | アラタ |  |  |
 | yumemi gachi | 夢ミガチ |  |  |
-| sinobiin | しのびん |  | [pixiv](https://www.pixiv.net/users/24153850) [X](https://x.com/4nobin) |
+| sinobiin | 忍见 |  | [pixiv](https://www.pixiv.net/users/24153850) [X](https://x.com/4nobin) |
 | funnyaka | フンニャカ |  | [pixiv](https://www.pixiv.net/users/4517134)  [X](https://x.com/funnyaka7) |
 | yonaka ao | よなかあお |  | [pixiv](https://www.pixiv.net/users/3357827) [X](https://x.com/aoi_illust_2077) |
 | scaf | SCAF（すかーふ） |  | [pixiv](https://www.pixiv.net/users/7086692) |
@@ -12819,7 +12818,7 @@ example:
 | handplug | HandPlug |  | [pixiv](https://www.pixiv.net/users/1560530) |
 | ro-g | Ro\_G |  | [pixiv](https://www.pixiv.net/users/1348115) |
 | vicky | ビッキー |  | [pixiv](https://www.pixiv.net/users/796850) [FANBOX](https://www.fanbox.cc/@vicky-ox) |
-| kondo yume | 魂童夢 |  |  |
+| kondo yume | 童梦 |  |  |
 | namonaki | なもなき |  |  |
 | villainchin | VillainChin | 作者推特头像↓<br>![](https://pbs.twimg.com/profile_images/1697623426071154689/qwG69bDD_400x400.jpg) | [pixiv](https://www.pixiv.net/users/92344897) [twitter](https://x.com/villianchin) |
 | katou roca | カトウロカ |  |  |
@@ -12866,7 +12865,7 @@ example:
 | kaji makoto | カジマコト |  |  |
 | matrix16 | Matrix16 | 大家好,<br>希望各位喜歡我的作品<br>如果想約稿的話請透過PIXIV，電子信箱或推特...等等<br>![頭像](https://pbs.twimg.com/profile_images/1514839662355181571/eEQ9UwIX_400x400.jpg) | [pixiv](https://www.pixiv.net/users/9374007) [X](https://x.com/matriks_16) [FANBOX](https://matrix16.fanbox.cc/) [Gumroad](https://matrix16.gumroad.com/) |
 | cyi | CYI | ![](https://pbs.twimg.com/profile_images/1761008573071634432/npUYlotD_400x400.jpg)<br>女畫家 | [Patreon](https://www.patreon.com/CYI)<br>[pixiv](https://www.pixiv.net/users/5366076)<br>[X](https://x.com/cyicheng)<br>[FANBOX](https://cyi.fanbox.cc/)<br>[Gumroad](https://cyi.gumroad.com/) |
-| choipiro | ちょいぴろ | ちょいもず ![X](https://pbs.twimg.com/profile_images/1795140288928989184/GXQLWoe-_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/moz_choi) [pixiv](https://www.pixiv.net/users/67102863) |
+| choipiro | ちょいぴろ | ちょいもず<br>![X](https://pbs.twimg.com/profile_images/1951918979347591168/Wf2dpj96_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/moz_choi) [pixiv](https://www.pixiv.net/users/67102863) |
 | shimizu tomomi | 清水ともみ | 清水智美女士是日本前速滑运动员，现在以漫画的形式活跃在维护人权前线，向世界宣传中共对东突厥斯坦的维吾尔人施行的人权侵害。漫画以真实的受害群体的个人经历为原型，描述种种中共犯罪恶行。出版的著作有：《谁也不敢提起那个国名》，《我生上发生的事》的一系列漫画。内容被翻译成多国语言。 | [Twitter](https://x.com/swim_shu)<br>[pixiv](https://www.pixiv.net/users/40063519) |
 | umai | 馬胃 |  |  |
 | nada shio | なだソルト |  |  |
@@ -12903,7 +12902,7 @@ example:
 | ruutyan | るち餡 |  | [pixiv](https://www.pixiv.net/users/11659204) |
 | announ | 暗ノ吽 |  | [DLsite](https://www.dlsite.com/books/author/=/author_id/AJ021465) |
 | shien | しえん |  | [pixiv](https://www.pixiv.net/users/43943119) |
-| kibi anmitsu | 吉备あんみつ |  | [pixiv](https://www.pixiv.net/users/2510266) |
+| kibi anmitsu | 吉备馅蜜 |  | [pixiv](https://www.pixiv.net/users/2510266) |
 | nozora yuzu | 望宙ゆず |  | [pixiv](https://www.pixiv.net/users/40565545) |
 | aburi saamon maru | 炙りサーモン丸 |  |  |
 | shiranai hitoshi | しらないひとし |  |  |
@@ -12938,7 +12937,7 @@ example:
 | efuri | えふり |  | [pixiv](https://www.pixiv.net/users/21997192) |
 | suzushiro nerita | 鈴白ねりた |  |  |
 | momoshika fujiko | ももしか藤子 |  |  |
-| kidoban | 木户番 |  | [pixiv](https://www.pixiv.net/users/16359940) [X](https://x.com/slowcurve555) |
+| kidoban | 木戸番 |  | [pixiv](https://www.pixiv.net/users/16359940) [X](https://x.com/slowcurve555) |
 | nekoshoko | 猫しょこ |  | [pixiv](https://www.pixiv.net/users/32045169) |
 | usagihara kuro | 兎原クロ |  | [pixiv](https://www.pixiv.net/users/7112385) |
 | aiga | アイガ |  |  |
@@ -12953,7 +12952,7 @@ example:
 | nishimoto rou | 西本ろう |  |  |
 | shiroi yoru | 白い夜 |  |  |
 | edachi hoho | えだちほほ |  |  |
-| yuzhe s | 愚者s |  |  |
+| yuzhe s | 愚者s |  | [pixiv](https://www.pixiv.net/users/3704548) [Patreon](https://www.patreon.com/mengmeng) [FANBOX](https://www.fanbox.cc/@mengmeng) |
 | sango | 参号 |  |  |
 | yoshinao | よしなお |  |  |
 | romm | ろむむ |  |  |
@@ -13047,7 +13046,7 @@ example:
 | gekkou | 月光 |  |  |
 | tsumiki | ツミキ |  |  |
 | tanakala | タナカラ |  |  |
-| hatsuden pengin | 発電ペンギン |  |  |
+| hatsuden pengin | 发电企鹅 |  |  |
 | novice tori | のーびす鸟 |  |  |
 | dion | DION |  | [pixiv](https://www.pixiv.net/users/92966311) [X](https://x.com/dio_nand) |
 | ricochet | リコシェット |  | [pixiv](https://www.pixiv.net/users/66409778) [X](https://x.com/RIKOSYEGOSUB) |
@@ -13111,7 +13110,7 @@ example:
 | yumejidake | ユメジダケ |  |  |
 | morino koala | 森乃こあら |  |  |
 | genmai | 玄米 |  | [pixiv](https://www.pixiv.net/users/4749437) |
-| satsuki usa | サツキのウサ小屋 |  |  |
+| satsuki usa | 皐月ウサ |  |  |
 | kamishiro piyo | 神代ぴよ |  |  |
 | tachibana kou | 橘こお |  |  |
 | kutsushita danshaku | 靴下男爵 |  |  |
@@ -13164,7 +13163,7 @@ example:
 | isoi | あいそい |  |  |
 | maij chichico | 明治乳子 |  |  |
 | guremasu | ぐれます |  |  |
-| alpha91 | Alpha91 |  |  |
+| alpha91 | Alpha |  | [pixiv](https://www.pixiv.net/users/16051830) |
 | marumaromi | まるまろみ |  |  |
 | inchore | 陰ちょれ |  |  |
 | bujidearu | ぶじである |  |  |
@@ -13189,7 +13188,7 @@ example:
 | kasetsu makoto | 霞雪诚 |  |  |
 | chomoran | チョモラン |  |  |
 | kanonhou | 加农炮 |  |  |
-| miki chika | みきちか |  |  |
+| miki chika | みきちか |  | [pixiv](https://www.pixiv.net/users/60911) |
 | enoka | 江ノカ |  |  |
 | hako reema | 箱れぇま |  |  |
 | kohri | こーり |  |  |
@@ -13405,7 +13404,7 @@ example:
 | xipa | Xipa |  | [pixiv](https://www.pixiv.net/users/75450767) |
 | serei teru | せれいてる |  |  |
 | azumaya yukiko | アズマヤユキコ |  |  |
-| hamaguchi mitama | 滨口味たま |  | [X](https://x.com/hamaguchimitama) |
+| hamaguchi mitama | 濱口味たま |  | [X](https://x.com/hamaguchimitama) |
 | kirinama | 桐生 | 别名：きりなま |  |
 | magurono yukinao | スタンダードアザラシ |  |  |
 | sangai | 算涯 |  |  |
@@ -13419,7 +13418,7 @@ example:
 | arayuki | 沐雪Arayuki |  |  |
 | mashiko | ましこ |  |  |
 | nanahara mitsuru | 七原みつる |  |  |
-| osanai nii | 小山内にい |  |  |
+| osanai nii | 小山内にい |  | [pixiv](https://www.pixiv.net/users/86060353) |
 | evan yang | Evan☆揚 |  |  |
 | evanyi | EVANYI |  |  |
 | utsunomiya tsumire | 宇都宮つみれ |  |  |
@@ -13562,7 +13561,6 @@ example:
 | koku | 克 | 克，或称COQ(读作koku)，是`g:purple software`的主力原画师。你所熟知的`p:hapymaher`中的妹妹小恶魔Naitou Maia 内藤 舞亜 就是祂设计的。<br>COQ (read as Koku) is a Japanese adult game artist affiliated with Purple Software. | [VNDB](https://vndb.org/s2155) |
 | freng | freng |  |  |
 | nabi | なび |  |  |
-| tokutokup | 特特P |  |  |
 | tutikure | つちくれ |  | [pixiv](https://www.pixiv.net/users/2816506) [X](https://x.com/nitutituti) |
 | limama | 李妈妈 |  |  |
 | ichi matsuru | 惟千茉鹤 |  |  |
@@ -13669,7 +13667,7 @@ example:
 | inukai rippo | 犬飼りっぽ |  | [pixiv](https://www.pixiv.net/users/1496320) [X](https://x.com/ripo_day) |
 | usagi piyoko | 兎ぴよこ |  | [pixiv](https://www.pixiv.net/users/42703226) [X](https://x.com/harapeco_usap) |
 | xiao chai hu | 小柴胡 |  | [pixiv](https://www.pixiv.net/users/78258142) |
-| suzuki senpai | 铃木先辈 | 鈴木先輩 | [pixiv](https://www.pixiv.net/users/16796662) |
+| suzuki senpai | 铃木先辈 \| スズオ | 鈴木先輩 | [pixiv](https://www.pixiv.net/users/16796662) |
 | wesley morse | Wesley Morse |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Wesley_Morse) |
 | tou tou | 糖tou |  | [pixiv](https://www.pixiv.net/users/22628045) [X](https://x.com/l_ract) [weibo](https://weibo.cn/u/6418827015) |
 | makulu | Lumakulu | 同`a:makura no doushi`<br><br>[参见](https://repo.e-hentai.org/tools/tagapprove?tagid=510762) |  |
@@ -13679,7 +13677,7 @@ example:
 | chida yuki | ちだゆうき |  |  |
 | todoroki kangoku | 轰かんごく |  |  |
 | ray oriha | レイ=オリハ |  |  |
-| chousetsu | ちょうせつ |  |  |
+| chousetsu | ちょうせつ |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22ちょうせつ%22) |
 | erocchi | エロッチ |  |  |
 | gozenchu | 娯禅宙 |  |  |
 | fukamichi ranou | 深道卵黄 |  |  |
@@ -13758,7 +13756,7 @@ example:
 | fishinloli | フィッシンローリ |  | [X](https://x.com/fishinloli0820/) [FANBOX](https://www.fanbox.cc/@fishinloli) |
 | moririn-monson | モリリン・モンソン |  |  |
 | hakuhi | 剥皮 |  | [pixiv](https://www.pixiv.net/users/296713) |
-| takarama otoko | 高良間男 |  | [X](https://x.com/Pizza__Mania) |
+| takara mao | 高良間男 |  | [X](https://x.com/Pizza__Mania) |
 | kojima lala | 仔縞楽々 |  |  |
 | aoi kojika | あおいこじか |  |  |
 | fuji norihiro | 藤のりひろ |  |  |
@@ -13848,7 +13846,7 @@ example:
 | mago xiejin | 魔术师邪金 |  | [X](https://x.com/r8zv2kngNvaKjrY) [pixiv](https://www.pixiv.net/users/19986778) |
 | futarou | フタロウ |  |  |
 | haruna hisui | 春名翡翠 |  |  |
-| kusunoki majiri | やまのみき |  |  |
+| kusunoki majiri | 楠まじり \| やまのみき |  |  |
 | burisuke | ぶりすけ |  |  |
 | kouda hayato | 国府田隼人 |  |  |
 | sanada ikki | 真田一辉 |  |  |
@@ -13927,6 +13925,835 @@ example:
 | loooyd | Loooyd |  | [pixiv](https://www.pixiv.net/users/16725499)<br>[X](https://x.com/LoooydArt) |
 | kisaragi tyuta | 如月宙太 |  |  |
 | penguinteatea | PenguinTeaTea |  |  |
+| baba arumi | 马场あるみ |  |  |
+| tricky | トリッキー |  |  |
+| nichijou | 日常 |  |  |
+| naruse miyabi | 成瀬みやび |  | [pixiv](https://www.pixiv.net/users/8967815) [X](https://x.com/creamiyabi_0303) |
+| lionneko | れおねこ |  |  |
+| shizuma | しづま |  | [pixiv](https://www.pixiv.net/users/18787849) |
+| shasha inu | しゃしゃ犬 |  | [pixiv](https://www.pixiv.net/users/100972173) |
+| h2 | 英知通(h2) |  | [X](https://x.com/h209851219) |
+| odochi | おどち |  |  |
+| an-telin | an-telin |  | [pixiv](https://www.pixiv.net/users/18800957) |
+| bonbaie | 盆場家 |  | [pixiv](https://www.pixiv.net/users/20361119) |
+| baiqin hyakkin | 百禽Hyakkin |  | [X](https://x.com/hyakkinkunu) |
+| qr | QR |  | [X](https://x.com/qr_req)<br>[pixiv](https://www.pixiv.net/users/35504747) |
+| inaba reito | 稲葉れいと |  | [X](https://x.com/InabaReito)<br>[pixiv](https://www.pixiv.net/users/34377290) |
+| kajiking | 家事王 |  | [X](https://x.com/kajiking1)<br>[pixiv](https://www.pixiv.net/users/2313835) |
+| periodo | ピリオド |  | [X](https://x.com/anony_83) \| [pixiv](https://www.pixiv.net/users/27865046) |
+| kan-non ritsu | 观音リツ | 観音リツ |  |
+| san p. dro | San P. dro |  | [X](https://x.com/san_phidr0)<br>[pixiv](https://www.pixiv.net/users/94295754)<br>[FANBOX](http://sanphidro.fanbox.cc/)<br>[Patreon](https://www.patreon.com/sanphidro) |
+| sukima nozoki | 隙間 覗 |  | [pixiv](https://www.pixiv.net/users/67984961)<br>[FANBOX](https://asadorekyuri12.fanbox.cc/) |
+| akisuko | あきすこ |  |  |
+| chongqi shu | 充气薯 | P站：[pixiv](https://www.pixiv.net/users/12588281)<br>推特：[X](https://x.com/CQS42804592) |  |
+| izumi taichi | 泉たいち |  |  |
+| fujii akiko | ふじいあきこ |  |  |
+| sasaki kazuyuki | 佐咲和由喜 |  |  |
+| umehisa | 梅久 |  | [pixiv](https://www.pixiv.net/users/32837832)<br>[X](https://x.com/umehisa4559) |
+| greatnaosuke | 良い直助 |  | [X](https://x.com/greatnaosuke) |
+| saki kaori | 咲香里 |  |  |
+| you yue yue | 幼月月 |  | [pixiv](https://www.pixiv.net/users/10344581)<br>[FANBOX](https://www.fanbox.cc/@youyueyuee)<br>[X](https://x.com/youyuetk) |
+| umibara yuta | 海原ゆた |  |  |
+| oomugi | 大麥 |  |  |
+| mizuki gen | 水木玄 |  |  |
+| okuma | 奥马 |  |  |
+| m hakase | M博士 | [pixiv](https://www.pixiv.net/users/29464462)<br>[FANBOX](https://mhakase.fanbox.cc/)<br>[Fantia](https://fantia.jp/fanclubs/171538)<br>[X](https://x.com/m_hakase_lab) |  |
+| tenrai x | てんらいX |  | [X](https://x.com/trmsasasa) [pixiv](https://www.pixiv.net/users/66739067) |
+| takizawa taki | 滝沢タキ | 好きなジャンルは異種姦、蟲姦、獣、触手、ふたなりなどです | [X](https://x.com/tatataeroeroero) [pixiv](https://www.pixiv.net/users/3001816) |
+| ikacream | いかくりーむ | 女の子を描くのが大好きです | [X](https://x.com/ikacream05) [pixiv](https://www.pixiv.net/users/94931363) |
+| jianrenjiuda | 见人就打 |  |  |
+| hourai nepenthes | 蓬莱ネペンテス | 百合えっち漫画描き | [X](https://x.com/nepeeeeeeen_359) [pixiv](https://www.pixiv.net/users/16351181) |
+| hisha | 飛者 | 东方Project同人画师<br>![](https://p.sda1.dev/26/7897bf15316f7ac5198b6d2e94dea7f6/FMMaVieagAAxG2f.jpg) | [X](https://x.com/Uwata_h)<br>[pixiv](https://www.pixiv.net/users/23800170)<br>[FANBOX](https://hisha.fanbox.cc) |
+| upimayo | ウぴまヨ | 絵を描くオタク🤗サブ垢 | [X](https://x.com/nas_x) [pixiv](https://www.pixiv.net/users/186732) |
+| azuma ryo | あずま涼 | 主に陰毛と腋毛と潮吹きとマン屁です | [X](https://x.com/azumaryo18) [pixiv](https://www.pixiv.net/users/35581935) |
+| tabbto | オアシス |  |  |
+| moria | もりあ |  |  |
+| sakatami | さかたみ |  |  |
+| kiyama haru | 紀山ハル |  |  |
+| jakky | ジャッキー |  |  |
+| doctor masube | ドクトルますべ |  |  |
+| choukutetsushitsugan | 超苦鉄質岩 |  |  |
+| bloiler yachou | ブロイラー野鳥 |  |  |
+| shishamo | ししゃも |  |  |
+| yuetsu saru | 愉悦さる |  |  |
+| nantoka | なンとか |  |  |
+| nanameno hayuta | 七芽乃はゆた |  |  |
+| takafuji | 髙藤 |  | [X](https://x.com/tkfj_another) |
+| doremo | どれも |  | [FANBOX](https://www.fanbox.cc/@doremo) [pixiv](https://www.pixiv.net/users/4749556) [X](https://x.com/_doremo) |
+| dishwasher1910 | D.I.S.H |  | [pixiv](https://www.pixiv.net/users/13408193) [X](https://x.com/Dishwasher1910) |
+| honobo yukotogaketo | ほのぼ悠琴がけと |  |  |
+| ooide-kun | オーイデくん |  |  |
+| vel | Vel |  |  |
+| eco heeky | えこひいき |  |  |
+| tonomiya | 殿宮 |  |  |
+| ecoruby | 絵子るび |  |  |
+| shinozaki kyoko | 篠崎キョーコ |  |  |
+| sera shousa | せら少佐 |  |  |
+| yoshi yoshiyuki | 芳よしゆき |  |  |
+| ddugyu | DDUGYU |  |  |
+| moepu. | もえぷ。 |  | [pixiv](https://www.pixiv.net/users/17016899) [X](https://x.com/moepukun) |
+| pomita | ぽみ太 |  | [pixiv](https://www.pixiv.net/users/15284043) [X](https://x.com/Nozominsky) |
+| awan | 阿浣 |  | [pixiv](https://www.pixiv.net/users/28757679) |
+| peter h. l. | Peterhl |  | [pixiv](https://www.pixiv.net/users/27899452) |
+| hanawa maroru | 花輪マロル |  |  |
+| yoshiki-chan | よしきちゃん |  |  |
+| toji | 冬至 |  |  |
+| marui shiro | 四角いくろ丸 | ![X（推特）头像](https://pbs.twimg.com/profile_images/1811318848219693056/bSt39X3M_400x400.jpg)<br>BL同人志，男の娘商业志作家 | [X](https://x.com/ghha9696)<br>[misskey](https://misskey.io/@ghha3333) |
+| mikaze maruto | 緑風マルト |  |  |
+| yuruta | ゆるた |  |  |
+| nr | NR |  |  |
+| cm you | CM羊 |  |  |
+| ratatatat74 | ratatatat74 |  | [pixiv](https://www.pixiv.net/users/46464448) [X](https://x.com/ratatatat74) |
+| chirinu iroha | ちりぬいろは |  |  |
+| uchigawa | ウチガワ |  |  |
+| itsukane | 五日寝 |  |  |
+| hurure | ふるーれ |  |  |
+| inamimi | いなみみ |  |  |
+| nananooto | ななのーと | 饭盒链接：[FANBOX](https://nanon.fanbox.cc/) |  |
+| fixzhuzhu | fixzhuzhu |  | [pixiv](https://www.pixiv.net/users/19194931) |
+| conoha noa | 木葉のあ |  |  |
+| panriru | ぱんりる |  | [FANBOX](https://www.fanbox.cc/@panriru) |
+| fureshika | ふれしか |  | [pixiv](https://www.pixiv.net/users/100502538) |
+| uracine | うらちーぬ |  | [pixiv](https://www.pixiv.net/users/26431966) |
+| girotin | ギロチン |  |  |
+| pokapechie | ポカペチエ |  |  |
+| yonayona | 夜な夜な |  |  |
+| batten kyuki | 八转九起 |  |  |
+| takashiro syouseki | 高代硝石 |  |  |
+| muko | 萌子芽 |  | [pixiv](https://www.pixiv.net/users/7758820) |
+| sic phuck | Sic Phuck |  |  |
+| jpeger | Jpeger |  |  |
+| feeri | ふぇぇり |  |  |
+| buki | 武器 |  | [pixiv](https://www.pixiv.net/users/82857159) |
+| chakamaruya-san | ちゃかまる屋さん |  | [X](https://x.com/cha_cmaru) |
+| nekofugu dango | ねこふぐだんご |  | [X](https://x.com/nekofugu913) |
+| banjie wazi | 半截袜子 |  |  |
+| yagami sai | 夜神纱衣 |  |  |
+| arisane | アリサネ |  |  |
+| rapisu | ラピス |  | [pixiv](https://www.pixiv.net/users/648724) 画BA的<br>[pixiv](https://www.pixiv.net/users/72147108) 画明日方舟的 |
+| mutsuki aki | 夢月あき |  |  |
+| toi deisuke | 土肥泥助 |  | [pixiv](https://www.pixiv.net/users/26036041) |
+| neko kuni ou | 猫国王 |  |  |
+| kuzukirimoti | 屑雾饼 |  |  |
+| akaneya | 茜屋 |  |  |
+| amagiri miki | 天霧三木 |  |  |
+| tries | とりえす |  |  |
+| tsuji santa | 津路参汰 |  |  |
+| madoguchi isogu | 窓口いそぐ |  | [X](https://x.com/pm5made) |
+| yukikuni | 雪国 |  |  |
+| miyo sakurai | 樱井美代 |  |  |
+| kataokasan | kataokasan |  | [pixiv](https://www.pixiv.net/users/84325201) |
+| niwarhythm | にわりズム |  |  |
+| nagomi yayado | 和水ややど |  | [pixiv](https://www.pixiv.net/users/8918834) [X](https://x.com/Nagomi_yyd) |
+| enryu | えんりゅう |  | [pixiv](https://www.pixiv.net/users/12501034) |
+| hachikari | はちかり |  |  |
+| noumiso kaimentai | 脳みそ海綿隊 |  | [pixiv](https://www.pixiv.net/users/76786920) |
+| jimador | ヒマドール |  |  |
+| niku to gohan | 肉与饭 |  |  |
+| viali | びあり |  |  |
+| chokai | 鳥海 |  | [pixiv](https://www.pixiv.net/users/65100819) |
+| yamashita nigou | 山下二号 |  |  |
+| dian dian di di | 点点滴滴 |  |  |
+| kubikiri | 首切り |  |  |
+| onizuka frill | 鬼塚フリル |  |  |
+| bareisho tarou | 马铃薯太郎 |  |  |
+| manzoku ippon | 满足一本 |  |  |
+| hara kyuuren | 原きゅうれん |  | [X](https://x.com/Hara9Ren) |
+| kourui | 紅涙 |  | [X](https://x.com/scarlettear33) |
+| inushida | いぬしだ |  | [pixiv](https://www.pixiv.net/users/3898011) [X](https://x.com/dogsheepsheep) |
+| tarona | タロ名 |  | [X](https://x.com/taro_tarona) |
+| yudoufu | 汤豆腐 |  |  |
+| wataya shingu | 棉谷寝具 |  |  |
+| akajiro | 红城 |  |  |
+| furuyama tsukuru | 古山造 |  |  |
+| oruka | 織夏 |  |  |
+| gusari | ぐさり |  |  |
+| nakayoshi | なかよShi |  |  |
+| momono eri | 桃野衿 |  |  |
+| uyuu | 烏有 |  |  |
+| doraias kazuyo | ドライアス一世 |  |  |
+| kokemomo | こけもも |  |  |
+| aa mou souiu koto ni naru | ああもうそういうことになる |  |  |
+| sawtatsu | そうたつ |  |  |
+| nannomaru | なんの丸 |  |  |
+| mashin gehyul | 魔神ゲヒュール |  |  |
+| migita | みぎた |  |  |
+| shidare aya | しだれ彩 |  |  |
+| neko daifuku | 猫大福 |  |  |
+| taba | 束 |  |  |
+| hoshino chisara | 星野千更 |  |  |
+| namiki kojiro | 双木こじろ |  |  |
+| togashi yoshihiro | 富㭴义博 | 富㭴义博（1966年4月27日—），小名为Yoshirin。出生于日本山形县新庄市，日本男性漫画家，是《幽游白书》与《HUNTER×HUNTER》的作者 。 | [维基百科](https://zh.wikipedia.org/wiki/冨樫義博#cite_note-1) |
+| omochaman | おもちゃまん |  |  |
+| hanamaru sensei | はなまる先生 |  |  |
+| koiso usu | 小磯臼 |  | [pixiv](https://www.pixiv.net/users/52378658) |
+| inobuta | 猪豚 |  |  |
+| rinri kan | リンリ缶 |  |  |
+| kagaribi flare | 篝火ふれあ |  |  |
+| ganmodoki | かのはら |  |  |
+| shiroron mochi | しろろん餅 |  |  |
+| azabu milk | 麻布ミルク |  | [pixiv](https://www.pixiv.net/users/113905360) [X](https://x.com/AZABUMiLK) |
+| houzui reno | 宝瑞レノ |  | [pixiv](https://www.pixiv.net/users/105675193) |
+| erokun | 工口君 |  |  |
+| miyashiro yousuke | ミヤシロヨースケ |  | [pixiv](https://www.pixiv.net/users/36360069) |
+| natsushima memo | 夏嶋めも |  |  |
+| yijiufantexi | 范特西 | 依旧范特西<br>Pixiv ID:32797928<br>![](https://i.pixiv.cat/c/250x250_80_a2/custom-thumb/img/2025/09/24/19/28/00/135487872_p0_custom1200.jpg)<br>![](https://i.pixiv.cat/c/250x250_80_a2/img-master/img/2025/05/23/16/21/41/130716261_p0_square1200.jpg)<br>![](https://i.pixiv.cat/c/250x250_80_a2/img-master/img/2025/06/22/12/07/37/131841172_p0_square1200.jpg) | [pixiv](https://www.pixiv.net/users/32797928) |
+| lichiko | lllichiko |  | [pixiv](https://www.pixiv.net/users/37257600) [X](https://x.com/lllichiko) |
+| aran-k | アランK |  | [pixiv](https://www.pixiv.net/users/18514610) [FANBOX](https://www.fanbox.cc/@arank) |
+| sy4 | sy4 |  |  |
+| pantheon eve | pantheon EVE |  | [pixiv](https://www.pixiv.net/users/62855830) [FANBOX](https://pantheoneve.fanbox.cc/) [X](https://x.com/pantheon_eve) |
+| unfairr | Unfairr |  | [pixiv](https://www.pixiv.net/users/44922986) [Patreon](https://www.patreon.com/unfairr) |
+| mimyo | MIMYOミミョウ |  | [pixiv](https://www.pixiv.net/users/8142510) [FANBOX](https://mimyo.fanbox.cc/)<br>[Patreon](https://www.patreon.com/mimyoo) [Gumroad](https://gumroad.com/mimyo) |
+| mochirong | モチロン |  | [pixiv](https://www.pixiv.net/users/6005584) [FANBOX](https://mochirong.fanbox.cc/) |
+| zumi | Zumi |  | [pixiv](https://www.pixiv.net/users/15589982) [X](https://x.com/ZumiDraws) |
+| atdan | 原子Dan |  |  |
+| ruochong | 鶸虫wlom |  | [pixiv](https://www.pixiv.net/users/6048589) |
+| wei xiao | 唯笑 |  |  |
+| tansuan | 碳酸 |  |  |
+| been | been(rourou) |  | [pixiv](https://www.pixiv.net/users/4735018) [FANBOX](https://been.fanbox.cc/) [Patreon](https://www.patreon.com/hongshaorou) [Gumroad](https://hongshaoroujmt.gumroad.com) |
+| tuki usagi | 月兔 | 月うさぎ |  |
+| n9at | moca |  |  |
+| kiriko | Kiriko |  |  |
+| ling dianxia | 玲殿下 |  |  |
+| natsuhara aru | 夏原アル |  |  |
+| aoba soyogi | 青羽そよぎ |  |  |
+| byakuya yuu | 白夜ゆう |  |  |
+| rhox | rhox \| すくらさ |  |  |
+| shimon ryushiro | 子門竜士郎 |  | [pixiv](https://www.pixiv.net/users/2243541) |
+| azuma kenji | 東犬二 |  | [pixiv](https://www.pixiv.net/users/1083386) |
+| miaowu sama | 喵呜SAMA |  | [pixiv](https://www.pixiv.net/users/18975296) |
+| inaka no keshin | 田舎の化身 |  |  |
+| umashio | うましお \| 午卯ましお | 曾用名 うましお | [pixiv](https://www.pixiv.net/users/19869093) |
+| izumori04 | 犹守零肆 |  | [X](https://x.com/inumori04) |
+| rororo | rororo |  |  |
+| torino | torino |  |  |
+| nekobell | nekobell |  |  |
+| yuzuki iro | 柚月いろ |  |  |
+| ogre | ogre |  |  |
+| mizikayo | みじかよ(mizikayo) |  |  |
+| meion | 铭音MeIoN |  | [pixiv](https://www.pixiv.net/users/5271609) [微博](https://www.weibo.com/p/1005055357501349/) [哔哩哔哩](https://space.bilibili.com/1860662) |
+| housou-kun | Housoukun |  |  |
+| qian yu | 千羽 |  |  |
+| h dash | エイチダッシュ |  |  |
+| mhk | Mechamania |  |  |
+| majima hanabishi | マジマハナビシ |  |  |
+| sea nami | しーなみ |  |  |
+| hagi | 萩（hagi） |  |  |
+| yaona | やおな |  | [X](https://x.com/naoya_ee/) [pixiv](https://www.pixiv.net/users/12576657) |
+| kumasan | 熊三 |  | [pixiv](https://www.pixiv.net/users/51462833) [X](https://x.com/KumazonJP) |
+| kokuto | こくと |  |  |
+| chifuyu appleton | 千冬アップルトン |  |  |
+| fat goose | 肥鹅不腻（fat goose） |  |  |
+| babi | バビ |  |  |
+| tarako | tarako \| taraku |  | [pixiv](https://www.pixiv.net/users/34106415) |
+| kinari an | きなり餡 |  |  |
+| onigawara keruri | 鬼瓦けるり |  | [pixiv](https://www.pixiv.net/users/8932580) |
+| chingero | ちんげろ |  |  |
+| nanatsu no umi | 七海 |  |  |
+| morino nezumi | 森野ネズミ |  |  |
+| wackan | わっく艦 |  |  |
+| hyakuokuibara | 百億いばら |  |  |
+| alihina | 有雏 |  |  |
+| uchiyama aki | 内山亜紀 |  |  |
+| rukia | 琉煌 |  |  |
+| fujisawa kamiya | 藤沢カミヤ |  |  |
+| yan jhia | 菸宅 |  |  |
+| sakuraide ichi zakuro | 桜出一柘榴 |  | [pixiv](https://www.pixiv.net/users/38163037) |
+| sigma kaichou | シグマ会長 | ![シグマ会長头像](https://i.pixiv.cat/user-profile/img/2023/05/31/22/56/56/24489494_cd9458236fb39f398bb38cfc12223d0d_50.jpg) | [pixiv](https://www.pixiv.net/users/94325217) |
+| eichi | エイチ |  |  |
+| fuwatoro | ふわとろ |  |  |
+| kajiki tetsu | カジキ鉄 |  |  |
+| tatsuwaipu | たつわのさと |  |  |
+| suppa | すっぱ |  | [pixiv](https://www.pixiv.net/users/29759363) [X](https://x.com/hagakuresuppa) |
+| sekka mushi | 雪花蟲 |  | [pixiv](https://www.pixiv.net/users/111488352) |
+| nishikasai munieru | 西葛西むにえる |  | [pixiv](https://www.pixiv.net/users/3345033) |
+| mopumopu | もぷもぷ |  |  |
+| ooishi kou | 大石コウ |  |  |
+| sakura muni | 桜むに |  |  |
+| yuu ringo | 幽林檎 |  |  |
+| natsuki gumi | 夏木グミ |  |  |
+| zizi | zizi | ジジ | [pixiv](https://www.pixiv.net/users/37069827) [X](https://x.com/QAcP2omHpXoLqUq) |
+| takatou sora | 高遠そら |  | [pixiv](https://www.pixiv.net/users/14932696) [X](https://x.com/auchan_nano) |
+| meis | メイス |  | [pixiv](https://www.pixiv.net/users/1675811) [X](https://x.com/meis12495) |
+| sanadame | さなだめ |  | [pixiv](https://www.pixiv.net/users/45121500) |
+| kuroyama yuu | 黒山有 |  |  |
+| yunachi | ゆなち |  |  |
+| getsumen chakuriku | 月面着陸 |  |  |
+| esebayashi efu | エセ林エフ |  |  |
+| tsukushi akihito | 土笔章人 |  | [X](https://x.com/tukushiA) |
+| nagatsuki sou | 長月蒼 |  |  |
+| nagatsuki chihoru | 長月ちほる |  |  |
+| nagi hikaru | 凪ひかる |  |  |
+| nikurotsuchi hoshi | くびなが \| 二黒土星 |  |  |
+| jyuryokushi-tan | 重力子たん |  |  |
+| jmao | JMao睫毛 |  | [pixiv](https://www.pixiv.net/users/2829550) [X](https://x.com/jmaomaomao) |
+| yonketa | よんけた |  | [pixiv](https://www.pixiv.net/users/109618807) |
+| kurowa san | 黒和サン |  |  |
+| kamikita futago | 上北ふたご | 上北双子（1960年8月11日—）是日本的漫画家，双胞胎姐妹，狮子座，B型血，高知县出生。 | [维基百科](https://zh.wikipedia.org/wiki/上北雙子) |
+| ukifune kuji | 浮舟籤 | 画师头像:<br>![](https://i.pixiv.cat/user-profile/img/2024/01/07/10/22/58/25363552_14ac9bcde0e9fbeb51b8cadf1fc07b42_170.jpg) | [pixiv](https://www.pixiv.net/users/90374398)<br>[X](https://x.com/Ukifune94/photo) |
+| aguu | アグゥ |  | [X](https://x.com/agulutrip) (R18)<br>[X](https://x.com/agulutrick) (全年龄)<br>[pixiv](https://www.pixiv.net/users/5081063) |
+| asuka rayaru | 明日華らやる | 画师头像<br>![](https://i.pixiv.cat/user-profile/img/2022/07/15/21/20/40/23028550_2e6c2085da79727cdbe8fb29c9baee35_170.jpg) | [pixiv](https://www.pixiv.net/users/23275285)<br>[X](https://x.com/ASUK4_illust) |
+| ostin jr. | オースチンJr. |  |  |
+| miyashiro | 三夜代 |  |  |
+| saigoku | 西國 |  |  |
+| jk-kun | JK君 |  |  |
+| hange chamame | 半夏 | 画师头像:<br>![](https://i.pixiv.cat/user-profile/img/2021/07/12/10/08/33/21024214_38e5f0880c1124e79a774117144cca5e_170.jpg) | [pixiv](https://www.pixiv.net/users/34554540)<br>[微博](https://weibo.com/u/7644789668)<br>[FANBOX](https://h-chamame.fanbox.cc/) |
+| dawalixi | 达瓦里希 |  |  |
+| nikel | ナイケル |  |  |
+| takasaki aneki | たかさき姉貴 |  |  |
+| pandanuki | パンダヌキ |  | [pixiv](https://www.pixiv.net/users/7843706) |
+| okae rinko | 岡江りん子 |  |  |
+| shigeking-max | 刺激ing-MAX |  |  |
+| noritako | のりたこ | のりたこ |  |
+| shirakage musashi | 白影武蔵 |  |  |
+| senmura | Senmura | 东方同人画师 | [pixiv(非r18)](https://www.pixiv.net/users/40778496)<br>[pixiv(r18)](https://www.pixiv.net/users/82120650)<br>[FANBOX](https://senmura.fanbox.cc/)<br>[Skeb](https://skeb.jp/@NSFW_senmura)<br>[X(r18)](https://x.com/NSFW_senmura/media)<br>[X(非r18)](https://x.com/main_senmura/media) |
+| mac | ピクシー | pixiv userid=31869137<br>曾用名称为mac<br>现在叫ピクシー/pixy | [X](https://x.com/pixy1234567891)<br>[pixiv](https://www.pixiv.net/users/31869137/) |
+| minakemo | ミナケモ |  | [pixiv](https://www.pixiv.net/users/9937831)<br>[FANBOX](https://minakemo.fanbox.cc/posts/9980457) |
+| samnite ii | Samnite II | AI漫画家 | [pixiv](https://www.pixiv.net/users/105267225)<br>[X](https://x.com/samnite_II)<br>[Patreon](https://www.patreon.com/SamniteII)<br>[作者E站账号](https://forums.e-hentai.org/index.php?showuser=3552861) |
+| gonster | gonster |  | [pixiv](https://www.pixiv.net/users/114920) |
+| mijiang | 米浆 |  |  |
+| irodori ramune | 色鳥ラムネ |  |  |
+| lemon tea | れもち |  |  |
+| doaka | ド赤 | 画师Pixiv头像:<br>![](https://i.pixiv.cat/user-profile/img/2019/10/09/03/09/29/16390363_702d8b20a5538db2fbe843d1ad58624f_170.jpg) | [pixiv](https://www.pixiv.net/users/12169708)<br>[X](https://x.com/Dreadyuzintou) |
+| oyuwari | おゆわり(oyuwari) |  |  |
+| liu mingxing | Goatwillow | 曾用名义:Liu Mingxing/Liu Gangdan（柳钢蛋） | [pixiv](https://www.pixiv.net/users/13788343)<br>[FANBOX](https://www.fanbox.cc/@goatwillow) |
+| yotogibanashi | 夜伽話 |  |  |
+| akane sekiro | アカネ セキロ |  |  |
+| akafuku daifuku | 赤福大福 |  |  |
+| aibiki mabo | 愛引まぁぼ |  |  |
+| aburamachine | アブラマシーン |  |  |
+| amakusa shiro | 天草白 |  |  |
+| asa yohoki | アサヨホキ |  |  |
+| asakura taku3 | 朝倉拓3 |  |  |
+| aruraune | アルラウネ |  |  |
+| andou saiga | 安堂SAIGA |  |  |
+| bouhatei | 防波堤 |  |  |
+| burodou | ぶろどう |  |  |
+| chawanmushi | 茶碗蒸し |  |  |
+| cinnamon | しなもん |  | [X](https://x.com/mon_moncinnamo) |
+| cross k | クロスk |  |  |
+| dramus | ドラムス |  |  |
+| dozaemon | 土座衛門 |  |  |
+| devildance | デビルダンス |  |  |
+| datenshi namako | 堕天使なまこ |  |  |
+| eda | 江田 |  |  |
+| freedom nakai | フリーダム中井 |  |  |
+| fuji okayu | ふじおかゆ |  |  |
+| fujisaki chiro | 藤崎チロ |  |  |
+| hakidame | はきだめ |  |  |
+| hachimaru | ハチマル |  |  |
+| gomio | ゴミ男 |  |  |
+| goma gorilla | ごまゴリラ |  |  |
+| giriken | ぎりけん |  |  |
+| girigiri kenkou | ギリギリ健康 |  |  |
+| ginger-l | ジンジャー・エル |  |  |
+| gijang | ギザン |  |  |
+| genkimaru | げんきまる |  |  |
+| furuya torobinbi | 古矢とろびんび |  |  |
+| hatagoya | はたごや |  |  |
+| heitai gensui | 兵隊幻酔 |  |  |
+| hitofuu main | 人風メーン |  |  |
+| kakisoba | かきそば |  |  |
+| hoshizono kanon | 星園かのん |  |  |
+| hoshi ichi | ほしいち |  |  |
+| hori yusuke | ホリユウスケ |  |  |
+| horieros | ほりえろす |  |  |
+| ishidaya | イシダヤ |  |  |
+| itou masaya | 伊藤まさや |  |  |
+| jiginonotaro | ジギ野のたろ |  |  |
+| enami | 榎波 |  |  |
+| jinsei mainichi ga sacrifaisuke | 人生毎日がサクリファイ助 |  |  |
+| jyoka | 叙火 |  |  |
+| kairaku namakikurage | 快楽ナマきくらげ |  |  |
+| kakakaka | かカカカ |  |  |
+| jayep | Jayep |  | [pixiv](https://www.pixiv.net/users/83410821) |
+| doremi | DoReMi | 画师，蔚蓝档案总设计师Chief of Design |  |
+| inumori shirou | 戌森四朗 |  |  |
+| kouguti | こうぐち |  |  |
+| kouan | コーアン |  |  |
+| kasama shirou | 笠間しろう |  |  |
+| katsuyoshi | かつよし |  |  |
+| kawasaki | かわさき |  |  |
+| kaniguruma | かにぐるま |  |  |
+| keibou | ケイボウ |  |  |
+| ken sogen | 研そうげん |  |  |
+| kanamono | かなもの |  |  |
+| kanae p taro | 金江P太郎 |  |  |
+| kotobachi | ことばち |  |  |
+| koneko | こねこ |  |  |
+| kobito | コビト |  |  |
+| kobapyon | コバぴょん |  |  |
+| kitami mikage | 鬼多見美影 |  |  |
+| kumakko | くまっこ |  |  |
+| kurinohana | 栗の花 |  |  |
+| koushouin teisetsu | 高尚院貞節 |  |  |
+| marumai | まるまい |  |  |
+| kyozow | きょぞう |  |  |
+| london inu | London犬 |  |  |
+| manchi kan | マンチ★カン |  |  |
+| matanoshita saguru | またのした |  |  |
+| mato mai | まと舞 |  |  |
+| matsuda yuusuke | マツダユウスケ |  |  |
+| moroheiya | もろへいや |  |  |
+| mori no hiyashi chuuka | 杜のひやし中華 |  |  |
+| mona liza | モナリザ |  |  |
+| moedomura | もえどむら |  |  |
+| mizuki ebi | 水生えび |  |  |
+| mitsuashi | みつあし |  |  |
+| mirin to chikuwa | みりちく |  |  |
+| mio mio mio | 澪澪澪 |  |  |
+| minmei | みんめい |  |  |
+| methonium | シネクドキ |  |  |
+| megrim haruyo | メグリム・ハルヨ |  |  |
+| nakahara dragon | なかはらドラゴン |  |  |
+| naki ekubo | 泣きえくぼ |  |  |
+| nana g | 七G |  |  |
+| nanita | ナニタ |  |  |
+| ngu | んぐ |  |  |
+| nijiiro guin | 虹色ぐいん |  |  |
+| nishio nishipa | 西尾ニシパ |  |  |
+| nitake yutamaro | 弐竹ゆたまろ |  |  |
+| niyasuke | にやすけ |  |  |
+| yamada rimuru | 山田りむる |  |  |
+| norubon | ノルボン |  |  |
+| nuwara gray | ヌワラグレイ |  |  |
+| oohara kyutarou | 大原久太郎 |  |  |
+| penova | ペノバ |  |  |
+| purinpu | ぷりんぷ |  |  |
+| orishin | 折慎 |  |  |
+| r-gen | R言 |  |  |
+| shingyouji tatsuya | 富本たつや |  |  |
+| shinonome | 東雲 |  |  |
+| shinonome yuki | 東雲由紀 |  |  |
+| kagetora | 影虎 |  |  |
+| shoryutei enraku | 昇龍亭圓楽 |  |  |
+| shrimp cake | シュリンプケーキ |  |  |
+| rokuromi | ろくろみ |  |  |
+| roru keikakujo | ロル計劃所 |  |  |
+| sachinashi rokio | 幸無ろき雄 |  |  |
+| sakate no lefty | さかてのレフティ |  |  |
+| same manma | さめまんま |  |  |
+| sasada aki | 佐々田あき |  |  |
+| sasamino | ささみの |  |  |
+| senno knife | 千之ナイフ |  |  |
+| shamidou maichimonji | しゃみどーまいちもんじ |  |  |
+| shikorisasu | シコリサス |  |  |
+| shimagon | 嶋艮 |  |  |
+| shimakawa | しまかわ |  |  |
+| shimashima rissu | しましまリッス |  |  |
+| silver radish | 銀ダイコン |  |  |
+| smash daisaku | スマッシュ代作 |  |  |
+| megadriver | メガドライバー |  |  |
+| najimi shin | 馴染しん |  |  |
+| takeshi rebirth | タケシリバース |  |  |
+| soregasiya | 某氏屋 |  |  |
+| sukoyasu | スコヤス |  |  |
+| surio | すりお |  |  |
+| suzume inui | 鈴眼依縫 |  |  |
+| tamaya cinema | 玉屋キネマ |  |  |
+| tange natsu | 丹家なつ |  |  |
+| tansan tsuyo | 炭酸つよ |  |  |
+| taroimo tarou | たろいも太郎 |  |  |
+| tawara | たわら |  |  |
+| tenpiboshi | てんぴぼし |  |  |
+| tensei-kun | 転生くん |  |  |
+| teriyaki sasami | 照焼ささみ |  |  |
+| theobrobine | ておぶろびん |  |  |
+| t-man | T-マン |  |  |
+| todakenji | トダケンジ |  |  |
+| toin | といん |  |  |
+| toppogi | トッポギ |  |  |
+| toyono kitsune | とよのきつね。 |  |  |
+| tsubuki | マジョリーナ |  |  |
+| tsuyuta kome | 露田米 |  |  |
+| kagura soushi | 神楽創志 |  |  |
+| wanduoying | 萬朶櫻 |  |  |
+| wanko-kun | ◯んこクン |  |  |
+| yoshiya nazuna | 嘉野七十七 |  |  |
+| yuzu koshishou | ユズ小師匠 |  |  |
+| zonebell tsukiji | ゾンベル築地 |  |  |
+| ruuru | るぅる |  |  |
+| aoi sena | あおいせな |  |  |
+| berull | べるる |  |  |
+| bon curry | 梵辛 |  |  |
+| benjamin | ベンジャミン |  |  |
+| emumiya nyamu | えむみやにゃむ |  |  |
+| enari | 江成 |  |  |
+| eromangaka | エ浪漫画家 |  |  |
+| ero no teishokuya | エロの定食屋 |  |  |
+| erun | えるん |  |  |
+| akagirenya | 赤木蓮屋 |  |  |
+| faycaplico | ファイカプリコ |  |  |
+| gas mas | ガスマス |  |  |
+| gomala | ごまら |  |  |
+| kanashiro no hako | かなしろの箱 |  |  |
+| kinugasa yuuichi | キヌガサ雄一 |  |  |
+| matsunoda you | 松野田ヨウ |  |  |
+| siberian hahasky | シベリアン母スキー |  |  |
+| gakeppuchi no kaede | 崖っぷちの楓 |  |  |
+| tsunosign | 角Sign |  |  |
+| tsuntonei | つんとねい |  |  |
+| tsutsuga | 恙 |  |  |
+| yamada sansuke | 山田参助 |  |  |
+| rhel | れる |  | [pixiv](https://www.pixiv.net/users/74824844)<br>[X](https://x.com/hntbk_333) |
+| pasta | パスタ |  |  |
+| pirukusu | ぴるくす |  |  |
+| ikki ichiyuu | 一起一雄 |  |  |
+| peta | ぺた |  |  |
+| kuromasu | 黒鱒 |  |  |
+| tsukumaru | つく丸 |  |  |
+| syoukyakubutu | 焼却物 |  |  |
+| pon | ポン |  |  |
+| ruzi | あ～る氏 |  |  |
+| semiemon | 蝉えもん |  |  |
+| nogawa seroly | 野川せろり |  |  |
+| yamamoto seishiro | 山本精子漏 |  | [pixiv](https://www.pixiv.net/users/73420048) |
+| osuwaani | オスワーニ |  | [X](https://x.com/osuwaani)<br>[pixiv](https://www.pixiv.net/users/33954324) |
+| nakamo | 那鴨 |  | [pixiv](https://www.pixiv.net/users/63852455)<br>[BOOTH](https://nakamo.booth.pm/) |
+| tonkaraton | トンカラトン |  |  |
+| itachimaki | いたちまき |  |  |
+| mabo harusame | 麻婆はるさめ |  |  |
+| ochi | おち |  | [pixiv](https://www.pixiv.net/users/99819818) [X](https://x.com/ochi_oeeeee) |
+| tenki nori | 天气海苔 | 天気海苔 | [pixiv](https://www.pixiv.net/users/59560975) [X](https://x.com/3tenki9) |
+| vanicooo | ばにこ一 |  | [pixiv](https://www.pixiv.net/users/7336390) |
+| shirotobi | しろとび |  |  |
+| ubuo | うぶお |  |  |
+| re shimashima | Re:しましま |  |  |
+| takashiro go-ya | 高城ごーや |  |  |
+| yonesuke | よねすけ |  |  |
+| kotora nue | 狐虎ぬえ |  | [pixiv](https://www.pixiv.net/users/4503734) |
+| negita shio | 葱田盐 |  |  |
+| mayutsuba mono | 眉唾モノ |  |  |
+| yug | YUG |  |  |
+| pokeeti | PokeEti |  |  |
+| panda shizuku | パンダシズク |  |  |
+| chiyori | ちより |  |  |
+| hattori psycho | 這禽サイコ |  |  |
+| koyado keroyon | 鈷矢毒けろよん |  |  |
+| alisame | 在鮫 |  |  |
+| mochioji | もちおじ |  |  |
+| umi no kyuuban | 海の吸盤 |  |  |
+| tanaka nunu | 田中ぬぬ |  |  |
+| zorusoru | ぞるそる |  |  |
+| kazunoko | 数の子 |  |  |
+| sexy imo | せくしぃも |  |  |
+| zuuga | ズーガ |  |  |
+| komugimaru | 小麦丸 |  |  |
+| 1 dot migi ni zurashite kudasai | 1ドット右にずらしてください |  |  |
+| nanten | 南天 |  |  |
+| satou suplex | 佐藤スープレックス |  |  |
+| sawarabi | 早蕨 |  |  |
+| sirokuro-dharma | 白黒だるま |  |  |
+| kazayuki kaya | 風雪花夜 |  |  |
+| komaneko | 狛猫 |  |  |
+| shikoto tanetsuke | しこと種付け |  |  |
+| rolly bell | 露李鈴 |  |  |
+| a wu a | 阿五啊 |  |  |
+| shirobei | 四郎兵衛 |  |  |
+| maguro tarao | ギシュレッド |  | [X](https://x.com/gisyuled) |
+| yonjiri | よんじり |  | [X](https://x.com/yon4jiri) |
+| loki | ろき |  |  |
+| amane-san | あまねさん |  |  |
+| sakuretsu tororokonbu | 炸裂とろろ昆布 |  |  |
+| shinya yaoya | 深夜ヤオヤ |  |  |
+| iwashita kei | 岩下継 |  |  |
+| lu ling | 鹿铃 |  |  |
+| hentai shinshi dt | 变态绅士DT |  |  |
+| nakaoka ramu | 中岡らむ |  |  |
+| tsubuan daifuku | 粒杏だいふく |  |  |
+| ajimu satori | 安心院さとり |  |  |
+| ibara-d | いばらーど |  | [pixiv](https://www.pixiv.net/users/10493409) |
+| shiriso | しりそ |  | [pixiv](https://www.pixiv.net/users/11642375)<br>[FANBOX](https://www.fanbox.cc/@srs1a) |
+| tsukimimumi | つきみむみ | ![](https://i.pixiv.cat/user-profile/img/2024/07/28/08/59/17/26162872_3eebca4ee1b90dd094f73eee82e21ae3_170.jpg)<br>画风很萌的萝莉画师 | [pixiv](https://www.pixiv.net/users/17674896)<br>[X](https://x.com/Tsukimi_Mumi) |
+| aoi ryuya | 蒼井怜也 |  |  |
+| sakurama haruomi | 桜間ハルオミ |  |  |
+| wednesday | 水曜日 |  |  |
+| bingdak | BINGDAK |  | [pixiv](https://www.pixiv.net/users/106044657) |
+| kuro megane | 黒下めがね |  |  |
+| tamaya | たまや |  |  |
+| end- | えんど～ \| かかとぶし |  |  |
+| oishiko | おいしこ |  |  |
+| dekamatsu | デカマツ |  |  |
+| syunkarow | しゅんか企画 |  |  |
+| yuguyugu | ゆぐゆぐ |  |  |
+| kodama naoko | 儿玉直子 | ![作者社媒头像](https://p.sda1.dev/29/4d575068475d4d28d2092806a560d174/image.png)<br>百合漫画家<br>代表作：《捏造陷阱 -NTR-》 | [Twitter](https://x.com/powder705) [pixiv](https://www.pixiv.net/users/433101) |
+| rakka | らっか |  | [Twitter](https://x.com/rakka_windfall) [pixiv](https://www.pixiv.net/users/65749035) |
+| suika maron | スイカマロン |  |  |
+| sugurugi riko | 傑義リコ |  |  |
+| kinzoku koutaku | 金属光沢 |  |  |
+| kobayasi kobako | 小林小箱 |  |  |
+| kitabane saiga | 朔羽さいが |  |  |
+| kagechousukashi | 影蝶透、 |  |  |
+| kanamori yunene | かなもりゆねね |  |  |
+| aako | あ～こ |  |  |
+| ichigin | いちぎん |  |  |
+| d kaketsu | Dかけつ |  |  |
+| miita | みーた |  |  |
+| takamori yu | 高守勇羽 |  |  |
+| alpha beta | 有葉米太 |  |  |
+| satsuki souji | サツキソウジ |  |  |
+| sugara | スガラ |  |  |
+| asai makoto | 浅生マコト |  |  |
+| koji pom | コジpom |  |  |
+| uno katsumi | 宇野かつみ |  |  |
+| amashiro mio | あましろ澪 |  |  |
+| yamase zenn | 山瀬ゼン | 山瀬ゼン |  |
+| sasami koto | 紗々見こと | 紗々見こと |  |
+| sakurazaki momoko | 桜咲ももこ |  |  |
+| moegi oji-san | 萌黄おじさん |  |  |
+| zutto mae kara darui. | ずっと前からだるい。 |  |  |
+| kamanbeer | かまんべーる |  | [pixiv](https://www.pixiv.net/users/86830632) [X](https://x.com/kamanbearu) |
+| laiyi xiaolei | 萊伊小雷 |  |  |
+| hizuki higure | 緋月ひぐれ |  |  |
+| superpig | SuperPig |  |  |
+| shuumatsu | 週末 |  |  |
+| hashira14 | Hashira十四 |  |  |
+| ojitama | おじタマ |  |  |
+| chanja kojiki | チャンジャ乞食 |  |  |
+| sakazaki freddie | 坂崎ふれでぃ |  |  |
+| simesu | しめす |  |  |
+| souda mikan | 左右田柑 |  |  |
+| nekota hajime | 猫田始愛 | 猫田始愛 |  |
+| utsugi | 空木 |  |  |
+| akg | AKG |  | [pixiv](https://www.pixiv.net/users/1277013) |
+| hyouuma | Hyouuma | 哈哈，屁↗眼↘派↗对↘ | [X](https://x.com/Hyouuma)<br>[FANBOX](https://www.fanbox.cc/@genshin)<br>[pixiv](https://www.pixiv.net/users/20235288) |
+| nikumaru | 肉丸 |  |  |
+| naruse minami | 鳴瀬南 |  |  |
+| kazumaru | かずまる |  |  |
+| anka tomoshibi | あんかともしび |  |  |
+| uzura dobin | うずら土瓶 |  |  |
+| nezumimochi | ネズミモチ |  |  |
+| takashigure rei | 鷹時雨:0 |  |  |
+| kanou seisaku | 叶精作 | 叶精作（Kanou Seisaku），1949年1月26日出生于日本新潟县新潟市，男漫画家，原名田村精作，笔名由斋藤隆夫所起，属写实派。少年时代曾梦想成为蒸汽火车司机，高中毕业后进入汽车配件厂绘制设计图，一年后辞职赴东京打工，期间通过函授美术班学习绘画并被斋藤动画电影制作厂录用，担任四年助手。1973年开始漫画创作，主要与小池一夫合作，参与《拍卖场》《兄弟》《实验人形奥斯卡》等作品绘制，其绘画以人物表情细腻、形态写实著称。 |  |
+| tenpenchii chiwawa | 天変地異ちわわ | [X](https://x.com/mecchainukaitai) |  |
+| kibayashi hiyo | 木林日ヨ |  |  |
+| shimogamo | 下鴨 |  |  |
+| uramitsu | うらみつ |  |  |
+| muchiou | むちおう |  |  |
+| nabatani kinoko | 茸谷きの子 |  |  |
+| suzuran mashiro | 鈴蘭ましろ |  |  |
+| mayaman | まやまん |  | [pixiv](https://www.pixiv.net/users/117723807) |
+| agumeru | あぐめる |  |  |
+| tokupyon | とくぴょん |  |  |
+| kasai | 葛西 |  |  |
+| ameno kaeru | 飴音かえる |  |  |
+| siohuu | しおふう |  | [pixiv](https://www.pixiv.net/users/78452156) [pixiv](https://www.pixiv.net/users/5505413) |
+| kawaruhi | カワルヒ |  |  |
+| eruu | えるう |  |  |
+| miyamoto muga | 宮本ムガ |  |  |
+| manzai sugar | Mz\_\_SUGAR |  | [pixiv](https://www.pixiv.net/users/14730603) |
+| khear | Khear |  | [pixiv](https://www.pixiv.net/users/74518504) |
+| toeki | 吐液 |  |  |
+| chiizu ore | ちぃずオレ |  |  |
+| imo ichirou | 芋一郎 |  |  |
+| hiiko | 日衣子 |  |  |
+| nisanka futon | 二酸化布団 |  |  |
+| futamotu | フタモツ |  |  |
+| uselessbegging | UselessBegging |  | [pixiv](https://www.pixiv.net/users/68946065) |
+| takahashi rukuna | タカハシルクナ |  |  |
+| kosyo | コショウ |  |  |
+| sayakata | さやかた |  |  |
+| doukutsu tamago | 洞窟卵 |  |  |
+| chagama tarou | 茶釜太郎 |  |  |
+| basyosyo | ばしょたろう |  |  |
+| agape | Agape |  |  |
+| denki mikan | 电气蜜柑 |  |  |
+| usagino kuua | 兎野くうあ |  |  |
+| bluevery king | ブルベリ王 |  |  |
+| keimo | 啓モ |  |  |
+| sabakan | 佐波缶 |  |  |
+| ozi8 | おじ８ \| ｴｲﾄﾋﾟｰｴﾑ |  |  |
+| yamashima chihane | 山島ちはね |  |  |
+| tsubonuma | 壺ぬま |  |  |
+| tebin | てびん |  |  |
+| kechin | けちん |  |  |
+| satomuch | さとまち |  |  |
+| awei | 阿猥 |  | [pixiv](https://www.pixiv.net/users/18615749) |
+| acchi | あっちー | 全年龄画师 | [pixiv](https://www.pixiv.net/users/531920) |
+| ikekokei | イケコケイ |  |  |
+| 89usagi | 89兎♂ | ![89兎♂](https://p.sda1.dev/30/21708b0978b37bf30cb3948cea089d62/23396145_9eef472c2800310a0cb7e70bb54b4eb5_170.png) | [FANBOX](https://www.fanbox.cc/@c8989to/posts/11151858) [pixiv](https://www.pixiv.net/users/5665359) |
+| qzo. | QZO。 |  | [pixiv](https://www.pixiv.net/users/399077) |
+| pan no sashimi | パンの刺身 |  | [pixiv](https://www.pixiv.net/users/6411724/)<br>[X](https://x.com/weizenbrot1016) |
+| hoozuki | ほおずき |  |  |
+| minatoku | みなとく |  |  |
+| ohbaric | 大馬陸 |  |  |
+| jihuatong | 计划通 |  |  |
+| juuichi gatsu | 十一月 |  | [pixiv](https://www.pixiv.net/users/15782328) |
+| doukutsu ika | 洞窟イカ | Cave Squid |  |
+| amairo ayame | 甘色アヤメ |  |  |
+| momo sumomo | ももすもも |  |  |
+| kakabien | かかびえん | 别名：こいずみけー | [pixiv](https://www.pixiv.net/users/27472745/)<br>[X](https://x.com/kakukukun)<br>[Skeb](https://skeb.jp/@kakukukun) |
+| hachineko | 蜂猫 |  | [pixiv](https://www.pixiv.net/users/54945068)<br>[FANBOX](https://www.fanbox.cc/@makaluvchu) |
+| nonogishi | ノノギシ |  |  |
+| ura-ra | うらーら |  | [X](https://x.com/ura_ra1800) |
+| diu | ぢう |  | [pixiv](https://www.pixiv.net/users/102967477) |
+| tsukuyomi | ツクヨミ |  |  |
+| ssa | ssa | ssa现改名为まりりん，但不要使用a:Maririn标签他们是不同艺术家，隶属于社团`g:ssb` |  |
+| kawahara makoto | 川原诚 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/川原誠) |
+| hiiragi mashiro | 柊ましろ |  |  |
+| grande | ぐらんで |  |  |
+| orinze | おりんぜ |  |  |
+| yuuki takara | 結城たから | ![](https://i.pixiv.cat/user-profile/img/2025/08/15/12/25/12/27756911_41871284429565b9521cfe7d9556baa1_170.jpg)<br>作者P站头像 | [pixiv](https://www.pixiv.net/users/469802) |
+| oshinobu | おしのぶ | 所属社团：`g:oshinobu no yakata` |  |
+| toda hisaya | 戸田比佐也 | 所属社团：`g:iris art` |  |
+| kyuugata | 旧型 |  | [pixiv](https://www.pixiv.net/users/62486264) |
+| yamagama | 山蝦蟇 |  | [pixiv](https://www.pixiv.net/users/112024320) |
+| towatowa | 十輪towa |  |  |
+| heihuafeihuiheihua | 黑话肥会黑话 |  |  |
+| aihara yorani | 粟飯原よラニ \| プラシーボ |  | [X](https://x.com/chin2_pork) |
+| yurulomi | ユルロミ |  | [X](https://x.com/YurulomI)<br>[pixiv](https://www.pixiv.net/users/110968369) |
+| udon ningen | うどん人間 |  | [pixiv](https://www.pixiv.net/users/94796485)<br>[X](https://x.com/udoon_ningen) |
+| yuzuriha runch | 楪らんち |  | [pixiv](https://www.pixiv.net/users/112372837) |
+| sakamuke | さかむけ |  |  |
+| kanola u | カノラユ |  |  |
+| momoisaki hayato | 桃井崎隼 |  | [pixiv](https://www.pixiv.net/users/14857335) \| [X](https://x.com/momoisaki42) \| [FANBOX](https://momoisaki.fanbox.cc/) |
+| takenoko pengin | たけのこぺんぎん |  | [FANBOX](https://makki2jigen.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/10668835) |
+| shidoutei | 始童帝 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01011410.html) \| [pixiv](https://www.pixiv.net/users/18220798) |
+| kai jia wei yi lang | 开甲韦一郎 |  | [pixiv](https://www.pixiv.net/users/77044656) |
+| asari shio | あさり潮 |  | [X](https://x.com/asarisplash) |
+| kyouka asuka | 鏡花あすか |  | [X](https://x.com/asatteka_1111) |
+| tsuyu tsukimi | つゆつきみ |  | [X](https://x.com/YamiTsuyuri) |
+| kakuri kairi | 隔離カイリ |  |  |
+| mame paitan | まめぱいたん |  |  |
+| yugure | ゆぐれ |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22ゆぐれ%22) |
+| suriring | すりりんぐ |  |  |
+| kanaguri | かなぐり |  |  |
+| nobeji kazuwo | ノベジカズヲ |  |  |
+| si-man | しーまん |  |  |
+| nini no yobikata | 任意の呼び方 |  |  |
+| omurice | オムライス |  |  |
+| 5t | 5T |  |  |
+| frozen spider lily | Frozenspiderlily |  |  |
+| kazenami | かぜなみ |  |  |
+| morita tsumire | 森田つみれ |  |  |
+| glycogen | グリコーゲン |  |  |
+| daikanki | 大歓喜 | 成人向 / 綠帽・寝取・多人・調教・絲襪・高跟鞋創作帳號<br>創作原創漫畫與插圖，聚焦於 NTR、關係錯位與戀物題材。<br>不只是情色，更描繪慾望、倫理與自我欺瞞交錯中的裂縫與快感根源。<br>如果你也對這樣的世界有共鳴，歡迎追蹤。 | [pixiv](https://www.pixiv.net/users/109660227) |
+| kabu | かぶ |  |  |
+| takutaku | たくたく |  |  |
+| jacket freak | JacketFreak |  |  |
+| se34tai | se34tai |  |  |
+| intruder | 闯入者 |  | [pixiv](https://www.pixiv.net/users/11754253) |
+| nanashi no chinpoppu | 名無しのチンポップ |  |  |
+| tuberose kotoki | 狐刻 |  |  |
+| rude frog | Rude Frog |  | [X](https://x.com/RF42__) \| [Patreon](https://www.patreon.com/rude_frog) |
+| yona | 杳奈 |  | [pixiv](https://www.pixiv.net/users/9341782) |
+| monobe | ものべ |  | [X](https://x.com/monobe_tsukuri/media) [pixiv](https://www.pixiv.net/users/13336149) |
+| furaimai | フライマイ |  |  |
+| jewel | jewel |  | [pixiv](https://www.pixiv.net/users/5170635) |
+| genesis | じぇねしす |  |  |
+| royboy | RoyBoy |  |  |
+| nekuoneneko | ねくおねねこ |  |  |
+| mujikami | Mujikami |  |  |
+| cielobivolta | CieloBivolta |  | [X](https://x.com/BivoltaCielo) \| [pixiv](https://www.pixiv.net/users/58227125) |
+| dodok | Dodok |  | [X](https://x.com/forododo) \| [Gumroad](https://app.gumroad.com/dodok) \| [Patreon](https://www.patreon.com/dodok) \| [FANBOX](https://asysfr5p.fanbox.cc/) |
+| sabamint | さばみんと |  |  |
+| tatsukiti | タツキチ |  | [FANBOX](https://www.fanbox.cc/@tatsukiti0) |
+| kamin | 仮眠 |  | [pixiv](https://www.pixiv.net/users/59768037) |
+| bamgro | バングロー |  | [pixiv](https://www.pixiv.net/users/10355076) |
+| yoshiyoshi-ya | よしよし屋 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG53778.html) |
+| saiun | 彩雲 |  |  |
+| echiko | エチコ |  |  |
+| senie shenxuan | 色孽神選 |  | [FANBOX](https://senieshenxuan.fanbox.cc/) \| [Patreon](https://www.patreon.com/senieshenxuan) |
+| ganaishou | ガナイショウ |  | [Fantia](https://fantia.jp/fanclubs/485914) \| [FANBOX](https://ganaishoten.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/91835865) \| [X](https://x.com/ganaishoten) |
+| saurus 18 | さうるす18 |  | [X](https://x.com/saurus18_mi) \| [pixiv](https://www.pixiv.net/users/56607812) |
+| nekonume | ネコぬめ |  |  |
+| hibacha | ひばちゃ |  | [X](https://x.com/hibachaaa) \| [pixiv](https://www.pixiv.net/users/41800871) \| [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22ひばちゃ%22) |
+| ciza | CIZA |  |  |
+| hathor | はとほる |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG35510.html) |
+| rotten pizza | ろってんぴざ |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22ろってんぴざ%22) |
+| fujino higuma | 富士野ヒグマ |  | [DLsite](https://www.dlsite.com/girls/fsr/=/keyword_creater/%22富士野ヒグマ%22) |
+| umebachiman | うめばちまん |  |  |
+| wonawo | ヲナヲ |  |  |
+| enma | 艶摩 |  |  |
+| azienda | Azienda |  | [Patreon](https://www.patreon.com/azienda) \| [pixiv](https://www.pixiv.net/users/52441207/artworks) |
+| david dong | David東 |  | [爱发电](https://afdian.net/a/Daviddong) \| [FANBOX](https://daviddong.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/68396841) \| [Deviantart](https://www.deviantart.com/david-dong) \| [X](https://x.com/david96054182) |
+| ethan | いーさん |  | [FANBOX](https://www.fanbox.cc/@ethan00283) |
+| sigma | SigMa |  | [Fantia](https://fantia.jp/fanclubs/328959) \| [X](https://x.com/sigmart03) |
+| baketsuya | バケツ屋 |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22バケツ屋%22) |
+| waryu | わりゅう |  | [pixiv](https://www.pixiv.net/users/77769028) |
+| uraaka 18 | うらあか18 |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22うらあか18%22) |
+| kotaro otn | 狐太郎OTN |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22狐太郎OTN%22) |
+| incogneato | Incogneato |  | [ewgrounds](https://incogneatoart.newgrounds.com/) |
+| rorimuti | ろりむち |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG57748.html) |
+| misotsuki ayabe | 味噌月あやべ |  | [pixiv](https://www.pixiv.net/users/39456224) |
+| gumi chocolate pine | ぐみちょこれーとぱいん |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG72127.html) |
+| iwasi r | イワシR |  | [BOOTH](https://iwasi-r.booth.pm/) |
+| rururoriri | るるろりり |  | [pixiv](https://www.pixiv.net/users/30939375) |
+| abyonus | アビョノス |  | [FANBOX](https://abyonus.fanbox.cc) |
+| ikuramabo | イクラマーボー |  |  |
+| waremono | ワレモノ |  | [pixiv](https://www.pixiv.net/users/6484403) |
+| black7 | BLACK7 |  | [X](https://x.com/MONSTERQ33/) \| [Patreon](https://www.patreon.com/user?u=470196) |
+| cloudy | CLOUDY |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22cloudy%22) |
+| ak | AK |  | [X](https://x.com/kanrakutei) \| [pixiv](https://www.pixiv.net/users/46282283) |
+| no name | no name |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG68273.html) |
+| sankaku noel | 三角ノエ |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22三角ノエル%22) |
+| kaisen donburi | かいせんどんぶり |  | [FANBOX](https://oobakacomushi.fanbox.cc/) |
+| itano chiharu | 「冬将軍」 | 「冬将軍」（原名称：板野ちはる） | [FANBOX](https://chiha0731.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/34234850) |
+| tetetor-oort | 田代憂 | ![头像](https://i.pixiv.cat/user-profile/img/2024/04/21/16/16/52/25791600_aed30609a0318597871fb8a823c732d2_170.jpg) | [X](https://x.com/tetetoroort)<br>[pixiv](https://www.pixiv.net/users/67922) |
+| takeaki gaku | たけあき学 |  |  |
+| fujinoe13b | フジノエ13B |  |  |
+| sharaku kaede | 写楽楓 |  | [X](https://x.com/sharakukaede) |
+| yamiochi ima | 闇落イマ |  | [FANBOX](https://yamiochi-ima.fanbox.cc/) |
+| acsmine | Acsmine |  | [Patreon](https://www.patreon.com/acsmine) |
+| madoroshi | まどろし |  |  |
+| xren | Xレン |  | [FANBOX](https://xren.fanbox.cc/) |
+| yamashita tomoko | ヤマシタトモコ |  |  |
+| omochi nabe | おもちなべ |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22おもちなべ%22) |
+| nichita | にちた |  | [X](https://x.com/nichita777) |
+| nessie tomato | ネッシートマト |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01024185.html) |
+| horin | 豊臨 |  | [melonbooks](https://www.melonbooks.co.jp/search/search.php?name=豊臨&text_type=author) |
+| hatohato jojo | 鳩鳩JOJO |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22鳩鳩JOJO%22) \| [FANBOX](https://jojosensei360.fanbox.cc/) \| [X](https://x.com/jojosensei360) \| [pixiv](https://www.pixiv.net/users/1350252) |
+| kitsugi | きつぎ |  | [FANBOX](https://i-kitsugi.fanbox.cc/) |
+| banana | 甘蕉 |  | [X](https://x.com/bnnn0508) \| [Skeb](https://skeb.jp/@bnnn0508) \| [FANBOX](https://bnnn0508.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/52268240) |
+| poyeop | Poyeop |  | [pixiv](https://www.pixiv.net/users/66432194) \| [FANBOX](https://poyeop.fanbox.cc/) |
+| jaga | じゃが |  |  |
+| yanje | Yanje |  | [X](https://x.com/yanje_B) \| [Patreon](https://www.patreon.com/yanje) \| [pixiv](https://www.pixiv.net/users/17707045) |
+| manbou syoten | まんぼう書店 |  |  |
+| rinrikoko | リンリココ |  | [pixiv](https://www.pixiv.net/users/18683051/artworks) |
+| leebo | Leebo |  | [X](https://x.com/le2b0022) \| [pixiv](https://www.pixiv.net/users/23780455) \| [FANBOX](https://leebo.fanbox.cc/) \| [Patreon](https://www.patreon.com/leeboxxx) \| [Gumroad](https://leebo.gumroad.com/) |
+| plastic gomi | プラスチックごみ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01037845.html) |
+| momoiro zundoko | 桃色ずんどこ |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22桃色ずんどこ%22) |
+| yatai | yatai |  | [pixiv](https://www.pixiv.net/users/20170614) |
+| anekawa | あねかわ |  | [FANBOX](https://www.fanbox.cc/@anekawa) |
+| shituzhi | シツジ |  |  |
+| itsuki keisei | いつきけいせい |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22いつきけいせい%22/ana_flg/all) |
+| kuruhana | くるはな |  |  |
+| mainichi angel | 毎日エンゼル |  | [pixiv](https://www.pixiv.net/users/95822812) \| [FANBOX](https://everydayangel.fanbox.cc/) |
+| hakeashi | ハケアシ |  | [FANBOX](https://www.fanbox.cc/@hakeashi777) \| [X](https://x.com/Hageashi777) \| [pixiv](https://www.pixiv.net/users/40011649) |
+| houmatu awa | 希望皇ソープ |  | [pixiv](https://www.pixiv.net/users/988539) |
+| sutahiro | すたひろ |  |  |
+| hotokenoza | ホトケノザ |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22ホトケノザ%22) |
+| ng1 | NG1 |  | [pixiv](https://www.pixiv.net/users/4280968) |
+| gakay | がけい |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22がけい%22) |
+| nawakena | なわけな |  | [pixiv](https://www.pixiv.net/users/32254275) \| [FANBOX](https://nawakena.fanbox.cc/posts) \| [X](https://x.com/ooickiee) |
+| haga yuuji | 芳賀ゆうぢ |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22芳賀ゆうぢ%22) |
+| kabikira | かびきらぁ |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22かびきらぁ%22) |
+| tomoki | ともき |  | [melonbooks](https://www.melonbooks.co.jp/search/search.php?name=ともき&text_type=author) |
+| fengji | 楓寂 |  | [pixiv](https://www.pixiv.net/users/6280305) |
+| giga | giga |  | [FANBOX](https://www.fanbox.cc/@g1-ga) \| [X](https://x.com/G1G_4) \| [pixiv](https://www.pixiv.net/users/28238559) |
+| kaneko kazuma | 金子一马 |  |  |
+| anisan | Anisan |  |  |
+| yumeyama mikon | 夢山ミコン |  |  |
+| strelka | ストれるか |  | [FANBOX](https://strelkabelca.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/790811) \| [X](https://x.com/StrelkaBelca) |
+| takamarikka | とうりつか |  | [pixiv](https://www.pixiv.net/users/25260639) \| [FANBOX](https://takamarikka.fanbox.cc/) |
+| arai arata | 新井アラタ |  |  |
+| timosan | ティモさん |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22ティモさん%22) |
+| gio | gio |  | [FANBOX](https://gio.fanbox.cc/) \| [Fantia](https://fantia.jp/fanclubs/20956) |
+| shishamon | ししゃもん |  |  |
+| yayuyoron | ヤユヨろん |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=110013) |
+| hairclip | へあくりっぷ |  | [pixiv](https://www.pixiv.net/users/81719117) |
+| donmetsu | どんめつ |  | [lit.link](https://lit.link/en/donmetsu) \| [FANBOX](https://kankohisyuki.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/96722281) |
+| sonao | そなお |  | [FANBOX](https://www.fanbox.cc/@sonao) |
+| suigi | スイギ |  | [alice-books](https://alice-books.com/item/list/all?tag=スイギ) |
+| kuromu | クロム |  | [BOOTH](https://kurom960.booth.pm/) |
+| eba uenihane | 絵羽 |  | [X](https://x.com/eva01050105) |
+| ari and mura | 蟻アンド村 |  | [pixiv](https://www.pixiv.net/users/31199782) \| [Fantia](https://fantia.jp/fanclubs/6266) |
+| nadayui | なだゆい |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22なだゆい%22/ana_flg/all) |
+| horn-wood | Horn/wood |  | [FANBOX](https://hornwoodr18.fanbox.cc) \| [pixiv](https://www.pixiv.net/users/11045087) \| [X](https://x.com/raw_egg_lent) |
+| takaya n | 高谷・Ｎ |  | [pixiv](https://www.pixiv.net/users/4742) |
+| kuramari | クラマリ |  | [FANBOX](https://www.fanbox.cc/@godbaan) |
+| miyamaru | みやまる |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22みやまる%22/ana_flg/all) |
+| okurahokori | おくらほこり |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22おくらほこり%22) |
 
 <!--TEMPLATE:
 |  |  |  |  |

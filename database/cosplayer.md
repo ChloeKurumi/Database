@@ -47,7 +47,7 @@ example:
 | xidaidai | 习呆呆 |  |  |
 | senluo caituan | 森萝财团 |  | [X](https://x.com/senluocaituan) |
 | pigma | Pigman | `m:tomgirl` | [Patreon](https://www.patreon.com/pigman) |
-| abaoyeshituniang | 阿包也是兔娘 |  | [bilibili](https://space.bilibili.com/384435799) |
+| a bao yeshi tu niang | 阿包也是兔娘 |  | [bilibili](https://space.bilibili.com/384435799) |
 | kimmie mi | 蜜蜜子 |  | [X](https://x.com/mimizikimmie) [微博](https://weibo.com/u/7297128193) [bilibili](https://space.bilibili.com/474643478) |
 | aqua area | 水淼Aqua |  | [X](https://x.com/aqua28551264) |
 | erzuo nisa | 二佐nisa |  | [X](https://x.com/erzuoxxxx) [微博](https://weibo.com/u/6475305895) [bilibili](https://space.bilibili.com/1484200020/) |
@@ -159,6 +159,26 @@ example:
 | yamisung | Yamisung |  |  |
 | demon mika | Demon Mika |  |  |
 | yamazaki reina | 山崎レイナ |  |  |
+| naitao | 奶桃 |  |  |
+| jiuyan | 久言 |  |  |
+| xansoon | 轩萧学姐 |  |  |
+| caticornplay | Caticornplay |  |  |
+| kiki rose | Kiki Rose |  |  |
+| momocat | 慕慕momo | 毛毛喵 |  |
+| neneko | Neneko | 肉肉-Neneko / 肉感少女-Neneko | [X](https://x.com/nenekocosplay) [YouTube](https://www.youtube.com/@neneko0814) [Instagram](https://www.instagram.com/neneko.n/) |
+| evenink | Evenink |  | [Patreon](https://www.patreon.com/evenink_cosplay) |
+| jean wanwan | Jean Wanwan |  |  |
+| sharkparty | Sharkparty |  |  |
+| jiuqujean | 九曲Jean |  | [X](https://x.com/JIUQUCKA)<br>[微博](https://weibo.com/u/6850282182) |
+| yangyi | 杨衣 |  |  |
+| green chacha jiang | Green茶茶酱 |  |  |
+| tangtang | 堂堂 |  |  |
+| jiaorouji walkure | 絞肉姬Walküre | Cosplayer | [X](https://x.com/SuccAbyss) |
+| rongrongzi | 小容仔咕咕咕 | 中国Cosplayer<br>![](https://pbs.twimg.com/profile_images/1269582166104502272/ifgySGtI.jpg) | [X](https://x.com/Rongrongzi) |
+| shimizu nagi | 清水凪 | 中国Cosplayer<br>![](https://p.sda1.dev/30/86e61efc956f4b5fd3a0775562682a23/G7j2On3aEAA0yFV.jpg) | [微博](https://weibo.com/u/7476404429)<br>[X](https://x.com/Yuunagi_n) |
+| kagurazaka mafuyu | 神楽坂真冬 | 中国cosplayer<br>![](https://p.sda1.dev/30/c0c749d76ffd28f72746f2dedc678cd2/image.png) | [X](https://x.com/Mafuyu_MkVII)<br>[微博](https://weibo.com/u/3972053467) |
+| aban605 | 阿半今天很开心 | 中国cosplayer<br>![](https://p.sda1.dev/30/52c845fdb376e96679040ac5a89ea8fb/PixPin_2026-01-06_03-21-51.jpg) | [X](https://x.com/likepve)<br>[微博](https://weibo.com/u/6493798272) |
+| vectorfish | 矢量鱼 | 中国Cosplayer<br>![](https://p.sda1.dev/30/0c3a4869abefa6707654bf81ec2cdcb6/PixPin_2026-01-25_20-11-14.jpg) | [X](https://x.com/_VectorFish227) |
 
 <!--
 Template: 

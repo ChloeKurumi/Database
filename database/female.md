@@ -92,18 +92,20 @@ example:
 | dog girl | 狗女孩 | 有狗耳朵或狗尾巴的女性。<br>![图](# "https://ehgt.org/e5/e6/e5e65c16ea8268534fde3cf1cc08a59176b83f88-1383712-1280-720-png_l.jpg") |  |
 | draenei | 德莱尼 | `world of warcraft`的恶魔人形生物。有蓝色的皮肤与蹄和发光的眼睛。 |  |
 | elephant girl | 象女孩 | 具有象鼻或象耳的雌性，可能还有其他大象或猛犸象的特征，例如象牙。男性版本见`elephant boy`。 |  |
-| fairy | 仙女🧚‍♀️ | 有翅膀的人或其他生物，往往体型很小。 |  |
+| fairy | 妖精🧚‍♀️ | 有翅膀的人或其他生物，往往体型很小。 |  |
 | frog girl | 青蛙女孩 | 身材矮小，皮肤光滑，长爬行动物附肢的女性。可能有`long tongue`。 |  |
 | fox girl | 狐女 | 有狐狸耳朵和尾巴的女孩。 |  |
 | furry | 毛茸茸 | 拟人化的动物角色，具有人的个性与特点。 |  |
 | giraffe girl | 长颈鹿娘 | 有长颈鹿的耳朵和尾巴的女孩，通常在衣服或毛皮上有黄色和棕色斑点。可能有长脖子。 |  |
 | ghost | 幽灵👻 | 与非物质的存在性交。 |  |
-| goblin | 哥布林 | 幻想生物，通常身高约为正常人的1/2至3/4。 通常有厚鼻子，尖耳朵，大嘴和小而锋利的牙齿。 |  |
+| goblin | 哥布林 | 幻想生物，通常身高约为正常人的 1/2 至 3/4。 通常有厚鼻子，尖耳朵，大嘴和小而锋利的牙齿。 |  |
 | harpy | 鸟人 | 鸟与人类的混合体。<br>![图](https://ehgt.org/b3/19/b31970c580540268ffb22e158c90927ab411acea-375579-800-600-jpg_l.jpg) |  |
+| hedgehog girl | 刺猬娘 | 具有刺猬特征的女性，拥有实际的刺或类似刺的毛发，通常还具有一个深色尖端的长吻。 |  |
 | horse girl | 马女孩 | 拥有马尾或其他马的特征的女性。 |  |
 | human on furry | 人毛 | 人与`furry`角色间的性行为。 |  |
 | hyena girl | 鬣狗女孩 | 具有鬣狗特征的女性类人生物，例如大圆/尖耳朵和半厚毛尾巴。通常被描绘为具有条状或点状的皮毛或更深色的四肢。不应与`dog girl`混淆。 |  |
 | insect girl | 昆虫女孩 | 有触角，往往有一个壳或甲壳躯干。 |  |
+| kangaroo girl | 袋鼠女孩 | 一位有着长耳朵、粗长尾巴，可能还有其他袋鼠特征的女性。 |  |
 | kappa | 河童 | 日本民间想象中的动物、水中的妖怪。喜食黄瓜。由水神沦落而变成妖怪。 |  |
 | lizard girl | 蜥蜴女孩 | 有爬行动物的鳞片和尾巴的女孩。 |  |
 | mermaid | 美人鱼🧜‍♀️ | 上半身是人，下半身是鱼。 |  |
@@ -119,8 +121,9 @@ example:
 | pig girl | 猪女 | 有猪耳朵、猪鼻、猪尾或猪的其他特征。 |  |
 | plant girl | 植物女孩 | 女性的植物-人类混合体。需要`monster girl`标签。 |  |
 | raccoon girl | 浣熊女孩 | 拥有耳朵、尾巴及其他浣熊的特征。 |  |
+| rhinoceros girl | 犀牛女孩 | 一位具有犀牛特征的女性，例如鼻子上有一个或多个角、漏斗形的耳朵以及尾端有一簇毛的尾巴。 |  |
 | robot | 机器人🤖 | 机械的人形。 |  |
-| shark girl | 鲨女孩 | 一个尾巴是尾鳍而不是身体下部的女性。 通常也有锋利的牙齿。 |  |
+| shark girl | 鲨女孩 | 一个尾巴是尾鳍而不是身体下部的女性。通常也有锋利的牙齿。 |  |
 | sheep girl | 羊女孩 | 有羊毛和羊角的女性。 |  |
 | skeleton | 骷髅 | 身体由骨头组成，几乎没有皮肤的生物。也可能包括头部。需要`monster girl`标签。不应用于`x-ray`拍摄。不应与`zombie`或`necrophilia`混淆。 |  |
 | slime | 史莱姆 | 任何涉及性的粘液/凝胶状物质。基于史莱姆的生物需要此标签和`monster girl`标签。 |  |
@@ -411,6 +414,7 @@ example:
 | ass expansion | 臀部膨胀 | 臀部变大的过程，可能成为`big ass`。不需要`transformation`标签。 |  |
 | assjob | 尻交 | 屁股沟性交，不插入。不应与`anal`混淆。<br>![图](# "https://ehgt.org/12/d5/12d548648c0e9ca572296531823ab38c1e777824-310836-1024-600-jpg_l.jpg")![图](# "https://ehgt.org/f5/fd/f5fd37a39de4fec5161df6e381f305964673c31b-599712-1024-600-png_l.jpg")![图](# "https://ehgt.org/0c/4a/0c4ae784b128d7842fb8a315595e8ac06c623a88-602649-710-994-jpg_l.jpg") |  |
 | big ass | 大屁股 | 至少比角色的头部大 2.5 倍。 |  |
+| butt plug | 肛塞 | 一种插入肛门的性玩具，设计用于对肛门施加压力以获得性快感。具有一个喇叭形的底座，通常尖端较细。需要`anal`和`sex toys`标签。 |  |
 | enema | 灌肠 | 液体或空气注入肛门。可能会导致`inflation`。<br>![图](# "https://ehgt.org/ac/2c/ac2c4786b46d0b66d2433513a59ff8695ae6e9e9-792772-1061-1500-jpg_l.jpg") |  |
 | farting | 放屁 | 明显的放屁行为。 |  |
 | multiple assjob | 多重尻交 | 多个阴茎参与的尻交。需要`assjob`标签。 |  |
@@ -534,6 +538,7 @@ example:
 | group | 乱交 | 两个以上的人同时进行性行为。是它们的前置标签：`harem`、`layer cake`、`mtf threesome`、`mmt threesome`、`mmf threesome`、`ttm threesome`、`ttf threesome`、`ffm threesome`和`fft threesome`等 3P 标签。其中 t 为变性人(transsexual)，包含`futanari`和`shemale`，这里为了书写方便用“扶”代指。两个或两个以上的伴侣有单独性行为或一群女孩站在周围不算。<br>![图](# "https://ehgt.org/eb/8a/eb8a92af97e65f81c552ca217fea67262afa0e24-2159382-1381-2000-jpg_l.jpg") |  |
 | harem | 后宫 | 被至少三人追捧，自愿发生性关系且所有人参与。需要`group`标签。不用于`rape`的情况。<br>![图](# "https://ehgt.org/94/17/9417b61532f2ed887c641908ce8add643bd3a1c1-761611-1024-600-png_l.jpg")![图](# "https://ehgt.org/ff/ab/ffabb9a8f387bf7b1dd33091051abb437a41191c-224336-800-600-jpg_l.jpg")![图](# "https://ehgt.org/31/00/3100b5db3a188ed611ed60730ac0d92cc7f0efdd-297872-800-600-jpg_l.jpg") |  |
 | layer cake | 夹心蛋糕 | 阴茎在两个阴道之间摩擦。可能涉及每个阴道之间交替插入。需要`group`标签。<br>![图](# "https://ehgt.org/6b/dc/6bdc2973ee102b91685e686e6605fc48c16d1621-201446-1024-600-jpg_l.jpg")![图](# "https://ehgt.org/02/20/02200b144cb6c1b7b671198942d71764c742ba0c-509066-800-600-png_l.jpg")![图](# "https://ehgt.org/9a/25/9a2589446a813229eabb2e08617228ced475814a-161746-800-600-jpg_l.jpg")![图](# "https://ehgt.org/ce/1d/ce1d4b2fe689efc515bb91a5721fe9054f75463b-167173-800-600-jpg_l.jpg")![图](# "https://ehgt.org/5b/cf/5bcf8845e6681cce06db4d0cf722e57a49528f5c-578254-800-600-png_l.jpg")![图](# "https://ehgt.org/71/3c/713c6269c9516e96c9541bae5fba29d329c16d94-601548-1024-600-png_l.jpg")![图](# "https://ehgt.org/c1/07/c107b406d777a9477a21cce35730160c9d7099e1-180625-800-600-jpg_l.jpg")![图](# "https://ehgt.org/14/6d/146d24b258de6266b974f31de60d077b98e426a8-132540-800-600-jpg_l.jpg")![图](# "https://ehgt.org/51/76/5176826ecf85577d5eff755575f453a62791cfd9-509481-944-708-jpg_l.jpg")![图](# "https://ehgt.org/aa/5d/aa5dec12feba976949843189cc8e3689d38f130e-1155161-1024-768-png_l.jpg") |  |
+| multiple pairings | 多对多 | 在同一地点内至少有两组人参与性活动，彼此暴露但不直接与其他组互动。这些群体需要同时进行性活动。如果一个伴侣在两个或更多其他人之间交换，则不符合条件。如果其中任何一组包含超过两名参与者，也应添加`group`标签。 |  |
 | multiple straddling | 多人跨骑 | 多个人同时跨骑并与同一个参与者发生性互动。可能会使用`facesitting`。需要`group`标签。被骑者的性别决定了将标签放置在`male`还是`female`的命名空间中。 |  |
 | oyakodon | 母女丼 | 母亲和女儿（们）同时与同一个性伴侣产生性行为。需要`group`标签。<br>![](# "https://ehgt.org/0c/70/0c702600eb54c7f3291dfe4e154c4dc42d38daec-98260-1050-1492-jpg_l.jpg") ![](# "https://ehgt.org/0b/06/0b0678d8efd49ec032e5ea20283624f364d5b689-1135571-1200-900-png_l.jpg") ![](# "https://ehgt.org/df/5a/df5a79d0968345f1dd480e5eb4203fb26adc9bfa-4683866-2133-3000-jpg_l.jpg") |  |
 | shimaidon | 姐妹丼 | 具有血缘关系的姐妹两人（或以上）同时与同一个性伴侣产生性行为，需要`group`标签。 |  |
@@ -550,7 +555,7 @@ example:
 | clamp | 夹具 | 用以起疼痛或性快感的，附着在身体上的一个或多个夹具。通常是指专门用于捆绑游戏的乳头或阴蒂夹具，但也可能涉及普通家居用品，如衣夹或装订夹。<br>![图](# "https://ehgt.org/1a/12/1a12b6b71d16c965dc3b362f24bf54ef505c8e64-6252737-2176-3050-jpg_l.jpg")![图](# "https://ehgt.org/f8/01/f80132b355c303451ec72294e56fbf71b9a95ca7-6170202-2160-3050-jpg_l.jpg") |  |
 | glory hole | 寻欢洞 | 墙上用来进行性行为的洞。不应与`stuck in wall`或`wormhole`混淆。 |  |
 | machine | 机械奸 | 与机器做爱。不应与`robot`、`sex toys`和`mecha girl`混淆。 |  |
-| onahole | 飞机杯 | 一个人工阴道用来对阴茎`masturbation`。不应与`sex toys`混淆。<br>![图](# "https://ehgt.org/e2/bd/e2bd9d61e07a9a463688de7ceb120e1f4f0c7b47-139251-827-900-jpg_250.jpg")![图](# "https://ehgt.org/c2/4c/c24cf28bcdde0b6e23f2a8202a8fdf718009002e-451597-1000-1400-jpg_l.jpg")![图](# "https://ehgt.org/f5/68/f5686327a332aea36c626826db356f14ef98b23b-709702-768-1024-png_l.jpg") |  |
+| onahole | 飞机杯 | 一个人工阴道用来对阴茎`masturbation`。需要`sex toys`标签。需要`f:futanari`或`f:shemale`标签。<br>![图](# "https://ehgt.org/e2/bd/e2bd9d61e07a9a463688de7ceb120e1f4f0c7b47-139251-827-900-jpg_250.jpg")![图](# "https://ehgt.org/c2/4c/c24cf28bcdde0b6e23f2a8202a8fdf718009002e-451597-1000-1400-jpg_l.jpg")![图](# "https://ehgt.org/f5/68/f5686327a332aea36c626826db356f14ef98b23b-709702-768-1024-png_l.jpg") |  |
 | pillory | 枷具 | 限制头部和手运动的装置，一般是木制的。需要`bondage`标签。<br>![图](# "https://ehgt.org/a4/ec/a4ec4c1731063293af9a3159e3d3cafc6e334daa-935587-1024-768-png_l.jpg") |  |
 | pole dancing | 钢管舞 | 与一根垂直杆一起跳舞，用于色情目的。 |  |
 | real doll | 充气娃娃 | 现实世界中的用于性目的的等身大玩偶。不应与`animegao`混淆。 |  |
@@ -567,7 +572,7 @@ example:
 | wormhole | 虫洞 | 一个或多个用来连接两个远距离地点的对象。通常表现为可使生殖器通过的一种“移动型寻欢洞”。不应与`stuck in wall`、寻欢`glory hole`、`shared senses`混淆。 |  |
 |  | == 液体 == |  |  |
 | oil | 油 | 一个人至少部分地用润滑剂（如身体按摩油）覆盖，以使他的皮肤具有光滑的质感和釉面的外观。不用于其他物质（如`slime`）。 |  |
-| underwater | 水下 | 在性期间大部分或完全浸没在液体中。<br>![图](# "https://ehgt.org/20/20/202004856339e4bd4fb9c2da03da2e29c5c078eb-403064-1200-1920-jpg_l.jpg")![图](# "https://ehgt.org/2b/4f/2b4f8f3e0d87088deb38a0996ec83f090cf6cdc1-373282-1500-1250-jpg_l.jpg")![图](# "https://ehgt.org/fa/2a/fa2aef3653d95e7025360a226e8c3dff7a4b74c7-2348460-1920-1080-jpg_l.jpg") |  |
+| underwater sex | 水下 | 在性期间大部分或完全浸没在液体中。<br>![图](# "https://ehgt.org/20/20/202004856339e4bd4fb9c2da03da2e29c5c078eb-403064-1200-1920-jpg_l.jpg")![图](# "https://ehgt.org/2b/4f/2b4f8f3e0d87088deb38a0996ec83f090cf6cdc1-373282-1500-1250-jpg_l.jpg")![图](# "https://ehgt.org/fa/2a/fa2aef3653d95e7025360a226e8c3dff7a4b74c7-2348460-1920-1080-jpg_l.jpg") |  |
 |  | === 液体 > 体液 === |  |  |
 | blood | 血液 | 对大量血液（如从身体伤口流出的）的描绘。不用为`guro`添加此标签。同一图库中不是`guro`的单独实例可以适用。不用于`defloration`导致的流血。图库只需包含一张此类性质的图片即可获得此标签。 |  |
 | squirting | 潮吹 | 女性大量射出体液。<br>![图](# "https://ehgt.org/d5/ab/d5ab335ef940c63352b62de195efd31371d91716-6571126-2894-4093-jpg_l.jpg") |  |
@@ -705,3 +710,4 @@ example:
 | focus blowjob | 高存在口交 | 图库超过 50% 的内容为`blowjob`。需要`blowjob`标签。 |  |
 | focus cunnilingus | 高存在舔阴 | 图库超过 50% 的内容为`cunnilingus`。需要`cunnilingus`标签。 |  |
 | focus paizuri | 高存在乳交 | 图库超过 50% 的内容为`paizuri`。需要`paizuri`标签。 |  |
+| focus rimjob | 高存在舔肛 | 图库超过 50% 的内容为`rimjob`。需要`rimjob`标签。 |  |
