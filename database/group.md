@@ -16,8 +16,7 @@ copyright: >
 rules:
   - 有官方或公认的中文名称时**优先写中文名**，否则写日文名。
   - 日文名中有汉字者优先写含汉字的名称。
-  - >-
-    可以依据[规则](https://zh.wikipedia.org/wiki/Wikipedia:汉字文化圈语言专有名词中译规则#日本语专有名词的中译)将日文名转写为中文名，但**不要混合中文汉字与假名**。
+  - 可以依据[规则](https://zh.wikipedia.org/wiki/Wikipedia:汉字文化圈语言专有名词中译规则#日本语专有名词的中译)将日文名转写为中文名，但**不要混合中文汉字与假名**。
   - 为提高图片可用性，以及减轻萌娘百科服务器压力，引用来自萌娘百科的图片时请使用图床，如[流浪图床](https://p.sda1.dev/)。
 example:
   raw: twinbox
@@ -32,7 +31,7 @@ example:
 | 原始标签 | 名称 | 描述 | 外部链接 |
 | -------- | ---- | ---- | -------- |
 |  | ▼ GAL公司 |  |  |
-| clockup | CLOCKUP |  | [官方网站](http://clockup.net/) |
+| clockup | 钟表社 |  | [官方网站](http://clockup.net/) |
 | guilty | Guilty | WillPlus（ウィルプラス）品牌 | [官方网站](http://www.guilty-soft.com/main.htm) |
 | guilty plus | Guilty+ | WillPlus（ウィルプラス）品牌 | [官方网站](http://www.guilty-soft.com/main.htm) |
 | guilty ex | Guilty eX | WillPlus（ウィルプラス）品牌 | [官方网站](http://www.guilty-soft.com/main.htm) |
@@ -43,9 +42,9 @@ example:
 | frill | Frill |  | [官方网站](https://frill.product.co.jp/) [维基百科（日语）](https://ja.wikipedia.org/wiki/Frill) |
 | triangle | Triangle |  |  |
 | mana | mana |  | [官方网站](http://mana.product.co.jp) |
-| sprite | sprite | sprite是日本成人游戏品牌，fairys是全年龄美少女游戏品牌，互为姊妹社。 |  |
+| sprite | 雪碧社 | ![](https://framerusercontent.com/images/zGuTjqkf6GAC2RoHAc5pY6IbscE.svg?width=94&height=33)<br>sprite是日本成人游戏品牌，fairys是全年龄美少女游戏品牌，互为姊妹社。 | [官网](https://sprite.net/) |
 | fairys | fairys | fairys原本也是有限会社アクセル的品牌，2012年3月以フェアリス株式会社为名独自成立为一家公司，分社化经营。 |  |
-| escude | エスクード |  |  |
+| escude | 小E社 | ![](https://www.escude.co.jp/img/escude_logo.gif)<br>日语：エスクード | [官网](https://www.escude.co.jp/escude.html) |
 | campus | Campus |  |  |
 | interheart | INTERHEART |  | [官方网站](http://www.interheart.co.jp/) |
 | darknesspot | DarknessPot | INTERHEART 旗下品牌 |  |
@@ -73,9 +72,9 @@ example:
 | skyfish poco | SkyFish poco |  |  |
 | chelseasoft | Chelseasoft |  |  |
 | sphere | Sphere |  |  |
-| hook | HOOKSOFT | HOOKSOFT是日本ロボプランニング公司的游戏品牌，主要发售恋爱冒险类型的成人游戏。最早原名为HOOK，于2000年4月成立，并在2008年12月2日重整后改为现名。SMEE、ASa Project与TJR(已活动休止)是其姐妹品牌。目前是Partner Brand（パートナーブランド）的加盟品牌之一。 | [维基百科](https://zh.wikipedia.org/wiki/HOOKSOFT) [官方网站](http://www.hook-net.jp/htm/index_02.htm) (\*) |
-| smee | SMEE |  | [官方网站](http://www.hook-net.jp/smee/) |
-| asa project | ASa Project | ![主页徽章](https://www.asa-pro.com/img/asa_banner.png)<br>别称：颜艺社, 因作品角色拥有丰富面部表情管理系统而得名。 | [官方网站](http://www.asa-pro.com/top.html) (\*) |
+| hook | 钩子社 | ![](https://upload.wikimedia.org/wikipedia/commons/5/56/Hook_logo.jpg)<br>HOOKSOFT是日本ロボプランニング公司的游戏品牌，主要发售恋爱冒险类型的成人游戏。 | [维基百科](https://zh.wikipedia.org/wiki/HOOKSOFT) [官方网站](http://www.hook-net.jp/htm/index_02.htm) |
+| smee | 似蜜社 | ![](https://www.hook-net.jp/smee/img/smee_logo.jpg) | [官方网站](http://www.hook-net.jp/smee/) |
+| asa project | 颜艺社 | ![主页徽章](https://www.asa-pro.com/img/asa_banner.png)<br>全称：ASa Project<br>别称：颜艺社, 因作品角色拥有丰富面部表情管理系统而得名。 | [官方网站](http://www.asa-pro.com/top.html) (\*) |
 | rosebleu | Rosebleu |  |  |
 | clochette | Clochette | Clochette（日语：クロシェット）社位于东京都台东区浅草，为日本公司ブランエール（BLANC AILE）旗下的成人游戏品牌。自2007年开始活跃，开发浪漫喜剧性质的校园风格的游戏。 | [维基百科](https://zh.wikipedia.org/wiki/Clochette) [官方网站](http://www.clochette-soft.jp/) (\*) |
 | honey soft | HONEY SOFT |  |  |
@@ -90,7 +89,7 @@ example:
 | eufonie | eufonie | etude 的姐妹品牌 |  |
 | eushully | Eushully | 日语：エウシュリー<br>日本专注于开发RPG、SLG类游戏的厂商 | [官网](https://www.eukleia.co.jp/eushully/) |
 | waffle | Waffle |  |  |
-| navel | Navel |  |  |
+| navel | 近月社 | ![](https://project-navel.com/navel/_image/parts/nb_logo_.gif)<br>别称：橘子社 | [官网](https://project-navel.com/) |
 | tryset | TRYSET |  |  |
 | seal-tutu | seal-tutu | softhouse-seal 子品牌 |  |
 | softhouse chara | Softhouse Chara |  |  |
@@ -99,7 +98,7 @@ example:
 | softhouse-seal grandee | softhouse-seal GRANDEE | ![logo](http://softhouse-seal.com/grandee/img/logo.png)<br>softhouse-seal 旗下抜作天堂<br>撸死你！撸死你！撸死你！<br>![图1](# "https://ehgt.org/56/20/5620767214c3ff0a042f4d0e763e33edc2b2ebc4-127473-320-460-jpg_250.jpg")<br>![图2](# "https://ehgt.org/0c/e0/0ce02e8368b6a222ebe7a5dd6a0c1ade8334ae89-104224-457-640-jpg_250.jpg") | [官方网站](http://softhouse-seal.com/grandee/index.html) |
 | reverse | Re:verse | softhouse-seal 姊妹公司<br>![图1](# "https://ehgt.org/db/df/dbdf702dabd10ea331d3493561e8aa353a9a7ab3-721135-800-600-png_250.jpg") |  |
 | samoyed smile | SAMOYED SMILE | ![logo](http://samoyed-smile.com/img/top/topic17.jpg)<br>softhouse-seal 的姊妹公司<br>![图](# "https://ehgt.org/10/c0/10c01a35cb889b68e48675b8660071adb2557b40-833357-1000-700-jpg_250.jpg") |  |
-| moonstone | MOONSTONE | ![logo](http://www.moon-stone.jp/img/mstn_banner.gif)<br>日语：ムーンストーン社<br>别名：月光石、妹石社<br>株式会社MOONSTONE下另有3个拔作品牌，分别为MOONSTONE Honey、MOONSTONE Cherry和Argonauts。 | [官方网站](http://www.moon-stone.jp) |
+| moonstone | 月石社 | ![logo](http://www.moon-stone.jp/img/mstn_banner.gif)<br>日语：ムーンストーン社<br>别名：月光石、妹石社<br>株式会社MOONSTONE下另有3个拔作品牌，分别为MOONSTONE Honey、MOONSTONE Cherry和Argonauts。 | [官方网站](http://www.moon-stone.jp) |
 | moonstone cherry | MOONSTONE Cherry | ![logo](http://www.moon-stone.jp/product/ms09/wp-content/uploads/2010/01/cherry_toplogo.gif)<br>MOONSTONE旗下抜作天堂<br>撸死你！撸死你！撸死你！<br>![图](# "https://ehgt.org/42/49/4249ebe09c1003f3ea432adcff311db7b68013bd-130057-320-460-jpg_250.jpg") | [官方网站](http://www.moon-stone.jp) |
 | moonstone honey | MOONSTONE Honey | MOONSTONE 旗下品牌<br>![图](# "https://ehgt.org/4d/ab/4dab0cd6676d786afeea0ef64451410c9d12f94d-237009-500-715-jpg_250.jpg") | [官方网站](http://www.moon-stone.jp) |
 | yuzu soft | ![icon](http://www.yuzu-soft.com/favicon.ico)柚子社 | 柚子社<br>![logo](http://www.yuzu-soft.com/images/common/logo.png)<br>萌萌的画风！<br>![图](https://ehgt.org/54/86/5486c309044d7247180c9de12c5d352735c58cf5-104368-600-425-jpg_250.jpg) | [官方网站](http://www.yuzu-soft.com/) |
@@ -110,8 +109,8 @@ example:
 | key | 🔑Key | Key 会社<br>![logo](http://key.visualarts.gr.jp/common/logo.gif)<br>神作工厂<br>![图](https://ehgt.org/9c/f3/9cf34e2a965583459c5b466b2b732bd2380bf9da-198132-1122-1600-jpg_250.jpg) | [官方网站](http://key.visualarts.gr.jp/) |
 | alcot | ALcot | ![logo](http://www.alcot.biz/img/logo.png)<br>画风棒<br>![图](https://ehgt.org/ea/e9/eae900f8b36399c9b2bef3635829ff1f0252bee5-6200881-2470-3480-png_250.jpg) | [官方网站](http://www.alcot.biz/) |
 | alcot honey comb | ALcot Honey Comb | ![logo](http://e.hiphotos.baidu.com/baike/w%3D268%3Bg%3D0/sign=63a5f1e08026cffc692ab8b4813a2dad/4ec2d5628535e5dd33f122a674c6a7efcf1b62ee.jpg)<br>ALcot 旗下品牌<br>![图](https://ehgt.org/dc/8a/dc8ad8858eff60123144936beda060fb4e6c6bd1-116605-320-460-jpg_250.jpg) | [官方网站](hhttp://www.h-comb.biz/) |
-| august | AUGUST | AUGUST（オーガスト）是日本叶月株式会社旗下专责开发贩售成人游戏的品牌，目前加入以戏画为首的Partner Brand。在网络上常常以八月来称呼该公司。<br>![图](https://ehgt.org/45/a6/45a62a87e7ea4496033b9e24fd60228ba07546aa-75238-320-490-jpg_l.jpg)![图](https://ehgt.org/a0/27/a027f455298046a8a89cc2048b8eed79bf341621-151465-350-500-jpg_l.jpg) | [官方网站](http://august-soft.com/) [维基百科](https://zh.wikipedia.org/wiki/AUGUST) (\*) |
-| feng | feng | feng 是一家位于日本千叶县市川市的游戏制作公司（白玫瑰有限公司）。名字来源于汉字里的风的拼音。 | [萌娘百科](https://zh.moegirl.org.cn/Feng) [官方网站](http://www.feng.jp/) (\*\*) |
+| august | 八月社 | AUGUST（オーガスト）是日本叶月株式会社旗下专责开发贩售成人游戏的品牌，目前加入以戏画为首的Partner Brand。在网络上常常以八月来称呼该公司。 | [官方网站](http://august-soft.com/) [维基百科](https://zh.wikipedia.org/wiki/AUGUST) (\*) |
+| feng | Feng | feng 是一家位于日本千叶县市川市的游戏制作公司（白玫瑰有限公司），于2019年5月末停业。 | [萌娘百科](https://zh.moegirl.org.cn/Feng) [官方网站](http://www.feng.jp/) |
 | frontwing | FrontWing | FrontWing是一家于2000年成立的日本成人游戏公司。<br>《魔界天使》系列<br>![图](https://ehgt.org/e9/5c/e95c9f224df3b10a1b4abdcb80abdbf8f99d696d-162659-640-480-jpg_l.jpg)![图](https://ehgt.org/c8/b0/c8b0c1166971d2a52ee4ad822b925a3ad3817eda-91664-800-600-jpg_l.jpg)<br>灰色系列<br>![图](https://ehgt.org/db/24/db244a8ef416fe798d52fdeb41255c6b531b0ca6-60857-352-500-jpg_l.jpg)![图](https://ehgt.org/7f/29/7f298694d6119bd657231034cd03b8f7c670a99a-113136-320-460-jpg_l.jpg)![图](https://ehgt.org/43/53/435307984b8e29fe0a604a7de2a2b9f990c3baf0-110607-320-460-jpg_l.jpg) | [官方网站](http://frontwing.jp/) |
 | atelier d | Atelier D |  |  |
 | atelier kaguya | Atelier KAGUYA | 竹子社 |  |
@@ -143,7 +142,7 @@ example:
 |  | ▼ 其他游戏公司 |  |  |
 | falcom | Falcom | 日本Falcom股份有限公司（日语：日本ファルコム株式会社；英语：Nihon Falcom Corporation）是主要开发及贩售电脑游戏软体的日本公司，其代表作品有《Dragon Slayer系列》、《伊苏系列》和《英雄传说系列》等。 | [维基百科](https://zh.wikipedia.org/wiki/日本Falcom) [官方网站](http://www.falcom.co.jp/) (\*) |
 | softstar | 大宇资讯 | ![logo](http://www.softstar.net.cn/Public/static/root/img/logo.jpg)<br>仙剑奇侠传系列、轩辕剑系列等作品。 | [官方网站](http://www.softstar.net.cn) |
-| dmm.com | DMM.com | ![logo](http://p.dmm.com/p/common/header/logo/logo_com.png)<br>DMM，可以简单理解为日本当前最为火爆的页游平台。DMM Games参与开发并在自家平台上发行的产品《舰队Collection》是时下日本最火的页游 | [官方网站](http://www.dmm.com) |
+| dmm.com | DMM.com | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/DMMcom_logo.svg/500px-DMMcom_logo.svg.png)<br>株式会社DMM.com是一家以数字内容配信起家的公司制作、发售及代理发售AV，经营成人在线聊天的公司。 | [官方网站](http://www.dmm.com) |
 | kadokawa | KADOKAWA | ![](http://www.kadokawa.co.jp/common/img/logo_kadokawa.png)<br>KADOKAWA公司（日语：株式会社KADOKAWA；英语：KADOKAWA CORPORATION）是一家日本出版公司，为角川多玩国的子公司，也是KADOKAWA集团的核心，拥有包含角川书店在内的诸多品牌。 | [维基百科](https://zh.wikipedia.org/wiki/KADOKAWA) [官方网站](http://www.kadokawa.co.jp) (\*) |
 | winged cloud | Winged Cloud | ![图](https://ehgt.org/a3/50/a350fa506ad3fcc53c8f752d0cd508bfad163ecb-51654-336-155-png_l.jpg)<br>Winged Cloud是美国的英文视觉小说开发商，以成人作品为主。作品有视觉小说Sakura Spirit系列等。 | [维基百科](https://en.wikipedia.org/wiki/Winged_Cloud) |
 | tech gian | TECH GIAN | 《TECH GIAN》（テックジャイアン）是enterbrain发行的日本成人游戏杂志，1996年9月21日创刊，已于2021年停刊。<br><br>enterbrain（日语：エンターブレイン），现是角川集团制作经手娱乐关连杂志、书籍的品牌。之前隶属于角川控股集团中间持股公司MediaLeaves的旗下。 | [维基百科](https://zh.wikipedia.org/wiki/TECH_GIAN) |
@@ -182,7 +181,7 @@ example:
 | animachine | アニマルマシーン |  |  |
 | ailail | あいるあいる |  |  |
 | moe hime rengou | 萌姬连合 |  |  |
-| digital lover | Digital Lover |  | [官方网站](http://www.digitallover.net) |
+| digital lover | Digital Lover |  | [官方网站](http://www.digitallover.net) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG10833.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=73946/) |
 | mone keshi gum | MONEけしごむ |  |  |
 | nama cream biyori | 生クリームびより |  |  |
 | clesta | クレスタ |  | [官方网站](http://clesta.net) |
@@ -200,7 +199,7 @@ example:
 | pastel wing | PASTEL WING |  | [官方网站](http://pastelwing.net) |
 | ajisaidenden | アジサイデンデン |  | [X](https://x.com/ajisaidenden_cm) [官方网站](http://ajisaidenden.x.fc2.com) |
 | attendance number 26 | 出席番号26 |  | [官方网站](http://attendancenumber26.blog137.fc2.com) |
-| yu-yu-tei | 悠々亭 |  |  |
+| yu-yu-tei | 悠悠亭 | 悠々亭，水上凛香的同人社团 |  |
 | circle ohigetan | サークル尾髭丹 |  |  |
 | mahou rikigaku | 魔法力学 |  |  |
 | minimum game koubou | ミニマムゲーム工房 |  |  |
@@ -242,13 +241,13 @@ example:
 | s-size | Sサイズ |  |  |
 | mugen at works | むげん@WORKS |  |  |
 | hyogetsu | 冰月 |  |  |
-| garakuta shoujo | がらくた少女 |  |  |
+| garakuta shoujo | がらくた少女 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG02370.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=20899/) |
 | mosquito man | モスキートマン |  |  |
 | metal | METAL |  |  |
 | watanabe tou | 渡边党 |  |  |
 | suzuna jct | SUZUNA JCT |  |  |
 | amagami dou | あまがみ堂 |  |  |
-| bitch bokujou | Bitch牧场 |  |  |
+| bitch bokujou | Bitch牧场 | Bitch牧場 （びっちぼくじょう） | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=29020/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG06957.html) \| [Ci-en](https://ci-en.dlsite.com/creator/3833) \| [pixiv](https://www.pixiv.net/users/2542422) \| [Fantia](https://fantia.jp/fanclubs/2846) |
 | antyuumosaku | 暗中模索 |  |  |
 | kurumaya | 車ヤ |  |  |
 | shiitake en | しいたけ園 |  |  |
@@ -277,7 +276,7 @@ example:
 | sleeve | SLeeVe |  |  |
 | paranoia cat | PARANOIA CAT |  |  |
 | kobuta no yakata | 子豚の館 |  |  |
-| crazy9 | Crazy9 |  |  |
+| crazy9 | Crazy9 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=74235/) |
 | essentia | ESSENTIA |  | [官方网站](http://www.fujimatakuya.com) |
 | redrop | ReDrop |  |  |
 | shirando | 炽鸾堂 |  |  |
@@ -329,15 +328,15 @@ example:
 | kurawanya | くろわん屋 |  |  |
 | 54burger | 54BURGER |  |  |
 | yadokugaeru | ヤドクガエル |  |  |
-| butagoya | ぶた小屋 |  |  |
+| butagoya | ぶた小屋 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG38425.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=28978/) |
 | momo ego | ももエゴ |  |  |
-| wada mountain | 和田マウンテン |  |  |
+| wada mountain | 和田マウンテン |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG19702.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=72452/) |
 | area14 | エリア14 |  |  |
 | komorikiri. | こもりきり。 |  |  |
 | circle eden | Circle Eden |  |  |
 | fukutsuu okosu | 腹痛起こす |  |  |
-| aodouhu | 青豆腐 |  |  |
-| team lucky | チーム☆ラッキー |  |  |
+| aodouhu | 青豆腐 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG21326.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=28658/) |
+| team lucky | チーム☆ラッキー |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=70433/) |
 | deep rising | DEEP RISING |  |  |
 | past gadget | Past Gadget | 日：ぱすとG | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=25525/) |
 | gekidoku shoujo | 剧毒少女 | 以东方二次创作为主的画师`ke-ta`的社团名<br>![图](https://ehgt.org/1d/e4/1de424720c0e3c02cdff19face97f0a95744da7e-2188273-3492-2496-jpg_l.jpg)![图](https://ehgt.org/de/2b/de2be791d9789ebf27b304af9ff1d53bf58a82b2-4298976-2412-3424-jpg_l.jpg)![图](# "https://ehgt.org/c5/d5/c5d5f4dfc1ee3ab5e1120397c15e3233aa2941a9-3630806-1500-2127-png_l.jpg")![图](# "https://ehgt.org/d0/56/d05690320d78087717d2f2c8306e5b7b7f83d3f6-3951250-3468-2468-jpg_l.jpg")![图](# "https://ehgt.org/cc/1c/cc1c17b9f529c3705495ecd3785c909adf3944f2-1968325-3492-2496-jpg_l.jpg")![图](# "https://ehgt.org/33/20/3320be9c6e0a5b686a233ae01a315f466a0b2468-3887835-6874-4919-jpg_l.jpg")![图](# "https://ehgt.org/c8/a0/c8a0ba9712c84840f2afecc37d3e4553a6afca4f-5639177-6618-4926-jpg_l.jpg")![图](# "https://ehgt.org/3c/78/3c7859ba7478962b24f099f1c22d668ad553cf76-5286635-6611-4934-jpg_l.jpg") | [ke-ta 的 pixiv](https://www.pixiv.net/users/3104565) |
@@ -350,7 +349,7 @@ example:
 | deastim | であすちーむ |  |  |
 | optworks | OPTWORKS |  |  |
 | nikujirushi | にくじるし |  |  |
-| great canyon | グレートキャニオン |  |  |
+| great canyon | グレートキャニオン |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=24820/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG07518.html) |
 | amp | AMP |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG69157.html) |
 | peanutsland | ピーナッツランド |  |  |
 | black fly | BLACK FLY |  |  |
@@ -369,7 +368,7 @@ example:
 | manjudou | 曼珠堂 |  |  |
 | asshuku koubou | 压缩工房 |  |  |
 | moreriikusu | モレリークス |  |  |
-| magono-tei | まごの亭 |  |  |
+| magono-tei | まごの亭 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG42944.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=77469/) |
 | pumpernickel | PUMPERNICKEL |  |  |
 | rosetta stone | ろぜったすとーん |  |  |
 | pigafetta | ぴがふぇった |  |  |
@@ -381,7 +380,7 @@ example:
 | iriomote | IRIOMOTE |  |  |
 | kamogawaya | 鸭川屋 |  | [社团博客](http://www.kamogawaya.com/main_Frame.html) |
 | 23.4do | 23.4ド |  |  |
-| doza village | DOZA Village |  |  |
+| doza village | DOZA Village |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG16211.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=27089/) |
 | p.d.creations | P.D.creations |  |  |
 | tear drop | Tear Drop |  |  |
 | 434notfound | 434 Not Found |  |  |
@@ -389,7 +388,7 @@ example:
 | hirahira | ひらひら |  | [toranoana](https://ec.toranoana.jp/tora_r/ec/cot/circle/MUPA4D6P8476dD6Pd687/all/) \| [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=14972) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=75561/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG39732/) |
 | yasakaninomagatama | 八坂琼曲玉 |  |  |
 | kansen shoujo | 甘泉少女 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG46121.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=78163/) |
-| yuzuponz | ゆずぽん酢 |  |  |
+| yuzuponz | ゆずぽん酢 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=26839/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG14166.html) |
 | hamurabi-dou | いちお屋 |  | [官方网站](http://hamurabi.ldblog.jp) |
 | wasabi | WASABI |  |  |
 | abura batake bokujyo. | あぶら畑牧場。 |  |  |
@@ -411,7 +410,7 @@ example:
 | kokatsubatake | こかつ畑 |  |  |
 | nise-jyuusyofutei | 伪住所不定 |  |  |
 | rpg company 2 | RPGカンパニー2 |  |  |
-| royal bitch | ろいやるびっち |  |  |
+| royal bitch | ろいやるびっち |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG22138.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=29003/) |
 | einsatz | Einsatz |  |  |
 | majimeya | 真面目屋 |  |  |
 | almarosso | アルマロッソ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG17378.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=27662/sort=date/) |
@@ -419,7 +418,7 @@ example:
 | avalanche | あばらんち |  |  |
 | suzu no oka | 鈴の丘 |  |  |
 | gegera standard | GEGERA STANDARD |  |  |
-| studio mizuyokan | スタジオみずよーかん |  |  |
+| studio mizuyokan | スタジオみずよーかん |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG06155.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=26934/) |
 | a ashgrey mix | A AshGrey Mix |  |  |
 | m.o seisakujo | M.O制作所 |  |  |
 | orange bullet | ORANGE BULLET |  |  |
@@ -436,12 +435,12 @@ example:
 | oboro and tempo gensui dou | 胧&天蓬元帅堂 |  |  |
 | kanden shoujo chuuihou | 感电少女注意报 |  |  |
 | niku ringo | 肉りんご |  |  |
-| wareme | 割れ目 |  |  |
+| wareme | 割れ目 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG48517.html) |
 | hakuginmokusei | 白銀木犀 |  |  |
-| meshikutteneru. | 飯食って寝る。 |  |  |
+| meshikutteneru. | 飯食って寝る。 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG45307.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=79336/) |
 | little hamlet | りとる☆はむれっと |  |  |
 | tarehamu | たれハム |  |  |
-| black dog | BLACK DOG |  |  |
+| black dog | BLACK DOG |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG39160.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=75330/) |
 | shimesaba | しめさば |  |  |
 | forestrest | ForestRest |  |  |
 | norioikeru | のりおいける! |  |  |
@@ -489,7 +488,7 @@ example:
 | oreteki18kin | 俺的十八禁 |  |  |
 | dl mate | DLメイト |  |  |
 | kaminagi-tei | 神凪邸 |  |  |
-| execio | エクセシオ |  |  |
+| execio | エクセシオ | ｉｆ （いふ） | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=29276/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG20728.html) |
 | seza team | せざちーむ |  |  |
 | shihachirou | 四八楼 |  |  |
 | maccha aji | 抹茶味 |  |  |
@@ -504,9 +503,9 @@ example:
 | mizuchirimen | ミズチリメン |  |  |
 | happy water | HAPPY WATER |  |  |
 | naragyogyo kumiai | なら漁業組合 |  |  |
-| shichiten battou | 七天罚讨 |  |  |
+| shichiten battou | 七天罚讨 | 社团名: 七天罰討 | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG32009.html) |
 | drop dead | DROP DEAD!! |  |  |
-| erect touch | ERECT TOUCH |  |  |
+| erect touch | ERECT TOUCH |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG25171.html) |
 | melanchol | メランコル |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG23930.html) |
 | meisho hanten | めーしょー飯店 |  |  |
 | rushe museum | Rushe Museum |  |  |
@@ -575,7 +574,7 @@ example:
 | akusei-shinseibutsu | 恶性真性物 |  |  |
 | night fuckers | 夜★FUCKERS |  |  |
 | puppukupu | ぷっぷくぷー |  |  |
-| sago-jou | 沙悟荘 |  |  |
+| sago-jou | 沙悟荘 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=203652/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01484.html) |
 | hi-per pinch | ハイパーピンチ |  |  |
 | reis room | REI's ROOM |  |  |
 | hasemi box | Hasemi box |  |  |
@@ -621,7 +620,7 @@ example:
 | chagashi saiban | 茶菓子裁判 |  |  |
 | chesha neko no yakata | チェシャ猫の館 |  |  |
 | shokuan | 触安 |  |  |
-| aomizuan | 青水庵 |  |  |
+| aomizuan | 青水庵 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG07746.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=23058/) \| [pixiv](https://www.pixiv.net/users/473275) \| [X](https://x.com/ti_jiyuugyou) \| [Lit.Link](https://lit.link/en/aomizuan) |
 | royal mountain | ロイヤルマウンテン |  |  |
 | radical dream | Radical Dream |  |  |
 | hellabunna | へらぶな |  |  |
@@ -644,7 +643,7 @@ example:
 | ende der welt | Ende der Welt |  |  |
 | aeba no mori | 喘葉の森 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG18910.html) |
 | hakka ame | 薄荷饴 |  |  |
-| kinengusa | 禁烟草 |  |  |
+| kinengusa | 禁烟草 | 禁煙草 （きんえんぐさ） | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG06574.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=26643/) |
 | shinkai kissa | 深海喫茶 |  |  |
 | megane shoujo | メガネ少女 |  |  |
 | extended part | 拡張パーツ |  |  |
@@ -676,7 +675,7 @@ example:
 | activa | ACTIVA |  |  |
 | atsuatsu muchimuchi | アツアツムチムチ |  |  |
 | kuro lili no heya | 黒りりの部屋 |  |  |
-| rip at lip | Rip@Lip |  |  |
+| rip at lip | Rip@Lip |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG06868.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=22753/) |
 | marinesapphire | 海苍玉 |  |  |
 | liche | Liche |  |  |
 | seven deadly sins | Seven deadly sins |  |  |
@@ -767,7 +766,7 @@ example:
 | ortensia | おるてんしあ |  |  |
 | expot | EXPOT |  |  |
 | shouchuu mac | 烧酎MAC |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=25279/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG10458.html) |
-| golden zombie | 金珠狼 |  |  |
+| golden zombie | 金珠狼 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG18779.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=28093/) \| [X](https://x.com/69Goldenwolf) \| [Fantia](https://fantia.jp/fanclubs/25272) |
 | melty pot | Melty Pot |  |  |
 | airbox | AIR BOX |  |  |
 | suwateria | すわてりあ |  |  |
@@ -775,7 +774,7 @@ example:
 | bakutaso switch | 爆タソスイッチ |  |  |
 | miyuuhodoh | 美游穗堂 |  |  |
 | 7cm | 7センチ |  |  |
-| nisemididoronokai | 伪MIDI泥の会 |  |  |
+| nisemididoronokai | 伪MIDI泥の会 | 日语: 偽MIDI泥の会 （にせみでぃどろのかい） | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=72062/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG30297.html) |
 | veronica no ha | ヴェロニカの歯 |  |  |
 | jet-black baselarde | 漆黒のバゼラード |  |  |
 | juicebox koujou | ジュースボックス工場 |  |  |
@@ -833,9 +832,9 @@ example:
 | squeeze candy heaven | Squeeze Candy Heaven |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=8200) |
 | polinky hiroba | ポリンキー広場 |  |  |
 | v-slash | V-SLASH |  |  |
-| tanima club | 谷间俱乐部 |  |  |
+| tanima club | 谷间俱乐部 | 谷間倶楽部 |  |
 | paper hearts | PAPER HEARTS |  |  |
-| gekikara koushinryou | 激辛香辛料 |  |  |
+| gekikara koushinryou | 激辛香辛料 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG12126.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=26526/) |
 | pha-la-dogs | ぱらどっくす。 |  |  |
 | yojouhan shobou | 四叠半书房 |  | [pixiv](https://www.pixiv.net/users/2431234) \| [X](https://x.com/yojouhanshobou/media) \| [Fantia](https://fantia.jp/fanclubs/526784) |
 | maron maron | まろん☆まろん |  |  |
@@ -863,7 +862,7 @@ example:
 | mimoneland | ミモネランド |  |  |
 | doronko yuuyake | どろんこ夕焼 |  |  |
 | panic room | パニックルーム! |  |  |
-| studio aruta | スタジオあるた |  |  |
+| studio aruta | スタジオあるた |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG36964.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=27027/) |
 | haruharudo | はるはる堂 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=26856/) |
 | tamanokoshi | たまのこし |  |  |
 | minamihamaya | 南浜屋 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=74005/) |
@@ -951,7 +950,7 @@ example:
 | modae tei | 闷亭 |  |  |
 | oyama dennou giken | 小山电脑技研 |  |  |
 | lux soft | ルクスソフト |  |  |
-| gunsryu | GUNsRYU |  |  |
+| gunsryu | GUNsRYU |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG09980.html) |
 | happy core | HAPPY CORE |  |  |
 | dai-kotetsu dan | ダイコテツ団 |  |  |
 | tora machine | 虎マシーン |  |  |
@@ -969,7 +968,7 @@ example:
 | muskel bild | Muskel☆Bild |  |  |
 | takebouzu | 竹坊主 |  |  |
 | egyptsobaya | エジプトそば屋 |  |  |
-| dm-fc | DM-FC |  |  |
+| dm-fc | DM-FC |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG25897.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=70326/) |
 | awareness | Awareness |  |  |
 | peromex | ぺろめっくす |  |  |
 | jouji mujoh | 常时无常 |  |  |
@@ -990,7 +989,7 @@ example:
 | algolagnia | アルゴラグニア |  |  |
 | arestica | ARESTICA |  |  |
 | hapoi-dokoro | はぽい処 |  | [X](https://x.com/hapoi_dokoro) [官方网站](http://hapoi.sakura.ne.jp/index-d.html) |
-| route1 | ROUTE1 |  |  |
+| route1 | ROUTE1 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=214616/) \|  [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG68790.html) |
 | chural-an | ちゅらる庵 |  |  |
 | monaka udon | もなかうどん |  |  |
 | kingyo origin | 金魚オリジン |  |  |
@@ -1124,12 +1123,12 @@ example:
 | airy socks | エアリーソックス |  |  |
 | sheepfold | 羊小屋 |  |  |
 | aroma gaeru | あろまガエル |  |  |
-| arion canvas | Arion Canvas |  |  |
+| arion canvas | アリオンキャンバス |  |  |
 | a color summoner | アカラサマナ |  |  |
 | marimo | MARIMO |  |  |
 | alem-gakan | アレム画館 |  |  |
 | re.lay | 莉零 |  |  |
-| milk force | ミルクフォース |  |  |
+| milk force | ミルクフォース |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=27692/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG17914.html) \| [Ci-en](https://ci-en.dlsite.com/creator/35908) \| [BOOTH](https://milkforce.booth.pm/) |
 | kuureishiki zunou | 空冷式头脑 |  |  |
 | matsurija | 祭社 |  |  |
 | asgo | ASGO |  |  |
@@ -1228,7 +1227,7 @@ example:
 | pinvise | pinvise |  | [博客](http://pinvise.x.fc2.com/) |
 | cobanzame | こばんざめ |  |  |
 | p shoukai | P商会 |  |  |
-| indexacg | IndexACG |  |  |
+| indexacg | インデックスACG |  |  |
 | yuriai kojinshi kai | 悠理爱个人志会 |  |  |
 | lachenalia | Lachenalia |  |  |
 | apricot plus | apricot+ |  |  |
@@ -1237,7 +1236,7 @@ example:
 | mnst | MNST |  |  |
 | aohige kaizokudan | 青髯海贼团 |  |  |
 | sanbyaku rokujuu do | -三百六十度- |  |  |
-| armadillo | Armadillo |  |  |
+| armadillo | Armadillo |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=75791/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG40414.html) |
 | spec.c | spec.C |  |  |
 | dragon kitchen | Dragon Kitchen | 男性原画师`a:sasorigatame`的同人社团. |  |
 | shirukke no ooi zakuro | 汁っけの多い柘榴 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=75448/) |
@@ -1247,7 +1246,7 @@ example:
 | kuroneko smith | 黒猫スミス |  |  |
 | rukonosu | 龙虎乃巢 |  |  |
 | samoyedest | サモエデスト |  |  |
-| yuunabe shinkouchuu | 夕锅进行中 | 夕鍋進行中 |  |
+| yuunabe shinkouchuu | 夕锅进行中 | 夕鍋進行中 | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=71175/) |
 | royal milk | Royalみるく |  |  |
 | nanohanatea | なのはなtea\* |  |  |
 | sound sticker | サウンドステッカー |  |  |
@@ -1276,14 +1275,14 @@ example:
 | toadstool factory | 有害蕈类集会所 |  |  |
 | elane workshop | エルアネ工房 |  |  |
 | fukuroutei | 福笼亭 |  |  |
-| zvizva-dan | ズビズバ団 |  |  |
+| zvizva-dan | ズビズバ団 |  | [Melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=12842) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=220711/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01028655.html) |
 | uruujima | うるう島 |  |  |
 | chilled house | CHILLED HOUSE |  |  |
 | jack to nicholson | ジャックとニコルソン |  |  |
 | shoujo kakei | 少女架刑 |  |  |
 | looptheloop | LOOPTHELOOP! |  |  |
 | tsukimi dango | 月见团子 |  |  |
-| paradiddle | パラディドル |  |  |
+| paradiddle | パラディドル |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG12779.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=26639/) |
 | mousouzoku no soukutsu | 妄想族の巣窟 |  |  |
 | fuji sengendou | 富士浅间堂 |  |  |
 | negative gang | ネガティブギャング |  |  |
@@ -1346,7 +1345,7 @@ example:
 | brave heart petit | BRAVE HEART petit |  |  |
 | chocolate synapse | Chocolate Synapse |  |  |
 | boku wa maso desu | 僕はマゾです |  |  |
-| stanky | STANKY |  |  |
+| stanky | STANKY |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG41857.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=76297/) |
 | wizs studio | Wiz's Studio |  |  |
 | alkaloid | アルカロイド |  |  |
 | d slash l | D/L |  |  |
@@ -1407,7 +1406,7 @@ example:
 | wadamemo | wadamemo | ワダアルコ |  |
 | nanka no atama | 何かのあたま! |  |  |
 | scratch jikkou iinkai | スクラッチ実行委員会 |  |  |
-| gn | GN |  |  |
+| gn | GN |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=26062/) |
 | anko ni gohan | あんこに御飯 |  |  |
 | hyappo hissatsu | 百步必杀 |  |  |
 | ajiichi | 味市 |  |  |
@@ -1430,7 +1429,7 @@ example:
 | hakueki shobou | 白液书房 |  |  |
 | iromiiro | いろみいろ |  |  |
 | uroboros | UROBOROS |  |  |
-| marked-two | Marked-two |  |  |
+| marked-two | Marked-two |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=76060/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG09962.html) |
 | surume no oka | するめの丘 |  |  |
 | moezilla-gumi | もえじら組 |  |  |
 | hisagoya | 瓢屋 |  |  |
@@ -1447,7 +1446,7 @@ example:
 | american kenpou | アメリカン拳法 |  |  |
 | erondon hearts | ERONDON HEARTS |  |  |
 | shd | SHD |  |  |
-| purin kai yoghurt | プリン海ヨーグルト |  |  |
+| purin kai yoghurt | プリン海ヨーグルト |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=71349/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG40291.html) |
 | shouyu no sato | 醤油の里 |  |  |
 | amatou | あまとう \| 甘党 |  |  |
 | sennin no atelier | 仙人のアトリエ |  |  |
@@ -1512,7 +1511,7 @@ example:
 | aki to haru no yume | 秋と春の夢 |  |  |
 | tomatohouse-905s room | tomatohouse-905's room |  |  |
 | dai 6 kichi | 第6基地 |  |  |
-| movefromoneplacetoheaven | MoveFromOnePlacetoHeaven |  |  |
+| movefromoneplacetoheaven | Move from one place to heaven |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=28070/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG14245.html) |
 | workholic | わーくほりっく |  |  |
 | astro qube. | AstroQube. |  |  |
 | pikorin | ぴこりん! |  |  |
@@ -1537,7 +1536,7 @@ example:
 | dessert time | Dessert Time |  |  |
 | fuka fuka | 不可不可 |  |  |
 | suzuki dogezaemon | 铃木土下座卫门 |  |  |
-| anrakugai | 安乐街 |  |  |
+| anrakugai | 安乐街 | 日语: 安楽街 | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=72863/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG33389.html) |
 | nurumayu | ぬるま湯 |  |  |
 | urasekai 2 | 里世界2 |  |  |
 | yanyanyo | やんやんよ |  |  |
@@ -1598,7 +1597,7 @@ example:
 | kikurage-ya | きくらげ屋 |  |  |
 | shis | SHIS |  |  |
 | tomoshibiya koubou | 灯夜工房 |  |  |
-| kakuzato-ichi | 核座头市 |  |  |
+| kakuzato-ichi | 核座頭市 |  |  |
 | poppenheim | ぽっぺんはいむ |  |  |
 | chitei no nikuya | 地底の肉屋 |  |  |
 | manaita | まないた |  | [pixiv](https://www.pixiv.net/users/13983329) |
@@ -1647,7 +1646,7 @@ example:
 | watagashi | わた菓子 |  |  |
 | morphine | モルピネ |  |  |
 | amahara teikoku | 天原帝国 |  |  |
-| rocket chousashitsu | ロケット調査室 |  |  |
+| rocket chousashitsu | ロケット調査室 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200781/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG52854.html) |
 | esora note | エソラnote |  |  |
 | ozitan yasan | おじたん屋さん |  |  |
 | nechorapoddo | ねちょらぽっど |  |  |
@@ -1730,8 +1729,8 @@ example:
 | betemius | BETEMIUS |  |  |
 | nihon kemomimi suishou iinkai | 日本ケモ耳推奨委員会 |  |  |
 | ayakase-ke no neko | 綾枷家の猫 |  |  |
-| mignon works | MIGNON WORKS |  |  |
-| ichijiku yogurt | いちじくよーぐると |  |  |
+| mignon works | MIGNON WORKS |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=212754/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01005719.html) |
+| ichijiku yogurt | 无花果酸奶 | いちじくよーぐると |  |
 | egoistic honey | Egoistic Honey |  |  |
 | amamiya | 甘味屋 |  |  |
 | curry berg dish | カリーバーグディッシュ |  |  |
@@ -1743,7 +1742,7 @@ example:
 | kinokonomi | きのこのみ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=77901/) |
 | pigpanpan | PigPanPan |  |  |
 | yomairi sensei | よまいり先生 |  |  |
-| koniro kajitsu | 紺色果実 |  |  |
+| koniro kajitsu | 绀色果实 |  |  |
 | pandora box | ぱんどらぼっくす |  |  |
 | jekyll and hyde | Jekyll and Hyde |  |  |
 | roentgen | Roentgen |  |  |
@@ -1848,7 +1847,7 @@ example:
 | neko tanteidan peach | ネコ☆探偵団 |  |  |
 | water drop | うぉーたーどろっぷ |  |  |
 | honey butter3g | はちみつバター3g |  |  |
-| ichibocchi | ゐちぼっち |  |  |
+| ichibocchi | ゐちぼっち |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=71957/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG40420.html) |
 | low temp | low\*temp |  |  |
 | against | against |  |  |
 | jigizagi | ジギザギ |  |  |
@@ -1898,13 +1897,13 @@ example:
 | sanshikisumire | さんしきすみれ |  |  |
 | beruennea | ベルエンネーア |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG20140.html) |
 | orange tile | オレンジタイル |  |  |
-| laminaria | LAMINARIA |  |  |
+| laminaria | LAMINARIA |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=74251/) |
 | nanbou hitogakushiki | 南方ヒトガクシキ |  |  |
 | narumiya | 成宮 |  |  |
 | circle-fiore | サークルフィオレ |  |  |
 | popopo | ぽぽぽ |  |  |
-| toushitu catapult | 糖质过多ぱると |  |  |
-| ojopie sentimental | おじょぱいセンチメンタル |  |  |
+| toushitu catapult | 糖質過多ぱると |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=76411/) |
+| ojopie sentimental | おじょぱいセンチメンタル |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=75744/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG41042.html) |
 | dokutoku no m | 独特のM |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG45521.html) |
 | watari laboratory | 渡里laboratory |  |  |
 | wappururun | わっぷるるん |  |  |
@@ -2053,7 +2052,7 @@ example:
 | ruinon | RUINON |  |  |
 | yamada shoukai | 山田商会 |  |  |
 | takemoto seisaku iinkai | 竹本製作委員会 |  |  |
-| umemoto seisaku iinkai | 梅本制作委员会 |  |  |
+| umemoto seisaku iinkai | 梅本制作委员会 | 日语: 梅本制作委員会 | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=212741/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01030075.html) |
 | kotei gainen | 固定概念 |  |  |
 | akausagi | 赤兔 | 赤兎 |  |
 | haru koubou | 春工房 |  |  |
@@ -2112,13 +2111,13 @@ example:
 | dekoboko hurricane | 凸凹ハリケーン |  |  |
 | amaineiro | あまいねいろ |  |  |
 | gentsuki okiba | ゲンツキオキバ |  |  |
-| mashira dou | ましら堂 |  |  |
+| mashira dou | ましら堂 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=77873/) |
 | nijitsuya kenkyuujo | 虹艶研究所 |  |  |
 | samurai ninja greentea | サムライ忍者GREENTEA |  |  |
 | alicesyndrome | AliceSyndrome\* |  |  |
-| uousaohkoku | 鱼ウサ王国 |  |  |
+| uousaohkoku | 魚ウサ王国 |  |  |
 | konoshiro shinko | コノシロしんこ | 由女性漫画家`karasuma yayoi`（主笔）和`yamagara tasuku`（原案、分镜）组成的同人社团。 | [YouTube](https://www.youtube.com/channel/UCgcFF8HoBgKQfKPgJk1FJaQ/featured) |
-| kansai orange | 关西オレンジ | 日语：関西オレンジ<br><br>画师`arai kei`所属同人社团 | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=74765/) |
+| kansai orange | 関西オレンジ | 关西オレンジ<br><br>画师`arai kei`所属同人社团 | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=74765/) |
 | imomuya honpo | いもむや本舗 |  |  |
 | ryuukakusan nodoame | りゅうかくさんのどあめ |  |  |
 | okadatei | おかだ亭 |  |  |
@@ -2137,7 +2136,7 @@ example:
 | sashichigai-dan | 挿し違い団 |  | [官方网站](http://sashitigai-dan.la.coocan.jp/) |
 | yasai batake | 諏訪やさい |  | [pixiv](https://www.pixiv.net/users/13477002) [X](https://x.com/yasai_023) |
 | ichimi-zanmai | 一味三昧 |  |  |
-| sugar berry syrup | Sugar＊Berry＊Syrup |  |  |
+| sugar berry syrup | Sugar＊Berry＊Syrup |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=71118/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG51191.html) |
 | kousei | コウセイ |  |  |
 | sugarringo | SUGARRINGO |  |  |
 | hajimeryu | はじめりゅう |  |  |
@@ -2217,7 +2216,7 @@ example:
 | kankodori chaen | 閑古鳥茶園 |  |  |
 | hell and heaven | ヘルアンドヘブン |  | [pixiv](https://www.pixiv.net/users/31711080) |
 | kisarazu teikoku | きさらづ帝国 |  |  |
-| tiba-santi | 千葉産地 |  |  |
+| tiba-santi | 千葉産地 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG27558.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=70820/) |
 | yokoshoku ice | 洋紅色アイス |  |  |
 | nekomaru shouten | 猫マル商店 |  |  |
 | pandagaippiki. | パンダが一匹。 |  |  |
@@ -2231,7 +2230,7 @@ example:
 | gusha suumitsuin | 愚者枢密院 |  |  |
 | kotsubuan | こつぶあん |  |  |
 | gokusaishiki | 极彩色 |  |  |
-| kirintei | 木铃亭 |  |  |
+| kirintei | 木鈴亭 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG20386.html) \| [Melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=22424) |
 | kanyou shoujo | 观用少女 | 画师 `komota`所属同人社团 | [HP](https://lit.link/en/komota) |
 | ferallemma | フィラレマ |  |  |
 | bakayaro | ばかやろう |  |  |
@@ -2275,7 +2274,7 @@ example:
 | momojiru teien | 桃汁庭园 | 画师`momokumo`所属社团 |  |
 | tamatamasanmyaku | たまたま山脈 |  |  |
 | harthnir | HarthNir | ハースニール<br>`misakura nankotsu` | [HP](http://www.harthnir.com/) |
-| yoru no hitsuji | 夜のひつじ | ![](https://yorunohitsuji.xii.jp/img/top_logo.gif)<br>别称：夜羊社 | [官网](https://yorunohitsuji.xii.jp/) |
+| yoru no hitsuji | 夜羊社 | ![](https://yorunohitsuji.xii.jp/img/top_logo.gif)<br>日语：夜のひつじ | [官网](https://yorunohitsuji.xii.jp/) |
 | nawairo sonata | 縄色ソナタ | `a:haneru`  `a:himitsu` (不确定是否准确，求考证) |  |
 | momokamasu | ももかます |  | [X](https://x.com/jwxvlhsnfpjonfh) [pixiv](https://www.pixiv.net/users/14943872) |
 | kumo no ito | 雲之糸 | クモノイト | [X](https://x.com/spider_lifeline) [DLsite](https://ci-en.dlsite.com/creator/9356) |
@@ -2347,7 +2346,7 @@ example:
 | 148bpm | 148bpm |  |  |
 | 14lolita | 14ロリータ |  |  |
 | 152hertz | 152HERTZ |  |  |
-| 16 sai | 16彩 |  |  |
+| 16 sai | 十六彩 |  |  |
 | 16000 all | 16000オール |  |  |
 | 16kenme | 16軒目 |  |  |
 | 1756 studio | 1756スタジオ |  |  |
@@ -2378,7 +2377,7 @@ example:
 | 2p-color | 2P-Color |  |  |
 | 2stroke | 2ストローク |  |  |
 | 2tailqueen | 2tail Queen |  |  |
-| 2vs | 2vs |  |  |
+| 2vs | 2vs |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG18875.html) \| [Ci-en](https://ci-en.dlsite.com/creator/23052) \| [Patreon](https://www.patreon.com/2VS) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=28411/) |
 | 2zigen | 2ZIGEN |  |  |
 | 3 colors cat | 3 colors cat |  |  |
 | 3 colors corona | 3色コロナ |  |  |
@@ -2459,7 +2458,7 @@ example:
 | a-anima | A-Anima |  |  |
 | a-arinco | A-arinco |  |  |
 | a-hole | A-HOLE |  |  |
-| a-lucky murashige no ran | A-Lucky☆村重の乱 |  |  |
+| a-lucky murashige no ran | A-Lucky☆村重の乱 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=201431/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG54638.html) |
 | a-mania9s | A-mania9's |  |  |
 | a-mw. | A-mw. |  |  |
 | a-office | A-office |  |  |
@@ -2469,7 +2468,7 @@ example:
 | a.la.mode | ア・ラ・モード |  |  |
 | a.p. retriever | A.P.レトリバー |  |  |
 | a.p.yamamoh | A.P.YAMAMOH |  |  |
-| a.s.g group | A・S・Gグループ |  |  |
+| a.s.g group | A・S・Gグループ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=203870/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG63143.html) |
 | a.s.s | A.S.S |  |  |
 | a.u.forest | A.U.FOREST |  |  |
 | a.v. tokkoutai | A.V.特攻隊 |  |  |
@@ -2558,7 +2557,7 @@ example:
 | ai no senshi mimikaki | 愛の戦士みみかき |  |  |
 | ai no sunatokei | 藍の砂時計 |  |  |
 | ai urara | あいうらら |  |  |
-| ai wa kurayami | 愛は暗闇 |  |  |
+| ai wa kurayami | 愛は暗闇 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01893.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=20028/) |
 | ai-chan no ozashiki | あいちゃんのお座敷 |  |  |
 | aiai | あいあい |  |  |
 | aiaigasa | あいあい傘 |  |  |
@@ -2570,7 +2569,7 @@ example:
 | aihara otome | 相原乙女 |  |  |
 | aiiro paradox | 藍色パラドックス |  |  |
 | aiirojikan | 藍色時間 |  |  |
-| aiirosakura | あいいろさくら |  |  |
+| aiirosakura | あいいろさくら |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG18503.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=28669/) |
 | aik sole | アイクソール |  |  |
 | aikokusha | 愛国者 |  |  |
 | aikotobako | アイコトバコ |  |  |
@@ -2630,7 +2629,7 @@ example:
 | akaironomahou | あかいろのまほう |  |  |
 | akamiru | Akamiru |  |  |
 | akamuni. | あかむに。 |  |  |
-| akanagi | あかなぎ |  |  |
+| akanagi | あかなぎ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG38854.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=75772/) |
 | akane shuuhei dou | 茜しゅうへい堂 |  |  |
 | akaneko | 赤猫 |  |  |
 | akanoiki | 赤の域 |  |  |
@@ -2641,7 +2640,7 @@ example:
 | akashitei | あかし亭 |  |  |
 | akatama | アカタマ |  |  |
 | akatsuki akaza dou | 赤月赤座堂 |  |  |
-| akatsuki katsuie no circle | 暁勝家ノサークル |  |  |
+| akatsuki katsuie no circle | 暁勝家のサークル |  |  |
 | akatsuki works | 暁WORKS |  |  |
 | akatsuki doumei | アカツキドウメイ |  |  |
 | aki no yonaga ni yoiyami ni | 秋の夜長に宵闇に |  |  |
@@ -2656,7 +2655,7 @@ example:
 | akitarainu | あきたらいぬ |  |  |
 | akitsuki | 秋月 |  |  |
 | akiya | 空屋 |  |  |
-| akiyama production | アキヤマ興業 |  |  |
+| akiyama production | アキヤマ興業 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG03422.html) |
 | akkan-bi project | あっかんBi～ |  |  |
 | akou kurou | アコウクロウ |  |  |
 | akoyagai to aumale ebi | あこや貝とオマールえび |  |  |
@@ -2670,7 +2669,7 @@ example:
 | akuochisukii kyoushitsu | アクオチスキー教室 |  |  |
 | akuta space | あくたスペース |  |  |
 | akuyukai | 悪遊怪 |  |  |
-| akys honpo | AKYS本舗 |  |  |
+| akys honpo | AKYS本舗 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG14418.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=29680/) |
 | al dente | あるでんて |  |  |
 | albatross | あるばとろす |  |  |
 | albercorp. | あるばーCorp. |  |  |
@@ -2739,7 +2738,7 @@ example:
 | amakura89gou ten | 天倉89号店 |  |  |
 | amakuro okami | あまくろ狼 |  |  |
 | amakurodou | 甘黒堂 |  |  |
-| amam | AMAM |  |  |
+| amam | AMAM |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=77302/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG44268.html) |
 | amamin koubou | あまみん工房 |  |  |
 | amanatsu mix | あまなつミックス |  |  |
 | amanatsu quality | 甘夏クオリテ |  |  |
@@ -2775,7 +2774,7 @@ example:
 | ameno oukan | 雨の王冠 |  |  |
 | amenyan-tai | あめにゃん隊 |  |  |
 | ameyama telegraph | 雨山電信社 |  |  |
-| ami-dabutsu | ami-だぶつ |  |  |
+| ami-dabutsu | ami-だぶつ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG29740.html) |
 | aminendo | あみねんど |  |  |
 | ammolite | アンモライト |  |  |
 | amorphous innocent fiction | AMORPHOUS innocent fiction |  |  |
@@ -2800,7 +2799,7 @@ example:
 | andante | あんだんて |  |  |
 | anegaoka sanchoume | 姉ヶ丘三丁目 |  |  |
 | anemitsu | あねみつ |  |  |
-| anemone | Anemone |  |  |
+| anemone | アネモネ\* |  |  |
 | aneurysm. | あにゅうりずむ。 |  |  |
 | anfini | ANFINI |  |  |
 | ange | アンジェ |  |  |
@@ -2814,7 +2813,7 @@ example:
 | angora doll | Angora doll |  |  |
 | ani ga saru | 兄が猿 |  |  |
 | aniki otokodou | 兄貴漢堂 |  |  |
-| anim | Anim |  |  |
+| anim | アニム |  |  |
 | animal herb | あにまるハーブ |  |  |
 | animal passion | Animal Passion |  |  |
 | animal service | アニマルサービス |  |  |
@@ -2836,7 +2835,7 @@ example:
 | annee suplex | あんねーすーぷれっくす |  |  |
 | annin | 杏仁 |  |  |
 | annon club | 安穏倶楽部 |  |  |
-| anons flood myth | あのんの大洪水传说 | 画师`anon 2-okunen`所属社团<br><br>![works](# "https://pbs.twimg.com/media/GCosPHTaEAADC-J?format=jpg&name=large") | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG45569.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=77907/) |
+| anons flood myth | あのんの大洪水伝説 | 画师`anon 2-okunen`所属社团<br><br>![works](# "https://pbs.twimg.com/media/GCosPHTaEAADC-J?format=jpg&name=large") | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG45569.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=77907/) |
 | anonymax | あのにまっくす |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG27499.html) |
 | anoprimal | アノプライマル |  |  |
 | anorak post | Anorak Post |  |  |
@@ -2947,7 +2946,7 @@ example:
 | are. | あれ。 |  |  |
 | area-048 | Area-048 |  |  |
 | area-s | Area-S |  |  |
-| area188 | エリア188 |  |  |
+| area188 | AREA188 | エリア188 | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=71384/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG29389.html) |
 | area50 | Area50 |  |  |
 | area7 | えりあ7 |  |  |
 | arearee | あれあれえ |  |  |
@@ -2974,7 +2973,7 @@ example:
 | armeria | Armeria |  |  |
 | armored ginkakuji | アーマードギンカクジ |  |  |
 | armored namamono | アーマードなまもの |  |  |
-| aroma terrace | あろまてらす |  |  |
+| aroma terrace | 香氛露台 | あろまてらす |  |
 | aromatic girl | aromatic girl |  |  |
 | arpeggio | あるぺじお |  |  |
 | arsenothelus | アルセノテリス |  |  |
@@ -3012,7 +3011,7 @@ example:
 | asanegi shouten | 麻根木商店 |  |  |
 | asapi-keikaku. | あさぴ計画。 |  |  |
 | asatsukimint | アサツキミント |  |  |
-| asg-project | ASG-Project |  |  |
+| asg-project | ASG-Project |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG27571.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=203374/) |
 | ashanti | アシャンティ |  |  |
 | ashi zanmai | あしざんまい |  |  |
 | ashibububu | あしぶぶぶ |  |  |
@@ -3027,7 +3026,7 @@ example:
 | ashuraya | 阿修羅屋 |  |  |
 | asianboy | ASIANBOY |  |  |
 | asiangirl | ASIANGIRL |  |  |
-| ask | ASK |  |  |
+| ask | ASK， |  |  |
 | askot | askot |  |  |
 | asma | ASMA |  |  |
 | asmodeus seiyaku | アスモデウス製薬 |  |  |
@@ -3095,7 +3094,7 @@ example:
 | authoring heaven | オーサリングヘヴン |  |  |
 | autobahn | Autobahn |  |  |
 | automa kikyuu | オートマ気球 |  |  |
-| autonoe | Autonoe |  |  |
+| autonoe | Autonoe |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=77153/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG41869.html) \| [Ci-en](https://ci-en.dlsite.com/creator/4922) |
 | autoroo | あうとろー |  |  |
 | av | サークルAV |  |  |
 | avalon | Avalon |  |  |
@@ -3146,7 +3145,7 @@ example:
 | b-crews | Bクルーズ |  |  |
 | b-dash jump | B-Dash Jump |  |  |
 | b-kyuu kasen | B級河川 |  |  |
-| b-kyuu site | B級サイト |  |  |
+| b-kyuu site | B級サイト |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=21750/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG03653.html) |
 | b-led | B-LED |  |  |
 | b-wa | B-wa |  |  |
 | b.s.k | B.S.K |  |  |
@@ -3311,7 +3310,7 @@ example:
 | black cyc | ブラックサイク |  |  |
 | black doctor | BLACK DOCTOR |  |  |
 | black factory | Black Factory |  |  |
-| black force | BLACK FORCE |  |  |
+| black force | BLACK FORCE |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG16602.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=27199/) |
 | black light | ブラックライト |  |  |
 | black list | Black List |  |  |
 | black maria | ブラックマリア |  |  |
@@ -3473,12 +3472,12 @@ example:
 | buki to bougu no mise | ぶきとぼうぐのみせ |  |  |
 | bullet ballet | Bullet Ballet |  |  |
 | bumsign | BUMSIGN |  |  |
-| bunbonian | ぶんぼにあん |  |  |
+| bunbonian | ぶんぼにあん |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=77722/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG45472.html) |
 | bunbukudou | ぶんぶく堂 |  |  |
 | bunchindoh | ぶんちん堂 |  |  |
 | bungalow | バンガロゥ |  |  |
 | bunmei kaika | 文明快化 |  |  |
-| buppa studio | ブッパスタジオ |  |  |
+| buppa studio | ブッパスタジオ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=76949/) |
 | burakuradou | ブラクラ堂 |  |  |
 | buranko shinshi | ブランコ紳士 |  |  |
 | buri daikon | ぶり大根 |  |  |
@@ -3530,7 +3529,7 @@ example:
 | c9sou | c9sou |  |  |
 | ca.d.d | C：／／A.D.D／ |  |  |
 | cabbage box | キャベツBOX |  |  |
-| cabbage soft | 卷心菜社 | ![](https://cabbage-soft.com/assets/images/topic_ccc.jpg)<br>きゃべつそふと | [官网](https://cabbage-soft.com/) |
+| cabbage soft | 卷心菜社 | ![](https://storage.moegirl.org.cn/moegirl/commons/f/fb/CabbageSoft.svg)<br>日语：きゃべつそふと | [官网](https://cabbage-soft.com/) |
 | cabbit | Cabbit |  |  |
 | caburibbon | caburibbon |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG45733.html) |
 | cacao | カカオ |  |  |
@@ -3557,7 +3556,7 @@ example:
 | campanula | campanula |  |  |
 | campers | きゃんぱーず |  |  |
 | camrism | カムリズム |  |  |
-| can do now | キャンドゥーなう! |  |  |
+| can do now | キャンドゥーなう! |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=78759/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG47877.html) |
 | canaria | canaria |  |  |
 | canary and swallow | カナリアとつばめ |  |  |
 | candy pop | Candy Pop |  |  |
@@ -3578,7 +3577,7 @@ example:
 | carnage engine | カルネージエンジン |  |  |
 | carnelian | CARNELIAN |  |  |
 | carnevale9 | CARNEVALE9 |  |  |
-| carol works | Carol Works |  |  |
+| carol works | Carol Works | 日语：キャロルワークス | [官网](http://www.carolworks.com/) |
 | carpaccio | カルパッチョ |  |  |
 | carrot | きゃろっと |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=27127/) |
 | carrot academy | キャロットアカデミー |  |  |
@@ -3791,7 +3790,7 @@ example:
 | chroma of wall | 壁の彩度 |  |  |
 | chromaticclip | ChromaticClip |  |  |
 | chronicle | くろにくる |  |  |
-| chrono mail | クロノ・メール |  |  |
+| chrono mail | クロノ・メール |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG28540.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=74397/) |
 | chrronix | Chrronix |  |  |
 | chukara coffee | 中辛珈琲 |  |  |
 | chunhaikan | 中海館 |  |  |
@@ -3966,9 +3965,9 @@ example:
 | cothurnus | Cothurnus |  |  |
 | cotojikan | 琴慈館 |  |  |
 | cottage | cottage |  |  |
-| cotton candy | Cotton Candy | こっとんきゃんでぃ |  |
+| cotton candy | Cotton Candy | こっとんきゃんでぃ | [Melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=44988) |
 | cotton color | コットンカラー |  |  |
-| cotton house | こっとん堂 |  |  |
+| cotton house | こっとん堂 |  | [Ci-en](https://ci-en.dlsite.com/creator/6294) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG09867.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=25052/) |
 | cotton pop | Cotton Pop |  |  |
 | cottontail | cottontail | `a:nanohana kohina`的同人社团 |  |
 | countack | カウンタック |  |  |
@@ -3982,7 +3981,7 @@ example:
 | cow lipid | Cow Lipid |  |  |
 | cozybowl | cozybowl |  |  |
 | cpi | cpi |  |  |
-| craft | CRAFT |  |  |
+| craft | CRAFT |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG22074.html) \| [Melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=27678) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=72897/) |
 | craft-gear | CRAFT-GEAR |  |  |
 | craftworks | CraftWorks |  |  |
 | crank.in | クランク・イン |  |  |
@@ -4060,7 +4059,7 @@ example:
 | cyc no-nos | サイクノノス |  |  |
 | cyclet | CYCLET |  |  |
 | cyclo- | Cyclo- |  |  |
-| cyclone | ![](https://thumbsnap.com/i/eJMpKpCS.jpg) サイクロン |  | [Lit.Link](https://lit.link/en/cyclone10) \| [X](https://x.com/cyclone_reizei) |
+| cyclone | ![](https://thumbsnap.com/i/eJMpKpCS.jpg) サイクロン \| さいくろん | サイクロン和さいくろん重名<br>区别在于一个是平假名一个是片假名 | サイクロン：[Lit.Link](https://lit.link/en/cyclone10) \| [X](https://x.com/cyclone_reizei) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=73178/)<br>さいくろん：[FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=76066/) |
 | cyduster | CYDUSTER |  |  |
 | cykranosh | さいくらの〜しゅ |  |  |
 | cynthia | Cynthia |  |  |
@@ -4144,7 +4143,7 @@ example:
 | danshaku ryou | 男爵領 |  |  |
 | dantyo neko | だんちょねこ |  |  |
 | danzi engine | ダンジエンジン |  |  |
-| darabuchidou | だらぶち堂 |  |  |
+| darabuchidou | だらぶち堂 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01023832.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200049/) |
 | daradara no kiheitai | だらだらの騎兵隊 |  |  |
 | dark battery | Dark battery |  |  |
 | dark buta gorilla | ダーク・ブタゴリラ |  |  |
@@ -4159,7 +4158,7 @@ example:
 | darmax | DARMAX |  |  |
 | darumasan koronda | 達磨さん転んだ |  |  |
 | dashigara 100 | ダシガラ100% |  |  |
-| dashimakitamago | DASHIMAKITAMAGO |  |  |
+| dashimakitamago | DASHIMAKITAMAGO |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=74507/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG19239.html) \| [Ci-en](https://ci-en.dlsite.com/creator/3140) |
 | dashinoko | だしの粉 |  |  |
 | dashiotto | だしおっと |  |  |
 | dass | DASS |  |  |
@@ -4203,7 +4202,7 @@ example:
 | delica | Delica |  |  |
 | delta | DELTA |  |  |
 | delta blade | デルタブレード |  |  |
-| delta box | DELTA BOX |  |  |
+| delta box | DELTA BOX |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG02530.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=71775/) \| [Ci-en](https://ci-en.dlsite.com/creator/4733) |
 | deltaforce | DELTAFORCE |  |  |
 | delusion | でるしおん |  |  |
 | dende | でんで |  |  |
@@ -4309,7 +4308,7 @@ example:
 | doku ringo | 毒リンゴ |  |  |
 | doku sasori | 毒蠍 |  |  |
 | doku69 | 毒69 |  |  |
-| dokudami | ドクダミ |  |  |
+| dokudami | ドクダミ |  | [Melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=111079) |
 | dokudenpa jushintei | 毒電波受信亭 |  |  |
 | dokudenpa kenkyuusho | 毒電波研究所 |  |  |
 | dokudenpa tsuushin | 毒電波通信 |  |  |
@@ -4338,7 +4337,7 @@ example:
 | doppelgesicht | DOPPELGESICHT |  |  |
 | dorepooru | ドレポール |  |  |
 | dorgel | dorgel |  |  |
-| dorichin koubou | ドリチン工房 |  |  |
+| dorichin koubou | ドリチン工房 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=76569/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG42439.html) |
 | doronuma kyoudai | 泥沼兄弟 |  |  |
 | doropanda tours | どろぱんだTOURS |  |  |
 | doroyume | とろゆめ |  |  |
@@ -4360,8 +4359,8 @@ example:
 | doubleflower | DoubleFlower |  |  |
 | doudantsutsujitomonokai | 満天星友乃会 |  |  |
 | douganebuibui | ドウガネブイブイ |  |  |
-| doujin kappa | 同人河童 |  |  |
-| doujin mukashibanashi | 同人昔話 |  |  |
+| doujin kappa | 同人河童 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=70563/) |
+| doujin mukashibanashi | 同人昔話 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG26587.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=70830/) |
 | doumou | DOUMOU |  |  |
 | doushia | ドーシア |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=40718) |
 | doushin chaya | 童心茶屋 |  |  |
@@ -4400,7 +4399,7 @@ example:
 | drizzly rain | drizzly rain |  |  |
 | dro-ya | 泥屋 |  |  |
 | drop | DROP |  |  |
-| drops | どろっぷす! |  |  |
+| drops | どろっぷす! |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG20312.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=28375/) |
 | drum-kan | ドラム缶 |  |  |
 | dryr | DryR |  |  |
 | dsb style | DSB Style |  |  |
@@ -4441,7 +4440,7 @@ example:
 | ebikino | エビキノ |  |  |
 | ebimashi | えびまし |  |  |
 | ebisen kikaku | えびせん企画 |  |  |
-| ebisuya | えびすや |  |  |
+| ebisuya | えびすや \| ゑびす屋 | ゑ是过去日语中wa行和e列中使用的平假名字符。历史发音为we，现在发“e”音。<br>现在已经不再使用，通常用え代替。但因为有不同社团，且基于没有汉化的名字则以日文名为准。特此区分<br><br>えびすや：通常由戎橋政造活动，主要倾向于同性恋题材。<br>ゑびす屋：不特定的艺术家参与，主要是bg题材 |  |
 | ebisuyu | ゑびす湯 |  |  |
 | ebitendon | えびてん丼 |  |  |
 | ebysuya | 恵比寿屋 |  |  |
@@ -4565,7 +4564,7 @@ example:
 | eroitto | エロイット |  |  |
 | eroliya | えろり屋 |  |  |
 | eromafia | エロマフィア |  |  |
-| eromazun | エロマズン |  |  |
+| eromazun | エロマズン |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG16563.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=27481/) |
 | eronamin h | エロナミンH |  |  |
 | erondo | eRONDO |  |  |
 | eroro | Eroro |  |  |
@@ -4616,7 +4615,7 @@ example:
 | eve-sya | EVE-舎 |  |  |
 | eves garden box | イヴの箱庭 |  |  |
 | evidence. | Evidence. |  |  |
-| evo.r.b | evo.r.b |  |  |
+| evo.r.b | エヴォルブ |  |  |
 | evoll | evoLL |  |  |
 | evolution | Evolution |  |  |
 | evork festa | Evork Festa |  |  |
@@ -4648,7 +4647,7 @@ example:
 | fairy key | フェアリーキー |  |  |
 | fairy pink | FAIRY PINK |  |  |
 | fairy tale house | Fairy Tale House |  |  |
-| fake an | FAKE庵 |  |  |
+| fake an | FAKE庵 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=72877/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG12758.html) |
 | fake69rose | fake69rose |  |  |
 | fakepucco | 偽製pucco |  |  |
 | faker | Faker |  |  |
@@ -4674,7 +4673,7 @@ example:
 | fat | FAT |  |  |
 | fatboy | ふぁっとぼ～い |  |  |
 | fatima cigarette | Fatima Cigarette |  |  |
-| favorite | FAVORITE |  | [萌娘百科](https://zh.moegirl.org.cn/FAVORITE) |
+| favorite | 真红社 | 别称：F社<br>日语：フェイバリット | [萌娘百科](https://zh.moegirl.org.cn/FAVORITE) |
 | fclg | フクラグ |  |  |
 | fechisupi | ふぇちすぴ |  |  |
 | feeld hern halle | FEELD HERN HALLE |  |  |
@@ -4713,7 +4712,7 @@ example:
 | fish | FISH |  |  |
 | fish and chicken | 魚肉と鳥肉 |  |  |
 | fishbone | fish bone |  |  |
-| fishneak | Fishneak |  |  |
+| fishneak | Fishneak |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=201611/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG13983.html) |
 | five | five |  |  |
 | fivecoa. | Fivecoa. |  |  |
 | fiyorudou | ふぃよる堂 |  |  |
@@ -4867,7 +4866,7 @@ example:
 | furuhonya | 古本屋 |  |  |
 | furuike | furuike |  |  |
 | furuya | ふる屋 |  |  |
-| fushigi dou | フシギ堂 |  |  |
+| fushigi dou | フシギ堂 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG37242.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=77416/) \| [Ci-en](https://ci-en.dlsite.com/creator/905) \| [X](https://x.com/wack_na_mc) |
 | fushinsya guilty | 不审者罪 |  |  |
 | fushizen doubutsu hogodantai | 不自然動物保護団体 |  |  |
 | fusions | Fusions |  |  |
@@ -4924,7 +4923,7 @@ example:
 | g500 | G500 |  |  |
 | ga fake | ガ・フェーク |  |  |
 | gaball screen | GABALL SCREEN |  |  |
-| gabugabu | GABUGABU |  |  |
+| gabugabu | GABUGABU |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG44526.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=77386/) |
 | gabunomi tororokonbu | がぶ飲みとろろ昆布 |  |  |
 | gacha | 画チャ |  |  |
 | gachapin mukku. | がちゃぴんむっく。 |  |  |
@@ -4932,7 +4931,7 @@ example:
 | gachinko shobou | 我チ○コ書房 |  |  |
 | gadget | ガジェット工房 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG40369.html) |
 | gadoujuku | 我道塾 |  |  |
-| gagaga honpo | ガガガ本舗 |  |  |
+| gagaga honpo | ガガガ本舗 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=78057/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG46059.html) |
 | gagaken | 画々研 |  |  |
 | gaikotsu no spare rib | 骸骨のスペアリブ |  |  |
 | gaisei dou | 凱聖堂 |  |  |
@@ -5152,7 +5151,7 @@ example:
 | gomix | GOMIX! |  |  |
 | gomiyashiki | 五三八式 |  |  |
 | gomoku gohan | 五目ごはん |  |  |
-| gomuhachi | ごむはち |  |  |
+| gomuhachi | ごむはち |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG56589.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202106/) |
 | goo-paaa | goo-paaa |  |  |
 | good bye life | Good Bye Life |  |  |
 | goodluck | Goodluck |  |  |
@@ -5250,7 +5249,7 @@ example:
 | guybase | GUY基地 |  |  |
 | gyara cter | ギャラ☆クター |  |  |
 | gyarandoh | 逆乱堂 |  |  |
-| gyarandou | ぎゃらん堂 |  |  |
+| gyarandou | ぎゃらん堂 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=76219/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG41595.html) |
 | gyf-107 | GYF-107 |  |  |
 | gymno | gymno |  |  |
 | gyogyou rengou | 漁業連合 |  |  |
@@ -5335,7 +5334,7 @@ example:
 | hakkakyou | 八卦鏡 |  |  |
 | hakkekkyuu sekkekkyuu | 白血球赤血球 |  |  |
 | hakkindo | 白金堂 |  |  |
-| hakobune | 箱舟 |  |  |
+| hakobune | 箱舟 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=28059/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG17438.html) \| [Ci-en](https://ci-en.dlsite.com/creator/3582) \| [FANBOX](https://taku4541.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/3211313) |
 | hakkou kimuti | 発光きむち |  |  |
 | hakoniwa toshokan | ハコニワトショカン |  |  |
 | hakonyan. | はこにゃん。 |  |  |
@@ -5467,7 +5466,7 @@ example:
 | harugumo. | はるぐも。 |  |  |
 | haruiro fudepen | はルいろ筆ペン |  |  |
 | haruiro no sora | 春色の空 |  |  |
-| harukaze | HARUKAZE |  |  |
+| harukaze | 春风社 | ![](https://harukaze-soft.com/cms/wp-content/themes/harukaze/img/brand_logo_small.png) | [官网](https://harukaze-soft.com/) |
 | harukomachikan. | はるこまちかん。 |  |  |
 | harumachi tsurara | 春待冰柱 |  |  |
 | harumankai | はるまん会 |  |  |
@@ -5507,7 +5506,7 @@ example:
 | hbo | HBO |  |  |
 | hcg | HCG |  |  |
 | hcom | hcom |  |  |
-| header liner | へっだらいなー |  |  |
+| header liner | へっだらいなー |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG30958.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=71920/) |
 | headroom | HEADROOM |  |  |
 | healthy prime | HEALTHY PRIME |  |  |
 | heart ga hitotsu | ハートがひとつ |  |  |
@@ -5562,7 +5561,7 @@ example:
 | hemelopa | HeMeLoPa |  |  |
 | henderson | HENDERSON |  |  |
 | hending | Hending |  |  |
-| hentai emblem | へんたいゑむぶれむ |  |  |
+| hentai emblem | へんたいゑむぶれむ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=78456/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG42276.html) |
 | hentai maker tomo no kai | Hentai Maker 友の会 |  |  |
 | hentai musume | へんたい娘 |  |  |
 | hentai ojisan | ヘンタイオジサン |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG30970.html) \| [pixiv](https://www.pixiv.net/users/15214729) \| [DLsite](https://ci-en.dlsite.com/creator/1166) \| [Pawoo](https://pawoo.net/@CircleHO) \| [X](https://x.com/OjisanHentai) |
@@ -5595,8 +5594,8 @@ example:
 | hexenhaus | ヘクセンハウス |  |  |
 | hey you | hey you! |  |  |
 | heya no sumi. | 部屋の隅。 |  |  |
-| hgh | HGH |  |  |
-| hgt labo | HGTラボ |  |  |
+| hgh | HGH |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200938/) |
+| hgt labo | HGTラボ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG49851.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=77239/) |
 | hhb | hhb |  |  |
 | hht | HHT |  |  |
 | hi-cal | Hi-CAL |  |  |
@@ -5621,7 +5620,7 @@ example:
 | hige to deko | Hige to deko |  |  |
 | higedaihuku | ひげ大福 |  |  |
 | higeudon | ひげうどん |  |  |
-| high fly flow | はいふらいふろう |  |  |
+| high fly flow | はいふらいふろう |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG25317.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=72837/) |
 | high risk revolution | HIGH RISK REVOLUTION |  |  |
 | high star | HIGH STAR |  |  |
 | high thrust | ハイスラスト |  |  |
@@ -5661,7 +5660,7 @@ example:
 | himepuchitei | ひめぷち亭 |  |  |
 | himitsu doyoubi | 秘密土曜日 |  |  |
 | himitsu kessha vanitas | 秘密結社ヴァニタス |  |  |
-| himitsu tetra | ひみつテトラ |  |  |
+| himitsu tetra | ひみつテトラ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG20187.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=70365/) |
 | hinaeron | ひなえろん |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG35472.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=78133/) \| [DLsite](https://ci-en.dlsite.com/creator/5136) \| [pixiv](https://www.pixiv.net/users/2721063) \| [X](https://x.com/hinaeron) |
 | hinahara yashiki | ひなはら屋敷 |  |  |
 | hinahina box | HINAHINA BOX |  |  |
@@ -5691,7 +5690,7 @@ example:
 | hirusagari no bijutsukan | 昼下がりの美術館 |  |  |
 | hisoutan | ひそうたん |  |  |
 | hispano-suiza | Hispano-Suiza |  |  |
-| hissatsuwaza | ひっさつわざ |  |  |
+| hissatsuwaza | ひっさつわざ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=79272/) |
 | hisuitei | 翡翠亭 |  |  |
 | hitobankoneko | 一晩仔猫 |  |  |
 | hitodenashi | ひとでなし |  |  |
@@ -5812,7 +5811,7 @@ example:
 | horonaminz | ホロナミンZ |  |  |
 | horumon curry | ほるもんカレー |  |  |
 | hoshizora kagekidan | 星空華劇団 |  |  |
-| hoshi ni kaeru | 星に归る! |  |  |
+| hoshi ni kaeru | 星に帰る! |  |  |
 | hoshi no kuzu | 星の屑 |  |  |
 | hoshi no yume | 星の夢 |  |  |
 | hoshiame | 星飴 |  |  |
@@ -5857,7 +5856,7 @@ example:
 | hr-st | HR-ST |  |  |
 | http | http |  |  |
 | hukakuteiseigenri | 不確定性原理 |  |  |
-| hulotte | Hulotte | ![](https://lain.bgm.tv/r/400/pic/crt/l/8e/9e/18619_prsn_777av.jpg)<br>别名“时停社” | [官网](https://hulotte.jp/) |
+| hulotte | 时停社 | ![](https://lain.bgm.tv/r/400/pic/crt/l/8e/9e/18619_prsn_777av.jpg) | [官网](https://hulotte.jp/) |
 | human high-light film | ヒューマン・ハイライト・フィルム |  |  |
 | hummel | ヒュンメル |  |  |
 | huri-neko | ふりかえればねこがいる |  |  |
@@ -5964,7 +5963,7 @@ example:
 | ikemen teikoku | イケメン帝国 |  | [pixiv](https://www.pixiv.net/users/1162167) |
 | ikennabi | イケンナビ |  |  |
 | ikibata 49ers | いきばた49ERS |  |  |
-| ikigire shoukai | いきぎれ商会 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG28880.html) |
+| ikigire shoukai | いきぎれ商会 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG28880.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=71210/) |
 | ikihaji hummingbird | 生き恥ハミングバード |  |  |
 | ikite-chou-made-todoku | 生きて腸まで届く |  |  |
 | ikka risan | 一家離散 |  |  |
@@ -6005,7 +6004,7 @@ example:
 | inai uchi ni | いないうちに |  |  |
 | inakagurashi | イナカグラシ |  |  |
 | inaridou shoten | 稲荷堂書店 |  |  |
-| inarimochi. | いなり餅。 |  |  |
+| inarimochi. | いなり餅。 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=214515/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG72233.html) |
 | inarizushi | いなりずし |  |  |
 | inasaku | 稲作 |  |  |
 | inayama shrine | 稲山神社 |  |  |
@@ -6038,7 +6037,7 @@ example:
 | inu system | 犬システム |  |  |
 | inu to kotatsu | 犬とコタツ |  |  |
 | inubaka | いぬばか |  |  |
-| inudamashi | いぬだまし |  |  |
+| inudamashi | いぬだまし |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG42477.html) |
 | inudrill lolita engine | イヌドリルロリータエンジン |  |  |
 | inudrill. | イヌドリル。 |  |  |
 | inuduya | いぬづや |  |  |
@@ -6088,7 +6087,7 @@ example:
 | island belle | Island Belle |  |  |
 | island green | アイランドグリーン |  |  |
 | iso no sozaiten | いその惣菜店 |  |  |
-| isocurve | アイソカーブ |  |  |
+| isocurve | アイソカーブ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=77669/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG12573.html) |
 | isofura | いそふら |  |  |
 | isofura ribbon | イソフラリボン |  |  |
 | isorashi dou | イソラシ堂 |  |  |
@@ -6120,7 +6119,7 @@ example:
 | iyou | iYou |  |  |
 | izakaya yocchan | 居酒屋よっちゃん |  |  |
 | izayoi no tsuki | 十六夜の月 |  |  |
-| izumi gakuen | いずみ学園 |  |  |
+| izumi gakuen | いずみ学園 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01782.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=24683/) |
 | izumi shoseki | いづみ書籍 |  |  |
 | izumiyu | イズミユ |  |  |
 | izumnizm | イズムニズム |  |  |
@@ -6249,7 +6248,7 @@ example:
 | jyakonegi sarada | じゃこネギさらだ |  |  |
 | jyaraya | じゃらや |  |  |
 | jyouren kishidan | ジョウ・レン騎士団 |  |  |
-| jzargo | ジェイザルゴ |  |  |
+| jzargo | ジェイザルゴ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=27975/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG18800.html) \| [X](https://x.com/JzargosExperime) \| [Lit.Link](https://lit.link/en/JzargosExperime) \| [pixiv](https://www.pixiv.net/users/2944451) \| [Ci-en](https://ci-en.dlsite.com/creator/3952) \| [FANBOX](https://jzargosexperime.fanbox.cc/) |
 | k equals k | [K=K] |  |  |
 | k h | K☆H |  |  |
 | k plus w | K+W |  |  |
@@ -6351,7 +6350,7 @@ example:
 | kaleido sky | Kaleido Sky |  |  |
 | kalmia | KALMIA |  |  |
 | kalmia8 | Kalmia8 |  |  |
-| kamaboko koujouchou. | かまぼこ工場長。 |  |  |
+| kamaboko koujouchou. | かまぼこ工場長。 | 与【わくわく養豚所。】是同一人物，现主要以【わくわく養豚所。】的名义活动 |  |
 | kamaboko-doh | かまぼこ堂 |  |  |
 | kamabokodokoro | かまぼこ処 |  |  |
 | kamadeva | Kamadeva |  |  |
@@ -6508,7 +6507,7 @@ example:
 | kaya no soto | 蚊帳の外 |  |  |
 | kayano mototo | 茅ノ素ト |  |  |
 | kayoubi | 火曜日 |  |  |
-| kayoudou | 華容道 |  |  |
+| kayoudou | 華容道 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=207182/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG35185.html) |
 | kazakiribane | 風切羽 |  |  |
 | kazama dojo | 風間道場 |  |  |
 | kazamichizu | 風海地図 |  |  |
@@ -6577,7 +6576,7 @@ example:
 | kfc | KFC |  |  |
 | kgb | KGB |  |  |
 | ki no nekko | 木のねっこ |  |  |
-| ki-software | KI-SofTWarE |  |  |
+| ki-software | KI-SofTWarE |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG07203.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=26707/) |
 | kibawomuku | 牙を剥く |  |  |
 | kichiku bansankai | きちくばんさんかい |  |  |
 | kichinemu | キチネム |  |  |
@@ -6712,7 +6711,7 @@ example:
 | koboro nindan | 小幌忍団 |  |  |
 | koboshi no niwa | コボシノニワ |  |  |
 | kocher | コッヘル |  |  |
-| kocho kocho koukou | こちょこちょ高校 |  |  |
+| kocho kocho koukou | こちょこちょ高校 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=206421/) |
 | kodama planet | コダマノ惑星 |  |  |
 | kodanukidou | 小狸堂 |  |  |
 | kodoh | kodoh |  |  |
@@ -6743,7 +6742,7 @@ example:
 | kokesimuken | こけしム軒 |  |  |
 | kokikko | KOKIKKO |  |  |
 | kokkei-nagaya | 滑稽長屋 |  |  |
-| kokkishin | こっき心 |  |  |
+| kokkishin | こっき心 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=73989/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG36745.html) |
 | kokochikyuu | 心地球 |  |  |
 | kokonokiya | ここのき屋 |  |  |
 | kokoro metro | ココロメトロ |  |  |
@@ -6767,7 +6766,7 @@ example:
 | komebitsu | 米びつ |  |  |
 | komedokoro | こめどころ |  |  |
 | komekami kishi dan | こめかみ騎士団 |  |  |
-| komekouji | コメコウジ |  |  |
+| komekouji | コメコウジ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/page/2/per_page/30/maker_id/RG09031.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=24751/) \| [Ci-en](https://ci-en.dlsite.com/creator/4620) |
 | komenikki | 米にっき。 |  |  |
 | komenosukima | 米の隙間 |  |  |
 | kometubu | 米粒 |  |  |
@@ -6779,7 +6778,7 @@ example:
 | konagona biscuit | こなごなビスケット |  |  |
 | konagona makki shoujou | 粉々末期症状 |  |  |
 | konapoka01 | こなぽか01 |  |  |
-| konatuiro | 来夏色 |  |  |
+| konatuiro | 来夏色 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=214713/) |
 | konbu-maru | こんぶ丸 |  |  |
 | konbuni | こんぶに |  |  |
 | koneko dorobou | 子猫泥棒 |  |  |
@@ -6868,7 +6867,7 @@ example:
 | koutetsu rengou | 鋼鉄連合 |  |  |
 | koutetsuryoku kikaku | 鋼鉄力企画 |  |  |
 | kouya ni sakebu aitsu no heya | 荒野に叫ぶアイツの部屋 |  |  |
-| kouyadou | こうや堂 |  |  |
+| kouyadou | こうや堂 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=29289/) |
 | kouzaka-san to makino jimusho | 神坂さんとマキノ事務所 |  |  |
 | kouzukitei | 香月亭 |  |  |
 | kouzuya | 興津屋 |  |  |
@@ -6978,7 +6977,7 @@ example:
 | kuronekodou | 黒猫堂 |  |  |
 | kuronekokan-monpetit | 黒猫館モンプチ |  |  |
 | kuronekotei | 黑猫亭 | 黒猫亭 |  |
-| kurono taitsu | 黒野タイツ |  |  |
+| kurono taitsu | 黒野タイツ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=72488/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG32472.html) |
 | kuropoplar | くろぽぷら |  |  |
 | kurosawa pict | 黒澤pict |  |  |
 | kuroshikatei | 黒鹿亭 |  |  |
@@ -7029,7 +7028,7 @@ example:
 | kyojinkou | 巨人港 |  |  |
 | kyokutou dennou kaihatsukyoku | 極東電脳開発局 |  |  |
 | kyokutou funamushi | 極東舟虫 |  |  |
-| kyomu no uta | 虚無の歌 |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=18139) |
+| kyomu no uta | 虚無の歌 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG45734.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=76374/) |
 | kyoshoku shou | 虚飾症 |  |  |
 | kyosuu shiniki | 虚数神域 |  |  |
 | kyoten heichou | 拠点兵長 |  |  |
@@ -7124,7 +7123,7 @@ example:
 | level1 | level1 |  |  |
 | lewd angels | Lewd Angels |  |  |
 | leymei | LEYMEI |  |  |
-| lhezi | LHEZI |  |  |
+| lhezi | LHEZI |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202109/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG39147.html) |
 | liar-soft | Liar-soft | ライアーソフト |  |
 | libertaria | リバタリア |  |  |
 | libido | リビドー |  |  |
@@ -7196,7 +7195,7 @@ example:
 | lobatt | LOBATT |  |  |
 | lobelia | Lobelia |  |  |
 | local kintas | Local Kintas |  |  |
-| locomocodon | ろこもこどん |  |  |
+| locomocodon | ろこもこどん |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01053419.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=227897/) |
 | locus | Locus |  |  |
 | log | LOG |  |  |
 | log house | Log House |  |  |
@@ -7297,7 +7296,7 @@ example:
 | lyricbox | リリックボックス |  |  |
 | m | M |  |  |
 | m de pink | M de PINK |  |  |
-| m no violet | エム・ヴァイオレット |  |  |
+| m no violet | エム・ヴァイオレット | M no VIOLET | [FANZA](https://book.dmm.co.jp/list/?author=210870) \| [DLsite](https://www.dlsite.com/pro/circle/profile/=/maker_id/VG01368.html) |
 | m shousetsu doumei | M小説同盟 |  |  |
 | m-10 | M-10 |  |  |
 | m-free | M-FREE |  |  |
@@ -7475,9 +7474,9 @@ example:
 | many b | Many B |  |  |
 | manymanyrain | manymanyrain |  | [pixiv](https://www.pixiv.net/users/27932472) |
 | manzokudou | 満足堂 |  |  |
-| maple-go | maple号 |  |  |
+| maple-go | maple号 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG35274.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=73439/) |
 | marabians | マラビアンズ |  |  |
-| marakkuma | マラックマ |  |  |
+| marakkuma | マラックマ | 名称更改为: めななもりん | [Ci-en](https://ci-en.dlsite.com/creator/66) \| [pixiv](https://www.pixiv.net/users/14698674) \| [X](https://x.com/Techno4545Break) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG30171.html) |
 | maraparte | まらぱるて |  |  |
 | marasca no oni | マラスカの鬼 |  |  |
 | maraschino | MARASCHINO |  |  |
@@ -7533,7 +7532,7 @@ example:
 | marutori no chazuke | 丸鳥の茶漬け |  |  |
 | marvelous zents | Marvelous Zents |  |  |
 | mary no yamai | メリィの病 |  |  |
-| mashimin koubou | ましみん工房 |  |  |
+| mashimin koubou | ましみん工房 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=79870/) |
 | mashiro no hihoukan | 真城の秘宝館 |  |  |
 | mashomaro | マショ麻呂 |  |  |
 | masmenos | マスメノス |  |  |
@@ -7757,7 +7756,7 @@ example:
 | mikorabi | みこらび |  |  |
 | mikouken 2nd | 味巧軒2nd |  |  |
 | milcrepe | みるくれーぷ |  |  |
-| milf shobou | ミルフ書房 |  |  |
+| milf shobou | ミルフ書房 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=71701/) \| [DLsite](https://www.dlsite.com/books/author/=/author_id/AJ019773) \| [FANBOX](https://milfsyobou.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/14425882) \| [X](https://x.com/milf_syobou) |
 | milk angel | みるくえんじぇる |  |  |
 | milk boy | みるくぼーい |  |  |
 | milk cha | みるく茶 |  |  |
@@ -7779,7 +7778,7 @@ example:
 | milk-size | みるく-SIZE |  |  |
 | milkholic | milkholic |  |  |
 | milkpop | MILKPOP |  |  |
-| milkshake work | 奶昔工坊 |  |  |
+| milkshake work | 奶昔工坊 | 日语：ミルクセーキ工房 |  |
 | milktub | milktub |  |  |
 | milky high tension | ミルキーハイテンション♂ |  |  |
 | milky paint | Milky Paint |  |  |
@@ -7835,7 +7834,7 @@ example:
 | minobu gentle | 身延ジェントル |  |  |
 | minobuya | みのぶ屋 |  |  |
 | minomushitei | みのむし亭 |  |  |
-| minori | Minori | ![Xitter头像](https://pbs.twimg.com/profile_images/524210042002612226/9DlFhKKl_400x400.jpeg)<br>also known as 中二社, 巨乳社. 在中国知名度最高的作品是[Eden\*+Mosaic], 后逐渐转型向[巨乳](https://ehwiki.org/wiki/big_breasts)和[超乳](https://ehwiki.org/wiki/huge_breasts)系作品...<br>名称来源于西文单词minority, 意思为少数派, 本社(已倒: 02/18/2019)格言是: We always keep minority spirits. | [VNDB](https://vndb.org/p27) [官网(现MangaGamer)](http://www.minori.ph/) [维基百科(英文)](https://en.wikipedia.org/wiki/Minori_%28company%29) [维基百科(中文)](https://zh.wikipedia.org/wiki/Minori) [维基百科(日文)](https://ja.wikipedia.org/wiki/Minori) [wikidata](https://www.wikidata.org/wiki/Q307403) [Xitter](https://x.com/nekoten_yuuna) [MobyGames](https://www.mobygames.com/company/22502/minori/) [VNStat](https://vnstat.net/developer/27) |
+| minori | 中二社 | ![Xitter头像](https://pbs.twimg.com/profile_images/524210042002612226/9DlFhKKl_400x400.jpeg)<br>别称中二社, 巨乳社。<br>本社(已倒闭: 02/18/2019) | [官网(现MangaGamer)](http://www.minori.ph/)  [维基百科](https://zh.wikipedia.org/wiki/Minori) [Xitter](https://x.com/nekoten_yuuna) [MobyGames](https://www.mobygames.com/company/22502/minori/) |
 | minori kenkyuujo | みのり研究所 |  |  |
 | minors escort | マイナーズエスコート |  |  |
 | minpee | みんペー |  |  |
@@ -7926,7 +7925,7 @@ example:
 | mobris | MOBRIS |  |  |
 | mocchimochiya | もっちもち屋 |  |  |
 | mocchomudake | モッチョム茸 |  |  |
-| mochi dog laboratory | 餅犬製作所饼犬 |  |  |
+| mochi dog laboratory | 餅犬製作所 |  |  |
 | mochi hasamiuchi da | 餅はさみ撃ちだっ! |  |  |
 | mochi kiss junkie | もちxoジャンキー |  |  |
 | mochi mochi | もちもち |  |  |
@@ -8162,7 +8161,7 @@ example:
 | mukade tou | ムカデ島 |  |  |
 | mukeikaku syugi | 無計画主義 |  |  |
 | muki pomera | ムキぽめら |  |  |
-| mukibutsu heart | 無機物はーと |  |  |
+| mukibutsu heart | 無機物ハート | 与【無機物はーと】是统一人在不同时期使用的马甲。但账户是分开的 |  |
 | mukuchi na hakoniwa | 無口な箱庭 |  |  |
 | mukuge | 毳 |  |  |
 | mukumukumoon | むくむくむーん |  |  |
@@ -8281,7 +8280,7 @@ example:
 | namaco | NAMACO |  |  |
 | namae kinyuuran | 名前記入欄 |  |  |
 | namaikichibi | なまいきちび |  |  |
-| namakemono kishidan | なまけもの騎士団 |  |  |
+| namakemono kishidan | なまけもの騎士団 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG24078.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=29523/) |
 | namakoya | なまこ屋 |  |  |
 | namakura dou | なまくら堂 |  |  |
 | namakura na kura | なまくらな鞍 |  |  |
@@ -8300,7 +8299,7 @@ example:
 | namiroji | 波路地 |  |  |
 | namitaitei | 並大抵 |  |  |
 | nanaban chamaru dou | 七番茶○堂 |  |  |
-| nanacan | NANACAN |  |  |
+| nanacan | NANACAN |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=27098/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG15568.html) |
 | nanafundou | 七分堂 |  |  |
 | nanairo batake | なないろ畑 |  |  |
 | nanairo koubou | なないろ工房 |  |  |
@@ -8316,12 +8315,12 @@ example:
 | nanamigumi | 七海組 |  |  |
 | nanamiya | 奈波屋 |  |  |
 | nanamoya | ななも屋 |  |  |
-| nananana | なななな |  |  |
+| nananana | なななな |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=26510/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG14823.html) |
 | nanashi inflation | ななしいんふれーしょん |  |  |
 | nanashi shounen | ナナシ少年 |  |  |
 | nanashiki | 七式 |  |  |
 | nanaten manten | 七点万点 |  |  |
-| nanatsu no kagiana | 七つの鍵穴 |  |  |
+| nanatsu no kagiana | 七つの鍵穴 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=26469/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG09824.html) |
 | nanatsuboshi | 七つ星 |  |  |
 | nanatsugumi | ななつ組 |  |  |
 | nanatsuhane | ナナツハネ |  |  |
@@ -8401,11 +8400,11 @@ example:
 | negapoji-bu | ネガぽじーぶ |  |  |
 | negibouzu | ねぎ坊主 |  |  |
 | negimaers | ねぎまーず |  |  |
-| neginegio | ネギネギ夫 |  |  |
+| neginegio | ネギネギ夫 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG34234.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=73265/) \| [Ci-en](https://ci-en.dlsite.com/creator/2749) \| [FANBOX](https://neginegio.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/14581629) \| [X](https://x.com/neginegio1) |
 | negi to takenoko | ねぎとたけのこ |  |  |
 | negoro teppou tai | 根来鉄砲隊 |  |  |
 | negoto | negoto |  |  |
-| negoya | 寝語屋 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG36839.html) \| [DLsite](https://ci-en.dlsite.com/creator/5197) |
+| negoya | 寝語屋 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG36839.html) \| [Ci-en](https://ci-en.dlsite.com/creator/5197) \| [X](https://x.com/sonnanekoya) |
 | neguradou | 塒堂 |  |  |
 | negurie | ねぐりえ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=24435/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG05920.html) |
 | neji hina no sekai | ネジヒナの世界 |  |  |
@@ -8429,7 +8428,7 @@ example:
 | neko no te koubou | 猫の手工房 |  |  |
 | neko no yurikago | 猫のゆりかご |  |  |
 | neko pantsu | ネコぱんつ |  |  |
-| neko pockle | ねこぽっくる |  |  |
+| neko pockle | ねこぽっくる |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG10108.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=76210/) |
 | neko rop | ねころっぷ |  |  |
 | neko rush | ねこらっしゅ |  |  |
 | neko saffron | ネコサフラン |  |  |
@@ -8522,7 +8521,7 @@ example:
 | nexumi no sumika | ねずみの住家 |  |  |
 | nexus koubou | ネクサス工房 |  |  |
 | nezumitori | ねズみ砦 |  |  |
-| nf121 | NF121 |  |  |
+| nf121 | NF121 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01061099.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=205098/) |
 | ngamura-san | んがむらさん |  |  |
 | ngl | NGL |  |  |
 | nguppu do m hakushaku | んぐっぷ・ド・M伯爵 |  |  |
@@ -8595,7 +8594,7 @@ example:
 | nininini | にににに |  |  |
 | ninjinpasta | にんじんパスタ |  |  |
 | ninniku batake | にんにく畑 |  |  |
-| ninnindo | にんにん堂 |  |  |
+| ninnindo | にんにん堂 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=71490/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG27879.html) |
 | nino-kan | にのカン |  |  |
 | niponipo | にぽにぽ |  |  |
 | nipopo crisis | ニポポクライシス |  |  |
@@ -8617,7 +8616,7 @@ example:
 | nita ken | ニタ研 |  |  |
 | nita-kane | 煮た鐘 |  |  |
 | nitaroutei | ニタロウ亭 |  |  |
-| nicchi sangyou | にっちさんぎょう |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG07713.html) \| [DLsite](https://ci-en.dlsite.com/creator/1224) |
+| nicchi sangyou | にっちさんぎょう |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG07713.html) \| [Ci-en](https://ci-en.dlsite.com/creator/1224) |
 | nitiniti sowa | 日々草話 |  |  |
 | niwakakamikiriyamodoki | ニワカカミキリヤモドキ |  |  |
 | niwatori | にわとり |  |  |
@@ -8915,7 +8914,7 @@ example:
 | onegross | ONEGROSS |  |  |
 | onemu hormone | おねむホルモン |  |  |
 | ongr | ongr |  |  |
-| oni kizoku | 鬼貴族 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG38357.html) \| [DLsite](https://ci-en.dlsite.com/creator/3855) |
+| oni kizoku | 鬼貴族 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG38357.html) \| [Ci-en](https://ci-en.dlsite.com/creator/3855) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=75693/) |
 | onigiriz | ONIGIRIズ |  |  |
 | onikibitou | 鬼きび党 |  |  |
 | oninoe | 鬼ノ餌 |  |  |
@@ -9049,10 +9048,10 @@ example:
 | overload | おーばーろーど |  |  |
 | owatasha | おわた社 |  |  |
 | oxg | OXG |  |  |
-| oxide.lab | OXIDE.Lab |  |  |
+| oxide.lab | OXIDE\_Lab |  |  |
 | oxydan | おきし団 |  |  |
 | oyajiji gumi | オヤジジ組 |  |  |
-| oyakodon | 親子丼 |  |  |
+| oyakodon | 親子丼 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=77273/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG44191.html) |
 | oyasumi disco | おやすみDISCO |  |  |
 | oyasumi kobe gyuu | おやすみ神戸牛 |  |  |
 | oyasumi switch | オヤスミスイッチ |  |  |
@@ -9080,14 +9079,14 @@ example:
 | pag-pag-magu | ぱぐぱぐまぐぅ |  |  |
 | pagumiee | パグミィ |  |  |
 | paintingbird | PaintingBird |  |  |
-| pairesshu | Paiれっしゅ |  |  |
+| pairesshu | Paiれっしゅ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG37416.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=74708/) |
 | pajamas ex | ぱじゃまエクスタシー |  |  |
 | pajamas soft | ぱじゃまソフト |  |  |
 | pakupaku | ぱくぱく |  |  |
 | pakupikubon | パクピクボン |  |  |
 | palace village ke | パレスヴィレッジ家 |  |  |
-| pale scarlet | Pale Scarlet |  |  |
-| palette | ぱれっと |  |  |
+| pale scarlet | Pale Scarlet |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=74722/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG41683.html) |
+| palette | 调色板社 | ![](https://palette.clearrave.co.jp/_img/logo.png)<br>日语：ぱれっと | [官网](https://palette.clearrave.co.jp/) |
 | palette enterprise | Palette Enterprise |  |  |
 | pallet box | Pallet Box |  |  |
 | palm sunday | パームサンデー |  |  |
@@ -9131,7 +9130,7 @@ example:
 | paradise d products | PARADISED PRODUCTS |  |  |
 | paradise jack | パラダイスジャック |  |  |
 | paradise lost | パラダイス・ロスト |  |  |
-| paradisegom | ParadiseGom |  |  |
+| paradisegom | ParadiseGom |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=76664/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG21571.html) |
 | paraiso | ぱらいそ |  |  |
 | paraiso saigu | ぱらゐそ祭具 |  |  |
 | paraiso shugi | パライソ主義 |  |  |
@@ -9148,7 +9147,7 @@ example:
 | particle | ぱーてぃくる |  |  |
 | party nights | パーリィナイツ |  |  |
 | parukusu | ぱるくす |  |  |
-| parupunte | ぱるぷんて |  |  |
+| parupunte | ぱるぷんて |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG09027.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=25305/) |
 | passing shower | ぱっしんぐしゃわー |  |  |
 | past | Past |  |  |
 | pastel bitch | パステルビッチ |  |  |
@@ -9250,7 +9249,7 @@ example:
 | pin-13 | ピンのワンスリー |  |  |
 | pin-point | ピンポイント |  |  |
 | pinacotheca | Pinacotheca |  |  |
-| pine | ぱいん |  |  |
+| pine | ぱいん |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=71508/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG29382.html) |
 | pine candy | PINE CANDY |  |  |
 | pineapple candy | パイナップルキャンディ |  |  |
 | pinpoint | ピンポイント |  |  |
@@ -9263,7 +9262,7 @@ example:
 | pink no chao | PINKのCHAO! |  |  |
 | pink no jaguchi | ピンクの蛇口 |  |  |
 | pink pepper | Pink pepper |  |  |
-| pink pineapple | ピンクパイナップル |  |  |
+| pink pineapple | 粉菠萝 | ピンクパイナップル | [官网](https://www.pinkpineapple.co.jp/) |
 | pink poison | PINK POISON |  |  |
 | pink revolver | ピンクリボルバー |  |  |
 | pink rose | PINK ROSE |  |  |
@@ -9274,7 +9273,7 @@ example:
 | pinkbell software | PINKBELL SOFTWARE |  |  |
 | pinke | ぴんけ |  |  |
 | pinkharlem | PinkHarlem |  |  |
-| pinkjoe | pinkjoe |  |  |
+| pinkjoe | pinkjoe |  | [pixiv](https://www.pixiv.net/users/15857464) \| [X](https://x.com/pinkjoesns) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG09676.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=29030/) \| [Ci-en](https://ci-en.dlsite.com/creator/3777) |
 | pinktips.info | pinktips.info |  |  |
 | pinky girl | PINKY GIRL |  |  |
 | pintsize | ぱいんとさいず |  |  |
@@ -9358,7 +9357,7 @@ example:
 | pomato-ya | ぽまと屋 |  |  |
 | pomegranate | ぽめぐら |  |  |
 | pomelanian | Pomelanian |  |  |
-| pometeor | ぽメテオ |  |  |
+| pometeor | ポメテオ | 过去曾在CM等展会上用过【ぽメテオ】作为社团名称，现在网络平台主要使用ポメテオ | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=204228/) [DLsite](https://www.dlsite.com/bl/circle/profile/=/maker_id/RG59644.html) |
 | pon de ushi | ポン・デ・ウシ |  |  |
 | poncho mojah | PONCHO MOJAH |  |  |
 | pondemix | PONDEMIX |  |  |
@@ -9409,7 +9408,7 @@ example:
 | power of maca | power of maca |  |  |
 | power skill | パワースキル |  |  |
 | power slide | パワースライド |  |  |
-| power step | Power Step |  |  |
+| power step | Power Step |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=28244/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG19256.html) |
 | powerful soft | ぱわふるソフト |  |  |
 | powerplay | POWERPLAY |  |  |
 | praetorium-somnus | プラエトーリウム=ソムヌス |  |  |
@@ -9484,7 +9483,7 @@ example:
 | puniiyu | ぷにいゆ |  |  |
 | puniponya | ぷにぽんや |  |  |
 | punipuni doka-n | ぷにぷにどか～ん♪ |  |  |
-| punipunikan | ぷにぷに館 |  |  |
+| punipunikan | ぷにぷに館 | ぷにぷに館@Tランドルト | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=205208/) |
 | punisher punishment | ぱにっしゃーぱにっしゅめんと |  |  |
 | punyanica | ぷにゃニカ |  |  |
 | puppy biscuit | ぱぴービスケット |  |  |
@@ -9510,7 +9509,7 @@ example:
 | purple haze | PURPLE HAZE |  |  |
 | purple kiss | ぱーぷるきっす |  |  |
 | purple sky | パープルスカイ |  |  |
-| purple software | パープルソフトウェア |  |  |
+| purple software | 紫社 | ![](https://upload.wikimedia.org/wikipedia/commons/4/40/Logo_enter.gif)<br>パープルソフトウェア | [官网](https://www.purplesoftware.jp/) |
 | purpleclover | PurpleClover |  |  |
 | purumetal | ぷるめたる |  |  |
 | purupuru finale | ぷるぷるフィナーレ!! |  |  |
@@ -9637,9 +9636,9 @@ example:
 | rayroh | 玲瓏 |  |  |
 | raytrec | RAYTREC |  |  |
 | razchoco | RazChoco |  |  |
-| rbooks | rbooks |  |  |
+| rbooks | rbooks |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=29300/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG23340.html) |
 | re clel | Re\_Clel |  |  |
-| re cre at tors | Re:Cre@tors |  |  |
+| re cre at tors | Re:Cre@tors |  | [Melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=7159) |
 | re set | Re:Set |  |  |
 | re-bidou | Re-BI堂 |  |  |
 | re-fire | リファイア |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=22616/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG05721.html) |
@@ -9737,7 +9736,7 @@ example:
 | rikudoukan | 六道館 |  |  |
 | rikudouya | 六道屋 |  |  |
 | rima cafe | Rima Cafe |  |  |
-| rin | RIN |  |  |
+| rin | Riん。 \| RIN |  | Riん。：[DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG33444.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=72890/)<br>RIN：[DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG15607.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=23007/) |
 | rinarina | RINARINA |  |  |
 | rinfin | りんふぃん |  |  |
 | ring a bell | リングアベル |  |  |
@@ -9907,7 +9906,7 @@ example:
 | saberfish | セイバーフィッシュ |  |  |
 | sabo-p | SABO-P |  |  |
 | saboriguse syndrome | サボリ癖症候群 |  |  |
-| saboten | サボテン |  |  |
+| saboten | 仙人掌社 | 日语名：サボテン | [官网](http://saboten.cc/) |
 | saboten binta | サボテンビンタ |  |  |
 | saboten sankaku | サボテンさんかく |  |  |
 | saboten-dou honpo | 仙人掌堂本舗 |  |  |
@@ -9955,7 +9954,7 @@ example:
 | sakasadorirakka | 逆さ鳥落下 |  |  |
 | sakasama clover | さかさまクローバー |  |  |
 | sakazuki-tei | さかずき亭 |  |  |
-| sakeitiba | サケ市場 |  |  |
+| sakeitiba | サケイチバ |  |  |
 | sake no sanran | 鮭の産卵 |  |  |
 | sakekan memorial | 鮭缶メモリアル |  |  |
 | saketanuki no kakushigura | 酒たぬきの隠し蔵 |  |  |
@@ -10078,7 +10077,7 @@ example:
 | satooya | さとうや |  |  |
 | satori gozen | 悟リ御膳 |  |  |
 | satou furo | 砂糖風呂 |  |  |
-| satou to shio | 砂糖と塩 |  |  |
+| satou to shio | 砂糖と塩 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=223845/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01028204.html) |
 | satouseika | サトウ製菓 |  |  |
 | satsukiimonet | satsukiimonet |  |  |
 | satsukinchi | サツキん家 |  |  |
@@ -10094,7 +10093,7 @@ example:
 | sayuu-hanten | サユウハンテン |  |  |
 | sazameki dori | さざめき通り |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=77040/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG35914.html) |
 | sazanka no yado | 山茶花の宿 |  |  |
-| sazareito | さざれいと |  |  |
+| sazareito | さざれいと |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200143/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG41823.html) |
 | sbd | SBD |  |  |
 | sbi | SBI |  |  |
 | scale garden | スケイルガーデン |  |  |
@@ -10348,7 +10347,7 @@ example:
 | shiratamarch | しらたまーち |  |  |
 | shirayuki shoujodan | 白雪少女団 |  |  |
 | shirikageru taberu | シリカゲルタベル |  |  |
-| shiritsu sakuranbo shougakkou | 私立さくらんぼ小学校 |  |  |
+| shiritsu sakuranbo shougakkou | 私立樱桃小学校 | ![](https://lain.bgm.tv/r/400/pic/crt/l/71/7d/15290_prsn_H5330.jpg)<br>日语：私立さくらんぼ小学校 |  |
 | shiro anmitsu | しろあんみつ |  |  |
 | shiro gas koujou | 白瓦斯工場 |  |  |
 | shiro kuro soft | シロクロソフト |  |  |
@@ -10370,7 +10369,7 @@ example:
 | shirokyuuketsuki | 白吸血鬼 |  |  |
 | shiromitsu nyuugyou | 白蜜乳業 |  |  |
 | shiromitsuya | しろみつ屋 |  |  |
-| shironegiya | 白ネギ屋 |  |  |
+| shironegiya | 白ネギ屋 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG08295.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=24584/) |
 | shironeko ichizoku | 白猫一族 |  |  |
 | shirorika | シロリカ |  |  |
 | shirotsumekusa | シロツメクサ |  |  |
@@ -10429,7 +10428,7 @@ example:
 | shounin eden | 聖人エデン |  |  |
 | shouwa kara heisei e | 昭和から平成へ |  |  |
 | shouwa prism | 昭和プリズム |  |  |
-| showa saishuu sensen | 昭和最終戦線 |  |  |
+| showa saishuu sensen | 昭和最終戦線 |  | [Ci-en](https://ci-en.dlsite.com/creator/24416) \| [Fantia](https://fantia.jp/fanclubs/2326) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG17001.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=28615/) \| [X](https://x.com/h7u7) |
 | shouyu gohan | しょうゆごはん |  |  |
 | syowajukou | 昭和重工 |  |  |
 | shrine | SHRINE |  |  |
@@ -10438,7 +10437,7 @@ example:
 | shumisen jiru | シュミセンジル |  |  |
 | shun shun shouten | しゅん々商店 |  |  |
 | shungabu | 春画部 |  |  |
-| shuniku 2 | しゅにく2 |  |  |
+| shuniku 2 | しゅにく2 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG27641.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=70849/) \| [Ci-en](https://ci-en.dlsite.com/creator/1521) \| [FANBOX](https://syuniku2.fanbox.cc/) \| [X](https://x.com/syuniku2) \| [pixiv](https://www.pixiv.net/users/11910604) \| [Pawoo](https://pawoo.net/@syuniku2) |
 | shunran | 春蘭 |  |  |
 | shuraba keikaku | 修羅場計画 |  |  |
 | shuuchuugouu keihou | 集中豪雨警報 |  |  |
@@ -10480,7 +10479,7 @@ example:
 | simple house | SIMPLE HOUSE |  |  |
 | sin-maniax | sin-maniax |  |  |
 | singleton | Singleton |  |  |
-| sinistra | シニストラ |  |  |
+| sinistra | シニストラ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG56278.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=73573/) |
 | sinizon | SINIZON |  |  |
 | sinkirou | 心輝楼 |  |  |
 | sinonome | シノノメ |  |  |
@@ -10561,7 +10560,7 @@ example:
 | soar | Soar |  |  |
 | soba to mayo | 蕎麦とマヨ |  |  |
 | soba udon | そばうどん |  |  |
-| sobabu | 蕎麦部 |  |  |
+| sobabu | 蕎麦部 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=29111/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG13868.html) |
 | sobakara | そばから |  |  |
 | sobalabo | sobalabo |  |  |
 | sobaworks | sobaworks |  |  |
@@ -10572,7 +10571,7 @@ example:
 | sodomutogomora | ソドムトゴモラ |  |  |
 | soft circle courreges | ソフトさ～くるクレージュ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG48458.html) |
 | soft on omanko | SOFT ON OMANKO |  |  |
-| soft thigh | Soft Thigh |  |  |
+| soft thigh | Soft Thigh |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=76699/) |
 | soitsu wa yabee | そいつはヤベェ! |  |  |
 | soket equals pocket | そけっと=ぽけっと |  |  |
 | soko | 倉庫 |  |  |
@@ -10666,10 +10665,10 @@ example:
 | spika07 | spika07 |  |  |
 | spinergy | SPINERGY |  |  |
 | spira mirabilis | スピラ・ミラビリス |  |  |
-| spiral | すぱいらる |  |  |
+| spiral | すぱいらる |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=75553/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG39759.html) |
 | spirit-edge | Spirit-Edge |  |  |
 | splush wave | SPLUSH WAVE |  |  |
-| spongehead | スポンジヘッド |  |  |
+| spongehead | スポンジヘッド |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=77327/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG44214.html/) |
 | spookyhouse | spookyhouse |  |  |
 | spread happiness | Spread Happiness |  |  |
 | sprechchor | シュプレヒコール |  |  |
@@ -10828,7 +10827,7 @@ example:
 | studio rakkyou | スタジオらっきょう |  |  |
 | studio retake | スタジオリテイク |  |  |
 | studio runaway wolf | STUDIO RUNAWAY WOLF |  |  |
-| studio ryokucha | すたじお緑茶 |  |  |
+| studio ryokucha | 绿茶社 | 日语：すたじお緑茶 |  |
 | studio-sakura | Studio-Sakura |  |  |
 | studio sample | Studio SAMPLE |  |  |
 | studio sepia | スタジオセピア |  |  |
@@ -10896,7 +10895,7 @@ example:
 | suiren | 翠憐 |  |  |
 | suishoku sendan | 翠色戦団 |  |  |
 | suiteibuin | 推定部員 |  |  |
-| suitekiya | 水滴屋 |  |  |
+| suitekiya | 水滴屋 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=22489/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01301.html/?locale=zh_TW) |
 | suizokukan | 睡族館 |  |  |
 | sukapon-do | スカポン堂 |  |  |
 | sukaradog | SUKARADOG |  |  |
@@ -10929,7 +10928,7 @@ example:
 | sunsun lab | サンサンLAB |  |  |
 | sunyiru | すにぃる |  |  |
 | super colorful | スーパーカラフル |  |  |
-| super ichigo-chan | スーパーイチゴチャン |  |  |
+| super ichigo-chan | スーパーイチゴチャン |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG49588.html) |
 | super sentou | スーパー銭湯 |  |  |
 | super usagi comic | スーパーウサギコミック |  |  |
 | superbad | スーパーバッド |  |  |
@@ -10972,7 +10971,7 @@ example:
 | sweet devil | すいーとでびる |  |  |
 | sweet girls | Sweet Girls |  |  |
 | sweet jasmine | sweet☆jasmine |  |  |
-| sweet pea | スイートピー |  |  |
+| sweet pea | 甜豌豆 | スイートピー |  |
 | sweet princess | Sweet Princess |  |  |
 | sweet raspberry | スウィートラズベリー |  |  |
 | sweet taste | SWEET TASTE |  |  |
@@ -11090,7 +11089,7 @@ example:
 | tamafull | tamaFull |  |  |
 | tamafuwa | たまふわ |  |  |
 | tamagawa enema | 多摩川エネマ |  |  |
-| tamagobou | 玉子房 |  |  |
+| tamagobou | 玉子房 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=77144/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01047964.html) |
 | tamagomura | タマゴ村 |  |  |
 | tamakakeya | たまかけ屋 |  |  |
 | tamakiya | 環屋 |  |  |
@@ -11127,7 +11126,7 @@ example:
 | tanuki no takarabako | たぬきの宝箱 |  |  |
 | tanuki riot | たぬき・らいおっと |  |  |
 | tanukian | たぬき庵 |  |  |
-| tanuking sleep | たぬきんぐすりーぷ |  |  |
+| tanuking sleep | たぬきんぐすりーぷ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=70359/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG22784.html) |
 | taob | TAOB |  |  |
 | tapioca box | タピオカボックス |  |  |
 | tarako cream | たらこクリーム |  |  |
@@ -11203,7 +11202,7 @@ example:
 | tekken dynamite | 鉄拳ダイナマイト |  |  |
 | tekken neko gourmet | 鉄拳ねこグルメ |  |  |
 | tekkou girls | 鉄甲ガールズ |  |  |
-| tekokids | てこきっず |  |  |
+| tekokids | テコキッズ |  |  |
 | telenet japan | 日本テレネット |  |  |
 | telluru | telluru |  |  |
 | telomerena | てろめあな |  |  |
@@ -11276,7 +11275,7 @@ example:
 | tetrascope | TetraScope |  |  |
 | tetratech | テトラテック |  |  |
 | tetravortex | テトラボルテックス |  |  |
-| tetrodotoxin | TETRODOTOXIN |  |  |
+| tetrodotoxin | TETRODOTOXIN |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG03905.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=28608/) |
 | tetsu no otoshigo | てつのおとしご |  |  |
 | tetsugakuteki zombie | 哲学的ゾンビ |  |  |
 | tetsukazuno ao. | 手つかずの青。 |  |  |
@@ -11495,7 +11494,7 @@ example:
 | toxic love | ときしっくらぶ |  |  |
 | toxic store | Toxic Store |  |  |
 | toybox | といぼっくす |  |  |
-| tozan bu | TOZAN:BU |  |  |
+| tozan bu | TOZAN:BU |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=204271/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG49366.html) |
 | tp | tp! |  |  |
 | tra-tama ry | トラたま(略) |  |  |
 | tracklisko | とらっくりすこ |  |  |
@@ -11670,7 +11669,7 @@ example:
 | ugeman | うげ漫 |  |  |
 | ugokuna pharmacy theta | うごくな薬局θ |  |  |
 | ugou no shuu | 烏合ノ衆 |  |  |
-| uguisu kagura | ウグイスカグラ | 日本莺/胃痛社/纸魔社 |  |
+| uguisu kagura | 纸魔社 | ![](https://cdn.ymgal.games/archive/main/39/390a92009a7b4bfba0b5c3ca5ce80ec2.webp)<br>别称：日本莺/胃痛社<br>日语：ウグイスカグラ | [官网](https://kagura.rdy.jp/) |
 | uguisuya | 莺屋 |  |  |
 | uhii | うひい |  |  |
 | uirokai | ういろうかい |  |  |
@@ -11744,7 +11743,7 @@ example:
 | unreal | UNreal |  |  |
 | unshuu sakuramochi | 温州桜餅 |  |  |
 | unyarara daihanten | うにゃらら大飯店 |  |  |
-| uohaman | 魚歯満 |  |  |
+| uohaman | 魚歯満 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG26501.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=70514/) |
 | uotatsu18kinshiten | 魚辰一八金支店 |  |  |
 | uozanoko | うお座の子 |  |  |
 | upsp | UPSP |  |  |
@@ -11752,7 +11751,7 @@ example:
 | ura kent no himitsu kichi | 裏KENTの秘密基地 |  |  |
 | ura makura | 裏まくら |  |  |
 | ura meshiya | 裏飯屋 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG48490.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=78055/) |
-| urano hikidashi | うらのひきだし | フェチフェチサン |  |
+| urano hikidashi | うらのひきだし | フェチフェチサン | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=75356/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG39111.html) |
 | ura no kami | 裏のカミ |  |  |
 | ura urethan | 裏ウレタン |  |  |
 | ura. | URA. |  |  |
@@ -11859,10 +11858,10 @@ example:
 | vashadow | VASHADOW |  |  |
 | vegas project | VEGAS PROJECT |  |  |
 | velvet rose | Velvet Rose |  |  |
-| venus | VENUS |  |  |
+| venus | VENUS |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG03555.html) \| [Ci-en](https://ci-en.dlsite.com/creator/220) \| [X](https://x.com/venusntr) \| [FANBOX](https://venus-66.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/2778971) |
 | venuspunk | VENUSPUNK |  |  |
 | ver.mimizuk | Ver.みみずく |  |  |
-| ver9 | Ver9 |  |  |
+| ver9 | Ver9 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=20427/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01889.html) |
 | verdant force | Verdant Force |  |  |
 | vermiculite | ばーみきゅらいと |  |  |
 | vermilion | ばみりおん |  |  |
@@ -11896,7 +11895,7 @@ example:
 | voltcompany. | VOLTCOMPANY. |  |  |
 | volutes | VOLUTES |  |  |
 | volvox | VOLVOX |  |  |
-| vpans extasy | Vパン'sエクスタシー |  |  |
+| vpans extasy | Vパン'sエクスタシー |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=76853/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG43198.html) |
 | vulcannu | ヴぁるかん濡 |  |  |
 | vulgar bull | VULGAR BULL |  |  |
 | vyowolf | vyowolf |  |  |
@@ -11984,7 +11983,7 @@ example:
 | whitecheese | ほわいとちぃず |  |  |
 | whitecute | WhiteCute |  |  |
 | whitemoor | WhiteMoor |  |  |
-| whitepink | ホワイトピンク |  |  |
+| whitepink | ホワイトピンク |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=29066/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG22409.html) |
 | whitewill | WHITEWILL |  |  |
 | wi-fe hacker | Wi-Fe hacker |  |  |
 | wild duck | WILD DUCK |  |  |
@@ -12029,8 +12028,8 @@ example:
 | wrench studio | WRENCH STUDIO |  |  |
 | wriggle souzeme tomonokai | リグル総攻め友の会 |  |  |
 | ws. | WS. |  |  |
-| wxy comics | WXY COMICS |  |  |
-| x model | X∞MODEL |  |  |
+| wxy comics | WXY COMICS |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=72935/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG33411.html) |
+| x model | X∞MODEL |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=73503/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG35097.html) \| [FANBOX](https://x-model888.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/13395652) \| [X](https://x.com/x_model888) \| [Fantia](https://fantia.jp/fanclubs/4010) \| [BOOTH](https://x-model8998.booth.pm/) |
 | x-10sion | X-10SION |  |  |
 | x-bangbang | X-bangbang |  |  |
 | x-tei | えっくす亭 |  |  |
@@ -12081,7 +12080,7 @@ example:
 | yakisaba teishoku | 焼鯖定食 |  |  |
 | yakisaketeishoku | 焼鮭定食 |  |  |
 | yakisoba rengo | やきそば連合 |  |  |
-| yakitate jamaica | 焼きたてジャマイカ |  |  |
+| yakitate jamaica | 焼きたてジャマイカ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200842/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG40719.html) |
 | yakou chaofan | 夜光チャーハン |  |  |
 | yakousei fan club | 夜行性ファンクラブ |  |  |
 | yakouyousei | 夜光幼性 |  |  |
@@ -12108,7 +12107,7 @@ example:
 | yamato soft | 大和ソフト |  |  |
 | yamazakura | 山櫻 |  |  |
 | yami kaiten zushi | 闇回転寿司 |  |  |
-| yami ni ugomeku | 闇に蠢く |  |  |
+| yami ni ugomeku | 闇に蠢く |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=201438/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG54482.html) |
 | yami no naka | 闇の中 |  |  |
 | yaminabe daiichi kantai | 闇鍋第一艦隊 |  |  |
 | yamotodou rakugakiichi | 矢本堂落書市 |  |  |
@@ -12116,7 +12115,7 @@ example:
 | yanagigaeru | ヤナギガエル |  |  |
 | yanagisegawa | 柳瀬川 |  |  |
 | yancha club | やんちゃ倶楽部 |  |  |
-| yaneura tv | 屋根裏TV |  |  |
+| yaneura tv | 屋根裏TV |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=72690/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG33033.html) |
 | yanonoshiya | やののし屋 |  |  |
 | yaoya | やお屋 |  |  |
 | yapis company | YAPIS COMPANY |  |  |
@@ -12378,7 +12377,7 @@ example:
 | zensyuui | 全周囲 |  |  |
 | zero | ゼロ |  |  |
 | zero calorie | ゼロカロリ |  |  |
-| zero-sen | zero戦 |  |  |
+| zero-sen | zero戦 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG16618.html) |
 | zero-xx | ZERO・XX |  |  |
 | zeroinfinityone | 0∞1 |  |  |
 | zeros factory | 零’sふぁくとりー |  |  |
@@ -12445,7 +12444,7 @@ example:
 | akatukiya | 赤月屋 |  |  |
 | metacorapusu | めたこらぷす |  |  |
 | hana q studio | 花Qスタジオ |  |  |
-| shinsen shiboritate nama gyuunyuu. | 新鮮、搾りたて生牛乳。 |  |  |
+| shinsen shiboritate nama gyuunyuu. | 新鮮、搾りたて生牛乳。 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202895/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG58818.html) |
 | shota mangaya-san | ショタ漫画屋さん | 另一名义：AOQLO |  |
 | kana note | Kana Note |  |  |
 | pirio destruction | ピリオデストラクション |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG47485.html) |
@@ -12509,19 +12508,19 @@ example:
 | mt.sushi | Mt.Sushi |  |  |
 | milk lamp | ミルクランプ |  |  |
 | germanium detroit | ゲルマニウム・デトロイト |  |  |
-| suiren no yado | 水莲之宿 | `asakawa`的同人社团 |  |
+| suiren no yado | 水莲之宿 | 日语: 水蓮の宿<br>`asakawa`的同人社团 | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=203509/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG61804.html) |
 | tariki honganji | 他力本愿寺 |  |  |
 | ebisujima misato | 戎島実里 |  | [X](https://x.com/misat_eb) |
-| jikahatsudensho | 自家发电处 |  |  |
+| jikahatsudensho | 自家发电处 | 日语: 自家発電処 | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=79705/) |
 | signal violet | Signal:Violet |  |  |
 | me no sato | 芽の里 |  |  |
-| shuukyuu 8-ka | 周休八日 |  |  |
+| shuukyuu 8-ka | 周休八日 | 週休8日 | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=209433/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG63775.html)<br><br>[FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=204183/) \| [DLsite](https://www.dlsite.com/girls/circle/profile/=/maker_id/RG63775.html) |
 | sagamiokiva | さがみおきば |  | [DLsite](https://www.dlsite.com/maniax-touch/circle/profile/=/from/work.maker/maker_id/RG45062.html) |
 | bochi bochi no ki | ぼちぼちの木 |  |  |
 | pham | PHAM! |  | [http://www.blue-ruby.com/pham/top.html](http://www.blue-ruby.com/pham/top.html) |
 | henry plaza | 半里プラザー |  |  |
 | shirokuroino | 白黒いの |  |  |
-| riku no kotoutei | 陆の孤岛亭 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=78670/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG62094.html) \| [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=26117) \| [toranoana](https://ec.toranoana.jp/tora_r/ec/cot/circle/2UPAD46P887Md46Pd687/all/) |
+| riku no kotoutei | 陸の孤島亭 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=78670/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG62094.html) \| [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=26117) \| [toranoana](https://ec.toranoana.jp/tora_r/ec/cot/circle/2UPAD46P887Md46Pd687/all/) |
 | kuniku no saku | 狗肉の策 |  |  |
 | taipeijin | 台北人 |  |  |
 | shinya koujou | 深夜工場 |  |  |
@@ -12557,7 +12556,7 @@ example:
 | shiba no shippo | しばのしっぽ | 画师`shiba aya`所属同人社团 |  |
 | futsu-no-tapioca-yasan | ふつうのタピオカやさん |  |  |
 | ushinomaruyaki | ウシノマルヤキ |  |  |
-| silver dog | シルバードッグ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202061/) |
+| silver dog | シルバードッグ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202061/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG63377.html) |
 | aburanabeshiki | 油锅式 |  |  |
 | gahahahahahaha | がはははははは! |  |  |
 | marshmalloya | ましゅまろや |  |  |
@@ -12566,14 +12565,14 @@ example:
 | sugomori bird | 巣ごもりバード |  |  |
 | gensou pump | 幻想ポンプ | 画师`fukumoto masahisa`所属社团 |  |
 | elizabeth collar | エリザベスカラー | 画师`tobiume sayu`所属社团 |  |
-| toropucchi | とろぷっち | ![X](https://pbs.twimg.com/profile_images/1473562632460582912/CJJj_8pg_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/Srm5tKdfhWnGY0K) |
+| toropucchi | とろぷっち | ![](https://i.pixiv.cat/user-profile/img/2025/07/18/13/58/45/27627059_26d483c7aca17800bca25d50c4b65f55_170.png) | [X](https://x.com/Srm5tKdfhWnGY0K) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=203617/) \| [FANBOX](https://torotorochuchu.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/796008) |
 | satou mitsu | さとうみつ | 画师`omitsu`所属社团 |  |
 | mannen dokodoko dondodoko | まんねんドコドコドンドドコ | 画师`tottotonero tarou.`所属社团 |  |
 | uruudoki | うるうどき |  |  |
 | shironekoya | 白猫屋 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200303/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG51218.html) |
 | mugen karaage | 無限からあげ |  |  |
 | yonaka works | ヨナカWorks |  |  |
-| touketsu shamen | トウケツ斜面 |  | [pixiv](https://www.pixiv.net/users/64953199)<br>[X](https://x.com/two_ketsu) |
+| touketsu shamen | トウケツ斜面 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202876/) \| [pixiv](https://www.pixiv.net/users/64953199) \| [X](https://x.com/two_ketsu) |
 | koutetsu shabon dama | 钢铁しゃぼん玉 | 画师`tamayura banko`所属社团 |  |
 | hogeramu | ほげらむ |  |  |
 | mizushirazu | みずしらず |  |  |
@@ -12583,7 +12582,7 @@ example:
 | akirerushoujo | アキレルショウジョ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=76962/) |
 | fuzume | ふずめ |  | [pixiv](https://www.pixiv.net/users/62756888) |
 | hitakamoya | ひたかもや |  |  |
-| kasokuiki | 過疎区域 |  | [X](https://x.com/in_ksk) |
+| kasokuiki | 过疏区域 | 過疎区域 | [X](https://x.com/in_ksk) |
 | khaos distance | カオス距離 |  |  |
 | tohosanhun | 徒步三分 | 茶户老师的R18用马甲 | [X](https://x.com/tohosanhun)<br>[X](https://x.com/tohoni) （本体） |
 | morunchi | モルチ |  |  |
@@ -12612,7 +12611,7 @@ example:
 | hoyhoy colo | ホイホイこーろ |  |  |
 | higashinodou | 東ノ堂 |  |  |
 | imagescript | イメージscript |  |  |
-| kawaiso nanoha nukeru | かわいそうなのは抜ける |  |  |
+| kawaiso nanoha nukeru | かわいそうなのは抜ける |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG62433.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=205118/) \| [Ci-en](https://ci-en.dlsite.com/creator/14622) |
 | jinsei saboribu | 人生サボり部 |  |  |
 | mori no michi | 森の道 |  |  |
 | studio yama roman | スタジオ山ロマン |  | [pixiv](https://www.pixiv.net/users/48779474) [X](https://x.com/yamaroman_CG) |
@@ -12652,7 +12651,7 @@ example:
 | mobumomu ntr | モブモムNTR | 作者モブ太用来画NTR作品时的社团名称 |  |
 | ice to choco | あいすとちょこ |  |  |
 | sakura suishou | 桜水晶 |  |  |
-| nekomimi to kuro mask | 猫耳と黒マスク |  |  |
+| nekomimi to kuro mask | 猫耳と黒マスク |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=201991/) |
 | champion soft | Champion Soft | 「冠军软件公司」（Champion Soft，チャンピオンソフト）现在以成人游戏品牌「爱丽丝软件」（AliceSoft，有时亦作Alice Soft，アリスソフト）活动中，于1983年（昭和58年）3月成立。 | [X](https://x.com/alice_soft) [官方网站](http://www.alicesoft.com/) (\*) |
 | dojiro books | どじろーブックス |  |  |
 | alwayshp1 | いつも死にかけ | Always HP 1 |  |
@@ -12667,13 +12666,13 @@ example:
 | milkdou shoukai | みるく堂商会 |  |  |
 | airimiash | アイリミアーシュ | 画师`rabu`所属社团 | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG57892.html) |
 | mokkorihan | もっこりはん |  |  |
-| zenjidou shimoneta seizou machine | 全自動下ネタ製造マシーン |  |  |
+| zenjidou shimoneta seizou machine | 全自動下ネタ製造マシーン |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=208399/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01003729.html) |
 | shachi | しゃち |  |  |
 | mittsuman | みっつまん |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202935/) \| [FANBOX](https://mittuman.fanbox.cc/) \| [BOOTH](https://mittuman.booth.pm/) \| [pixiv](https://www.pixiv.net/users/55741855) \| [X](https://x.com/douzin_mittuman) |
 | zyougesayuu | 上下左右 |  |  |
 | rakuenya | 乐园屋 |  |  |
 | torinoya | とりの屋 |  |  |
-| gomikasu tarou | 五味滓太郎 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202211/) |
+| gomikasu tarou | 五味滓太郎 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202211/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG56833.html) |
 | kaoinshou zero | 顔印象零 |  |  |
 | yasudajuku | 保田塾 |  |  |
 | mahou no kinoko | 魔法のキノコ |  |  |
@@ -12691,7 +12690,7 @@ example:
 | iinchou no yabai yatsu | 委員長のやばいヤツ |  |  |
 | gotarou no all night fuck | ゴ太郎 |  | [pixiv](https://www.pixiv.net/users/49916) |
 | ruri-iro special room | 瑠璃色特別室 | 作者川口蓝的社团名称。 | [个人网站](http://ruriiro-special-room.com/) |
-| harmonear | HarmoNeaR |  |  |
+| harmonear | HarmoNeaR |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG73662.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=228084/) |
 | higedokoro | ひげどころ |  |  |
 | shinjiroya | 信じろや |  |  |
 | pontaroya | ぽんたろ家 |  |  |
@@ -12701,7 +12700,7 @@ example:
 | elica | ELICA |  |  |
 | gojihan | 五时半 |  |  |
 | netorare no tami | ネトラレの民 |  | [DLsite](https://ci-en.dlsite.com/creator/2417) \| [X](https://x.com/netorarenotami) \| [pixiv](https://www.pixiv.net/users/37432549) |
-| 7 rensa | 7连锁 |  |  |
+| 7 rensa | 7连锁 | 日语: 7連鎖 | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=201375/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG54542.html) |
 | citrusniper | シトラスナイパー |  |  |
 | unadon | うなどぅーむ |  |  |
 | torii-za | 鳥居座 |  |  |
@@ -12748,7 +12747,7 @@ example:
 | nishi no tora | 西ノ虎 |  |  |
 | noir auto | ノワールオート |  |  |
 | yuuki saien | ユーキ菜園 |  |  |
-| ginshio honpo | 银しお本铺 |  |  |
+| ginshio honpo | 銀しお本舗 |  |  |
 | kitsune no nijibiya | 狐の虹火屋 |  |  |
 | juubako seisakujo | 重箱製作所 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=78606/) |
 | mandara ryuuseigun | マンダラ流星群 |  |  |
@@ -12769,11 +12768,11 @@ example:
 | harugakita | はるがきた |  |  |
 | imoimolatte | いもいもラテ |  |  |
 | kitahara koubou | 北原工房。 |  |  |
-| smile foran company | すまいるふぉらんかんぱにぃ。 |  |  |
+| smile foran company | すまいるふぉらんかんぱにぃ。 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=78179/) |
 | kozuki sousaku dokoro | 甲月創作処 |  |  |
 | nezumi no haha | 鼠の母 |  |  |
-| hachihachihachi | 蜂蜂蜂 |  |  |
-| sakuranbo nouen | 樱桃农园 |  |  |
+| hachihachihachi | 蜂蜂蜂 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG57663.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202623/) |
+| sakuranbo nouen | 樱桃农园 | さくらんぼ農園 |  |
 | nurupon | ぬるポン |  |  |
 | waifusplit | WaifuSplit |  | [X](https://x.com/WaifuSplit)  [Patreon](https://www.patreon.com/waifusplit/) \| [Instagram](https://www.instagram.com/waifusplitstudios/) \| [waifusplit](https://waifusplit.com/) |
 | shirasu latte | しらすラテ |  |  |
@@ -12807,7 +12806,7 @@ example:
 | poipoi ramen | ぽいぽいラーメン |  |  |
 | ore no sasakure | 俺のささくれ |  |  |
 | akasa seiheki kenkyuujo | 赤佐性癖研究所 |  |  |
-| aheazif | アヘアジフ |  |  |
+| aheazif | アヘアジフ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG51953.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=201818/) |
 | temperature | テンプレチャー |  |  |
 | teriniku | テリにく |  |  |
 | sesame dou | せさみ堂 |  |  |
@@ -12841,7 +12840,7 @@ example:
 | shoujo rakugakichuu | 少女落描中 |  |  |
 | ikebukuro distillery | 池袋蒸留所 |  |  |
 | honeyroad | HoneyRoad |  |  |
-| golden bazooka | ゴールデンバズーカ |  |  |
+| golden bazooka | ゴールデンバズーカ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG56966.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202559/) |
 | nature carute | 天然养殖 |  |  |
 | crazy brain pulse | くれいじーぶれいんぱるす |  |  |
 | nuts koumuten | ナッツ工務店 |  |  |
@@ -12874,7 +12873,7 @@ example:
 | shikoushoku | 嗜好色 |  |  |
 | anzuya | あんず屋 |  |  |
 | komorebi palette | 木漏れ陽ぱれっと |  |  |
-| uni piano gakudan | 雲丹ピアノ |  |  |
+| uni piano gakudan | 雲丹ピアノ楽団 |  |  |
 | mochi mochi bomb | もちもち爆弾 |  |  |
 | ogura nougyou | 小倉農業 |  |  |
 | soup oishii | スープおいしい |  |  |
@@ -12887,16 +12886,16 @@ example:
 | yotsuba no suisou | 四ツ葉ノ水槽 |  |  |
 | gamanuntaka | がまぬんたか |  |  |
 | kisei toukyoku | 規制当局 |  |  |
-| houkago highball land | 放課後ハイボールランド |  |  |
+| houkago highball land | 放課後ハイボールランド |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=208590/) |
 | meifu madou | めーふまどー |  |  |
 | nani kashira no shokushu | なにかしらの触手 |  |  |
 | satsuki no usa koya | サツキのウサ小屋 |  |  |
-| jikabi baisen | 直火焙煎 |  |  |
+| jikabi baisen | 直火焙煎 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG42731.html) \| [Melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=49126) |
 | junk food | じゃんくふぅど |  |  |
 | jiko moratorium | 自己モラトリアム |  |  |
 | buster app | ばすたーあっぷ |  |  |
 | ofuro haitta erai | お風呂入ったえらい |  |  |
-| 187 seibutsu | 187生物 |  |  |
+| 187 seibutsu | 187生物 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=73907/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG35745.html) |
 | futari bocchi no solitude | ふたりぼっちのSolitude |  |  |
 | sarukome | サルコメ |  |  |
 | unidentified flying baumkuchen | 未確認飛行ばーむくーへん |  |  |
@@ -12999,7 +12998,7 @@ example:
 | kochunoten | こちゅうのてん |  |  |
 | raspberry doll | ラズベリー☆ドール |  |  |
 | itonouri | いとのうり |  |  |
-| takurowo-dou | タクロヲ堂 |  |  |
+| takurowo-dou | タクロヲ堂 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG54472.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=201924/) |
 | osoracu | おそら区 |  |  |
 | maikage | 舞影 |  |  |
 | banana style | ばななすたいる |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG60805.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=203397/) \| [FANBOX](https://wwcx4872.fanbox.cc/) \| [X](https://x.com/BANANASUTAIRU) \| [pixiv](https://www.pixiv.net/users/48084405) |
@@ -13012,7 +13011,7 @@ example:
 | tatahot | TATAHOT |  |  |
 | higashikoiwa hutomomo uchuu kenkyuujo | 东小岩太股宇宙研究所 |  | [pixiv](https://www.pixiv.net/users/101730726) |
 | thai doujinshi doukoukai | タイ同人誌同好会 |  |  |
-| kure no genki na goaisatsu | 暮れの元气なご挨拶 | 画师`kurebayashi asami`所属社团<br><br>![works](https://pbs.twimg.com/media/GZvWu9dagAAY4ww?format=jpg&name=4096x4096) |  |
+| kure no genki na goaisatsu | 暮れの元気なご挨拶 | 画师`kurebayashi asami`所属社团<br><br>![works](https://pbs.twimg.com/media/GZvWu9dagAAY4ww?format=jpg&name=4096x4096) |  |
 | wakuwaku dining | WAKUWAKU DINING |  |  |
 | asakatsu | あさかつ |  |  |
 | komatsuna salad | 小松菜サラダ |  |  |
@@ -13027,8 +13026,8 @@ example:
 | nagosuzu infinity | ナゴスズ∞ |  |  |
 | toyasuaina | トヤスアイナ |  |  |
 | toukarachi | とうからち |  | [pixiv](https://www.pixiv.net/users/92716427) [X](https://x.com/toukarachi_10) |
-| himegoto jukujo | ひめごと熟女 |  |  |
-| tiga. | てぃが。 |  |  |
+| himegoto jukujo | ひめごと熟女 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01013053.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=213304/) |
+| tiga. | てぃが。 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=206811/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG73139.html) \| [Ci-en](https://ci-en.dlsite.com/creator/17969) |
 | sonna no ato no matsuri ja nai desu ka | そんなのあとの祭りじゃないですか |  |  |
 | ouun | 桜雲 |  |  |
 | nekome koi | 猫目恋 |  |  |
@@ -13052,7 +13051,7 @@ example:
 | rokuchounome | 六丁の目/六丁目 |  |  |
 | arisugawa no miya | 有栖川ノ宮 |  |  |
 | lillian | Lilian |  |  |
-| hachinosu | 蜂巣 |  |  |
+| hachinosu | hachinosu | 请勿与`g:fonchau` \| Beeeee Nest 混淆，对应艺术家`apoidea`<br>词标签对应社团：[DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG29338.html) |  |
 | peassoft | PeasSoft |  |  |
 | apocalypse nibitashi | アポカリプス煮浸し |  |  |
 | hitsuji no koshoten | 羊の古書店 |  |  |
@@ -13067,7 +13066,7 @@ example:
 | shunga tarou | 春画太郎 |  |  |
 | turuturuodeco | つるつるおでこ |  |  |
 | funmatsu maccha | 粉末抹茶 |  |  |
-| mentaipark | めんたいぱぁく |  |  |
+| mentaipark | めんたいぱぁく |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=222173/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01035964.html) |
 | muchi muchi museum | ムチムチ美術館 |  |  |
 | hakuhoukoubou | 白凤工房 |  |  |
 | ishiyaki imo | いしやきいも |  |  |
@@ -13091,7 +13090,7 @@ example:
 | kyou majo | 京まじょ！ |  |  |
 | yokaranu yakara | よからヌ夜空 |  |  |
 | yamaneko box | 山猫BOX |  |  |
-| chirimen naoyuki | ちりめんなおゆき |  |  |
+| chirimen naoyuki | ちりめんなおゆき |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG72042.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=206430/) |
 | haru tanuki-ya | 春狸屋 |  | [pixiv](https://www.pixiv.net/users/68049177) |
 | taihen na hentai | たいへんなへんたい |  |  |
 | ebiharami | エビハラミ |  |  |
@@ -13129,7 +13128,7 @@ example:
 | mugimeshiya | むぎめしや |  |  |
 | melt syndrome | メルトシンドローム |  |  |
 | fkrfactory | FKRfactory |  | [X](https://x.com/FKR763) [pixiv](https://www.pixiv.net/users/18072703) |
-| kurosumi yakousho | イタリ屋×黒墨夜行書 |  |  |
+| kurosumi yakousho | イタリ屋×黒墨夜行書 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG22217.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=29060/) |
 | nedia region | えぬりーじょん |  |  |
 | hayaku jk ni naritai | はやくJKになりたい |  |  |
 | aihara workshop | 和原工房 |  |  |
@@ -13192,7 +13191,7 @@ example:
 | fusen | ふせん |  |  |
 | kaiten kikan | 回転キカン |  |  |
 | morigami no yashiro | 森神的社 | 森神の社 |  |
-| line out | ラインアウト |  |  |
+| line out | ラインアウト |  | [Ci-en](https://ci-en.dlsite.com/creator/6993) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01008583.html) \| [pixiv](https://www.pixiv.net/users/98504555) \| [X](https://x.com/circle_lineout3) |
 | tamazushi | 珠寿司 |  |  |
 | haizuriya | はいずり屋 |  |  |
 | tetsuyashiki | 铁屋敷 | 画师`kontetsu`所属社团 |  |
@@ -13228,7 +13227,7 @@ example:
 | sankaku batsumaru | 三角罰丸 |  |  |
 | sarasara chazuke | さらさらちゃづけ |  |  |
 | bonnou sousaku | 煩悩創作 |  |  |
-| mori no hito | 森の人 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01052602.html) |
+| mori no hito | 森の人 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01052602.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=211537/) |
 | yuunagi promenade | 夕凪プロムナード |  |  |
 | nekketsu nezumojuku | 熱血ねずも塾 |  |  |
 | yawaraka toge robot | やわらかトゲロボット |  |  |
@@ -13239,10 +13238,10 @@ example:
 | happy mayonnaise | ハッピーマヨネーズ |  |  |
 | echie kokufuku aka | えち絵克服アカ |  |  |
 | shirokujichu | 白九時中 |  |  |
-| kairaku | 快楽 |  |  |
+| kairaku | 快楽 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01006443.html) |
 | petra-beta | Petra-β |  |  |
 | ray-raw | Ray-Raw |  |  |
-| paiwohasa-mu | パイオハサーム |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=203722/) |
+| paiwohasa-mu | パイオハサーム |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=203722/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG71066.html) |
 | q doujin | Q同人 |  |  |
 | tooka chaya | 十日茶屋 |  |  |
 | arumike | あるみ家 |  |  |
@@ -13256,21 +13255,21 @@ example:
 | one or eight | ワンオアエイト |  |  |
 | tonikakuushi | 兎に角牛 |  |  |
 | hiyashi makura | ひやしまくら |  |  |
-| midareuchi | 乱れ击ち |  |  |
+| midareuchi | 乱れ撃ち |  |  |
 | otogidou | オトギ堂 |  |  |
 | shirokuma dango | しろくまだんご |  |  |
-| muru no honbako | ムルの本箱 |  |  |
+| muru no honbako | ムルの本箱 |  | ムルの本箱: [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01038050.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=222750/)<br>ムル@@: [FANBOX](https://muru024.fanbox.cc/) \| [Ci-en](https://ci-en.dlsite.com/creator/32659) \| [pixiv](https://www.pixiv.net/users/102192090) \| [X](https://x.com/Muru024) \| [Fantia](https://fantia.jp/fanclubs/528905) |
 | lose | Lose |  | [X](https://x.com/news_lose)<br>[http://www.lose.jp/official/](http://www.lose.jp/official/) |
 | dodeca vitamin | ドデカビタミン |  |  |
 | mochiki sengyoten | もちき鮮魚店 |  |  |
 | koromoya | 衣屋 |  |  |
-| acesulfame kei | あせするふぁむ系 |  |  |
+| acesulfame kei | あせするふぁむ系 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG60020.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=203240/) |
 | sukebe hatsudenjo | すけべ发电所 | 日语：すけべ発電所 | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG68789.html) |
 | katakana de velokisss | 平仮名で、べろきす |  |  |
 | shinkai-kajuen | 深海果樹園 |  |  |
 | aparachiya | アパラチ屋 |  |  |
 | himonoya | 干物屋 | 飛者的同人社团，主要作品为东方Project二次创作 | [https://www.melonbooks.co.jp/circle/index.php?circle\_id=112486](https://www.melonbooks.co.jp/circle/index.php?circle_id=112486) |
-| tokyo ereki studio | 東京電気スタジオ |  |  |
+| tokyo ereki studio | 東京電気スタジオ | 東京エレキスタジオ | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=219288/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01012584.html) |
 | maid-tou | めいど党 |  |  |
 | haitoku no mori | はいとくのもり |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG58872.html) |
 | shibaiinu nisei | シバイーヌ二世 |  |  |
@@ -13297,7 +13296,7 @@ example:
 | yofukashi no heya | よふかしのへや |  |  |
 | rokugo sha | ろくご社 |  |  |
 | hipcomix | HIPCOMIX |  |  |
-| alps1mando | アルプス一万堂 |  |  |
+| alps1mando | アルプス一万堂 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=73882/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG52301.html) |
 | yudepopo | 茹でぽぽ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01006807.html) |
 | yowatoro | よわトロ |  |  |
 | ahoderasouryo | アホ寺僧侶 |  |  |
@@ -13306,7 +13305,7 @@ example:
 | akaneya gu-tara ten | 茜屋ぐーたら店 |  |  |
 | erorhythm | EroRhythm |  |  |
 | izumi no miyako | 和泉都 |  |  |
-| keisei yuan | 傾世遊庵 |  |  |
+| keisei yuan | 傾世遊庵 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=79824/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG50046.html) |
 | yukidoke hachinosu | 雪解けハチノス |  |  |
 | urahara doll | うらはらドール |  |  |
 | bloody mary | 血腥玛丽 |  |  |
@@ -13330,7 +13329,7 @@ example:
 | urushibara koubou | 漆原工房 |  |  |
 | onizukachris | 鬼塚クリス |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=201077/) |
 | uchi no yoko | ウチの横 |  |  |
-| lemon drop | れもんどろっぷ |  |  |
+| lemon drop | れもんどろっぷ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=225332/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01036340.html) |
 | shishimusha | 猪武者 |  |  |
 | amenohimogamo | あめのひもがも |  |  |
 | azabumi | 麻布味 |  |  |
@@ -13340,7 +13339,7 @@ example:
 | aoba no kisetsu | 青羽の季節 |  |  |
 | koisiya | 恋紙屋 |  |  |
 | solosimeji | ソロシメジ |  |  |
-| mauboumen | 舞う棒メン |  |  |
+| mauboumen | 舞う棒メン |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=208163/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01008119.html) |
 | nanaoya | なな百屋 |  |  |
 | taratamago | たらたまご |  |  |
 | bambi | 花森バンビ |  |  |
@@ -13352,7 +13351,7 @@ example:
 | momico-san | もみ子さん |  |  |
 | jaryuu kyoudan | 邪竜教団 |  |  |
 | milk sausage | みるくそーせーじ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=214667/) |
-| tatsuwa no sato | たつわの里 |  |  |
+| tatsuwa no sato | たつわの里 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=206923/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01001676.html) |
 | picapica suppa | picapicaすっぱ |  |  |
 | kibayashimori | 木林森 |  |  |
 | wakabatei | わかば帝 |  |  |
@@ -13370,9 +13369,9 @@ example:
 | inazuma soft | いなずまそふと |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG48610.html)<br>[DLsite](https://ci-en.dlsite.com/creator/2713)<br>[X](https://x.com/inazumasoft)<br>[BOOTH](https://inazumasoft.booth.pm/items) |
 | senmura | SENMURA | 画师 `a:senmura`使用的同人社团名 | [https://www.melonbooks.co.jp/circle/index.php?circle\_id=103311](https://www.melonbooks.co.jp/circle/index.php?circle_id=103311) |
 | yamakawaya | 山河屋 |  |  |
-| hentai mona liza | 蒙娜丽莎 | 好きなものアニメ、原神fgoアークナイツ、vチューバー。性癖、くっころ、羞恥責め、強制排泄、生意気ギャル。プライドの高い女の子を調教して快楽堕ちさせる作品すき。 | [X](https://x.com/liza45694569)<br>[pixiv](https://www.pixiv.net/users/30702008) |
+| hentai mona liza | 变态蒙娜丽莎 | 日：変態モナリザ<br>好きなものアニメ、原神fgoアークナイツ、vチューバー。性癖、くっころ、羞恥責め、強制排泄、生意気ギャル。プライドの高い女の子を調教して快楽堕ちさせる作品すき。 | [X](https://x.com/liza45694569)<br>[pixiv](https://www.pixiv.net/users/30702008) |
 | yuujintou | 宥人島 | 画师`a:doaka`使用的同人社团名义 | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG30793.html) |
-| saimonke | 西門家 | 西門家 |  |
+| saimonke | 西門家 | 西門家 | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=79796/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG50084.html) |
 | nikuniku anmitsutei | 肉々餡蜜亭 |  |  |
 | maa kuaru-ke | まーくある家 |  |  |
 | aburamashimashi | アブラマシマシ |  |  |
@@ -13433,11 +13432,11 @@ example:
 | zonebell market | ゾンベルマーケット |  |  |
 | byururun youkeijou | びゅるるん★養鶏場 |  |  |
 | sokuseki maou | 即席魔王 |  |  |
-| wide na nomikuchi | ワイドな飲み口 |  |  |
+| wide na nomikuchi | ワイドな飲み口 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=209742/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01007397.html) |
 | graphic l | グラフィックL |  |  |
 | ntrocket | NTRocket |  |  |
 | yomogimogi | よもぎもぎ |  |  |
-| pinochika | ピノチカ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG53567.html) \| [DLsite](https://ci-en.dlsite.com/creator/7884) \| [X](https://x.com/pinochika_ekaki) |
+| pinochika | ピノチカ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG53567.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=201040/) \| [Ci-en](https://ci-en.dlsite.com/creator/7884) \| [X](https://x.com/pinochika_ekaki) |
 | pakomucchi | ぱこむっち |  |  |
 | petapetapeta | ぺたぺたぺた |  |  |
 | r koubou | あ～る工房 |  |  |
@@ -13455,18 +13454,18 @@ example:
 | tareme sijou syugi | 垂れ目至上主義 |  |  |
 | bashou no deshi | ばしょーの弟子 | 专门画萝莉的漫画家 | [https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=224578/](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=224578/)<br>[DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01045304.html)<br>[X](https://x.com/bashouno) |
 | meimeikomei | めいめいこ |  |  |
-| hotate chanpon | ほたてちゃんぽん |  |  |
+| hotate chanpon | ほたてちゃんぽん |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=206423/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG71992.html) |
 | ubuoya | うぶお屋 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=201893/) |
 | gin eiji | 銀エイジ | `a:gin eiji`使用的同人社团名 |  |
 | studio m3 | studio えむすり |  |  |
 | miura koudai | 三浦鋼大 |  |  |
 | doron | どろん |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01033136.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=218947/) |
 | emuo koubou | えむお工房 |  |  |
-| kuishinbou | くいしん房 |  |  |
+| kuishinbou | くいしん房 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=77236/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG44126.html) |
 | sanman sanzen koiking | 三万三千こいきんぐ |  |  |
 | kitsunetsuki | きつねつき |  |  |
 | chiyori koubou | ちより工房 |  |  |
-| amanoshima | 雨乃島 |  |  |
+| amanoshima | 雨乃島 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01057995.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=229828/) \| [pixiv](https://www.pixiv.net/users/120810642) \| [X](https://x.com/amanoshima9920) |
 | plateau soft | ぷらとぉそふと |  |  |
 | shikisoku zeku | 色即絶句 |  |  |
 | peimond | ペイモンド |  |  |
@@ -13508,7 +13507,7 @@ example:
 | chikashitsu project | 地下室プロジェクト |  |  |
 | spanteikoku | すぱん帝国 |  |  |
 | hyoui lover | 憑依ラヴァー |  |  |
-| date roku | 伊達ろく |  |  |
+| date roku | 伊達ろく |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=203863/) |
 | magical kagechousukashi | マジカル影蝶透 |  |  |
 | nopperi usagi | のっぺりうさぎ |  |  |
 | sei no syokunin | せいの職人 |  |  |
@@ -13525,7 +13524,7 @@ example:
 | tanioku no kaeru | 谷奥の蛙 |  |  |
 | seisui bar | 圣水BAR |  |  |
 | samurai banana | サムライバナナ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=212807/) \| [DLsite](https://www.dlsite.com/maniax-touch/circle/profile/=/from/work.maker/maker_id/RG01007764.html) |
-| popotto denki ichigouten | ぽぽっと電機1号店 |  |  |
+| popotto denki ichigouten | ぽぽっと電機1号店 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG53555.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=201081/) |
 | studio washitsu | Studio和室 |  |  |
 | butajiru | 豚汁 |  |  |
 | yagen nankotsu | YAGENなんこつ |  |  |
@@ -13547,7 +13546,7 @@ example:
 | meganeya honpo | 眼镜屋本铺 | 眼鏡屋本舗 |  |
 | papyrus | ぱぴるす |  |  |
 | tarobaumu | たろバウム |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=76196/) |
-| uraaka | 裏垢 |  |  |
+| uraaka | 裏垢 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG50776.html) |
 | ikenosoko | イケノソコ |  |  |
 | binbin honpo | ビンビン本舗 |  |  |
 | dekai tsuno | でかいツノ |  |  |
@@ -13564,7 +13563,7 @@ example:
 | sansanka tanso | 三酸化炭素 |  |  |
 | le.chocolat | Le.Chocolat |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/Le.Chocolat) |
 | yuniromi u2603 | ゆにろみ-U+2603- |  |  |
-| 3104tyome | 3104町目 |  |  |
+| 3104tyome | 3104丁目 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=218500/) [蜜瓜](https://www.melonbooks.co.jp/circle/index.php?circle_id=67397) |
 | oshinobu no yakata | おしのぶの館 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG55660.html) |
 | oroshi ponzu | おろしぽんず |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01002937.html) |
 | mikeneko | みけねこ |  |  |
@@ -13575,9 +13574,9 @@ example:
 | nf-freak | NFフリーク |  |  |
 | pomi sword | ぽみソード |  |  |
 | elemental erogenous zone | エレメンタル性感帯 |  |  |
-| green solenoid | グリーンソレノイド |  |  |
-| circle kagemusya | サークル影武者 |  |  |
-| kogomekai | 小米堂 |  |  |
+| green solenoid | グリーンソレノイド |  | [BOOTH](https://omuraice.booth.pm/) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=207827/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG61400.html) |
+| circle kagemusya | サークル影武者 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=70623/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG26730.html) |
+| kogomekai | 小米堂 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG47672.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=79058/) |
 | surface tremble | surface tremble |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01008336.html) |
 | purintai | ぷりんたい |  |  |
 | kugatsu nagatsu | 九月ナガツ |  |  |
@@ -13586,7 +13585,7 @@ example:
 | nikomic ramen | NikomiC Ramen |  |  |
 | mint-nium | Mint-nium\* |  |  |
 | moe push | もえぷっしゅ |  |  |
-| ogon shinshi club | 黄金紳士倶楽部 |  |  |
+| ogon shinshi club | 黄金紳士倶楽部 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=211420/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01010838.html) |
 | silk scarf | シルクスカーフ |  |  |
 | pikapika hallucinate | ぴかぴかハルシネイト |  |  |
 | boin-do | 母印堂 |  |  |
@@ -13597,7 +13596,7 @@ example:
 | marin mate | まりんメイト |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01000564.html) \| [pixiv](https://www.pixiv.net/users/87134400) |
 | kaminshitsu | 仮眠室 |  | [pixiv](https://www.pixiv.net/users/59768037) |
 | shaberu suiteki | 喋る水滴 |  |  |
-| nechosuke. | ねちょすけ。 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=227808/) |
+| nechosuke. | ねちょすけ。 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=227808/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01047398.html) \| [Ci-en](https://ci-en.dlsite.com/creator/30955) |
 | oroboy | オロボーイ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG49463.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=79492/) |
 | nekonumedou | ネコぬめ堂 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01015872.html) |
 | hibachabashira | ひばちゃばしら |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01062222.html) |
@@ -13713,14 +13712,14 @@ example:
 | sirens domain | Siren's Domain |  | [Patreon](https://www.patreon.com/ZombiesRetreat) |
 | my cafe saikou | マイカフェ最高 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG62267.html) |
 | fujinum seven | フジナムセブン |  | [pixiv](https://www.pixiv.net/users/6386654) |
-| shiromonya | 白門屋 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01062055.html) |
+| shiromonya | 白門屋 |  |  |
 | tanaka no miso | 田中の味噌 |  |  |
-| ai to namida | 愛と涙 |  |  |
+| ai to namida | 愛と涙 |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22愛と涙%22/ana_flg/all) |
 | rat | ラット |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=206878/) \| [FANBOX](https://rat-2024.fanbox.cc/) \| [bsky.app](https://bsky.app/profile/rat-rat.bsky.social) \| [pixiv](https://www.pixiv.net/users/91357618) \| [lit.link](https://lit.link/en/ratatatata) \| [X](https://x.com/rat155002890512) \| [misskey](https://misskey.io/@rattttt) |
 | hegechiya | へげち屋 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=211374/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01009786.html) |
 | fat cat | FAT CAT |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG55023.html) |
 | kyouizon smile | 共依存スマイル |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=43953) |
-| asuka shinozaki | 飛鳥しのざき |  |  |
+| asuka shinozaki | 飛鳥しのざき |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=79620/) \| [FANBOX](https://asushino.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/56844620) |
 | layer koubou | レイヤー工房 |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=126483) \| [X](https://x.com/DI_LE_TO) |
 | amayadorigaeru | 雨宿り蛙 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG52158.html) |
 | kyawalog | Kyawalog |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=127082) |
@@ -13737,7 +13736,7 @@ example:
 | nyarisu | にゃりす |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200204/) |
 | fusha fusha kingdom | ふしゃふしゃ王国 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01025190.html) |
 | kokkyou oudan | くろすかんとりい。 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG55620.html) |
-| warabi mochi seisakujo | わらび餅製作所 |  |  |
+| warabi mochi seisakujo | わらび餅製作所 | 日语: わらびもち製作所 | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01065496.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=228940/) |
 | namaitati teishoku | 生イタチ定食 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01008778.html) |
 | center field | センターフィールド |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG48576.html) |
 | grande melone | grande melone |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG57529.html) |
@@ -13807,14 +13806,14 @@ example:
 | kusuriyubi | くすりゆび |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=79831/) |
 | circle higani | サークルひがに |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01035273.html) \| [DLsite](https://ci-en.dlsite.com/creator/28129) |
 | futatsu musubi | ふたつむすび |  |  |
-| sakura shiina | 佐倉シイナ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202077/) |
+| sakura shiina | 佐倉シイナ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202077/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG55792.html) |
 | gomu gomu | ゴムゴム |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=215225/) |
 | radio tower | radio tower |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG53609.html) |
 | hagakure | 葉が紅 |  |  |
 | tsf cafe | TSF CAFE |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01021478.html) |
 | grimoire | グリモア |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=26645) |
 | karakuri korokke | 唐栗コロッケ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG65288.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202410/) |
-| tahitasou | たひた庄 |  |  |
+| tahitasou | たひた庄 | たひた荘 （たひたそう） | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=218028/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01011385.html) |
 | hachiko | ハチ公 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG48615.html) |
 | makura cover soft | まくらカバーソフト |  | [DLsite](https://www.dlsite.com/books/author/=/author_id/AJ011928/ana_flg/all) |
 | fujie | フジ江 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=79481/) |
@@ -13900,7 +13899,7 @@ example:
 | ferret | ふぇれっと |  |  |
 | kisene frega | キセネフレガ |  |  |
 | ourakuza | 凹楽座 |  |  |
-| morning star | モニスタラッシュ |  |  |
+| morning star | モーニングスター |  |  |
 | nekomata sanshokukan | ねこマタ三色館 |  |  |
 | chikuchiku chiichiku | ちくちくちーちく |  |  |
 | hakudaku nyannyan | 白濁娘々 |  |  |
@@ -13916,7 +13915,7 @@ example:
 | itsume | 五梅 \| 五梅えるこ |  |  |
 | ryuzenkoh | 龍涎香 |  |  |
 | aoi hoshi ni umareta dark angel | 青い星に生まれたダークエンジェル |  |  |
-| ishikarian | 円山晃 |  |  |
+| ishikarian | 石狩庵 |  |  |
 | osakana cookie | おさかなくっきー |  |  |
 | chinpura | チンプラ |  |  |
 | cure maimai | キュアマイマイ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=204598/) |
@@ -13964,7 +13963,7 @@ example:
 | kirikizu koh | 切傷甲 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=75711/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG47902.html) \| [Ci-en](https://ci-en.dlsite.com/creator/4699) \| [X](https://x.com/kirikizu1) \| [Skeb](https://skeb.jp/@kirikizu1) |
 | ruburu bon | るぶる梵 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG71765.html) |
 | calcite | Calcite | 作品大量使用AI生成的游戏社团 |  |
-| kurotanida | 黒谷田 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01052761.html) |
+| kurotanida | 黒谷田 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01052761.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=226357/) \| [FANBOX](https://kurotanida.fanbox.cc/) \| [X](https://x.com/kurotanida) \| [pixiv](https://www.pixiv.net/users/104182311) \| [Skeb](https://skeb.jp/@kurotanida) |
 | hiyoko nabe | ひよこ鍋 | `a:yogiri neo`使用的同人社团名称 | [https://www.melonbooks.co.jp/circle/index.p...circle\_id=14956](https://www.melonbooks.co.jp/circle/index.p...circle_id=14956) |
 | hirono-ke | ヒロノ家 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01015177.html) |
 | kuchita inugoya | 朽ちた犬小屋 |  |  |
@@ -13987,17 +13986,17 @@ example:
 | yurinyurin | ゆりんゆりん | Yurin Yurin |  |
 | st. michael girls school | 圣迈克尔女子学院 | 聖ミカエル女子学園，St. Michael Girls' School |  |
 | 8 percent milk. | 8%milk. |  |  |
-| onigiri to okazu | おにぎりとおかず |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01048471.html) |
+| onigiri to okazu | おにぎりとおかず |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01048471.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=216656/) \| [BOOTH](https://echigooriman.booth.pm/) |
 | seiheki times | 性癖タイムズ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG56875.html) \| [Ci-en](https://ci-en.dlsite.com/creator/14065) \| [X](https://x.com/Seiheki_Times) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=206746/) |
 | armjaw | Armjaw |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=233479/) |
 | dusuya-san | づす屋さん |  |  |
-| kojiraen | 仔じら園 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01045458.html) \| [Ci-en](https://ci-en.dlsite.com/creator/30907) |
+| kojiraen | 仔じら園 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01045458.html) \| [Ci-en](https://ci-en.dlsite.com/creator/30907) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=224593/) |
 | coconut milk | ココナッツみるく |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=210038/) |
 | saihate studio | 最果てスタジオ |  |  |
 | eruunagi | えるうなぎ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=203759/) |
 | rs street | R’sストリート |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG23028.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=29461/) |
 | fuwaten | ふわてん |  |  |
-| momoiro tanzaku | ももいろたんざく |  |  |
+| momoiro tanzaku | 桃色短册 | ももいろたんざく |  |
 | bio chample | バイオチャンプル |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=78204/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG48630.html) |
 | chisakiss | チサキッス |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/detail/=/cid=d_622331/) |
 | berrl no hakoniwa | ベルの箱庭 | `berrl felpurr`使用的同人社团名称 |  |
@@ -14044,6 +14043,341 @@ example:
 | galvalume kouhan | ガルバリウム鋼板 |  |  |
 | shise at agepan | 司瀬@あげぱん |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG30164.html) \| [Ci-en](https://ci-en.dlsite.com/creator/3651) \| [pixiv](https://www.pixiv.net/users/14829049) \| [Fantia](https://fantia.jp/fanclubs/314689) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=71655/) |
 | inusuku | いぬすく | 社团代表作为《妹相随 黑白世界的缤纷冒险》 |  |
+| akumehage | アクメハゲ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG41058.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=76031/) |
+| lapin gris | Lapin gris |  |  |
+| mochimochi warabi | 望望わらび | 丸井すくえあ | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01009417.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=227987/) |
+| us track | ユーストラック | Us: Track，AMUSE CRAFT旗下品牌，目前唯一一作为想要传达给你的爱恋 |  |
+| futanari seisanchi | ふたなり生産地 |  |  |
+| zuzuzunune | ずずずぬね |  |  |
+| yogachika | ヨガチカ |  |  |
+| mochitsu motaretsu. | もちつもたれつ。 |  |  |
+| lp studio | えるぴーすたじお | LPstudio |  |
+| forest caravan | 森林大篷车 | フォレスト・キャラバン |  |
+| tennen six | てんねんシックス |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01000692.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=207526/) |
+| jill | jill |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202995/) \| [pixiv](https://www.pixiv.net/users/73142326) \| [X](https://x.com/_jill_sensitive) |
+| orange pulque | おれんじぷるけ | Orange Pulque |  |
+| ero trance | エロトランス |  |  |
+| engawa no osushi | えんがわのおすし |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=78933/) |
+| milimili amuse craft erotica | milimili：AMUSE CRAFT EROTICA |  |  |
+| ironenone | いろねのね |  |  |
+| chieuchi | CHIEUCHI |  |  |
+| blossom | BLOSSOM |  |  |
+| sushiya 961 | すし屋961 |  |  |
+| salmon marinade | サーモンマリネード |  |  |
+| afterglow | Afterglow\* |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01054536.html) |
+| tatsumaki denchi | 竜巻電池 |  |  |
+| usagi no yume | うさぎのゆめ |  |  |
+| joucho antei | 情緒安亭 |  |  |
+| circle cherry boy | サークルチェリー・ボーイ |  |  |
+| pengin maru | ペンギン丸 |  |  |
+| taopopo | たおぽぽ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01023597.html) |
+| lily stella | Lily Stella |  |  |
+| dasokutei | 蛇足亭 |  |  |
+| marumaru land | 丸丸ランド |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG62091.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=203591/) |
+| yui channel | ゆいちゃんねる |  |  |
+| haitokuteki na anahori usagi | 背徳的な穴掘りうさぎ |  | [Fanza](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=223962/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01042401.html) |
+| aibaraya | あいばら屋 |  |  |
+| zukureeb | ずくるーび |  |  |
+| saisai saishujutsu | 再々再手術 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=79359/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG49125.html) |
+| jadou potato | 邪道ポテト |  |  |
+| amamori yashiki | あまもり屋敷 |  |  |
+| chuable soft | チュアブルソフト | 又可译为Chewable Soft |  |
+| shikibuton cover | 敷布団カバー |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202961/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG56745.html) |
+| alkanet | あるかねっと |  |  |
+| 30 kouhan kara hajimeru ero doujin | 30代後半から始めるエロ同人 |  |  |
+| amuricha | あむりた帝国 |  |  |
+| mofu mofu sheep | もふもふしーぷ |  |  |
+| nekoma koukoku | ねこま皇国 |  |  |
+| polfessional | ポルフェッショナル |  |  |
+| soto meguro | 外目黒 |  |  |
+| doujin echigoya | 同人越後屋 |  |  |
+| seiheki salad bowl | 性癖サラダボウル |  |  |
+| hiyoyokko | ひよよっこ |  |  |
+| android koubou | アンドロイド工房 |  |  |
+| hayaaruki | ハヤアルキ |  | [pixiv](https://www.pixiv.net/users/1844644) \| [FANBOX](https://hayaaruki-go.fanbox.cc/) \| [X](https://x.com/ppprtppp) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=71407/) |
+| awa no chikara | あわのちから |  |  |
+| zibettalia | じべたりあ |  |  |
+| yamamori himawari | 山盛りひまわり |  |  |
+| dendou monaka | 電動もなか |  |  |
+| umebatake | ウメ畑 |  |  |
+| monmon-dou | 悶々堂 |  |  |
+| radical tenshi | ラジカル天使 |  |  |
+| bottebote | ボッテボテ |  |  |
+| ringokai | 林檎会 |  |  |
+| asia no hiraki | あじあのひらき |  |  |
+| mizu no uro | みずのウロ |  |  |
+| maguro fiction | マグロ☆フィクション |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200487/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG51855.html) |
+| tsubakitei | 椿亭 |  |  |
+| morningstar rush | モニスタラッシュ |  |  |
+| heikou kikai gakuron | 平行奇塊学論 |  |  |
+| mitsutoge koubou | 蜜棘工房 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=225773/) |
+| lithium no kojin circle | Lithiumの個人サークル |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG48075.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=78831/) |
+| irojikake matome blog | 色仕掛けまとめブログ |  |  |
+| tsunnomeri | ツンノメリ |  |  |
+| rimiaro | りみあろ |  |  |
+| oshimai | おしまい |  |  |
+| buzamadera | 無様寺 |  |  |
+| forget me not | forget me not | 這個名稱是勿忘草屬的意思 |  |
+| chikyuugai seimeitai mokyu | 地球外生命体☆モキュ(ﾟ∞ﾟ) | 地球外生命体モキュ，Chikyuugai Seimeitai ☆ Mokyu (°∞°)<br>這名稱真有夠離譜的 |  |
+| p.w. | P.W.(パスワード) |  |  |
+| bansheesoftware | BansheeSOFTWARE |  |  |
+| hyoui no jikan | 憑依の刻 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG45421.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=77769/) |
+| piyuku no buta | ぴゆくのぶた |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG75246.html) |
+| aoyama koubou | 蒼山工房 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=231096/) |
+| yakiniku tabetei | 焼肉たべ亭 |  |  |
+| pudding o taberu ouma-san | プリンを食べるお馬さん |  | [DLsite](https://www.dlsite.com/girls/circle/profile/=/maker_id/RG01041810.html) \| [FANZA](https://lovecul.dmm.co.jp/tl/-/list/=/article=maker/id=224094/) |
+| yuunagi zakkaten | 夕凪雑貨店 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG17548.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=27637/) |
+| nikujiru juukou | 肉汁重工 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG53343.html) \| [Ci-en](https://ci-en.dlsite.com/creator/7891) \| [X](https://x.com/NIKUJIRU_JUUKOU) \| [pixiv](https://www.pixiv.net/users/10650307) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200932/) \| [Fantia](https://fantia.jp/fanclubs/85700) |
+| ogura souko | おぐらそうこ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01016434.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=211464/) \| [FANBOX](https://oguranosouko.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/100464697) |
+| ningen miman | 人間未満 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01024602.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=218968/) |
+| dark chocolat | Dark Chocolat |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=209298/) \| [Melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=44652) |
+| ero doukoukai | エロ同好会 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG53759.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202634/) \| [Ci-en](https://ci-en.dlsite.com/creator/15202) \| [FANBOX](https://ero-doukoukai.fanbox.cc/) \| [Fantia](https://fantia.jp/fanclubs/553946) \| [X](https://x.com/erodoukoukai) \| [pixiv](https://www.pixiv.net/users/26140480) |
+| romomata | ROMOMATA |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG36924.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=74545/) |
+| kanizagan | かに座ガン |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG51012.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=201382/) |
+| yoerosun | ヨエロ寸 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=220265/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01019110.html) |
+| ryu-saikan | 流彩館 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG43736.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=77093/) |
+| lacryma | La'cryma | 日文: ラクリマ | [DLsite](https://www.dlsite.com/pro/circle/profile/=/maker_id/VG01994.html) |
+| raigyo | ライギョ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=201706/) |
+| netoraru | ねとらる！ |  | [pixiv](https://www.pixiv.net/users/12715239) \| [Fantia](http://fantia.jp/fanclubs/2083) \| [X](https://x.com/ntraru) \| [FANBOX](https://ntraru.fanbox.cc/) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=71235/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG28924.html) \| [Skeb](https://skeb.jp/@ntraru) \| [Ci-en](https://ci-en.dlsite.com/creator/1667) |
+| mizutamari | みずたまり |  |  |
+| mame koubou | 豆工房 |  |  |
+| sakeru buta | さける豚 |  |  |
+| momoiro phantasmagoria | モモイロファンタズマゴリア |  |  |
+| mukokoro no kumo | むこころの雲 |  |  |
+| circle medewoi | サークルめでをい |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG18333.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=27924/) |
+| mutou clinic | 無糖クリニック |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01066505.html) |
+| hoipyon studio | Hoipyon Studio |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01047154.html) |
+| iromekuwa | いろめくわ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=234530/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01071479.html) |
+| misobolo dou | みそボーロ堂 |  |  |
+| ponpokomaru | ぽんぽこ丸 |  |  |
+| shin nankai daikessen | 真・南海大決戦 |  |  |
+| haru garden | 春garden |  |  |
+| ikari no mofumofu kintama ga gekitotsu shoukai | 怒りのもふもふ金玉が激突商会 |  |  |
+| torigara soup | 鷹ノ目商会 |  |  |
+| seifuku monochrome | 制服モノクローム |  |  |
+| hard maniax | はーど☆まにあっくす |  |  |
+| favorites | FavoriteS(同人) |  |  |
+| uniro | uniro |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG63538.html) |
+| nani | なに |  |  |
+| yokokuhan | 予告犯 |  |  |
+| yosuga no su | よすがの巣 |  |  |
+| echi echi daifuku | 色色大福（えちえち大福） |  |  |
+| totomi ya | totomi屋 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01023221.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=221457/) |
+| red boro | Red boro |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=210071/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01009211.html) |
+| nakahara dragon | なかはらドラゴン |  |  |
+| happy sex to - | ハピセトー |  |  |
+| akairo koubou | 赤色工房 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=221750/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01033511.html) \| [FANBOX](https://mushs.fanbox.cc/) |
+| biganki | 美顔器 |  |  |
+| takatsuki koujou | 高槻工場 |  |  |
+| jingai | 仁外 |  |  |
+| nanboku megochi | 南北めごち |  |  |
+| ichirinsha de neko rush | 一輪車でねこらっしゅ |  |  |
+| okubyou yagi | 臆病山羊 |  |  |
+| uzura collection | うずらこれくしょん |  |  |
+| cotton software | 棉花社 | ![](https://pbs.twimg.com/profile_images/1292544821/___________400x400.jpg)<br>日语：コットンソフト | [X](https://x.com/cotton_software) |
+| yaritsu | やりつ |  |  |
+| tomo | ともー |  | [DLsite](https://www.dlsite.com/books/author/=/author_id/AJ052991) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=creator/id=0e3ca0f1-64d4-11f0-ba33-0242ac160002/) |
+| nowloading | ■■■□□ NOWLOADING |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG30633.html) |
+| gefu enpitsu | ゲフえんぴつ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG42568.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=74940/) |
+| shimono cable | 霜野ケーブル |  |  |
+| kokoro no mama | ココロのまま |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=201951/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG56093.html) |
+| gemuodou | げむお堂 |  |  |
+| ikiruta many many | 生田めにめに |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=213747/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01012001.html) |
+| kinnikutei | 筋肉亭 |  |  |
+| gokuraku mikaduki | 極楽三日月 |  |  |
+| maita keikaku | まいた計画 |  |  |
+| anmitsu studio | アンミツスタジオ |  |  |
+| sangorodou | サンゴロ堂 |  |  |
+| shishudou | 屍孕堂 |  |  |
+| kairaku amnesia | 快楽アムネジア |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=220329/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01023777.html) |
+| dachou no umou | ダチョウの羽毛 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG32838.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=73930/) \| [Ci-en](https://ci-en.dlsite.com/creator/1107) |
+| bokoman | ボコまん |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01072801.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=234976/) |
+| hentai tokyo | 変態東京 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=204151/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG64204.html) |
+| shinigami koubou | しにがみ工房 |  |  |
+| goroutame noujou | ゴロウタメ農場 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG44858.html) |
+| k.y.hiro | K.Y.Hiro |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01000848.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=234993/) |
+| oncidium | オンシジウム |  |  |
+| aitoheiwa | アイトヘイワ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01001672.html) |
+| pz yatai | pz屋台 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG72969.html) |
+| glasses | 眼镜社 | GLASSES |  |
+| tatteinu koubou | たってぃぬ工房 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG40679.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=79826/) |
+| konekone rou | こねこね楼 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200897/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG54230.html) |
+| crepe crepe | くれーぷくれーぷ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG45931.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=78809/) |
+| nobutorakai | 信虎会 |  |  |
+| jitsuyou shugi company | 実用主義カンパニー |  |  |
+| mitomitokonkon | むなや家 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG57916.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=204169/) \| [Ci-en](https://ci-en.dlsite.com/creator/12785) \| [pixiv](https://www.pixiv.net/users/9695124) |
+| sol seeker | Sol seeker |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG52793.html) |
+| banana senbei | ばななせんべい |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01015465.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=227813/) |
+| shimimaru seisakusho | 紙魚丸製作所 |  |  |
+| shichishinkan | 七心馆 |  |  |
+| hatsui tsumo | 初井つも |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=77015/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG53047.html) \| [FANBOX](https://hatsuitsumo.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/11379577) \| [X](https://x.com/hatsuitsumo) \| [BOOTH](https://hatsuitsumo.booth.pm/) |
+| nigatsu no santousei | 二月の三等星 |  | [Melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=28567) |
+| epi nyuugyou | えぴ乳業 |  | [Melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=116299) |
+| hadukitto | はづきっと！ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=78449/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01012607.html) |
+| hoikuen | ほいくえん |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01062728.html) |
+| yuchiberurin | ゆちべるりん |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01052793.html) |
+| mama no nioi | ママの匂い |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=74970/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG03313.html) |
+| bonnouji yura | 煩悩寺ゆら |  |  |
+| guozhishe | 果汁社 |  |  |
+| nanda sono pantsu wa... | なんだそのパンツは… |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=220431/) |
+| nonki na roten | 吞気な露店 |  | [DLsite](https://www.dlsite.com/books/author/=/author_id/AJ067042) \| [FANZA](https://book.dmm.co.jp/list/?author=389287) \| [BOOTH](https://ikuzonomiki12.booth.pm/) |
+| kamatsukatei | 一尺八寸 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=203801/) |
+| innocent grey | Innocent Grey |  |  |
+| uchuu misaki | 宇宙岬 |  |  |
+| more prity | More☆プリティ |  |  |
+| tegomental | てごめんたる |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG52766.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=79167/) |
+| kenbunya | けんぶん屋 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01049759.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=226305/) |
+| anchorbell | アンカーベル |  |  |
+| whitesoft | Whitesoft |  |  |
+| whitesoft-albino | Whitesoft Albino |  |  |
+| moonpie factory | MOONPIE FACTORY |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01023267.html) |
+| mamaldasia | ママルダシア |  |  |
+| space monkey butai | スペースモンキー部隊 |  |  |
+| kiiroi pink | きいろいぴんく |  |  |
+| agemomiji | あげもみじ |  |  |
+| crd | CRD |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=234048/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01009210.html) |
+| himan boy | ヒマンボーイ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=206265/) |
+| hazukiken | 葉月軒 | 由同名画师葉月軒创建，画师早期曾用名MaD，因此早期作品可能有a:mad的标签，但重名画师较多，建议以g:hazukiken搜索 | [pixiv](https://www.pixiv.net/users/115600) [X](https://x.com/hazukiken) |
+| pencil rocket | ぺんしるろけっと |  |  |
+| nazunasoft | ナズナソフト |  |  |
+| studio sitomi | スタジオシトミ |  |  |
+| lost heart | ろすとはーと |  |  |
+| jei c1on-ri | じぇいC1ON-り |  |  |
+| kyaradain | きゃらだいん |  |  |
+| sweet and tea | 甜茶社(Sweet & Tea) |  |  |
+| manguard | マンガード |  |  |
+| smiling dog | Smiling Dog |  | [Patreon](https://www.patreon.com/smilingdog) \| [Patreon](https://www.patreon.com/doggosdoujins) |
+| wakanuman | わかぬマン |  |  |
+| hamens | はめんず |  |  |
+| egg milk. | えっぐみるく。 |  |  |
+| pushmine | プッシュマイン |  |  |
+| happy fall | ハッピーフォール |  |  |
+| airy socks en | エアリーソックス・艶 |  |  |
+| lovelytes | ラブリテス |  |  |
+| amorphous | アモルファス |  |  |
+| gossa-tei | ごっさ亭 |  |  |
+| ichigo dressing | 苺ドレッシング |  |  |
+| ijou nouryoku kenkyuukaihatsu kikou | 異常能力研究開発機構 |  |  |
+| neko nyoubou | 猫女房 |  |  |
+| danbooru | ダンボール |  |  |
+| seiheki chousadan | 性癖調査団 |  |  |
+| ushiro no shimu | 後ろの志群 |  |  |
+| nyoudou summit | 尿道サミット |  |  |
+| torokiboshi | とろきぼし |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01024550.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=218892/) |
+| aaa | AAA |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG48929.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=205218/) |
+| hiroq | ヒロQ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG16639.html) \| [Ci-en](https://ci-en.dlsite.com/creator/6626) |
+| yoshihara kaworu | 良原カヲル |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=203325/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG60907.html) |
+| central field | セントラルフィールド |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=203455/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG66153.html) |
+| iota works | イオタワークス |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=214648/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01012077.html) |
+| kamejirouya-san | 亀次郎屋さん |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=230578/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01064261.html) |
+| weather report | 天気予報 |  |  |
+| mugen seisaku | 夢幻制作 |  |  |
+| footworks | フットワークス |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG63879.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=204003/) |
+| tombhouse | tombhouse |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG66789.html) |
+| humihako | ふみはこ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=204814/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG63904.html) |
+| risu no rakuen | リスの楽園 |  |  |
+| tarte | タルト |  |  |
+| yokomatsu hirame | 横松ヒラメ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=225720/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01048674.html) |
+| starcup | StarCup |  |  |
+| hosizukiyo | 星月夜 |  |  |
+| hemoglovitamin | ヘモグロビタミン |  |  |
+| banibani | バニバニ |  |  |
+| shirumamire teishoku | 汁まみれ定食 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01039814.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=213633/) |
+| sushi spark | Sushi Spark |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=203069/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG54277.html) \| [Ci-en](https://ci-en.dlsite.com/creator/11223) \| [FANBOX](https://shmtnpp.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/13823073) \| [BOOTH](https://shmtnpp.booth.pm/) |
+| tomarigitei | とまりぎ亭 |  |  |
+| onanism | オナニズム |  |  |
+| espoir no okashi | エスポワールのおかし |  |  |
+| arujima | アルジマ |  |  |
+| wakuwaku yotonjo. | わくわく養豚所。 | 与【かまぼこ工場長。】是同一人物，现主要以【わくわく養豚所。】的名义活动 | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=78588/) [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG47517.html) |
+| lip | りっぷ |  |  |
+| okeyu tei | おけゆ亭 |  |  |
+| doubles core | だぶるす\*こあ |  |  |
+| mametsubu shouten | まめつぶ商店 |  |  |
+| puranpuman | ぷらんぷまん |  |  |
+| hamashima saketen | はましま酒店 |  |  |
+| pine melon | ぱいんめろん |  |  |
+| keoya | けお屋 |  |  |
+| eagle land | い～ぐるらんど | fanza：い〜ぐるらんど<br>fanza同DLsite、虎穴、蜜瓜等平台用的～符号都不一样。根据少从多原则主名称使用い～ぐるらんど | [X](https://x.com/takamaru3407) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=205082/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG67848.html) \| [とらのあな](https://ec.toranoana.jp/tora_r/ec/cot/circle/LUPAdB6Q867Nd16pd687/all/) \| [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=62160) |
+| shiritsu sakuranbo nyuu gakkou | 私立さくらんぼ乳学校 |  |  |
+| kadouhaniha hiroihoudesu | 可動範囲は広い方です |  |  |
+| furiten no ryuu | フリテンの竜 |  |  |
+| pen to mahou | ペンと魔法 |  |  |
+| nukunuku nijouhan | 二畳半 |  |  |
+| toubu rengou daigaku | 東部連合大学 |  |  |
+| aburi paseri | 炙りパセリ |  |  |
+| gishian | 技師アン |  |  |
+| 3d live | 3Dライブ |  |  |
+| aoiya | 葵家 |  |  |
+| beauty salon b and s | ビューティサロンB &S |  |  |
+| credo sophia | クレドソフィア |  |  |
+| horieros no ouchi | ほりえろすのおうち |  |  |
+| kiritanpo | 桐たん舗 |  |  |
+| jirouan | 次朗庵 |  |  |
+| miyakojima onsen | 都島温泉 |  |  |
+| monmonkon | もんもんこん |  |  |
+| moedotei | 萌度亭 |  |  |
+| osuichi coffee-ten | オスイチ珈琲店 |  |  |
+| pakuchi | パクチー |  |  |
+| oyako donburi tei | おやこ丼亭 |  |  |
+| nimurock | にむろっく |  |  |
+| tsurumiya | つるみ屋 |  |  |
+| skip beat studio | スキップビートスタジオ |  |  |
+| sutorobokonbu | すとろぼこんぶ |  |  |
+| taiyaki pan | るぷすどっとこむ |  |  |
+| ringo gakuen | りんご学園 |  |  |
+| reversible panda | Re:versibleパンダ |  |  |
+| ran paku studio | らんぱく工房 |  |  |
+| sapurinsesu | さぷりんせす |  |  |
+| shiawase o sagashite | しあわせをさがして |  |  |
+| yokohaba futosugi | 横幅太杉 |  |  |
+| yawamitsu | 柔蜜 |  |  |
+| doku pepper | 毒ペッパー |  |  |
+| yume no tsuzuki | ゆめのつづき |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=209427/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG44085.html) |
+| cyclo sabacane | cyclosabacane/佐波缶 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200084/) |
+| chiruiru | ちるイル |  | [pixiv](https://www.pixiv.net/users/56913118) \| [X](https://x.com/chillillcreate) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=78383/) |
+| eyechil works | アイチルワークス |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202872/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG58817.html) |
+| tairan | たいらん! |  |  |
+| kinzoku tanchiki | 金属探知機 |  |  |
+| okamoto nyohei | 岡本女平 |  |  |
+| kisetsuhazure no ofuton | 季節外れのお布団 |  |  |
+| senaka | せなか |  |  |
+| setouchi mao no yamiichi | 瀬戸内マオの闇市 |  |  |
+| tama land | たまランド |  |  |
+| manzoku suru doumei | 満足する同盟 |  |  |
+| pell doukoukai | ペル同好会 |  |  |
+| scarlet maple | スカーレットメープル |  |  |
+| chirisiya | 塵紙屋 |  |  |
+| tokumori animal | とくもりあにまる |  |  |
+| wakarase seisaku iinkai | わからせ製作委員会 |  |  |
+| kuma qm | くまQM |  |  |
+| gekikara-naporitan-tou | 激辛ナポリタン党 |  |  |
+| naruchikukai | なるちく会 |  |  |
+| meido no miyage | 冥途のみやげ |  |  |
+| yobieki seisakusho | 予備役製作所 | 予備役製作所 （よびえきせいさくしょ） | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=208551/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01004412.html) |
+| kubo lion no heya | 窪リオンの部屋 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202696/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG68947.html) |
+| noahs room | noah's room |  |  |
+| niki scope | niki’scope |  |  |
+| tatsubons house | TATSUBON’S HOUSE |  |  |
+| triangle bottom | とらいあんぐる‐ぼとむ |  |  |
+| ripveil | RIPVEIL |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=201867/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG55640.html) \| [Ci-en](https://ci-en.dlsite.com/creator/8994) \| [pixiv](https://www.pixiv.net/users/25879518) |
+| pyonchi koubou | ぴょんち工房 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=77938/) \| [Ci-en](https://ci-en.dlsite.com/creator/14719) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG54724.html) \| [pixiv](https://www.pixiv.net/users/663392) \| [FANBOX](https://shouiti.fanbox.cc/) |
+| pink doragon | PINK☆DORAGON |  |  |
+| asunaro-shiki bakudan | あすなろ式爆弾 |  |  |
+| sylbee no hako | しるびーの箱 |  |  |
+| nukokyuu mamire | ぬこきゅうまみれ |  |  |
+| wakusei kaim | 惑星kaim |  |  |
+| gyuuhi ga umasugiru | 求肥がうますぎる |  |  |
+| sinokuma syoutengai | しのクマ商店街 |  |  |
+| unisonshift blossom | ユニゾンシフト：ブロッサム |  |  |
+| bonbee | ボンビー |  |  |
+| barakabadoh | ばらか馬堂 | ばらか馬堂 （ばらかばどう） | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=235939/) \| [Ci-en](https://ci-en.dlsite.com/creator/11102) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01075599.html) |
+| mishirosabi | 三代錆 |  |  |
+| funya milk | ふにゃみるく |  |  |
+| ill be bear | I’ll be BEAR |  |  |
+| tokushuyokujou tondenhei | 特殊浴場屯田兵 |  |  |
+| bimi to no souguu | 美味との遭遇 |  |  |
+| nobotchi seisakusho | ノボッチ製作所 |  |  |
+| touou | トウオウ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |

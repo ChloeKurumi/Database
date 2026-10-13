@@ -315,8 +315,8 @@ example:
 |  | === 手臂 > 手 === |  |  |
 | fisting | 拳交💪 | 将拳头插入阴道或肛门。<br>![图](# "https://ehgt.org/6e/34/6e348febf1e485d8187f60ef373c70e378de9f6e-907460-2024-1239-jpg_l.jpg")![图](# "https://ehgt.org/2d/7c/2d7c584f2d8dd98efe2ecdd77e83bff63c54a19e-197747-595-841-png_l.jpg") |  |
 | gloves | 手套 | 覆盖手和手指的衣服。可以向肩部延伸至手臂。 |  |
-| handjob | 打手枪 | 为其他人手淫。不应与`masturbation`混淆。<br>![图](# "https://ehgt.org/02/e7/02e79607efae17120115dafd18be129fd575d165-638605-1024-576-png_l.jpg") |  |
-| multiple handjob | 多重打手枪 | 多人为另一人人手淫。需要`handjob`标签。 |  |
+| handjob | 手交 | 为其他人手淫。不应与`masturbation`混淆。<br>![图](# "https://ehgt.org/02/e7/02e79607efae17120115dafd18be129fd575d165-638605-1024-576-png_l.jpg") |  |
+| multiple handjob | 多重手交 | 多人为另一人人手淫。需要`handjob`标签。 |  |
 |  | == 胸部 == |  |  |
 |  | === 胸部 > 乳房 === |  |  |
 | big areolae | 大乳晕 | 应至少达到乳房表面积的1/3。 |  |
@@ -616,7 +616,7 @@ example:
 |  | == Disability == | == 残疾 == |  |
 | blind | 失明 | 眼睛根本不能发挥作用的人。不应与`blindfold`混淆。 |  |
 | handicapped | 残疾 | 一个不能依靠自己的力量移动自己的一个或多个肢体的人。不应与`amputee`或`bondage`混淆。 |  |
-| mute | 哑巴 | 一个不能说话的人。不应用于不愿说话的人或戴`gag`的人。不用于`speechless`图库。 |  |
+| mute | 哑巴 | 一个不能说话的人。不应用于不愿说话的人或戴`gag`的人。不用于`textless narrative`图库。 |  |
 |  | == Consumption == | == 消费 == |  |
 | full tour | 消化道游览 | 一个角色被另一个角色整个吞下，穿过其消化系统，然后从肛门活着出来。只计算出现角色穿过消化系统的页面。可能援引`vore`标签。不应与`all the way through`混淆。 |  |
 |  | == Gender == | == 性别 == |  |
@@ -669,16 +669,17 @@ example:
 | hidden sex | 隐蔽性交 | 性行为发生在第三方的面前，但不被看见。 |  |
 | humiliation | 屈辱 | 在未参与的观众面前，以性方式非正当地侮辱人。 |  |
 | voyeurism | 偷窥 | 对从事性行为（也包括脱衣和如厕）的人进行偷窥。 |  |
-|  | == Low Presence == | == 低存在 == |  |
-| low bestiality | 低存在兽交 | 表示`bestiality`的情况没有通过存在规则(presence rule)。需要`bestiality`标签。 |  |
-| low guro | 低存在猎奇 | 表示`guro`的情况没有通过存在规则(presence rule)。需要`guro`标签。 |  |
-| low incest | 低存在乱伦 | 表示`incest`的情况没有通过存在规则(presence rule)。需要`incest`标签。 |  |
-| low scat | 低存在排便 | 表示`scat`的情况没有通过存在规则(presence rule)。需要`scat`标签。 |  |
-| low shotacon | 低存在正太 | 表示`shotacon`的情况没有通过存在规则(presence rule)。需要`shotacon`标签。 |  |
-| low smegma | 低存在阴垢 | 表示`smegma`的情况没有通过存在规则(presence rule)。需要`smegma`标签。 |  |
-|  | == High Presence == | == 高存在 == |  |
-| focus anal | 高存在肛交 | 图库超过 50% 的内容为`anal`。需要`anal`标签。 |  |
-| focus blowjob | 高存在口交 | 图库超过 50% 的内容为`blowjob`。需要`blowjob`标签。 |  |
-|  | focus cunnilingus高存在舔阴 | 图库超过 50% 的内容为`cunnilingus`。需要`cunnilingus`标签。 |  |
-| focus paizuri | 高存在乳交 | 图库超过 50% 的内容为`paizuri`。需要`paizuri`标签。 |  |
-| focus rimjob | 高存在舔肛 | 图库超过 50% 的内容为`rimjob`。需要`rimjob`标签。 |  |
+|  | == Low Presence == | == 低比例 == |  |
+| low bestiality | 低比例兽交 | 表示`bestiality`的情况没有通过存在规则(presence rule)。需要`bestiality`标签。 |  |
+| low guro | 低比例猎奇 | 表示`guro`的情况没有通过存在规则(presence rule)。需要`guro`标签。 |  |
+| low incest | 低比例乱伦 | 表示`incest`的情况没有通过存在规则(presence rule)。需要`incest`标签。 |  |
+| low scat | 低比例排便 | 表示`scat`的情况没有通过存在规则(presence rule)。需要`scat`标签。 |  |
+| low shotacon | 低比例正太 | 表示`shotacon`的情况没有通过存在规则(presence rule)。需要`shotacon`标签。 |  |
+| low smegma | 低比例阴垢 | 表示`smegma`的情况没有通过存在规则(presence rule)。需要`smegma`标签。 |  |
+|  | == High Presence == | == 高比例 == |  |
+| focus anal | 高比例肛交 | 图库超过 50% 的内容为`anal`。需要`anal`标签。 |  |
+| focus blowjob | 高比例口交 | 图库超过 50% 的内容为`blowjob`。需要`blowjob`标签。 |  |
+|  | focus cunnilingus高比例舔阴 | 图库超过 50% 的内容为`cunnilingus`。需要`cunnilingus`标签。 |  |
+| focus handjob | 高比例手交 | 图库超过50%的图片为`handjob`，需要`handjob`标签。 |  |
+| focus paizuri | 高比例乳交 | 图库超过 50% 的内容为`paizuri`。需要`paizuri`标签。 |  |
+| focus rimjob | 高比例舔肛 | 图库超过 50% 的内容为`rimjob`。需要`rimjob`标签。 |  |

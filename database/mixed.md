@@ -54,7 +54,7 @@ example:
 | multimouth blowjob | 多口口交 | 涉及一个阴茎和两个或多个嘴的性行为。需要`blowjob`标签。不应与`double blowjob`混淆。 |  |
 |  | == 手臂 == |  |  |
 |  | === 手臂 > 手 === |  |  |
-| multiple handjob | 多重打手枪 | 多人为另一人人手淫。需要`handjob`标签。 |  |
+| multiple handjob | 多重手交 | 多人为另一人人手淫。需要`handjob`标签。 |  |
 |  | == 下半身 == |  |  |
 |  | === 下半身 > 阴部 === |  |  |
 |  | ==== 下半身 > 阴部 > 阴茎 ==== |  |  |
@@ -81,8 +81,8 @@ example:
 |  | === 上下文 > 亲属 === |  |  |
 | incest | 乱伦 | 亲属之间的性行为，包括无血缘关系的人。将发送图库到思念峡湾。 |  |
 | inseki | 姻亲 | 无血缘关系的亲属之间的性行为。需要`incest`标签。 |  |
-|  | == Low Presence == | == 低存在 == |  |
-| low incest | 低存在乱伦 | 表示`incest`的情况没有通过存在规则(presence rule)。需要`incest`标签。 |  |
+|  | == Low Presence == | == 低比例 == |  |
+| low incest | 低比例乱伦 | 表示`incest`的情况没有通过存在规则(presence rule)。需要`incest`标签。 |  |
 
 <!--
 Template: 

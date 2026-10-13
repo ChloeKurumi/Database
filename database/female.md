@@ -320,8 +320,8 @@ example:
 | fingering | 指法 | 使用手指产生性快感。不应在`masturbation`时使用。男性版本是`prostate massage`。<br>![图](# "https://ehgt.org/a3/4c/a34cdf87840b6962988b6566cd2337694118470d-8474240-4059-2852-png_l.jpg")![图](# "https://ehgt.org/8d/47/8d477a3b24d049b1b0eaae033f39a023a2c78f60-13283736-4059-2852-png_l.jpg") |  |
 | fisting | 拳交💪 | 将拳头插入阴道或肛门。<br>![图](# "https://ehgt.org/bb/e0/bbe0dec8de4cf3912770e4ad38337a7d8b60aace-256432-800-600-jpg_l.jpg")![图](# "https://ehgt.org/0a/50/0a5071b7fce6d006d5b12320bd343de18dd1b83b-824589-1024-768-png_l.jpg")![图](# "https://ehgt.org/41/d0/41d0182099098eaa7dc04257d7caca56392776f3-436838-650-540-png_l.jpg") |  |
 | gloves | 手套 | 覆盖手和手指的衣服。可以向肩部延伸至手臂。 |  |
-| handjob | 打手枪 | 为其他人手淫。不应与`masturbation`混淆。<br>![图](# "https://ehgt.org/02/bf/02bf048f87962fc90c905c2cec2c4201904c0b89-196591-768-1024-jpg_l.jpg")![图](# "https://ehgt.org/f4/44/f444e6b60f0e10a1c68223d8b9c8c936ee3d3ac9-343233-800-600-jpg_l.jpg")![图](# "https://ehgt.org/d0/ce/d0ce13f5b7d8f358ecf86c6e1a843003ee0f0f21-228098-1056-990-jpg_l.jpg") |  |
-| multiple handjob | 多重打手枪 | 多人为另一人人手淫。需要`handjob`标签。 |  |
+| handjob | 手交 | 为其他人手淫。不应与`masturbation`混淆。<br>![图](# "https://ehgt.org/02/bf/02bf048f87962fc90c905c2cec2c4201904c0b89-196591-768-1024-jpg_l.jpg")![图](# "https://ehgt.org/f4/44/f444e6b60f0e10a1c68223d8b9c8c936ee3d3ac9-343233-800-600-jpg_l.jpg")![图](# "https://ehgt.org/d0/ce/d0ce13f5b7d8f358ecf86c6e1a843003ee0f0f21-228098-1056-990-jpg_l.jpg") |  |
+| multiple handjob | 多重手交 | 多人为另一人人手淫。需要`handjob`标签。 |  |
 |  | == 胸部 == |  |  |
 |  | === 胸部 > 乳房 === |  |  |
 | big areolae | 大乳晕 | 应至少达到乳房表面积的1/3。 |  |
@@ -508,7 +508,7 @@ example:
 | sarashi | 缠胸布 | 缠胸布（日语：晒/さらし），围绕胃/胸部区域的长绷带状布料。对于女性来说，它通常覆盖胸部。需要`bandages`标签。 |  |
 | schoolboy uniform | 男生制服 | `schoolgirl uniform`的男性版本。需要`crossdressing`标签。 |  |
 | schoolgirl uniform | ![水手服图标](https://raw.githubusercontent.com/wiki/EhTagTranslation/Database/database-icon/schoolgirl%20uniform.webp)女生制服 | 水手服或其他校服。格子或打褶的裙子本身不算。<br>![图](https://ehgt.org/57/e9/57e915de0f7ae8b72fa35f0d8f1f8ab98a078c78-1033904-1280-720-png_l.jpg)![图](https://ehgt.org/73/d5/73d5efbd0febd34ab97fb0cf2704ef4f1f90438d-1541653-1280-720-png_l.jpg)![图](https://ehgt.org/d1/63/d1638197abf4591cb9df6f947d6659eedb402a50-1140669-1280-720-png_l.jpg) |  |
-| school gym uniform | 学校体操服 | 短袖白色 T 恤，领口和袖口接缝对比鲜明，用作学校体育活动的制服。有时在前面带有年级或姓名标签，搭配纯色短裤或`bloomers`。 |  |
+| school gym uniform | 学校体操服 | 短袖白色 T 恤，领口和袖口接缝对比鲜明，用作学校体育活动的制服。有时在前面带有年级或姓名标签，搭配纯色短裤或`bloomers`。![](https://ehgt.org/w/02/408/72326-50g90wb0.webp) ![](https://ehgt.org/w/02/433/64900-mda9ti01.webp) ![](https://ehgt.org/w/02/380/76328-9d7gn33f.webp) |  |
 | school swimsuit | ![死库水图标](https://raw.githubusercontent.com/wiki/EhTagTranslation/Database/database-icon/school%20swimsuit.webp)死库水 | 一体型的泳装，没有任何腿或手臂覆盖，通常是在日本学校使用。常是蓝色或白色，有时胸部有名牌。不需要`swimsuit`标签。不应与`leotard`混淆。<br>![图](https://ehgt.org/cc/71/cc711fa3c58750e3b8d852b6da870c29c059fbc2-1579603-2103-2773-jpg_l.jpg)![图](# "https://ehgt.org/88/da/88daa7da592259e458e90efff36f214be6faa6eb-2690383-1411-2014-jpg_l.jpg")![图](# "https://ehgt.org/01/18/01188ffd91e156558f1695a745f97ec9d77d88df-832372-1050-1494-jpg_l.jpg")![图](# "https://ehgt.org/f4/cd/f4cd5a7cb8c78fddd700390f3c78a1392386bcef-211373-800-600-jpg_l.jpg")![图](# "https://ehgt.org/88/cf/88cff98e2d855af7e7097fe433a4c06676c69229-177598-800-600-jpg_l.jpg")![图](https://ehgt.org/e6/1d/e61d157329d82dd8f663e3e41d0e7328ec51a442-2452635-2983-4237-jpg_l.jpg)![图](# "https://ehgt.org/02/bf/02bf0447d758be636711f0fea0e16639c84629e1-210698-800-600-jpg_l.jpg") |  |
 | scrotal lingerie | 阴囊袋 | 穿在阴茎或阴囊上的色情衣物。<br>![图](# "https://ehgt.org/af/67/af67dfc8fc318806597efe9a97418369e169f570-2294341-1707-2400-jpg_l.jpg")![图](# "https://ehgt.org/28/30/2830b304c6cde85a57e45b6f98b3d5c4857ce4e7-1648294-2523-3531-jpg_l.jpg") |  |
 | small penis | 小小鸟 | 一个异常小的阴茎，必须小于其拥有者的食指。 |  |
@@ -645,7 +645,7 @@ example:
 |  | == Disability == | == 残疾 == |  |
 | blind | 失明 | 眼睛根本不能发挥作用的人。不应与`blindfold`混淆。 |  |
 | handicapped | 残疾 | 一个不能依靠自己的力量移动自己的一个或多个肢体的人。不应与`amputee`或`bondage`混淆。 |  |
-| mute | 哑巴 | 一个不能说话的人。不应用于不愿说话的人或戴`gag`的人。不用于`speechless`图库。 |  |
+| mute | 哑巴 | 一个不能说话的人。不应用于不愿说话的人或戴`gag`的人。不用于`textless narrative`图库。 |  |
 |  | == Consumption == | == 消费 == |  |
 | full tour | 消化道游览 | 一个角色被另一个角色整个吞下，穿过其消化系统，然后从肛门活着出来。只计算出现角色穿过消化系统的页面。可能援引`vore`标签。不应与`all the way through`混淆。 |  |
 |  | == Gender == | == 性别 == |  |
@@ -701,16 +701,17 @@ example:
 | hidden sex | 隐蔽性交 | 性行为发生在第三方的面前，但不被看见。 |  |
 | humiliation | 屈辱 | 在未参与的观众面前，以性方式非正当地侮辱人。 |  |
 | voyeurism | 偷窥 | 对从事性行为（也包括脱衣和如厕）的人进行偷窥。 |  |
-|  | == Low Presence == | == 低存在 == |  |
-| low bestiality | 低存在兽交 | 表示`bestiality`的情况没有通过存在规则(presence rule)。需要`bestiality`标签。 |  |
-| low guro | 低存在猎奇 | 表示`guro`的情况没有通过存在规则(presence rule)。需要`guro`标签。 |  |
-| low incest | 低存在乱伦 | 表示`incest`的情况没有通过存在规则(presence rule)。需要`incest`标签。 |  |
-| low lolicon | 低存在萝莉 | 表示`lolicon`的情况没有通过存在规则(presence rule)。需要`lolicon`标签。 |  |
-| low scat | 低存在排便 | 表示`scat`的情况没有通过存在规则(presence rule)。需要`scat`标签。 |  |
-| low smegma | 低存在阴垢 | 表示`smegma`的情况没有通过存在规则(presence rule)。需要`smegma`标签。 |  |
-|  | == High Presence == | == 高存在 == |  |
-| focus anal | 高存在肛交 | 图库超过 50% 的内容为`anal`。需要`anal`标签。 |  |
-| focus blowjob | 高存在口交 | 图库超过 50% 的内容为`blowjob`。需要`blowjob`标签。 |  |
-| focus cunnilingus | 高存在舔阴 | 图库超过 50% 的内容为`cunnilingus`。需要`cunnilingus`标签。 |  |
-| focus paizuri | 高存在乳交 | 图库超过 50% 的内容为`paizuri`。需要`paizuri`标签。 |  |
-| focus rimjob | 高存在舔肛 | 图库超过 50% 的内容为`rimjob`。需要`rimjob`标签。 |  |
+|  | == Low Presence == | == 低比例 == |  |
+| low bestiality | 低比例兽交 | 表示`bestiality`的情况没有通过存在规则(presence rule)。需要`bestiality`标签。 |  |
+| low guro | 低比例猎奇 | 表示`guro`的情况没有通过存在规则(presence rule)。需要`guro`标签。 |  |
+| low incest | 低比例乱伦 | 表示`incest`的情况没有通过存在规则(presence rule)。需要`incest`标签。 |  |
+| low lolicon | 低比例萝莉 | 表示`lolicon`的情况没有通过存在规则(presence rule)。需要`lolicon`标签。 |  |
+| low scat | 低比例排便 | 表示`scat`的情况没有通过存在规则(presence rule)。需要`scat`标签。 |  |
+| low smegma | 低比例阴垢 | 表示`smegma`的情况没有通过存在规则(presence rule)。需要`smegma`标签。 |  |
+|  | == High Presence == | == 高比例 == |  |
+| focus anal | 高比例肛交 | 图库超过 50% 的内容为`anal`。需要`anal`标签。 |  |
+| focus blowjob | 高比例口交 | 图库超过 50% 的内容为`blowjob`。需要`blowjob`标签。 |  |
+| focus cunnilingus | 高比例舔阴 | 图库超过 50% 的内容为`cunnilingus`。需要`cunnilingus`标签。 |  |
+| focus handjob | 高比例手交 | 图库超过50%的图片为`handjob`，需要`handjob`标签。 |  |
+| focus paizuri | 高比例乳交 | 图库超过 50% 的内容为`paizuri`。需要`paizuri`标签。 |  |
+| focus rimjob | 高比例舔肛 | 图库超过 50% 的内容为`rimjob`。需要`rimjob`标签。 |  |

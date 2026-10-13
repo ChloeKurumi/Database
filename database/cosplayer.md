@@ -13,8 +13,7 @@ copyright: >
 rules:
   - 有官方或公认的中文名称时**优先写中文名**，否则写日文名。
   - 日文名中有汉字者优先写含汉字的名称。
-  - >-
-    可以依据[规则](https://zh.wikipedia.org/wiki/Wikipedia:汉字文化圈语言专有名词中译规则#日本语专有名词的中译)将日文名转写为中文名，但**不要混合中文汉字与假名**。
+  - 可以依据[规则](https://zh.wikipedia.org/wiki/Wikipedia:汉字文化圈语言专有名词中译规则#日本语专有名词的中译)将日文名转写为中文名，但**不要混合中文汉字与假名**。
   - 为提高图片可用性，以及减轻萌娘百科服务器压力，引用来自萌娘百科的图片时请使用图床，如[流浪图床](https://p.sda1.dev/)。
 example:
   raw: sayako
@@ -147,10 +146,9 @@ example:
 | shiraga yanko | Shiraga Yanko |  |  |
 | byoru | Byoru |  |  |
 | mianbing xianer | 面饼仙儿 |  |  |
-| una cosplayer | 角色扮演者 |  |  |
 | fangqiao yepo | 坊桥夜泊 | 坊橋夜泊 |  |
 | jiuqi | 九柒喵 | 中国Cosplayer | [X](https://x.com/jiuqiqiqiqim) |
-| blacqkl | 白莉爱吃巧克力 |  |  |
+| blacqkl | 白莉爱吃巧克力 |  | [X](https://x.com/BLACQKL/)<br>[Fantia](https://fantia.jp/fanclubs/429143/) |
 | nyako | Nyako喵子 |  |  |
 | hachi | Hachi小芭 |  |  |
 | umeko j | Umeko J |  |  |
@@ -185,6 +183,13 @@ example:
 | machi | 马吉 | ![](https://ehgt.org/w/01/951/22502-pv4vfzgu.webp) | [ Pixiv](https://www.pixiv.net/users/4632856) [Patreon](http://patreon.com/machi0910) [FANBOX](http://machi0910.fanbox.cc) |
 | lust77 | 柒柒要乖哦 |  |  |
 | kaneko-kamiao | KANEKO\_咔喵 |  |  |
+| minazuki hikaru | 皆月ひかる |  | [X](https://x.com/hikaru_emo) |
+| ran3 | 染三 |  |  |
+| baili shirly | 白栎Shirly |  |  |
+| etsu ko | 纸悦Etsu\_ko |  | [X](https://x.com/Etsuko827) |
+| upminaa | Upminaa |  |  |
+| titi cosplay | 钛合金TiTi |  |  |
+| reng | 冷 | > 一到冬天就不得不说我取的这个名字的由来了，其实是我很怕冷，体质很差比身边大部分人都怕冷，所以就叫冷了，很草率的一个取名，， | [X](https://x.com/idtNothinglose) |
 
 <!--
 Template: 
