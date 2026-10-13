@@ -211,8 +211,8 @@ example:
 | tanlines | 晒痕 | 浅浅的可见的线，通常来自衣服，由日光浴导致。不得与`dark skin`混淆。<br>![图](# "https://ehgt.org/d6/a8/d6a86a4e2a3d78d869d1f7da6a80e9ab3bf4d319-1264624-1200-1600-jpg_l.jpg") |  |
 |  | === 身体 > 体重 === |  |  |
 | anorexic | 瘦骨嶙峋 | 体重过轻，以至于皮肤凹陷、骨骼结构可见。 |  |
-| bbw | 胖女人 | 胖女人，必须要有腹部褶皱。 |  |
-| ssbbw | 超级胖女人 | 宽比高长的女性。需要`bbw`标签。 |  |
+| bbw | 大美女 | 大美女，必须要有腹部褶皱。 |  |
+| ssbbw | 超级大美女 | 宽比高长的女性。需要`bbw`标签。 |  |
 | weight gain | 体重增加 | 通过摄取食物而变得更胖，极有可能成为`bbw`。不应与`inflation`混淆。 |  |
 |  | == 头部 == |  |  |
 | ahegao | 阿黑颜 | 夸张的面部表情表示高兴，通常包括上瞟的白眼，张开大嘴，舌头伸出来。通常出现在性的高潮。如果此表现的来源是由疼痛引起，则不算。<br>![ahegao](https://cloud.githubusercontent.com/assets/5716100/15511173/105436d0-220d-11e6-87f0-b2d4eca138bf.png)![图](# "https://ehgt.org/4e/45/4e45fd83ef719e9b7bdee70c25bfa4b68371529f-740277-1133-1600-jpg_l.jpg")![图](# "https://ehgt.org/77/13/771350a660bfbdac29fe6c88ac07051a6ca22ea1-527873-606-850-jpg_l.jpg") |  |
