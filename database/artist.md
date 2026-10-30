@@ -41,7 +41,7 @@ example:
 | satou kibi | さとうきび | ![さとうきび头像](https://tva1.sinaimg.cn/large/6c84b2d6gw1f3twxmi433j204q04qwes.jpg)<br>阳光又可爱的东方~<br>![さとうきび作品](https://ehgt.org/13/71/137143c421272e951aab33ac001fc73f1f125b9b-1341000-1410-2000-jpg_250.jpg) | [pixiv](https://www.pixiv.net/users/581502) [X](https://x.com/satoukabi) |
 | nanpuu | なんぷぅ | ![nanpuu头像](https://tva1.sinaimg.cn/large/6c84b2d6gw1f3tx3gr6jtj203j04q3yj.jpg)<br>![nanpuu作品](# "https://ehgt.org/9d/61/9d61e90be122e31d238883adcbe4a2e6e3f8feb4-1784607-1411-2000-jpg_250.jpg") | [pixiv](https://www.pixiv.net/users/86539) [X](https://x.com/nannpu13) |
 | yukiu con | 雪雨こん | ![X](https://pbs.twimg.com/profile_images/1759562017239871488/0eM8Mp4n_400x400.jpg)<br><br>**作者X头像**<br><br>![works](https://ehgt.org/8b/d6/8bd6fa12a0c51561397940432fa85a7db82b9eed-701663-2130-3047-jpg_250.jpg) | [X](https://x.com/yukiucon) [pixiv](https://www.pixiv.net/users/10383) |
-| land sale | 兰户せる | ![作者头像](https://tva1.sinaimg.cn/large/6c84b2d6gw1f3tx9au020j204q04qjrj.jpg)<br>![作品](# "https://ehgt.org/bd/9f/bd9fb746ba895d019aac2cd84a7a9bcde1aef500-1095269-1400-2013-jpg_250.jpg") | [pixiv](https://www.pixiv.net/users/5499) |
+| land sale | 蘭戸せる | ![作者头像](https://tva1.sinaimg.cn/large/6c84b2d6gw1f3tx9au020j204q04qjrj.jpg)<br>![作品](# "https://ehgt.org/bd/9f/bd9fb746ba895d019aac2cd84a7a9bcde1aef500-1095269-1400-2013-jpg_250.jpg") | [pixiv](https://www.pixiv.net/users/5499) |
 | emily | emily | ![emily头像](https://tva1.sinaimg.cn/large/6c84b2d6gw1f3txb9wklcj204q04qmxj.jpg)<br>![emily作品](# "https://ehgt.org/f9/90/f9907e06268b6d62a9b9705fc5f4891af63e44ed-122897-800-600-jpg_250.jpg") | [pixiv](https://www.pixiv.net/users/766376) [X](https://x.com/sstomomi) |
 | chiri | ちり | ![ちり头像](https://tva1.sinaimg.cn/large/6c84b2d6gw1f3tz43bqjoj204q04q3yz.jpg)<br>![ちり作品](# "https://ehgt.org/13/bc/13bcf50600c232d434d2c39ca0d56d8889c5618d-1306943-2123-3000-jpg_250.jpg") | [pixiv](https://www.pixiv.net/users/1978427) |
 | kantoku | 监督 | 笔名的由来是被友人开玩笑称呼为监督。作品以着色及搭色最为人所称道，作品量多且质精，为日本80年代后之画师新锐。亦有许多原创人物。多数作品为同人美少女，构图精细，经常应邀至同人展，多数作品为彩图插画，而非漫画或铅笔素描。 | [萌娘百科](https://zh.moegirl.org.cn/监督%28插画家%29) [维基百科](https://zh.wikipedia.org/wiki/監督_%28插畫家%29) [pixiv](https://www.pixiv.net/users/1565632) [X](https://x.com/kantoku_5th) |
@@ -181,7 +181,7 @@ example:
 | rara8 | らら8 |  |  |
 | medaka kenichi | 目高健一 |  |  |
 | kanna | カンナ \| かん奈 | 重名<br>一位是以【水面月】活动的【カンナ】<br>一位是以【PLUM】活动的【かん奈】 | カンナ：[FANBOX](https://kanna-minamoduki.fanbox.cc/) \| [Bluesky](https://bsky.app/profile/kanna-minamo.bsky.social) \| [pixiv](https://www.pixiv.net/users/37962341) \| [X](https://x.com/kE6NuSnJcuHWbDA) \| [X](https://x.com/minamoduki10)<br>かん奈：[X](https://x.com/kannaplum) [FANBOX](https://kannaplum.fanbox.cc/) |
-| kazabuki poni | 风吹ぽに |  |  |
+| kazabuki poni | 風吹ぽに |  |  |
 | ouma tokiichi | 逢魔刻壹 | 逢魔刻壱 | [X](https://x.com/touma00) [pixiv](https://www.pixiv.net/users/23239) |
 | momonoki fum | 百乃木富梦 |  |  |
 | miito shido | 三糸シド |  | [pixiv](https://www.pixiv.net/users/90267) \| [X](https://x.com/syd_meat00) |
@@ -332,7 +332,7 @@ example:
 | sada ko-ji | さだこーじ |  |  |
 | mikami mika | 三上ミカ |  |  |
 | nagare ippon | 流一本 |  |  |
-| hicoromo kyouichi | 绯衣响一 |  |  |
+| hicoromo kyouichi | 绯衣响一 | 緋衣 響一 | [pixiv](https://www.pixiv.net/users/485795) \| [X](https://x.com/hicoromo) \| [Pawoo](https://pawoo.net/@ufufu_eye) |
 | akaze kidai | 亚风纪代 |  |  |
 | yuuki | 悠宇树 |  |  |
 | ohkami ryosuke | 狼亮辅 |  |  |
@@ -362,7 +362,7 @@ example:
 | shinji mao | 真慈真雄 |  |  |
 | aoi manabu | あおいまなぶ |  |  |
 | izumi tsubasu | 和泉翼 | 和泉つばす |  |
-| sakai hamachi | 堺はまち |  |  |
+| sakai hamachi | 堺はまち |  | [FANBOX](https://sakai-hamachi.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/38200) \| [X](https://x.com/hamachi_sakai) \| [Fantia](https://fantia.jp/fanclubs/229453) \| [Pawoo](https://pawoo.net/@SAKAI_HAMACHI) |
 | kannazuki nem | 神無月ねむ |  |  |
 | sakurabe notos | 桜部のとす |  |  |
 | misaki kurehito | 深崎暮人 | 深崎暮人（3月28日－），日本男性插画家与原画家，出生于北海道，目前居住于东京都。<br><br>轻小说`saenai heroine no sodatekata`的插图绘师和人物原案设计。<br>![图](https://pbs.twimg.com/profile_images/972333856744390656/rJtZ32OR_400x400.jpg)<br>**作者推特头像**<br>![图](# "https://ehgt.org/c7/87/c787cad12e11f467aa679f2346539dc7f43b26ab-272083-472-630-jpg_l.jpg") | [X](https://x.com/misaki_cradle) [Twitter - R18](https://x.com/kurehito_r18) [维基百科](https://zh.wikipedia.org/wiki/深崎暮人) (\*) |
@@ -711,7 +711,7 @@ example:
 | lorica | Lorica |  |  |
 | nakayama tetsugaku | 中山哲学 |  |  |
 | nisepakuman-san | 偽パクマンさん |  |  |
-| oobayashi mori | 大林森 |  |  |
+| oobayashi mori | 大林森 |  | [pixiv](https://www.pixiv.net/users/201389) \| [X](https://x.com/morioobayashi) |
 | piero | PIえろ |  |  |
 | saida kazuaki | さいだ一明 | 喜欢过膝袜的成人向漫画家。<br>参考标签：`stockings`<br>※注意老师名字中的一横是汉字的“一”，而非长音符号“ー”<br><br>单行本《股ひらいて・腰ふって》<br>![图](# "https://ehgt.org/2f/80/2f8015a046f360ede7f90fb95d4a353139183dcb-379599-1128-1600-jpg_l.jpg") | [X](https://x.com/saida_kazuaki) |
 | sayryu | 性龙 | 性竜 |  |
@@ -1042,7 +1042,7 @@ example:
 | sugiyuu | スギユウ |  | [FANBOX](https://www.fanbox.cc/@sugiyuu) \| [pixiv](https://www.pixiv.net/users/97799) \| [X](https://x.com/sugiyuu) |
 | wox yang | 沃克羊 |  |  |
 | garland | があらんど |  |  |
-| homare | ほまれ \| 誉 | 鈴の丘<br>FOOL's ART GALLERY |  |
+| homare | ほまれ \| 誉 | 鈴の丘<br>FOOL's ART GALLERY | 誉 [FANBOX](https://homare0601.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/268507) \| [X](https://x.com/homare_works) \| [Bluesky](https://bsky.app/profile/homare0601.bsky.social) \| [Pawoo](https://pawoo.net/@homare0601) |
 | amadume ryuuta | 甘诘留太（A・浪漫・我慢） | 甘詰 留太（あまづめ りゅうた）是日本漫画家。；另用别名 A・浪漫・我慢（えろまんがまん）也发表作品。<br>曾经在早稻田大学的「いじけっ子マンガ集団」社团活动过，在同个社团中，漫画家`unno hotaru`作为甘诘留太的前辈也曾经在这里活动过。<br>作者的笔名「甘詰留太」是最初进行同人志活动时起的，笔名的由来是“到了最后关头太松懈了结果留级了”（原文「詰めが甘くて留年したから」）。之后进行成人向的同人志漫画活动时，将笔名更改为“A・浪漫・我慢”，并以这个名字商业出道了。后来在ティーアイネット杂志社开始活动后，因为又需要别的名义进行创作，于是又再次使用回甘诘留太的名字。<br>作者早期的作品主要是画成人向为中心，在以作品《年上ノ彼女》在全年龄向杂志上出道后，创作的中心转为全年龄向的作品。<br>画漫画的契机是，在学生时代，玩桌上角色扮演游戏时，画的角色被朋友们给予低评价后，非常不服气地开始模仿家里有的漫画。<br>在作者的成人向漫画中，女主角的名字多为満子（みつこ），而与其相对的另一个少女的名字多为今日子（きょうこ）<br>作者在漫画杂志的卷尾评论中的近况报告中，关于中日龙棒球队的话题较多。<br>（以上翻译自日文维基百科）<br>作者的成年向漫画主要以`lolicon`系为主。<br>![图](# "https://ehgt.org/6b/f1/6bf1180038610feb7cc914bfd67278bf2867218e-259666-757-960-jpg_l.jpg")<br>单行本《満子》 | [维基百科](https://ja.wikipedia.org/wiki/甘詰留太) |
 | blade | BLADE |  |  |
 | itou seto | イトウせと |  |  |
@@ -1681,7 +1681,7 @@ example:
 | irie jyunn | 入江jyunn |  |  |
 | komeshiro kasu | 米白粕 |  | [X](https://x.com/kasu1923) [pixiv](https://www.pixiv.net/users/867590) |
 | gotou suzuna | 後藤スズナ |  |  |
-| pettanp | ペッタンP |  |  |
+| pettanp | ペッタンP |  | [pixiv](https://www.pixiv.net/users/884506) \| [X](https://x.com/pettanp) \| [Pawoo](https://pawoo.net/@pettanp) |
 | nanashi noizi | ななしのいぢ |  |  |
 | koori nezumi | 冰鼠 |  |  |
 | fluff kevlar | Fluff-Kevlar |  |  |
@@ -2435,7 +2435,7 @@ example:
 | shirabe shiki | 調四季 |  |  |
 | kobuichi | 小舞一 | 小舞一（こぶいち）是日本的游戏原画家，插画家。柚子社主要原画，与同公司的梦璃凛画风极其相似（柚子脸元凶）。 | [X](https://x.com/kobuichi) |
 | yaneko uta | 弥猫うた |  | [pixiv](https://www.pixiv.net/users/10594960) [X](https://x.com/atu_okenay) |
-| kirisaki byakko | 雾咲白狐 |  | [pixiv](https://www.pixiv.net/users/147437) |
+| kirisaki byakko | 雾咲白狐 | 霧咲白狐 | [pixiv](https://www.pixiv.net/users/147437) |
 | bareisho | 马铃薯 | ![X](https://pbs.twimg.com/profile_images/1337775408142422018/TMWrGbvL_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/ba_reisho) [HP](https://bareishobatake.wixsite.com/oimobatake) |
 | wakadori nikomi | 若鶏にこみ |  |  |
 | shikitani asuka | 色谷あすか |  | [X](https://x.com/sikitani_asuka) [pixiv](https://www.pixiv.net/users/3188698) |
@@ -3099,7 +3099,7 @@ example:
 | ronrinri ronri | 論倫理ろんり |  |  |
 | tsukueno elf | 机野エルフ |  |  |
 | hiiragi popura | 柊ぽぷら |  | [pixiv](https://www.pixiv.net/users/412239) |
-| nogiwa kaede | 野际かえで |  |  |
+| nogiwa kaede | 野際かえで |  |  |
 | hitoi | 灯问 | ![](https://i.pixiv.cat/user-profile/img/2022/09/14/21/58/52/23332792_57aab88e979e352dac1cf2a8b9761948_170.jpg)<br>漫画家。作品以`netorare`、`cheating`为主 | [X](https://x.com/hitoi_k) [pixiv](https://www.pixiv.net/users/16163201) |
 | bouen | ぼうえん |  |  |
 | tsukudani | 佃煮 |  | [X](https://x.com/tukudani01) [pixiv](https://www.pixiv.net/users/2543) |
@@ -3656,7 +3656,7 @@ example:
 | yunagi amane | 忧凪天音 |  |  |
 | nusmusbim | ナスムスビム |  | [pixiv](https://www.pixiv.net/users/647774) \| [FANBOX](https://nusmusbim.fanbox.cc/) \| [X](https://x.com/nusmusbim_ss) \| [Fantia](https://fantia.jp/fanclubs/9575) |
 | tatsu tairagi | 燵成 |  |  |
-| doemutan | どえむたん |  |  |
+| doemutan | どえむたん |  | [pixiv](https://www.pixiv.net/users/31392159) \| [X](https://x.com/doeeeeeem) \| [Skeb](https://skeb.jp/@doeeeeeem) |
 | ooshima towa | 大島永遠 |  |  |
 | posuimianju | 破碎面具 |  | [pixiv](https://www.pixiv.net/users/1699041) [X](https://x.com/psmj01) |
 | suzuki hinomi | 鈴木ひのみ |  | [pixiv](https://www.pixiv.net/users/20340462) [X](https://x.com/SuzukiHinomi) |
@@ -4583,7 +4583,7 @@ example:
 | carlos toshiki | カルロスとしき |  |  |
 | carnelian | CARNELIAN |  |  |
 | carrot | きゃろっと |  |  |
-| caruta | caruta |  |  |
+| caruta | caruta |  | [pixiv](https://www.pixiv.net/users/2392466) \| [X](https://x.com/carutaan) \| [Skeb](https://skeb.jp/@carutaan) \| [FANBOX](https://carutaan.fanbox.cc/) \| [Fantia](https://fantia.jp/fanclubs/22251) |
 | cashew | かしゅう |  |  |
 | cashue | 香愁 |  |  |
 | cassandra | かっさんどら |  |  |
@@ -5938,7 +5938,7 @@ example:
 | hot | HOT |  |  |
 | hot melon | Hot Melon |  |  |
 | hota. | ほた。 |  |  |
-| hotaru | 蛍 |  |  |
+| hotaru | ほたる |  |  |
 | hotarugusa | ほたる草 |  |  |
 | hotei kazuha | 保汀一葉 |  |  |
 | hotori | 歩鳥 |  |  |
@@ -6461,7 +6461,7 @@ example:
 | kakinomoto utamaro | 柿ノ本歌麿 |  |  |
 | kakitamajiru | かきたま汁 |  |  |
 | kakitsubata kanae | 杜若かなえ |  |  |
-| kakitsubata tsukune | 杜若つくね |  |  |
+| kakitsubata tsukune | 杜若つくね |  | [pixiv](https://www.pixiv.net/users/589) |
 | kakizaki | 柿崎 |  |  |
 | kakka hideto | 活火秀人 |  |  |
 | kakudai | カクダイ |  |  |
@@ -6737,7 +6737,7 @@ example:
 | kazushirononko | カズシロノンコ |  |  |
 | kazutaro | かずたろ |  |  |
 | kazuto | 和斗 |  |  |
-| kazuwo daisuke | カズヲダイスケ |  |  |
+| kazuwo daisuke | カズヲダイスケ |  | [FANBOX](https://kzdk.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/924671) \| [X](https://x.com/kzdksmg) |
 | kazuya | カズヤ |  |  |
 | kcccc | kcccc |  |  |
 | kebabuta | けばブタ |  |  |
@@ -7475,7 +7475,7 @@ example:
 | lummy | Lummy |  |  |
 | lumper sheider | LumperSheider |  |  |
 | luphis | luphis |  |  |
-| lutein | Lutein |  |  |
+| lutein | Lutein | るていん | [pixiv](https://www.pixiv.net/users/5719392) \| [FANBOX](https://lutein.fanbox.cc/) \| [X](https://x.com/lutein1455) \| [Skeb](https://skeb.jp/@lutein1455) |
 | luu | Luu |  |  |
 | lux | Lux |  |  |
 | lvi | LVI |  |  |
@@ -8458,7 +8458,7 @@ example:
 | nako mameta | なこ豆太 |  |  |
 | nakuma meika | なくま冥架 |  |  |
 | nakura | なくら |  |  |
-| nakura yumari | 奈倉ゆまり |  |  |
+| nakura yumari | 奈倉ゆまり |  | [X](https://x.com/nakura_yumari) \| [pixiv](https://www.pixiv.net/users/17328692) |
 | nalvas | nalvas |  |  |
 | nalzo | nalzo |  |  |
 | namaki | 奈慎 |  |  |
@@ -8569,7 +8569,7 @@ example:
 | nasuo | なすお |  |  |
 | natin | なてぃん |  | [FANBOX](https://natinpo.fanbox.cc/) \| [Misskey.io](https://misskey.io/@natinsan) \| [X](https://x.com/cool_natinsan) \| [pixiv](https://www.pixiv.net/users/11598494) \| [Lit.Link](https://lit.link/en/vKtqLq6TSNbqi4wODKoMmaHVeLY2) |
 | nato | NATO |  |  |
-| natsu | 捺 |  |  |
+| natsu | 捺 |  | [pixiv](https://www.pixiv.net/users/53595775) \| [X](https://x.com/FoamyforMe) \| [Skeb](https://skeb.jp/@FoamyforMe) |
 | natsu kirin | ナツキリン |  |  |
 | natsufuyu denki | 夏冬伝季 |  |  |
 | natsuhara saike | 夏原サイケ |  |  |
@@ -9018,7 +9018,7 @@ example:
 | omegane | 御眼鏡 |  |  |
 | omi | おみ |  |  |
 | omizu | おみず |  |  |
-| omizu chihiro | お水ちひろ |  |  |
+| omizu chihiro | オミズチヒロ |  |  |
 | omochi | おもち |  |  |
 | omoutubo | 思うつぼ |  |  |
 | onamaru | おな丸 |  |  |
@@ -9807,7 +9807,7 @@ example:
 | sasara | ささら |  |  |
 | sasato | 笹徒 |  |  |
 | sasayuki | SASAYUKi |  |  |
-| sashimi | さしみ |  |  |
+| sashimi | さしみ |  | [pixiv](https://www.pixiv.net/users/54026937) \| [X](https://x.com/o_3_4_3) \| [FANBOX](https://sashimi-343.fanbox.cc/) \| [Skeb](https://skeb.jp/@o_3_4_3) \| [Fantia](https://fantia.jp/fanclubs/514660) |
 | sasizume soutarou | 差詰そうたろう |  |  |
 | sasori butter | さそりバター |  |  |
 | sataken | 佐竹犬 |  |  |
@@ -9954,7 +9954,7 @@ example:
 | setsuna yui | せつな唯 |  |  |
 | setuna rio | 刹那莉織 |  |  |
 | sezan | sezan |  |  |
-| sezoku | セゾク |  |  |
+| sezoku | セゾク |  | [pixiv](https://www.pixiv.net/users/6803215) \| [X](https://x.com/sez0k) \| [Pawoo](https://pawoo.net/@sez0k) |
 | shaa peipei | 西北々 |  |  |
 | shachi | しゃち |  |  |
 | shadow | Shadow |  |  |
@@ -10392,7 +10392,7 @@ example:
 | sumeragi bron | スメラギバロン |  |  |
 | sumeragi kohaku | すめらぎ琥珀 |  |  |
 | sumeragi kou | すめらぎこう |  |  |
-| sumeragi seisuke | 皇征介 |  |  |
+| sumeragi seisuke | 皇 征介 |  | [pixiv](https://www.pixiv.net/users/20563) \| [X](https://x.com/sumeragiseisuke) \| [Skeb](https://skeb.jp/@sumeragiseisuke) \| [FANBOX](https://sumeragi.fanbox.cc/) |
 | sumeragi yuusuke | 皇裕介 |  |  |
 | sumeshi | すめし |  |  |
 | sumihey | すみ兵 |  |  |
@@ -10878,7 +10878,7 @@ example:
 | toi amatsu | とい天津 |  |  |
 | toichi | トイチ |  |  |
 | toilet | といれ |  |  |
-| toilet komoru | トイレ籠 |  |  |
+| toilet komoru | トイレ籠 |  | [pixiv](https://www.pixiv.net/users/581227) \| [X](https://x.com/toire_komoru) \| [Fantia](https://fantia.jp/fanclubs/38706) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=27213/) |
 | toine hoko | 樋音歩琥 |  |  |
 | toitoi | といとい |  |  |
 | toka | toka |  |  |
@@ -12202,7 +12202,7 @@ example:
 | atelier30 | Atelier30 |  | [pixiv](https://www.pixiv.net/users/52819016) |
 | magnificent sexy gals | Magnificent |  | [pixiv](https://www.pixiv.net/users/61229086) |
 | yoshinari you | 吉成曜 | 1992年加入动画公司MADHOUSE，开始参与制作动画，同年退出加入动画公司GAINAX。直至2011年前一直在GAINAX参与动画制作。现就职于TRIGGER。《新世纪福音战士》中担当机甲作画监督和原画，剧场版则担当原画和作画监督候补。 | [维基百科](https://zh.wikipedia.org/wiki/吉成曜) |
-| sirosoil | 白土 |  |  |
+| sirosoil | 白土 |  | [pixiv](https://www.pixiv.net/users/30563163) |
 | chinpan | チンパン | ![TwitterIcon](https://pbs.twimg.com/profile_images/1284036564696346624/_Ldc0tsm_200x200.jpg) | [X](https://x.com/yasei_chinpan) [pixiv](https://www.pixiv.net/users/70274) |
 | chocoro | チョコロ | ![TwitterIcon](https://s2.loli.net/2022/11/06/fx7Ta1GIAbPBRCc.jpg) | [X](https://x.com/cho56doujin) [pixiv](https://www.pixiv.net/users/57771473) |
 | sasaki shounen | 佐佐木少年 |  |  |
@@ -12628,7 +12628,7 @@ example:
 | otona no sexy ehon | 大人のSEXY絵本 |  |  |
 | hogeramu | ほげらむ | ![X](https://pbs.twimg.com/profile_images/1510941923380326403/6FhJPMtC_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/hogerarara) [pixiv](https://www.pixiv.net/users/78795964) |
 | raikou | らい公 |  |  |
-| raku | 乐 |  |  |
+| raku | 乐 \| らく | 楽 |  |
 | karaage | 唐扬 |  |  |
 | jinze | 今沢 |  | [pixiv](https://www.pixiv.net/users/9322526) |
 | hosigarasu | 干しガラス |  | [pixiv](https://www.pixiv.net/users/6022812) [X](https://x.com/_hosigarasu) |
@@ -12703,7 +12703,7 @@ example:
 | norihito | 仁人 |  | [pixiv](https://www.pixiv.net/users/97877) [X](https://x.com/norihito) |
 | ogatatei | 緒方てい | Tei Ogata<br>Manga artist<br><br>Born: Osaka | [X](https://x.com/ogatatei?lang=en)<br>[Instagram](https://www.instagram.com/ogatatei/)<br>[pixiv](https://www.pixiv.net/users/339001) |
 | aota sora | あおたそら |  |  |
-| 4uu | 4UU |  |  |
+| 4uu | 4UU |  | [pixiv](https://www.pixiv.net/users/81635207) \| [FANBOX](https://foruu-radicalmp.fanbox.cc/) \| [Fantia](https://fantia.jp/fanclubs/475672) \| [X](https://x.com/4UUtekradicalmp) |
 | miginer | みぎなー |  |  |
 | kenko shindan-chan | 健康診断ちゃん |  | [pixiv](https://www.pixiv.net/users/83271858) [X](https://x.com/kenko_shindan_/media) |
 | neko no youchuu | 猫の幼虫 |  | [pixiv](https://www.pixiv.net/users/72601466) [X](https://x.com/Neko_No_Yochu) |
@@ -12903,7 +12903,7 @@ example:
 | shinraku kogome | 聖 コゴメ |  | [FANBOX](https://kgm-euphrasia.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/34646322) \| [X](https://x.com/KGM_Euphrasia) \| [Skeb](https://skeb.jp/@KGM_Euphrasia) \| [Fantia](https://fantia.jp/fanclubs/14808) \| [Patreon](https://www.patreon.com/kogome_euphrasia) |
 | consome | 紺そめ |  |  |
 | fuuzasa | ウラザサ |  |  |
-| yukinpo dida | ゆきんぽでぃだ |  |  |
+| yukinpo dida | ゆきんぽでぃだ |  | [pixiv](https://www.pixiv.net/users/5816527) \| [FANBOX](https://yukinpo-dida.fanbox.cc/) \| [X](https://x.com/yukinpo_dida) |
 | garasu hokou | 硝子步行 |  |  |
 | hoshitani kyo | 星谷京 |  |  |
 | higashimidou hisagi | 東御堂ひさぎ |  |  |
@@ -12967,7 +12967,7 @@ example:
 | sozoremi | そぞれみ |  | [pixiv](https://www.pixiv.net/users/15624263) |
 | nanohana | nanohana |  | [pixiv](https://www.pixiv.net/users/31651057) [X](https://x.com/Circle_November) |
 | kamogawa akira | 鴨川彰 |  | [X](https://x.com/kamoakira0) [pixiv](https://www.pixiv.net/users/616357) |
-| ame no machi | 雨の町 |  |  |
+| ame no machi | 雨の町 | あめのまち | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01020197.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=216302/) \| [X](https://x.com/Amemachi2A16) \| [Skeb](https://skeb.jp/@Amemachi2A16) |
 | mukone | むこね |  |  |
 | tappa suzuki | タッパー鈴木 |  |  |
 | tom smith | Tom Smith |  |  |
@@ -13355,7 +13355,7 @@ example:
 | sunaba yuu | 砂场游 | 日语: 砂場 遊（すなば ゆう） | [pixiv](https://www.pixiv.net/users/34692560) \| [Lit.Link](https://lit.link/en/sunabasan) \| [X](https://x.com/sunabasan) \| [Skeb](https://skeb.jp/@sunabasan) |
 | garoudo | ガロウド |  |  |
 | nanamachi | ナナマチ |  |  |
-| ayase mio | 绫濑水音 |  |  |
+| ayase mio | 绫濑水音 | 綾瀬水音 |  |
 | niizuma potepu | 新妻ぽてぷ |  |  |
 | kikuazami kaoru | 菊蓟薰 |  |  |
 | pupunezumi | ぷぷねずみ |  |  |
@@ -14203,7 +14203,7 @@ example:
 | minakemo | ミナケモ |  | [pixiv](https://www.pixiv.net/users/9937831)<br>[FANBOX](https://minakemo.fanbox.cc/posts/9980457) |
 | samnite ii | Samnite II | AI漫画家 | [pixiv](https://www.pixiv.net/users/105267225)<br>[X](https://x.com/samnite_II)<br>[Patreon](https://www.patreon.com/SamniteII)<br>[作者E站账号](https://forums.e-hentai.org/index.php?showuser=3552861) |
 | gonster | gonster |  | [pixiv](https://www.pixiv.net/users/114920) |
-| mijiang | 米浆 |  |  |
+| mijiang | 米浆 | 米漿 | [X](https://x.com/chenmimi21) \| [FANBOX](https://mimi0920.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/76889130/artworks) |
 | irodori ramune | 色鳥ラムネ |  |  |
 | lemon tea | れもち |  |  |
 | doaka | ド赤 | 画师Pixiv头像:<br>![](https://i.pixiv.cat/user-profile/img/2019/10/09/03/09/29/16390363_702d8b20a5538db2fbe843d1ad58624f_170.jpg) | [pixiv](https://www.pixiv.net/users/12169708)<br>[X](https://x.com/Dreadyuzintou) |
@@ -14306,7 +14306,7 @@ example:
 | nishio nishipa | 西尾ニシパ |  |  |
 | nitake yutamaro | 弐竹ゆたまろ |  |  |
 | niyasuke | にやすけ |  |  |
-| yamada rimuru | 山田りむる |  |  |
+| yamada rimuru | 山田りむる |  | [pixiv](https://www.pixiv.net/users/86355887) |
 | norubon | ノルボン |  |  |
 | nuwara gray | ヌワラグレイ |  |  |
 | oohara kyutarou | 大原久太郎 |  |  |
@@ -14379,7 +14379,7 @@ example:
 | gas mas | ガスマス |  |  |
 | gomala | ごまら |  |  |
 | kanashiro no hako | かなしろの箱 |  |  |
-| kinugasa yuuichi | キヌガサ雄一 |  |  |
+| kinugasa yuuichi | キヌガサ雄一 |  | [pixiv](https://www.pixiv.net/users/1494692) \| [Pawoo](https://pawoo.net/@shin_kinugasa_youichi_zero) \| [Fantia](https://fantia.jp/fanclubs/473707) |
 | matsunoda you | 松野田ヨウ |  |  |
 | siberian hahasky | シベリアン母スキー |  |  |
 | gakeppuchi no kaede | 崖っぷちの楓 |  |  |
@@ -14466,7 +14466,7 @@ example:
 | end- | えんど～ \| かかとぶし |  |  |
 | oishiko | おいしこ |  |  |
 | dekamatsu | デカマツ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=210482/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01007208.html) \| [Ci-en](https://ci-en.dlsite.com/creator/29558) |
-| syunkarow | しゅんか企画 |  |  |
+| syunkarow | しゅんかー |  |  |
 | yuguyugu | ゆぐゆぐ |  |  |
 | kodama naoko | 儿玉直子 | ![作者社媒头像](https://p.sda1.dev/29/4d575068475d4d28d2092806a560d174/image.png)<br>百合漫画家<br>代表作：《捏造陷阱 -NTR-》 | [Twitter](https://x.com/powder705) [pixiv](https://www.pixiv.net/users/433101) |
 | rakka | らっか |  | [Twitter](https://x.com/rakka_windfall) [pixiv](https://www.pixiv.net/users/65749035) |
@@ -14800,7 +14800,7 @@ example:
 | saiaku devil | さいあくデビル |  | [FANBOX](https://saiakudevil.fanbox.cc/) |
 | renard-poire | renard-poire |  | [pixiv](https://www.pixiv.net/users/13710050) |
 | dashimaki | だしまき |  | [melonbooks](https://www.melonbooks.co.jp/search/search.php?name=だしまき&text_type=author) |
-| athke | 深津英助/Athke |  | [toranoana](https://ec.toranoana.jp/tora_r/ec/app/catalog/list?searchActorName=深津英助/Athke) |
+| athke | 深津英助/Athke |  | [pixiv](https://www.pixiv.net/users/46426457) \| [FANBOX](https://athke.fanbox.cc/) \| [X](https://x.com/AthkeShin1) |
 | satoshi isei | イセイサトシ |  |  |
 | xd tanaka | XD田中 |  | [X](https://x.com/XDXDtanakaXDXD) |
 | green tea | green TEA。 |  | [X](https://x.com/matchaistasty) |
@@ -15816,6 +15816,49 @@ example:
 | hannya-san | Hannya San |  | [pixiv](https://www.pixiv.net/users/58589964) \| [FANBOX](https://hannyasan.fanbox.cc/) \| [X](https://x.com/Hannyasan3) |
 | love-saber | Love-Saber |  | [FANBOX](https://saber800729.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/10699066) \| [X](https://x.com/saber800729) \| [Lit.Link](https://lit.link/en/shiki0729) |
 | shin-yu | 心友 |  |  |
+| nanoji | なの字 |  | [pixiv](https://www.pixiv.net/users/7320915) \| [X](https://x.com/sudachistyle2) \| [Misskey.io](https://misskey.io/@sudachistyle) \| [FANBOX](https://ptjgn7mid.fanbox.cc/) \| [Skeb](https://skeb.jp/@sudachistyle) |
+| chibigon | チビゴン |  | [pixiv](https://www.pixiv.net/users/8691691) \| [X](https://x.com/tibigon_doujin_) |
+| ikeneko | イケね娘 |  | [pixiv](https://www.pixiv.net/users/60465711) |
+| barbarian takamoto | バーバリアン高本 |  |  |
+| avis | あびす |  |  |
+| sijie xiaoyang | 四姐小羊 |  | [哔哩哔哩](https://space.bilibili.com/3626348) |
+| ls | L's |  |  |
+| alicia | ありしあ |  |  |
+| kitahana | 北花 |  |  |
+| del | del(でる) |  | [pixiv](https://www.pixiv.net/users/77811633) \| [X](https://x.com/ike_del) \| [Lit.Link](https://lit.link/en/deldelde) \| [Skeb](https://skeb.jp/@ike_del) |
+| rennyu coffee | 練乳珈琲 |  | [pixiv](https://www.pixiv.net/users/8541202) |
+| dainaru | だいなる |  | [pixiv](https://www.pixiv.net/users/327344) |
+| sarukana | さるかな |  | [X](https://x.com/sseun_4) [pixiv](https://www.pixiv.net/users/64289589) |
+| fudisen | フヂセン |  |  |
+| shinoda | 詩乃田 |  |  |
+| ikeda pafue | いけだぱふぇ |  |  |
+| a r gaku. gurap | R学.ぐらぷ |  |  |
+| wakimiunten | ワキミウンテン |  |  |
+| kaneyama shin | カネヤマシン |  | [DLsite](https://www.dlsite.com/books/author/=/author_id/AJ002697) \| [FANZA](https://book.dmm.co.jp/list/?author=20395) |
+| teruteru boudu | てるぼうず |  |  |
+| sagawa | 左側 |  |  |
+| kanamirubon | かなみルボン |  | [pixiv](https://www.pixiv.net/users/19885273) \| [Fantia](https://fantia.jp/fanclubs/191567) \| [FANBOX](https://banaparubon00.fanbox.cc/) \| [Skeb](https://skeb.jp/@Jjagjmptmptj) |
+| xboy | XBOY |  | [pixiv](https://www.pixiv.net/users/59435508) \| [FANBOX](https://xboy.fanbox.cc/) \| [BOOTH](https://xboyxboy.booth.pm/) |
+| dreadmegalo | DreadMegalo |  | [pixiv](https://www.pixiv.net/users/110705782) \| [FANBOX](https://aa2134.fanbox.cc/) |
+| ngamaru | ンガ丸 |  |  |
+| kamizono delta | 神園Δ |  |  |
+| retsu | 劣 |  |  |
+| misoka | 三十日 |  | [pixiv](https://www.pixiv.net/users/72940934) \| [X](https://x.com/misoka1m) \| [Skeb](https://skeb.jp/@misoka1m) |
+| gohan pakupaku maru | ごはんパクパク丸 |  | [pixiv](https://www.pixiv.net/users/46612816) \| [FANBOX](https://gpm.fanbox.cc/) \| [X](https://x.com/gohanpakupaku0) \| [Skeb](https://skeb.jp/@gohanpakupaku0) \| [Ci-en](https://ci-en.dlsite.com/creator/16684) \| [Patreon](https://www.patreon.com/gohanpakupakumaru) |
+| r1kyuu | R１級 |  | [pixiv](https://www.pixiv.net/users/98053374) \| [X](https://x.com/R19R19R19R) \| [Fantia](https://fantia.jp/fanclubs/509622) \| [Skeb](https://skeb.jp/@R19R19R19R) |
+| darezuka | 誰塚 |  | [pixiv](https://www.pixiv.net/users/10054554) \| [X](https://x.com/darezuka) \| [Lit.Link](https://lit.link/en/darezuka) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=204205/) \| [DLsite](https://www.dlsite.com/maniax/work/=/product_id/RJ01554135.html/?utm_medium=affiliate&utm_campaign=sns_link&utm_content=RJ01554135&utm_source=t.co%2F) |
+| kizakura non | 黄桜NoN |  |  |
+| fukamiki kei | 深幹ケイ |  |  |
+| takizaki | Haz | Haz (はず) | [FANZA](https://book.dmm.co.jp/list/?author=357214) |
+| emuorogii | えむおろぎー |  | [pixiv](https://www.pixiv.net/users/56846804) \| [X](https://x.com/m_orogy) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG74787.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=208580/) |
+| yuri kowashi | 鉄兜ぬらぬら \| 油梨こわし |  |  |
+| dr.tan90 degrees | Dr.tan90º |  | [pixiv](https://www.pixiv.net/users/26616460) |
+| neko no mantis | ネコノマンテス |  |  |
+| protohotel | プロトホテル |  |  |
+| npyu vimuzo | んぴゅ・ゔぃむぞ |  |  |
+| hondy | ほんでぃ |  | [pixiv](https://www.pixiv.net/users/30910267) \| [FANBOX](https://hondycore.fanbox.cc/) \| [X](https://x.com/hondycore) \| [BOOTH](https://hondycore.booth.pm/) |
+| horochi | 歩路地 | 歩路地（ほろち） | [Ci-en](https://ci-en.dlsite.com/creator/4024) \| [pixiv](https://www.pixiv.net/users/24344012) \| [Skeb](https://skeb.jp/@250po) \| [X](https://x.com/Chiroho_beach) |
+| ariatorai | ありあとらい |  | [pixiv](https://www.pixiv.net/users/25716975) \| [X](https://x.com/Ariatorai) \| [Skeb](https://skeb.jp/@Ariatorai) |
 
 <!--TEMPLATE:
 |  |  |  |  |
